@@ -55,7 +55,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment 1][-]<br/>[Algorythmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Big O Slides][-] |
-| Tuesday | [Docker][-]<br/>[AWS][-]  |  - | [slides][-]  |
+| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
 | Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  -  | [slides][-]] |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
 | Friday |  [Spark EDA Case Study][-] |  -   | [slides][150.2] |
@@ -259,6 +259,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 2 -->
 [c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
+[c2.2.1]: https://github.com/GalvanizeDataScience/docker
+[c2.2.2]: https://github.com/GalvanizeDataScience/aws
 [c2.3.2]: https://github.com/GalvanizeDataScience/mongo-db
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
