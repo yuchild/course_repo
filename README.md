@@ -108,7 +108,7 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday |  [Bagged Trees][-]<br/>[Random Forests][-] |  -   | [slides][-] |
+| Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
 | Wednesday |  [Gradient Boosted Regressors][-]<br/>[Gradient Boosted Classifiers][-] |  -  | [slides][-] |
 | Thursday | [Gradient Decent][-]<br/>[Basic Neural Networks][-] |  -  | [slides][-] |
 | Friday | [Supervised Learning Capstone][-]  |  -  | [slides][-] |
@@ -289,6 +289,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 6-->
 [c6.1.1]: https://github.com/GalvanizeDataScience/search-trees
 [c6.1.2]: https://github.com/GalvanizeDataScience/decision-trees
+[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
 
 <!-- Assessments -->
 <!-- Week 1 -->
