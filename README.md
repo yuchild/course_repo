@@ -54,7 +54,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorythmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Big O Slides][-] |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Big O Slides][-] |
 | Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
 | Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  -  | [slides][-]] |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
@@ -140,10 +140,10 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Baysian Inference][-]<br/>[Baysian Coin Flipping][-] | - | [slides][-] |
+| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Reccomenders][-] |  -  | [slides][-] |
-| Thursday | [Implicit Reccomenders][-] |  -  | [slides][-] |
+| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
+| Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
 | Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
 
 --
