@@ -250,7 +250,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Content Repos (sprints and assessments) -->
 <!-- Week 1 -->
 [c1.1.1]: https://github.com/GalvanizeDataScience/unix
-[c1.2.1]: https://github.com/gschool/pandas
+[c1.2.1]: https://github.com/GalvanizeDataScience/pandas
 [c1.2.2]: https://github.com/GalvanizeDataScience/matplotlib
 [c1.3.1]: https://github.com/GalvanizeDataScience/oop
 [c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
