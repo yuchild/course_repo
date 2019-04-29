@@ -42,7 +42,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Dan  | 
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Dan  | 
 | Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Joe  | 
@@ -53,7 +53,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  Joe  | 
 | Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Dan | 
 | Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  Dan  | 
@@ -63,7 +63,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Dan  | 
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Dan  | 
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | 
@@ -73,8 +73,8 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 --
 
 ### Week 4: Unit 1 Capstone 
-| Day  | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
+| Day  | Topic | Lead Instructor |
+|:--:|:--|:--:|
 | Monday |   DAY OFF (Memorial Day) |  -   | 
 | Tuesday |  Discuss and kickoff capstone 1 |  -  |
 | Wednesday |  Work! | - |
@@ -85,7 +85,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan |
 | Tuesday |  [Predictive Linear Regression][c5.2.1] |  Dan   | 
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | 
@@ -105,7 +105,7 @@ Your priorities this week:
 
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Dan | 
 | Tuesday |  [Random Forests][c6.2.1] |  Dan   | 
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | 
@@ -116,7 +116,7 @@ Your priorities this week:
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Joe | 
 | Tuesday |  [PCA][-]<br/>[SVD][-] |  Joe  | 
 | Wednesday |  [Clustering][-]<br/>[NMF][-] |  Dan  | 
@@ -127,7 +127,7 @@ Your priorities this week:
 
 ### Week 8: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | Discuss and kickoff capstone 2 | - | 
 | Tuesday |  Work. |  -  | 
 | Wednesday |  Work! | - | 
@@ -138,7 +138,7 @@ Your priorities this week:
 
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Joe | 
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Joe  | 
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan  | 
@@ -149,7 +149,7 @@ Your priorities this week:
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | Dan | 
 | Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  Dan  | 
 | Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  Joe  | 
@@ -165,7 +165,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 ### Week 12: Career Week
 | Day | Topic | Lead Instructor | 
-|:--:|:--|:--:|:--:|
+|:--:|:--|:--:|
 | Monday |  | - | 
 | Tuesday |   |  -   | 
 | Wednesday |   |  -  | 
