@@ -84,7 +84,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan |
 | Tuesday |  [Predictive Linear Regression][c5.2.1] |  Dan   | 
