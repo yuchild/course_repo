@@ -59,6 +59,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  Dan  | 
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | 
 | Friday |  [Spark EDA Case Study][-] |  Dan  | 
+
 --
 
 ### Week 3: Statistical Inference
