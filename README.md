@@ -15,20 +15,20 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 # Schedule
 | Week | Date | Topic |
 | --- | --- | --- |
-| 0 | --- | Week 0 Prep |
-| 1 | --- | [Programming](#week-1-programming-for-data-science) |
-| 2 | --- |  [Big Data](#week-2-big-data) |
-| 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
-| - | --- | Solo Week |
-| 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | --- | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | --- | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | --- | [Career Week](#week-12-career-week) |
+| 0 | 4/29 - 5/03 | Week 0 Prep |
+| 1 | 5/06 - 5/10 | [Programming](#week-1-programming-for-data-science) |
+| 2 | 5/13 - 5/17 |  [Big Data](#week-2-big-data) |
+| 3 | 5/20 - 5/24 | [Statistical Inference](#week-3-statistical-inference) |
+| 4 | 5/27 - 5/31 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 6/03 - 6/07 | [Regression](#week-5-supervised-learning-and-regression) |
+| - | 6/10 - 6/14 | Solo Week |
+| 6 | 6/17 - 6/21 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 7 | 6/24 - 6/28 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 8 | 7/01 - 7/05 | [Capstone 2](#week-8-unit-2-capstone) |
+| 9 | 7/08 - 7/12 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 10 | 7/15 - 7/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 11 | 7/22 - 7/26 | [Capstone 3](#week-11-unit-3-capstone) |
+| 12 | 7/29 - 8/2 | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
@@ -41,57 +41,56 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 --
 
 ### Week 1: Programming for Data Science
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  -  | [slides][-]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Friday |  [Web Scraping Case Study][c1.5.1] |  -  | [slides][-] |
+| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Dan  | 
+| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Dan  | 
+| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Joe  | 
+| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Joe  | 
+| Friday |  [Web Scraping Case Study][c1.5.1] |  Dan  | [slides]
 
 --
 
 ### Week 2: Big Data
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Big O Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  -  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
-| Friday |  [Spark EDA Case Study][-] |  -   | [slides][150.2] |
-
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  Joe  | 
+| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Dan | 
+| Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  Dan  | 
+| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | 
+| Friday |  [Spark EDA Case Study][-] |  Dan  | 
 --
 
 ### Week 3: Statistical Inference
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  -  | [slides][-] |
-| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
-| Friday | [Stats Case Study][-] |  -   | - |
+| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Dan  | 
+| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Dan  | 
+| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | 
+| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe  | 
+| Friday | [Data Products][132.0] |  Joe | 
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  -   | [slides][-] |
-| Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday |   DAY OFF (Memorial Day) |  -   | 
+| Tuesday |  Discuss and kickoff capstone 1 |  -  |
+| Wednesday |  Work! | - |
+| Thursday |  MORE WORK!!!! | - | 
+| Friday | Capstone Presentations PM | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  -   | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan |
+| Tuesday |  [Predictive Linear Regression][c5.2.1] |  Dan   | 
+| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | 
+| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | 
+| Friday | [Regression Case Study][c5.5.1] |  Dan  | 
 
 --
 ### Solo Week
@@ -105,57 +104,57 @@ Your priorities this week:
 --
 
 ### Week 6: Nonlinear Supervised Learning
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
-| Friday | [Supervised Learning Capstone][-]  |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Dan | 
+| Tuesday |  [Random Forests][c6.2.1] |  Dan   | 
+| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | 
+| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Joe  | 
+| Friday | [Supervised Learning Capstone][-]  |  Dan  | 
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | - | [slides][-] |
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
-| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
-| Friday | [NLP Case Study][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Joe | 
+| Tuesday |  [PCA][-]<br/>[SVD][-] |  Joe  | 
+| Wednesday |  [Clustering][-]<br/>[NMF][-] |  Dan  | 
+| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Dan  | 
+| Friday | [NLP Case Study][-] |  Dan  | 
 
 --
 
 ### Week 8: Unit 2 Capstone 
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
-| Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday | Discuss and kickoff capstone 2 | - | 
+| Tuesday |  Work. |  -  | 
+| Wednesday |  Work! | - | 
+| Thursday | NO CLASS HOLIDAY | - | 
+| Friday | NO CLASS HOLIDAY | - | 
 
 --
 
 ### Week 9: Advanced Topics 1
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Joe | 
+| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Joe  | 
+| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan  | 
+| Thursday | [Implicit Recommenders][-] |  Dan  | 
+| Friday | [Recommender Case Study][-]  |  Dan  | 
 
 --
 
 ### Week 10: Advanced Topics 2
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
-| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | Dan | 
+| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  Dan  | 
+| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  Joe  | 
+| Thursday | [Fraud Case Study (day 1)][-] |  Dan  | 
+| Friday | [Fraud Case Study (day 2)][-] |  Dan  | 
 
 --
 
@@ -165,13 +164,13 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 --
 
 ### Week 12: Career Week
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|:--:|
-| Monday |  | - | [slides][-] |
-| Tuesday |   |  -   | [slides][-] |
-| Wednesday |   |  -  | [slides][-] |
-| Thursday | PM - Demo evening |  -  | [slides][-] |
-| Friday | PM - Graduation |  -  | [slides][-] |
+| Monday |  | - | 
+| Tuesday |   |  -   | 
+| Wednesday |   |  -  | 
+| Thursday | PM - Demo evening |  -  | 
+| Friday | PM - Graduation |  -  | 
 
 --
 
