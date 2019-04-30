@@ -47,16 +47,16 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
 | Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  -  | [slides][-]  |
 | Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Friday |  [Web Scraping Case Study][c1.5.1] |  -  | [slides][-] |
+| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Big O Slides][-] |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Slides][-] |
 | Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Mongo DB][c2.3.2] |  -  | [slides][-]] |
+| Wednesday | [SQL][-]<br>[Python SQL][-] |  -  | [slides][-]] |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
 | Friday |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
 
@@ -255,13 +255,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c1.3.1]: https://github.com/GalvanizeDataScience/oop
 [c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
 [c1.4.2]: https://github.com/GalvanizeDataScience/numpy
-[c1.5.1]: https://github.com/GalvanizeDataScience/web-scraping
+[c1.5.1]: https://github.com/GalvanizeDataScience/mongo-db
+[c1.5.2]: https://github.com/GalvanizeDataScience/web-scraping
 
 <!-- Week 2 -->
 [c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
-[c2.3.2]: https://github.com/GalvanizeDataScience/mongo-db
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
