@@ -54,7 +54,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][-] |  - <br/> -  | [Slides][-] |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  - <br/> -  | [Slides][-] |
 | Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
 | Wednesday | [SQL][-]<br>[Python SQL][-] |  -  | [slides][-]] |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
@@ -260,6 +260,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 2 -->
 [c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
+[c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
