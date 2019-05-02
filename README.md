@@ -10,7 +10,7 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 * __Day:__ Day of the Week
 * __Repo:__ The repo contains the day's exercise(s). You should be able to complete this in the time allotted (you will not have access until the day of).
 * __Lead Instructor:__ The instructor who is the point person for the day.
-* __Slides:__ The day's lecture notes and slides
+
 
 # Schedule
 | Week | Date | Topic |
@@ -28,7 +28,7 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 | 9 | 7/08 - 7/12 | [Advanced Topics 1](#week-9-advanced-topics-1) |
 | 10 | 7/15 - 7/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
 | 11 | 7/22 - 7/26 | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | 7/29 - 8/2 | [Career Week](#week-12-career-week) |
+| 12 | 7/29 - 8/02 | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
