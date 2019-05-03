@@ -43,43 +43,43 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  -  | [slides][-]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
+| Monday |[git][-] [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Elliott/Flora  | [slides][-] |
+| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Flora  | [slides][-] |
+| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Hamid  | [slides][-]  |
+| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Flora  | [slides][ ] |
+| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Hamid  | [slides][-] |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  - <br/> -  | [Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  -  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
-| Friday |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
+| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Hamid | [slides][-]  |
+| Wednesday | [SQL][-]<br>[Python SQL][-] |  Hamid  | [slides][-]] |
+| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Flora  | [slides][-] |
+| Friday |  [Spark EDA Case Study][c2.5.1] |  Hamid/Flora/Elliott   | [slides][150.2] |
 
 --
 
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  -  | [slides][-] |
-| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
-| Friday | [Stats Case Study][-] |  -   | - |
+| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Flora  | [slides][-] |
+| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Flora  | [slides][-] |
+| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
+| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Hamid  | [slides][-] |
+| Friday | [Data Products][132.0]</br> Discuss and kickoff capstone 1 |  Elliot/Hamid/Flora   | - |
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  -   | [slides][-] |
-| Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
+| Monday | Holiday (Memorial Day)  |  -   |  |
+| Tuesday |  [Assessment][-]<br/> Continue to Capstone |  -  | - |
+| Wednesday | Group Check-in <br/> Back to Work! | - | - |
+| Thursday | Group Check-in <br/> MORE WORK!!!! | - | - |
 | Friday | Capstone Presentations PM | - | - |
 
 --
@@ -87,11 +87,11 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  -   | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+| Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [slides][-] |
+| Tuesday |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
+| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
+| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
+| Friday | [Regression Case Study][c5.5.1] |  Lori  | [slides][-] |
 
 --
 ### Solo Week
@@ -107,22 +107,22 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
-| Friday | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
+| Tuesday |  [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
+| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
+| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
+| Friday | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Flora | [slides][-] |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | - | [slides][-] |
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
-| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
-| Friday | [NLP Case Study][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
+| Tuesday |  [PCA][-]<br/>[SVD][-] |  Hamid   | [slides][-] |
+| Wednesday |  [Clustering][-]<br/>[NMF][-] |  Flora  | [slides][-] |
+| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Flora  | [slides][-] |
+| Friday | [NLP Case Study][-] |  Hamid/Flora | [slides][-] |
 
 --
 
@@ -130,48 +130,54 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
-| Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Tuesday |  Group Check-in <br/> Back to work |  -  | - |
+| Wednesday | Capstone Presentations PM | - | - |
+| Thursday |  Holidy (Independence Day) | - | - |
+| Friday | Holidy (Independence Day) | - | - |
 
 --
 
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
+| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Hamid  | [slides][-] |
+| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
+| Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
+| Friday | [Recommender Case Study][-]  |  Hamid/Flora  | [slides][-] |
 
 --
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
-| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | Flora | [slides][-] |
+| Tuesday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] | 
+| Wednesday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] | 
+| Thursday | [Sequence Analysis][-]<br/>[RNN/LSTM][-]<br/> Capstone III |  Hamid   | [slides][-] |
+| Friday | [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
 
 --
 
 ### Week 11: Unit 3 Capstone
-Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No presentations this week, as you'll have a demo evening next week.
+| Day | Topic | Lead Instructor | Slides |
+|:--:|:--|:--:|:--:|
+| Monday | group check-in <br/> Work | - | [slides][-] |
+| Tuesday | group check-in <br/> Work   |  -   | [slides][-] |
+| Wednesday | Work <br/> Code freeze (EOD)  |  -  | [slides][-] |
+| Thursday | Practice |  -  | [slides][-] |
+| Friday | Practice |  -  | [slides][-] |
 
 --
 
 ### Week 12: Career Week
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  | - | [slides][-] |
-| Tuesday |   |  -   | [slides][-] |
-| Wednesday |   |  -  | [slides][-] |
-| Thursday | PM - Demo evening |  -  | [slides][-] |
-| Friday | PM - Graduation |  -  | [slides][-] |
+| Monday | Demo Day | - | [slides][-] |
+| Tuesday | Caereer's Week  |  -   | [slides][-] |
+| Wednesday | Caereer's Week  |  -  | [slides][-] |
+| Thursday | Caereer's Week |  -  | [slides][-] |
+| Friday | Caereer's Week <br/> Graduation |  -  | [slides][-] |
 
 --
 
