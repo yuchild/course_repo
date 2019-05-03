@@ -15,20 +15,20 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 # Schedule
 | Week | Date | Topic |
 | --- | --- | --- |
-| 0 | 4/29–5/03 | Week 0 Prep |
-| 1 | 5/06–5/10 | [Programming](#week-1-programming-for-data-science) |
-| 2 | 5/13–5/17 |  [Big Data](#week-2-big-data) |
-| 3 | 5/20–5/24 | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | 5/27–5/31 | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | 6/03–6/07 | [Regression](#week-5-supervised-learning-and-regression) |
-| 6 | 6/10–6/14 | Solo Week |
-| 7 | 6/17–6/21 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 8 | 6/24–6/28 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 9 | 7/01–7/05 | [Capstone 2](#week-8-unit-2-capstone) |
-| 10 | 7/08–7/12 | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 11 | 7/15–7/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 12 | 7/22–7/26 | [Capstone 3](#week-11-unit-3-capstone) |
-| 13 | 7/29–8/02 | [Career Week](#week-12-career-week) |
+| 0 | 4/29 – 5/03 | Week 0 Prep |
+| 1 | 5/06 – 5/10 | [Programming](#week-1-programming-for-data-science) |
+| 2 | 5/13 – 5/17 | [Big Data](#week-2-big-data) |
+| 3 | 5/20 – 5/24 | [Statistical Inference](#week-3-statistical-inference) |
+| 4 | 5/27 – 5/31 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 6/03 – 6/07 | [Regression](#week-5-supervised-learning-and-regression) |
+| 6 | 6/10 – 6/14 | Solo Week |
+| 7 | 6/17 – 6/21 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 8 | 6/24 – 6/28 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 9 | 7/01 – 7/05 | [Capstone 2](#week-8-unit-2-capstone) |
+| 10 | 7/08 – 7/12 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 11 | 7/15 – 7/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 12 | 7/22 – 7/26 | [Capstone 3](#week-11-unit-3-capstone) |
+| 13 | 7/29 – 8/02 | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] <br/> Intro to Git & Pairing Instructions |  Flora/Elliott  | [slides][-] |
+| Monday | [Readiness Assessment][a0]<br><br>Intro to Git<br/> [Unix Fundamental][c1.1.1] <br/> Pairing Instructions | Flora/Elliott/Lori  | [slides][-] |
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Flora  | [slides][-] |
 | Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Hamid  | [slides][-]  |
 | Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Flora  | [slides][ ] |
