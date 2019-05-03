@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |[git][-] [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Elliott/Flora  | [slides][-] |
+| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] <br/> Intro to Git & Pairing Instructions |  Flora/Elliott  | [slides][-] |
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Flora  | [slides][-] |
 | Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Hamid  | [slides][-]  |
 | Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Flora  | [slides][ ] |
