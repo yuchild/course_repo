@@ -43,44 +43,44 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] | Elliott/Flora  | [slides][-] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Flora  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Hamid  | [slides][-]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Flora  | [slides][ ] |
-| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Hamid  | [slides][-] |
+| Monday    | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] | Elliott/Flora  | [slides][-] |
+| Tuesday   | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2]                  |  Flora         | [slides][-] |
+| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-]                          |  Hamid         | [slides][-] |
+| Thursday  | [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                 |  Flora         | [slides][ ] |
+| Friday    | [Docker][c2.2.1]<br/>[AWS][c2.2.2]                           |  Hamid         | [slides][-] |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Hamid | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  Hamid  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Flora  | [slides][-] |
-| Friday |  [Spark EDA Case Study][c2.5.1] |  Hamid/Flora/Elliott   | [slides][150.2] |
+| Monday    | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
+| Tuesday   | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2]                                         |  Hamid  | [slides][-] |
+| Wednesday | [SQL][-]<br>[Python SQL][-]                                                           |  Hamid  | [slides][-]]|
+| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                         |  Flora  | [slides][-] |
+| Friday    | [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   | [slides][150.2] |
 
 --
 
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 2][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Flora  | [slides][-] |
-| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Flora  | [slides][-] |
+| Monday    | [Assessment 2][-]<br/>[Probability][-]<br/>[Binomial Tests][-]        |  Flora  | [slides][-] |
+| Tuesday   |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Hamid  | [slides][-] |
-| Friday | [Data Products][132.0]</br> Discuss and kickoff capstone 1 |  Elliot/Hamid/Flora   | - |
+| Thursday  |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
+| Friday    | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot/Hamid/Flora   | - |
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Holiday (Memorial Day)  |  -   |  |
-| Tuesday |  [Assessment 3][-]<br/> Continue to Capstone |  -  | - |
+| Monday    | Holiday (Memorial Day)                      |  -  | - |
+| Tuesday   | [Assessment 3][-]<br/> Continue to Capstone |  -  | - |
 | Wednesday | Group Check-in <br/> Back to Work! | - | - |
-| Thursday | Group Check-in <br/> MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Thursday  | Group Check-in <br/> MORE WORK!!!! | - | - |
+| Friday    | Capstone Presentations PM | - | - |
 
 --
 
