@@ -15,20 +15,20 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 # Schedule
 | Week | Date | Topic |
 | --- | --- | --- |
-| 0 | --- | Week 0 Prep |
-| 1 | --- | [Programming](#week-1-programming-for-data-science) |
-| 2 | --- |  [Big Data](#week-2-big-data) |
-| 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
-| - | --- | Solo Week |
-| 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | --- | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | --- | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | --- | [Career Week](#week-12-career-week) |
+| 0 | 4/29–5/03 | Week 0 Prep |
+| 1 | 5/06–5/10 | [Programming](#week-1-programming-for-data-science) |
+| 2 | 5/13–5/17 |  [Big Data](#week-2-big-data) |
+| 3 | 5/20–5/24 | [Statistical Inference](#week-3-statistical-inference) |
+| 4 | 5/27–5/31 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 6/03–6/07 | [Regression](#week-5-supervised-learning-and-regression) |
+| 6 | 6/10–6/14 | Solo Week |
+| 7 | 6/17–6/21 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 8 | 6/24–6/28 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 9 | 7/01–7/05 | [Capstone 2](#week-8-unit-2-capstone) |
+| 10 | 7/08–7/12 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 11 | 7/15–7/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 12 | 7/22–7/26 | [Capstone 3](#week-11-unit-3-capstone) |
+| 13 | 7/29–8/02 | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
@@ -65,7 +65,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Flora  | [slides][-] |
+| Monday | [Assessment 2][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Flora  | [slides][-] |
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Flora  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Hamid  | [slides][-] |
@@ -77,7 +77,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Holiday (Memorial Day)  |  -   |  |
-| Tuesday |  [Assessment][-]<br/> Continue to Capstone |  -  | - |
+| Tuesday |  [Assessment 3][-]<br/> Continue to Capstone |  -  | - |
 | Wednesday | Group Check-in <br/> Back to Work! | - | - |
 | Thursday | Group Check-in <br/> MORE WORK!!!! | - | - |
 | Friday | Capstone Presentations PM | - | - |
@@ -94,7 +94,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Friday | [Regression Case Study][c5.5.1] |  Lori  | [slides][-] |
 
 --
-### Solo Week
+### Week 6: Solo Week
 Your priorities this week:
 <ul>
 <li>Study any material from the previous weeks.</li>
@@ -104,10 +104,10 @@ Your priorities this week:
 
 --
 
-### Week 6: Nonlinear Supervised Learning
+### Week 7: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
+| Monday | [Assessment 4][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
 | Tuesday |  [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
@@ -115,10 +115,10 @@ Your priorities this week:
 
 --
 
-### Week 7: NLP and Unsupervised Learning
+### Week 8: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
+| Monday | [Assessment 5][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
 | Tuesday |  [PCA][-]<br/>[SVD][-] |  Hamid   | [slides][-] |
 | Wednesday |  [Clustering][-]<br/>[NMF][-] |  Flora  | [slides][-] |
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Flora  | [slides][-] |
@@ -126,10 +126,10 @@ Your priorities this week:
 
 --
 
-### Week 8: Unit 2 Capstone 
+### Week 9: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
+| Monday | [Assessment 6][-]<br/>Discuss and kickoff capstone 2 | - | [slides][-] |
 | Tuesday |  Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Capstone Presentations PM | - | - |
 | Thursday |  Holidy (Independence Day) | - | - |
@@ -137,10 +137,10 @@ Your priorities this week:
 
 --
 
-### Week 9: Advanced Topics 1
+### Week 10: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
+| Monday | [Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Hamid  | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
@@ -148,10 +148,10 @@ Your priorities this week:
 
 --
 
-### Week 10: Advanced Topics 2
+### Week 11: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | Flora | [slides][-] |
+| Monday | [Image Analysis][-]<br/>[CNNs][-] | Flora | [slides][-] |
 | Tuesday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] | 
 | Wednesday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] | 
 | Thursday | [Sequence Analysis][-]<br/>[RNN/LSTM][-]<br/> Capstone III |  Hamid   | [slides][-] |
@@ -159,7 +159,7 @@ Your priorities this week:
 
 --
 
-### Week 11: Unit 3 Capstone
+### Week 12: Unit 3 Capstone
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | group check-in <br/> Work | - | [slides][-] |
@@ -170,7 +170,7 @@ Your priorities this week:
 
 --
 
-### Week 12: Career Week
+### Week 13: Career Week
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Demo Day | - | [slides][-] |
