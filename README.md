@@ -22,13 +22,13 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 | 4 | 5/27 – 5/31 | [Capstone 1](#week-4-unit-1-capstone) |
 | 5 | 6/03 – 6/07 | [Regression](#week-5-supervised-learning-and-regression) |
 | 6 | 6/10 – 6/14 | Solo Week |
-| 7 | 6/17 – 6/21 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 8 | 6/24 – 6/28 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 9 | 7/01 – 7/05 | [Capstone 2](#week-8-unit-2-capstone) |
-| 10 | 7/08 – 7/12 | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 11 | 7/15 – 7/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 12 | 7/22 – 7/26 | [Capstone 3](#week-11-unit-3-capstone) |
-| 13 | 7/29 – 8/02 | [Career Week](#week-12-career-week) |
+| 7 | 6/17 – 6/21 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
+| 8 | 6/24 – 6/28 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
+| 9 | 7/01 – 7/05 | [Capstone 2](#week-9-unit-2-capstone) |
+| 10 | 7/08 – 7/12 | [Advanced Topics 1](#week-10-advanced-topics-1) |
+| 11 | 7/15 – 7/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
+| 12 | 7/22 – 7/26 | [Capstone 3](#week-12-unit-3-capstone) |
+| 13 | 7/29 – 8/02 | [Career Week](#week-13-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>Intro to Git<br/> [Unix Fundamental][c1.1.1] <br/> Pairing Instructions | Flora/Elliott/Lori  | [slides][-] |
+| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] | Elliott/Flora  | [slides][-] |
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Flora  | [slides][-] |
 | Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Hamid  | [slides][-]  |
 | Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Flora  | [slides][ ] |
@@ -129,7 +129,7 @@ Your priorities this week:
 ### Week 9: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 6][-]<br/>Discuss and kickoff capstone 2 | - | [slides][-] |
+| Monday | [Assessment 6][-]<br/> Discuss and kickoff capstone 2 | - | [slides][-] |
 | Tuesday |  Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Capstone Presentations PM | - | - |
 | Thursday |  Holidy (Independence Day) | - | - |
