@@ -1,44 +1,50 @@
 # Welcome 
 
-Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll find all the information you need to know about the day to day activities in the program.
+Welcome to the Galvanize Data Science Immersive Program!  On this page you'll find information you about the program as a whole as well as links to daily readings and assignments.  You'll be working with this page everyday - please bookmark it in your web browser. 
 
-# Course Outline
-This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
+# Weekly overview
+The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
 
-The [nighly readings](notes/readings.md) are maintained in a separate file.  Many students find it useful to read ahead a bit on the weekends.
+The capstone weeks are reserved for your capstone projects (see below).  You will scrum with your peers during this time, participate in mock job interiews, and at the end of the week present your project to either your peers and instructors (capstones 1 & 2), or the data science community in the capstone showcase (capstone 3).
 
-* __Day:__ Day of the Week
-* __Repo:__ The repo contains the day's exercise(s). You should be able to complete this in the time allotted (you will not have access until the day of).
-* __Lead Instructor:__ The instructor who is the point person for the day.
-* __Slides:__ The day's lecture notes and slides
+The final week is reserved for finishing your capstone and Career Services deliverables, presenting at the capstone showcase, and graduating.
 
-# Schedule
+To jump to a week of interest, click on the link.
 | Week | Date | Topic |
 | --- | --- | --- |
-| 0 | --- | Week 0 Prep |
-| 1 | --- | [Programming](#week-1-programming-for-data-science) |
-| 2 | --- |  [Big Data](#week-2-big-data) |
-| 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
-| - | --- | Solo Week |
-| 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | --- | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | --- | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | --- | [Career Week](#week-12-career-week) |
+| 1 | 05/06/19| [Programming](#week-1-programming-for-data-science) |
+| 2 | 05/13/19 |  [Big Data](#week-2-big-data) |
+| 3 | 05/20/19 | [Statistical Inference](#week-3-statistical-inference) |
+| 4 | 05/27/19 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 06/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
+| - | 06/10/19 | Break Week |
+| 6 | 06/17/19 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 7 | 06/24/19 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 8 | 07/01/19 | [Capstone 2](#week-8-unit-2-capstone) |
+| 9 | 07/08/19 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 10 | 07/15/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 11 | 07/22/19 | [Capstone 3](#week-11-unit-3-capstone) |
+| 12 | 07/29/19 | [Showcase](#week-12-showcase) |
 
-## Weekly Structure
-During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
+## Other important links
+* [Solutions repo](https://github.com/GalvanizeDataScience/solutions-g90)  Solutions for the daily assignments, weekly reviews, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
+* [Weekly feedback](https://forms.gle/QaHo9NyxC2ZYFi2u8)  Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
+* [Past student projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 
-During instructional weeks, every Friday will be a capstone where the material that had been covered during the week will be put to use in a more open ended application of the knowledge.
 
-## Capstones
-Capstone projects are designed to be showcases of the diverse skill set that you aquire over this challenging course of study.  In addition to building machine learnign models, capstones should feature fundamental skills like data collection and cleaning (which employers find very attractive).
+## Capstone Project
+Capstone projects allow you to put in to practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews.You will submit capstone proposals to the instructors for approval before the capstone weeks begin.  Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
---
+
+# Daily Outline
+In the weekly tables below, each row represents a day.  Each row has contains information on:
+
+* __Day:__ Day of the Week
+* __Readings__ Readings for the day (to be completed the night before).
+* __Repos:__ The day's exercises. 
+* __Lead Instructor:__ The instructor who is the point person for the day.
+* __Slides:__ The day's lecture notes and slides.
+
 
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
@@ -164,7 +170,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 --
 
-### Week 12: Career Week
+### Week 12: Showcase
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |  | - | [slides][-] |
