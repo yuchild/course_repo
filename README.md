@@ -9,7 +9,8 @@ The capstone weeks are reserved for your capstone projects (see below).  You wil
 
 The final week is reserved for finishing your capstone and Career Services deliverables, presenting at the capstone showcase, and graduating.
 
-To jump to a week of interest, click on the link.
+To jump to a week of interest, click on the link.  
+
 | Week | Date | Topic |
 | --- | --- | --- |
 | 1 | 05/06/19| [Programming](#week-1-programming-for-data-science) |
@@ -37,7 +38,7 @@ Capstone projects allow you to put in to practice some of the knowledge you are 
 
 
 # Daily Outline
-In the weekly tables below, each row represents a day.  Each row has contains information on:
+In the weekly tables below, each row represents a day.  Each row information and links on:
 
 * __Day:__ Day of the Week
 * __Readings__ Readings for the day (to be completed the night before).
