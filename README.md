@@ -48,11 +48,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 
 ### Week 1: Programming for Data Science
-| Day  | Readings                                 | Repos                                          |  Lead   |     Slides       |  
-|:----:|:----------------------------------------:|:----------------------------------------------:|:-------:|:----------------:|    
-| Mon. |[Register for AWS credit][aws-cred]       |Assessment 0<br>[git][d-git]<br>[Unix][d-unix]  |  Frank  | [1][l-git]       |
-| Tue. |n/a                                       |[Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2]     |    -    | [b][-] |
-| Wed. |n/a                                       |[OOP][c1.3.1]<br/>[Transformers][-]             |  -      | [c][-] |
+| Day  | Readings                                 | Repos                                          |  Lead   |        Slides       |  
+|:----:|:----------------------------------------:|:----------------------------------------------:|:-------:|:-------------------:|    
+| Mon. |[AWS credit][r-aws]<br>[Unix][r-unix]     |Assessment 0<br>[git][git]<br>[Unix][unix]      |  Frank  |[1][l-git]           |
+| Tue. |[Code style][r-python]<br>[Classes][r-oop]|[Python Intro.][python]<br>[OOP][oop]           |  Frank  |[1][l-p]<br>[2][l-oo]|
+| Wed. |Think Python                              |[Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2]     |    -    | [b][-] |
 | Thu. |n/a                                       | [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]   |  -      | [][ ] |
 | Fri. |n/a                                       | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2]  |  -      | [slides][-] |
 
@@ -313,7 +313,15 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Denver -->
 <!-- Week 1 -->
-[d-git]: https://github.com/gSchool/dsd-git-intro
-[d-unix]: https://github.com/gSchool/dsd-unix
-[aws-cred]: notes/setup_aws.md
+[git]: https://github.com/gSchool/dsd-git-intro
+[unix]: https://github.com/gSchool/dsd-unix
+[r-aws]: notes/setup_aws.md
+[r-unix]: https://en.wikipedia.org/wiki/Unix_philosophy 
 [l-git]: https://github.com/gSchool/DSI_Lectures/tree/master/intro-git
+[r-python]: https://docs.python-guide.org/writing/style/#general-concepts 
+[r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
+[python]: https://github.com/gSchool/dsd-python/
+[oop]: https://github.com/gSchool/dsi-oop
+[l-p]: https://github.com/gschool/DSI_Lectures/tree/master/python-intro
+[l-oo]: https://github.com/gschool/DSI_Lectures/tree/master/OOP 
+
