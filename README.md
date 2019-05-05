@@ -313,6 +313,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Denver -->
 <!-- Week 1 -->
-[d-git](https://github.com/gSchool/dsd-git-intro)
-[d-unix](https://github.com/gSchool/dsd-unix)
+[d-git]: https://github.com/gSchool/dsd-git-intro)
+[d-unix]: https://github.com/gSchool/dsd-unix)
 [aws-cred]: notes/setup_aws.md
