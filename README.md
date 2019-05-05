@@ -50,7 +50,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day  | Readings                                 | Repos                                          |  Lead   |     Slides       |  
 |:----:|:----------------------------------------:|:----------------------------------------------:|:-------:|:----------------:|    
-| Mon. |[Register for AWS credit](aws-cred)       |Assessment 0<br>[git](d-git)<br>[Unix](d-unix)  |  Frank  | [1][----][2][-]|
+| Mon. |[Register for AWS credit][aws-cred]       |Assessment 0<br>[git][d-git]<br>[Unix][d-unix]  |  Frank  | [1][----][2][-]|
 | Tue. |n/a                                       |[Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2]     |    -    | [b][-] |
 | Wed. |n/a                                       |[OOP][c1.3.1]<br/>[Transformers][-]             |  -      | [c][-] |
 | Thu. |n/a                                       | [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]   |  -      | [][ ] |
@@ -313,6 +313,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Denver -->
 <!-- Week 1 -->
-[d-git]: https://github.com/gSchool/dsd-git-intro)
-[d-unix]: https://github.com/gSchool/dsd-unix)
+[d-git]: https://github.com/gSchool/dsd-git-intro
+[d-unix]: https://github.com/gSchool/dsd-unix
 [aws-cred]: notes/setup_aws.md
