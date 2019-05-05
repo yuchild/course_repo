@@ -7,7 +7,7 @@ The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, an
 
 The capstone weeks are reserved for your capstone projects (see below).  You will scrum with your peers during this time, participate in mock job interiews, and at the end of the week present your project to either your peers and instructors (capstones 1 & 2), or the data science community in the capstone showcase (capstone 3).
 
-The final week is reserved for finishing your capstone and Career Services deliverables, presenting at the capstone showcase, and graduating.
+The final week is reserved for finishing your capstone, completing Career Services deliverables, presenting at the capstone showcase, and graduating.
 
 To jump to a week of interest, click on the link.  
 
@@ -43,18 +43,18 @@ In the weekly tables below, each row represents a day.  Each row information and
 * __Day:__ Day of the Week
 * __Readings__ Readings for the day (to be completed the night before).
 * __Repos:__ The day's exercises. 
-* __Lead Instructor:__ The instructor who is the point person for the day.
+* __Lead:__ The instructor who is the point person for the day.
 * __Slides:__ The day's lecture notes and slides.
 
 
 ### Week 1: Programming for Data Science
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  -  | [slides][-]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
+| Day  | Readings                                 | Repos                                          |  Lead   |     Slides       |  
+|:----:|:----------------------------------------:|:----------------------------------------------:|:-------:|:----------------:|    
+| Mon. |[Register for AWS credit](aws-cred)       |Assessment 0<br>[git](d-git)<br>[Unix](d-unix)  |  Frank  | [1][----][2][-]|
+| Tue. |n/a                                       |[Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2]     |    -    | [b][-] |
+| Wed. |n/a                                       |[OOP][c1.3.1]<br/>[Transformers][-]             |  -      | [c][-] |
+| Thu. |n/a                                       | [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]   |  -      | [][ ] |
+| Fri. |n/a                                       | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2]  |  -  | [slides][-] |
 
 --
 
@@ -305,13 +305,14 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
 
-<!-- Assessments -->
-<!-- Week 1 -->
-[a0]: https://github.com/gschool/dsi-assessment-day1
 
 <!-- Readings -->
 <!-- Week 1 -->
 [r1.1.1]: notes/workflow.md
 [r1.1.2]: notes/pairing.md
 
-
+<!-- Denver -->
+<!-- Week 1 -->
+[d-git](https://github.com/gSchool/dsd-git-intro)
+[d-unix](https://github.com/gSchool/dsd-unix)
+[aws-cred]: notes/setup_aws.md
