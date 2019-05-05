@@ -54,7 +54,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][[c2.1.2]] |  Joe  | 
+| Monday | [Assessment 1] [ - ]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Joe  | 
 | Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Dan | 
 | Wednesday | [SQL][-]<br>[Python SQL][-] |  Dan  | 
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | 
