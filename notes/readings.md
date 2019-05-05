@@ -1,3 +1,5 @@
+# Readings
+
 
 ### Week 1: Programming for Data Science
 | Day | Topic | Readings |
@@ -6,7 +8,7 @@
 | Tuesday |  Pandas <br/> Matplotlib | <ul><li>[10 minutes to Pandas][1.2.1] (not as cute as you would think) </li><li> [Pandas Top 10][1.2.2] </li><li>  [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li><li>(not sure this is the best place for these) [Effective Visualization][1.2.5] </li><li> [Less is More][1.2.6]</li></ul> | 
 | Wednesday | OOP <br/> Transformers|  <ul><li>[Learn Python the Hard Way (ex 40-43)][1.3.1]  </li></ul>| 
 | Thursday | Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra and Numpy][1.4.1] </li><li> [Linear Algebra Notes][1.4.2] </li></ul> | 
-| Friday |  Web Scraping Case Study |  -  | 
+| Friday |  Web Scraping Case Study |  <ul><li>[Little book of MongoDB][1.5.1]</li><li>[Basic Web Scaping][1.5.2]</li></ul>  | 
 
 --
 
@@ -161,6 +163,9 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 [1.4.1]: https://github.com/gschool/dsi-precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
 [1.4.2]: http://cs229.stanford.edu/section/cs229-linalg.pdf
+
+[1.5.1]: http://openmymind.net/mongodb.pdf
+[1.5.2]: https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
 
 <!-- Week 2 -->
 
