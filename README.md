@@ -46,7 +46,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 * __Slides__ The day's lecture notes and slides
 
 ### Week 1: Programming for Data Science
-| Day | Readings | Topic | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday    | [Development Workflow][workflow]  <br/> [Pair Programming][pairing]   | [Readiness Assessment][learn0]<br><br>[Unix Fundamental][r-unix] | Elliott/Flora  | [AM][lec-git] <br/>[PM][lec-fun] |
 | Tuesday   |     | [Pandas][pandas] <br/> [Matplotlib][matplotlib]                  |  Flora         | [AM][lec-pan]<br/>[PM][lec-mat]  |
@@ -57,7 +57,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 2: Big Data
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | [Assessment 1][learn0]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
 | Tuesday   | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [slides][-] |
@@ -68,7 +68,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 3: Statistical Inference
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | [Assessment 2][learn0]<br/>[Probability][-]<br/>[Binomial Tests][-]        |  Flora  | [slides][-] |
 | Tuesday   |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
@@ -79,7 +79,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 4: Unit 1 Capstone 
-| Day  | Topic | Lead Instructor | Slides |
+| Day  | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | Holiday (Memorial Day)                      |  -  | - |
 | Tuesday   | [Assessment 3][-]<br/> Continue to Capstone |  -  | - |
@@ -90,7 +90,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [slides][-] |
 | Tuesday |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
@@ -110,7 +110,7 @@ Your priorities this week:
 --
 
 ### Week 7: Nonlinear Supervised Learning
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
 | Tuesday |  [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
@@ -121,7 +121,7 @@ Your priorities this week:
 --
 
 ### Week 8: NLP and Unsupervised Learning
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment 5][learn0]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
 | Tuesday |  [PCA][-]<br/>[SVD][-] |  Hamid   | [slides][-] |
@@ -132,7 +132,7 @@ Your priorities this week:
 --
 
 ### Week 9: Unit 2 Capstone 
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment 6][learn0]<br/> Discuss and kickoff capstone 2 | - | [slides][-] |
 | Tuesday |  Group Check-in <br/> Back to work |  -  | - |
@@ -143,7 +143,7 @@ Your priorities this week:
 --
 
 ### Week 10: Advanced Topics 1
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Hamid  | [slides][-] |
@@ -154,7 +154,7 @@ Your priorities this week:
 --
 
 ### Week 11: Advanced Topics 2
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Image Analysis][-]<br/>[CNNs][-] | Flora | [slides][-] |
 | Tuesday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] | 
@@ -165,7 +165,7 @@ Your priorities this week:
 --
 
 ### Week 12: Unit 3 Capstone
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | group check-in <br/> Work | - | [slides][-] |
 | Tuesday | group check-in <br/> Work   |  -   | [slides][-] |
@@ -176,7 +176,7 @@ Your priorities this week:
 --
 
 ### Week 13: Career Week
-| Day | Topic | Lead Instructor | Slides |
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Demo Day | - | [slides][-] |
 | Tuesday | Caereer's Week  |  -   | [slides][-] |
