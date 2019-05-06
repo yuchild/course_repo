@@ -48,11 +48,12 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday    | [Development Workflow][workflow]  <br/> [Pair Programming][pairing]   | [Readiness Assessment][learn0]<br><br>[Unix Fundamental][r-unix] | Elliott/Flora  | [AM][lec-git] <br/>[PM][lec-fun] |
-| Tuesday   |     | [Pandas][pandas] <br/> [Matplotlib][matplotlib]                  |  Flora         | [AM][lec-pan]<br/>[PM][lec-mat]  |
-| Wednesday |     | [OOP][oop]<br/>[Transformers][transformer]                          |  Hamid         | [slides][-] |
-| Thursday  |     | [Numpy][numpy]<br/>[Linear Algebra][linalg]               |  Flora         | [AM][lec-lin]<br/>[PM][lec-lin]   |
-| Friday    |     | [Docker][docker]<br/>[AWS][aws]                           |  Hamid         | [slides][-] |
+| Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Elliott/Flora  | [AM][lec-git] <br/> [PM][lec-fun] |
+| Tuesday   | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
+| Wednesday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [slides][-] |
+| Thursday  | | [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-lin]<br/>[PM][lec-lin]   |
+| Friday    | | [Docker][docker]<br/>[AWS][aws]|  Hamid | [slides][-] |
+
 
 --
 
@@ -265,7 +266,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Assignments -->
 <!-- Week 1 -->
-[r-unix]: https://github.com/GalvanizeDataScience/unix
+[unix]: https://github.com/GalvanizeDataScience/unix
 [pandas]: https://github.com/GalvanizeDataScience/pandas
 [matplotlib]: https://github.com/GalvanizeDataScience/matplotlib
 [oop]: https://github.com/GalvanizeDataScience/oop
@@ -319,9 +320,21 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 1 -->
 [a0]: https://github.com/gschool/dsi-assessment-day1
 [learn0]: https://learn-2.galvanize.com/cohorts/858
+
 <!-- Readings -->
 <!-- Week 1 -->
 [workflow]: notes/workflow.md
 [pairing]: notes/pairing.md
+[r-unix]:http://www.ee.surrey.ac.uk/Teaching/Unix/
+[r-unixfords]:http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
+[r-py15]:http://www.greenteapress.com/thinkpython/html/thinkpython016.html
+[r-intro-nb]:https://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
+[r-10-pandas]:http://pandas.pydata.org/pandas-docs/stable/10min.html
+[r-pandas-top]:http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+[r-eda-pandas]:http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab3/lab3full.ipynb
+[r-data-wrangling-pandas]:http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb
+[r-matplot1]:http://matplotlib.org/users/pyplot_tutorial.html
+[r-matplot2]:https://matplotlib.org/users/artists.html
 
+<!-- Week 2 -->
 
