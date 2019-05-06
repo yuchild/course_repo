@@ -1,61 +1,66 @@
 # Welcome 
 
-Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll find all the information you need to know about the day to day activities in the program.
+Welcome to the Galvanize Data Science Immersive Program! On this page you'll find information you about the program as a whole as well as links to daily readings and assignments.  You'll be working with this page everyday; please bookmark it in your web browser. 
 
-# Course Outline
-This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
+#  Weekly overview
+The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
 
-The [nighly readings](notes/readings.md) are maintained in a separate file.  Many students find it useful to read ahead a bit on the weekends.
+The capstone weeks are reserved for your capstone projects (see below).  You will scrum with your peers during this time, participate in mock job interiews, and at the end of the week present your project to your peers and instructors (capstones 1 & 2), or to the data science community on a demo day (capstone 3).
 
-* __Day:__ Day of the Week
-* __Repo:__ The repo contains the day's exercise(s). You should be able to complete this in the time allotted (you will not have access until the day of).
-* __Lead Instructor:__ The instructor who is the point person for the day.
-* __Slides:__ The day's lecture notes and slides
+The final week is reserved for demo day, completing Career Services deliverables, mock interviews, and graduating.
 
-# Schedule
-| Week | Date | Topic |
-| --- | --- | --- |
-| 0 | 4/29 – 5/03 | Week 0 Prep |
-| 1 | 5/06 – 5/10 | [Programming](#week-1-programming-for-data-science) |
-| 2 | 5/13 – 5/17 | [Big Data](#week-2-big-data) |
-| 3 | 5/20 – 5/24 | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | 5/27 – 5/31 | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | 6/03 – 6/07 | [Regression](#week-5-supervised-learning-and-regression) |
-| 6 | 6/10 – 6/14 | Solo Week |
-| 7 | 6/17 – 6/21 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
-| 8 | 6/24 – 6/28 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
-| 9 | 7/01 – 7/05 | [Capstone 2](#week-9-unit-2-capstone) |
-| 10 | 7/08 – 7/12 | [Advanced Topics 1](#week-10-advanced-topics-1) |
-| 11 | 7/15 – 7/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
-| 12 | 7/22 – 7/26 | [Capstone 3](#week-12-unit-3-capstone) |
-| 13 | 7/29 – 8/02 | [Career Week](#week-13-career-week) |
+To jump to a week of interest, click on the link. 
 
-## Weekly Structure
-During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
+| Week | Date  | Topic |
+| ---- |:-----:| ----- |
+|  0 | 04/29/19 | Week 0 Prep |
+|  1 | 05/06/19 | [Programming](#week-1-programming-for-data-science) |
+|  2 | 05/13/19 | [Big Data](#week-2-big-data) |
+|  3 | 05/20/19 | [Statistical Inference](#week-3-statistical-inference) |
+|  4 | 05/27/19 | [Capstone 1](#week-4-unit-1-capstone) |
+|  5 | 06/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
+|  6 | 06/10/19 | Solo Week |
+|  7 | 06/17/19 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
+|  8 | 06/24/19 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
+|  9 | 07/01/19 | [Capstone 2](#week-9-unit-2-capstone) |
+| 10 | 07/08/19 | [Advanced Topics 1](#week-10-advanced-topics-1) |
+| 11 | 07/15/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
+| 12 | 07/22/19 | [Capstone 3](#week-12-unit-3-capstone) |
+| 13 | 07/29/19 | [Career Week](#week-13-career-week) |
 
-During instructional weeks, every Friday will be a capstone where the material that had been covered during the week will be put to use in a more open ended application of the knowledge.
+## Other important links
+* [Solutions](https://github.com/GalvanizeDataScience/solutions-g92) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
+* [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
+* [Weekly feedback]() Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
+* [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 
-## Capstones
-Capstone projects are designed to be showcases of the diverse skill set that you aquire over this challenging course of study.  In addition to building machine learnign models, capstones should feature fundamental skills like data collection and cleaning (which employers find very attractive).
+## Capstone Project
+Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
---
+## Daily Outline
+In the weekly tables below, each row represents a day.  Each row information and links on:
+* __Day__ Day of the Week
+* __Readings__ Readings for the day (to be completed the night before).
+* __Repos__ The day's exercise(s). 
+* __Lead Instructor__ The instructor who is the point person for the day.
+* __Slides__ The day's lecture notes and slides
 
 ### Week 1: Programming for Data Science
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday    | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] | Elliott/Flora  | [slides][-] |
-| Tuesday   | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2]                  |  Flora         | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-]                          |  Hamid         | [slides][-] |
-| Thursday  | [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                 |  Flora         | [slides][ ] |
-| Friday    | [Docker][c2.2.1]<br/>[AWS][c2.2.2]                           |  Hamid         | [slides][-] |
+| Day | Readings | Topic | Lead Instructor | Slides |
+|:--:|:-----------------------------------------|:--|:--:|:--:|
+| Monday    | [Development Workflow][workflow]  <br/> [Pair Programming][pairing]   | [Readiness Assessment][learn0]<br><br>[Unix Fundamental][r-unix] | Elliott/Flora  | [AM][lec-git] <br/>[PM][lec-fun] |
+| Tuesday   |     | [Pandas][pandas] <br/> [Matplotlib][matplotlib]                  |  Flora         | [AM][lec-pan]<br/>[PM][lec-mat]  |
+| Wednesday |     | [OOP][oop]<br/>[Transformers][transformer]                          |  Hamid         | [slides][-] |
+| Thursday  |     | [Numpy][numpy]<br/>[Linear Algebra][linalg]               |  Flora         | [AM][lec-lin]<br/>[PM][lec-lin]   |
+| Friday    |     | [Docker][docker]<br/>[AWS][aws]                           |  Hamid         | [slides][-] |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday    | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
-| Tuesday   | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2]                                         |  Hamid  | [slides][-] |
+| Monday    | [Assessment 1][learn0]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
+| Tuesday   | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [slides][-] |
 | Wednesday | [SQL][-]<br>[Python SQL][-]                                                           |  Hamid  | [slides][-]]|
 | Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                         |  Flora  | [slides][-] |
 | Friday    | [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   | [slides][150.2] |
@@ -65,7 +70,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday    | [Assessment 2][-]<br/>[Probability][-]<br/>[Binomial Tests][-]        |  Flora  | [slides][-] |
+| Monday    | [Assessment 2][learn0]<br/>[Probability][-]<br/>[Binomial Tests][-]        |  Flora  | [slides][-] |
 | Tuesday   |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
 | Thursday  |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
@@ -107,7 +112,7 @@ Your priorities this week:
 ### Week 7: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 4][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
+| Monday | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
 | Tuesday |  [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
@@ -118,7 +123,7 @@ Your priorities this week:
 ### Week 8: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 5][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
+| Monday | [Assessment 5][learn0]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
 | Tuesday |  [PCA][-]<br/>[SVD][-] |  Hamid   | [slides][-] |
 | Wednesday |  [Clustering][-]<br/>[NMF][-] |  Flora  | [slides][-] |
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Flora  | [slides][-] |
@@ -129,7 +134,7 @@ Your priorities this week:
 ### Week 9: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 6][-]<br/> Discuss and kickoff capstone 2 | - | [slides][-] |
+| Monday | [Assessment 6][learn0]<br/> Discuss and kickoff capstone 2 | - | [slides][-] |
 | Tuesday |  Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Capstone Presentations PM | - | - |
 | Thursday |  Holidy (Independence Day) | - | - |
@@ -252,23 +257,29 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Lecture Repos -->
 <!-- Week 1 -->
+[lec-git]:https://github.com/gSchool/dsi-week-zero/blob/master/day-1-git-functions-testing/am_git-unix/intro_git_lec.md
+[lec-fun]:https://github.com/gSchool/DSI_Lectures/tree/master/fundamentals
+[lec-pan]:https://github.com/gSchool/DSI_Lectures/tree/master/pandas
+[lec-mat]:https://github.com/gSchool/DSI_Lectures/tree/master/pandas-matplotlib
+[lec-lin]:https://github.com/gSchool/DSI_Lectures/tree/master/numpy-linear-algebra
 
-<!-- Content Repos (sprints and assessments) -->
+<!-- Assignments -->
 <!-- Week 1 -->
-[c1.1.1]: https://github.com/GalvanizeDataScience/unix
-[c1.2.1]: https://github.com/GalvanizeDataScience/pandas
-[c1.2.2]: https://github.com/GalvanizeDataScience/matplotlib
-[c1.3.1]: https://github.com/GalvanizeDataScience/oop
-[c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
-[c1.4.2]: https://github.com/GalvanizeDataScience/numpy
-[c1.5.1]: https://github.com/GalvanizeDataScience/mongo-db
-[c1.5.2]: https://github.com/GalvanizeDataScience/web-scraping
+[r-unix]: https://github.com/GalvanizeDataScience/unix
+[pandas]: https://github.com/GalvanizeDataScience/pandas
+[matplotlib]: https://github.com/GalvanizeDataScience/matplotlib
+[oop]: https://github.com/GalvanizeDataScience/oop
+[transformer]:https://github.com/GalvanizeDataScience/transformers
+[linalg]: https://github.com/GalvanizeDataScience/linear-algebra
+[numpy]: https://github.com/GalvanizeDataScience/numpy
+[mongodb]: https://github.com/GalvanizeDataScience/mongo-db
+[webscraping]: https://github.com/GalvanizeDataScience/web-scraping
 
 <!-- Week 2 -->
 [c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
 [c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
-[c2.2.1]: https://github.com/GalvanizeDataScience/docker
-[c2.2.2]: https://github.com/GalvanizeDataScience/aws
+[docker]: https://github.com/GalvanizeDataScience/docker
+[aws]: https://github.com/GalvanizeDataScience/aws
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
@@ -307,10 +318,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Assessments -->
 <!-- Week 1 -->
 [a0]: https://github.com/gschool/dsi-assessment-day1
-
+[learn0]: https://learn-2.galvanize.com/cohorts/858
 <!-- Readings -->
 <!-- Week 1 -->
-[r1.1.1]: notes/workflow.md
-[r1.1.2]: notes/pairing.md
+[workflow]: notes/workflow.md
+[pairing]: notes/pairing.md
 
 
