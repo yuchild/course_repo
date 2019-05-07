@@ -53,7 +53,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Elliott/Flora  | [AM][lec-git] <br/> [PM][lec-fun] |
 | Tuesday   | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
-| Wednesday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [slides][-] |
+| Wednesday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [OOP][lec-oop] |
 | Thursday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-lin]<br/>[PM][lec-lin]   |
 | Friday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading]| [Docker][docker]<br/>[AWS][aws]|  Hamid | [slides][-] |
 
@@ -265,7 +265,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/
-
+[lec-oop]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop
 <!-- Assignments -->
 <!-- Week 1 -->
 [unix]: https://github.com/GalvanizeDataScience/unix
