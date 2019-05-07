@@ -8,16 +8,18 @@
 | Tuesday |  Pandas <br/> Matplotlib | <ul><li>[10 minutes to Pandas][1.2.1] (not as cute as you would think) </li><li> [Pandas Top 10][1.2.2] </li><li>  [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li></ul> | 
 | Wednesday | OOP <br/> Transformers|  <ul><li>[Learn Python the Hard Way (ex 40-43)][1.3.1]  </li></ul>| 
 | Thursday | Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra and Numpy][1.4.1] </li><li> [Linear Algebra Notes][1.4.2] </li></ul> | 
-| Friday |  Web Scraping Case Study |  <ul><li>[Little book of MongoDB][1.5.1]</li><li>[Basic Web Scaping][1.5.2]</li></ul>  | 
+| Friday |  Docker (Install Docker) <br/>  AWS  |  <ul><li>[Docker Getting Started][2.2.1] </li></ul> | 
+
+
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Algorithmic Complexity <br/> Data Structures |  <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li><li> [Introduction to Data Structures] [-]</li></ul>| 
-| Tuesday | Docker <br/>  AWS  |  <ul><li>[Docker Getting Started][2.2.1] </li></ul> | 
-| Wednesday | SQL <br> Mongo DB |  <ul><li>[SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li><li> [Little book of MongoDB][2.3.3] </li></ul>| 
+| Monday | Mongo DB <br/> Web Scraping |  <ul><li>[Little book of MongoDB][1.5.1]</li><li>[Basic Web Scaping][1.5.2]</li></ul>  |
+| Tuesday | Algorithmic Complexity <br/> Data Structures |  <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li><li> [Introduction to Data Structures] [-]</li></ul>| 
+| Wednesday | SQL <br> Python SQL |  <ul><li> [SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li></ul>| 
 | Thursday | Spark RDDs <br/> Spark SQL  | <ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
 | Friday | Spark EDA Case Study |  -   |  
 
@@ -173,7 +175,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 [2.3.1]: http://sqlzoo.net/wiki/Main_Page
 [2.3.2]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
-[2.3.3]: http://openmymind.net/mongodb.pdf
 
 
 <!-- Week 3 -->
