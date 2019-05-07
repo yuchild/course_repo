@@ -33,6 +33,8 @@ To jump to a week of interest, click on the link.
 * [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
 * [Weekly feedback]() Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
+* [Pairing](https://github.com/gSchool/dsi-welcome/blob/master/notes/pairing.md): Notes on how to pair program
+* [Workflow](https://github.com/gSchool/dsi-welcome/blob/master/notes/workflow.md): Notes on programming workflow
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
