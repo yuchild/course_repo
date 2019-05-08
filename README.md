@@ -43,43 +43,43 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  -  | [slides][-]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
+| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Jack  | [slides][-] |
+| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Jack  | [slides][-] |
+| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  Brandon  | [slides][-]  |
+| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Matt  | [slides][ ] |
+| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Brandon  | [slides][-] |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  - <br/> -  | [Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  -  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
-| Friday |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Brandon  | [Slides][-] |
+| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Brandon | [slides][-]  |
+| Wednesday | [SQL][-]<br>[Python SQL][-] |  Matt?  | [slides][-]] |
+| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Brandon  | [slides][-] |
+| Friday |  [Spark EDA Case Study][c2.5.1] | Brandon   | [slides][150.2] |
 
 --
 
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  -  | [slides][-] |
-| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
-| Friday | [Stats Case Study][-] |  -   | - |
+| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Matt  | [slides][-] |
+| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Matt  | [slides][-] |
+| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Matt  | [slides][-] |
+| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Matt  | [slides][-] |
+| Friday | Discuss and kickoff capstone 1 |  Brandon   | - |
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  -   | [slides][-] |
-| Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
+| Monday |   Holiday |  -   | - |
+| Tuesday |   [Data Products][132.0] |  Jack   | [slides][-] |
+| Wednesday |  Capstone 1 |  -  | - |
+| Thursday |  Capstone 1 | - | - |
 | Friday | Capstone Presentations PM | - | - |
 
 --
@@ -87,11 +87,11 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  -   | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Jack | [slides][-] |
+| Tuesday |  [Predictive Linear Regression][c5.2.1] |  Brandon   | [slides][-] |
+| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Jack  | [slides][-] |
+| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Jack  | [slides][-] |
+| Friday | [Regression Case Study][c5.5.1] |  Brandon  | [slides][-] |
 
 --
 ### Solo Week
