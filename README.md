@@ -2,7 +2,9 @@
 
 Welcome to the Galvanize Data Science Immersive Program! On this page you'll find information you about the program as a whole as well as links to daily readings and assignments.  You'll be working with this page everyday; please bookmark it in your web browser. 
 
-[Pairs](notes/g92ds_pairs.md) Here are the pairs for the rest of your cohort
+### Pairs for Each Day:
+
+[Pairs](notes/g92ds_pairs.md) These are your daily pair assignments
 
 #  Weekly overview
 The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
