@@ -53,7 +53,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Elliott/Flora  | [AM][lec-git] <br/> [PM][lec-fun] |
 | Tuesday   | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
-| Wednesday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [OOP][lec-oop] |
+| Wednesday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
 | Thursday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-lin]<br/>[PM][lec-lin]   |
 | Friday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading]| [Docker][docker]<br/>[AWS][aws]|  Hamid | [slides][-] |
 
@@ -62,7 +62,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Big Data
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday    | [Assessment 1][learn0]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Flora  | [Slides][-] |
+| Monday    | [Assessment 1][learn0]<br/>[Algorithmic Complexity][c2.1.1] |  Flora  | [Slides][-] |
 | Tuesday   | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [slides][-] |
 | Wednesday | [SQL][-]<br>[Python SQL][-]                                                           |  Hamid  | [slides][-]]|
 | Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                         |  Flora  | [slides][-] |
@@ -265,7 +265,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/
-[lec-oop]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop
+[lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/blob/SF/oop/oop_am.pdf
+[lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/oop_pm
+
 <!-- Assignments -->
 <!-- Week 1 -->
 [unix]: https://github.com/GalvanizeDataScience/unix
