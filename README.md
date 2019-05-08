@@ -1,7 +1,7 @@
 # Welcome 
 
 Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll find all the information you need to know about the day to day activities in the program.
-[Pairs](notes/g92_pairs.md): Notes on how to pair program
+
 
 # Course Outline
 This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
