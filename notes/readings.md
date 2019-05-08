@@ -149,8 +149,8 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [SNA]: readings/Social_Network_Analysis_for_Startups.pdf
 
 <!-- Week 1 -->
-[1.1.1]: notes/workflow.md
-[1.1.2]: notes/pairing.md
+[1.1.1]: ./workflow.md
+[1.1.2]: ./pairing.md
 [1.1.3]: https://en.wikipedia.org/wiki/Unix_philosophy
 [1.1.4]: https://leanpub.com/artofdatascience
 
