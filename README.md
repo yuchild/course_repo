@@ -45,7 +45,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|
 | Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Dan  | 
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Dan  | 
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  Joe  | 
+| Wednesday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  Joe <br/> Christina (Intro) 11:00 - 11:15  | 
 | Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Joe  | 
 | Friday |  [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Dan | 
 
@@ -70,7 +70,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Dan  | 
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | 
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe  | 
-| Friday | [Data Products][132.0] |  Joe | 
+| Friday | [Data Products][132.0] |  Joe <br/> Christina (Personal Narratives) 1:00 - 2:00| 
 
 --
 
@@ -78,10 +78,10 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day  | Topic | Lead Instructor |
 |:--:|:--|:--:|
 | Monday |   DAY OFF (Memorial Day) |  -   | 
-| Tuesday |  Discuss and kickoff capstone 1 |  -  |
+| Tuesday |  Discuss and kickoff capstone 1 |  Christina (Networking) 1:00 - 2:00 |
 | Wednesday |  Work! | - |
 | Thursday |  MORE WORK!!!! | - | 
-| Friday | Capstone Presentations PM | - |
+| Friday | Capstone Presentations PM <br/> Personal Narratives Due | - |
 
 --
 
@@ -92,7 +92,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday |  [Predictive Linear Regression][c5.2.1] |  Dan   | 
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | 
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | 
-| Friday | [Regression Case Study][c5.5.1] |  Dan  | 
+| Friday | [Regression Case Study][c5.5.1] |  Dan <br/> Christina (PN/EP Practice) 10:00 - 10:45  | 
 
 --
 ### Solo Week
@@ -143,8 +143,8 @@ Your priorities this week:
 |:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Joe | 
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Joe  | 
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan  | 
-| Thursday | [Implicit Recommenders][-] |  Dan  | 
+| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan <br/> Christina (Resumes) 11:00 - 12:00 | 
+| Thursday | [Implicit Recommenders][-] |  Dan <br/> Christina (LinkedIn) 11:00 - 12:00 | 
 | Friday | [Recommender Case Study][-]  |  Dan  | 
 
 --
@@ -154,8 +154,8 @@ Your priorities this week:
 |:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | Dan | 
 | Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  Dan  | 
-| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  Joe  | 
-| Thursday | [Fraud Case Study (day 1)][-] |  Dan  | 
+| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-]  <br/> Resumes and LinkedIn Due |  Joe  | 
+| Thursday | [Fraud Case Study (day 1)][-] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
 | Friday | [Fraud Case Study (day 2)][-] |  Dan  | 
 
 --
@@ -169,10 +169,17 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
 | Monday |  | - | 
-| Tuesday |   |  -   | 
-| Wednesday |   |  -  | 
+| Tuesday |   |  Christina (Cover letter/Outreach) 1:00 - 1:45  | 
+| Wednesday |   |  Christina (Job Search Strategy) 10:00 - 11:00 | 
 | Thursday | PM - Demo evening |  -  | 
-| Friday | PM - Graduation |  -  | 
+| Friday | PM - Graduation |  Christina (Negotiation) 10:00 - 11:00  | 
+
+
+Cover letter/Outreach - Tuesday, July 30th, 1pm-1:45pm
+Job Search Strategy - Wednesday, July 31st, 10am-11am
+Interviewing - Wednesday, July 31st, 1pm-2pm
+Negotiation - Friday, August 2nd, 10am-11am
+
 
 --
 
