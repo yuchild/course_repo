@@ -48,13 +48,13 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 
 ### Week 1: Programming for Data Science
-| Day  | Readings                                 | Repos                                          |Lead |        Slides           |  
-|:----:|:-----------------------------------------|:-----------------------------------------------|:---:|:-----------------------:|    
-| Mon. |[AWS credit][r-aws]<br>[Unix][r-unix]     |Assessment 0<br>[git][git]<br>[Unix][unix]      |Frank|[1][l-git]               |
-| Tue. |[Code style][r-python]<br>[Classes][r-oop]|[Python Intro.][python]<br>[OOP][oop]           |Frank|[1][l-py]<br>[2][l-oop]  |
-| Wed. |[Pandas][r-pan]<br>[Matplotlib][r-mpl]    |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]        |Kayla|[1][l-pn]<br>[2][l-mpl]  |
-| Thu. |[LA notes][r-la]<br>[LA for DS][r-la4ds]  |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]    |Kayla|[1][l-nplalg]            |
-| Fri. |[Mongo][r-mdb]<br>[Webscraping][r-ws]     |[Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2]   |Frank|[1][l-md]<br>[2][l-ws]   |
+| Day  | Readings                                 | Repos                                                         |Lead |        Slides           |  
+|:----:|:-----------------------------------------|:--------------------------------------------------------------|:---:|:-----------------------:|    
+| Mon. |[AWS credit][r-aws]<br>[Unix][r-unix]     |Assessment 0<br>[git][git]<br>[Unix][unix]                     |Frank|[1][l-git]               |
+| Tue. |[Code style][r-python]<br>[Classes][r-oop]|[Python Intro.][python]<br>[OOP][oop]                          |Frank|[1][l-py]<br>[2][l-oop]  |
+| Wed. |[Pandas][r-pan]<br>[Matplotlib][r-mpl]    |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                       |Kayla|[1][l-pn]<br>[2][l-mpl]  |
+| Thu. |[LA notes][r-la]<br>[LA for DS][r-la4ds]  |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                   |Kayla|[1][l-nplalg]            |
+| Fri. |[Mongo][r-mdb]<br>[Webscraping][r-ws]     |[Review][wr]<br>[Mongo DB][c1.5.1]<br>[Web Scraping][c1.5.2]   |Frank|[1][l-md]<br>[2][l-ws]   |
 
 --
 
@@ -335,3 +335,4 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-ws]: https://www.dataquest.io/blog/web-scraping-tutorial-python/
 [l-md]: https://github.com/gSchool/DSI_Lectures/tree/master/mongo/elliot_cohen
 [l-ws]: https://github.com/gschool/DSI_Lectures/tree/master/web-scraping
+[wr]: https://github.com/GalvanizeDataScience/weekly-student-led-review
