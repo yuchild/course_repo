@@ -4,7 +4,7 @@ Welcome to the Galvanize Data Science Immersive Program! On this page you'll fin
 
 ### Pairs for Each Day:
 
-[Pairs](notes/g92ds_pairs.md) These are your daily pair assignments
+[Pairs](notes/g92ds_pairs.md) -- these are your daily pair assignments
 
 #  Weekly overview
 The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
@@ -39,7 +39,7 @@ To jump to a week of interest, click on the link.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 * [Pairing](https://github.com/gSchool/dsi-welcome/blob/master/notes/pairing.md): Notes on how to pair program
 * [Workflow](https://github.com/gSchool/dsi-welcome/blob/master/notes/workflow.md): Notes on programming workflow
-* [Using Git](https://github.com/gSchool/dsi-welcome/blob/master/notes/using_git.md): How to use git with the Galvanize curriculum
+* [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
