@@ -37,8 +37,8 @@ To jump to a week of interest, click on the link.
 * [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
 * [Weekly feedback]() Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
-* [Pairing](https://github.com/gSchool/dsi-welcome/blob/master/notes/pairing.md): Notes on how to pair program
-* [Workflow](https://github.com/gSchool/dsi-welcome/blob/master/notes/workflow.md): Notes on programming workflow
+* [Pairing](notes/pairing.md): Notes on how to pair program
+* [Workflow](notes/workflow.md): Notes on programming workflow
 * [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
 
 ## Capstone Project
