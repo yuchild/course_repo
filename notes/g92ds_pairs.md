@@ -1,4 +1,4 @@
--- Wed 5/8
+*--- Wed 5/8 ---*
 
 Bill, J-G
 
@@ -18,7 +18,8 @@ Ian, Vinh
 
 
 
--- Thurs 5/9
+
+*--- Thurs 5/9 ---*
 
 J-G, James
 
@@ -38,7 +39,8 @@ Herbert, Karen
 
 
 
--- Fri 5/10
+
+*--- Fri 5/10 ---*
 
 James, Jonathan
 
@@ -58,7 +60,8 @@ Guang, Ian
 
 
 
---Mon 5/13
+
+*--- Mon 5/13 ---*
 
 Jonathan, Tyler
 
@@ -78,7 +81,8 @@ Franz, Herbert
 
 
 
---Tues 5/14
+
+*--- Tues 5/14 ---*
 
 Tyler, Michael
 
@@ -98,7 +102,8 @@ Daniel, Guang
 
 
 
---Wed 5/15
+
+*--- Wed 5/15 ---*
 
 Michael, Qiang
 
@@ -118,7 +123,8 @@ Claudio, Franz
 
 
 
---Thurs 5/16
+
+*--- Thurs 5/16 ---*
 
 Qiang, Samuel
 
@@ -138,7 +144,8 @@ Chris, Daniel
 
 
 
---
+
+*---  ---*
 
 Samuel, Vinh
 
@@ -158,7 +165,8 @@ Bill, Claudio
 
 
 
---
+
+*---  ---*
 
 Vinh, Karen
 
@@ -178,7 +186,8 @@ J-G, Chris
 
 
 
---
+
+*---  ---*
 
 Karen, Ian
 
@@ -198,7 +207,8 @@ James, Bill
 
 
 
---
+
+*---  ---*
 
 Ian, Herbert
 
@@ -218,7 +228,8 @@ Jonathan, J-G
 
 
 
---
+
+*---  ---*
 
 Herbert, Guang
 
@@ -238,7 +249,8 @@ Tyler, James
 
 
 
---
+
+*---  ---*
 
 Guang, Franz
 
@@ -258,7 +270,8 @@ Michael, Jonathan
 
 
 
---
+
+*---  ---*
 
 Franz, Daniel
 
@@ -278,7 +291,8 @@ Qiang, Tyler
 
 
 
---
+
+*---  ---*
 
 Daniel, Claudio
 
@@ -298,7 +312,8 @@ Samuel, Michael
 
 
 
---
+
+*---  ---*
 
 Claudio, Chris
 
@@ -318,7 +333,8 @@ Vinh, Qiang
 
 
 
---
+
+*---  ---*
 
 Chris, Bill
 
