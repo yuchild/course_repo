@@ -66,7 +66,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  -  | [slides][-] |
+| Monday | [Assessment][c3.1.1]<br/>[Probability][-]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
@@ -271,11 +271,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
 
 <!-- Week 3 -->
-[c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
+[c3.1.1]: https://github.com/GalvanizeDataScience/probability-distributions
+[c3.1.2]: https://github.com/GalvanizeDataScience/binomial-tests
+[c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions-dev
 [c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
-[c3.3.1]: https://github.com/GalvanizeDataScience/central-limit
+[c3.3.1]: https://github.com/GalvanizeDataScience/central-limit-theorem-dev
 [c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
-[c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
+[c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 
 <!-- Week 4 -->
