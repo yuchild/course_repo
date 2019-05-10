@@ -279,8 +279,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
 
 <!-- Week 3 -->
-[c3.1.1]: [https://github.com/GalvanizeDataScience/probability-distributions]
-[c3.1.2]: [https://github.com/GalvanizeDataScience/binomial-tests]
+[c3.1.1]: https://github.com/GalvanizeDataScience/probability-distributions
+[c3.1.2]: https://github.com/GalvanizeDataScience/binomial-tests
 [c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
 [c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [c3.3.1]: https://github.com/GalvanizeDataScience/central-limit
