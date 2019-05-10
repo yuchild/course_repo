@@ -35,7 +35,7 @@ To jump to a week of interest, click on the link.
 ## Other important links
 * [Solutions](https://github.com/GalvanizeDataScience/solutions-g92) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
 * [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
-* [Weekly feedback]() Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
+* [Weekly feedback](https://docs.google.com/forms/d/e/1FAIpQLSdg4SE99Cri-9VTGvmaJ2aDsFQGU_ocK7cmJ_-9yGQl_BhOjw/viewform?usp=sf_link) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 * [Pairing](notes/pairing.md): Notes on how to pair program
 * [Workflow](notes/workflow.md): Notes on programming workflow
