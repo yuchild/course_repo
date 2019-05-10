@@ -272,7 +272,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/blob/SF/oop/oop_am.pdf
 [lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/oop_pm
 [lec-docker]:https://github.com/GalvanizeDataScience/lectures/blob/SF/docker/docker.pptx
-[lec-aws]:
+[lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/SF/aws
 
 <!-- Assignments -->
 <!-- Week 1 -->
