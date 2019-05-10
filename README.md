@@ -57,7 +57,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|
 | Monday | [Assessment 1] [ - ]<br/>[Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | 
 | Tuesday | [Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Joe  |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  Dan  | 
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan  | 
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | 
 | Friday |  [Spark EDA Case Study][c2.5.1] |  Dan  | 
 
@@ -272,6 +272,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
+[c2.3.1]: https://github.com/GalvanizeDataScience/sql
+[c2.3.2]: https://github.com/GalvanizeDataScience/sql-python
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
