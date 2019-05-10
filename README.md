@@ -55,7 +55,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment 1] [ - ]<br/>[Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | 
+| Monday | [Assessment 1] [learn]<br/>[Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | 
 | Tuesday | [Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Joe  |
 | Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan  | 
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | 
@@ -66,7 +66,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Dan  | 
+| Monday | [Assessment][learn]<br/>[Probability][c.3.1.1]<br/>[Binomial Tests][c3.1.2] |  Dan  | 
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Dan  | 
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | 
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe  | 
@@ -279,6 +279,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
 
 <!-- Week 3 -->
+[c3.1.1]: [https://github.com/GalvanizeDataScience/probability-distributions]
+[c3.1.2]: [https://github.com/GalvanizeDataScience/binomial-tests]
 [c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
 [c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [c3.3.1]: https://github.com/GalvanizeDataScience/central-limit
@@ -312,6 +314,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Assessments -->
 <!-- Week 1 -->
 [a0]: https://github.com/gschool/dsi-assessment-day1
+
+[learn]: [https://learn-2.galvanize.com]
 
 <!-- Readings -->
 <!-- Week 1 -->
