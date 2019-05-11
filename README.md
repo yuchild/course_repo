@@ -46,7 +46,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|:--:|
 | Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][-] |  -  | [slides][-]  |
+| Wednesday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  |
 | Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
 | Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
 
@@ -254,6 +254,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c1.2.1]: https://github.com/GalvanizeDataScience/pandas
 [c1.2.2]: https://github.com/GalvanizeDataScience/matplotlib
 [c1.3.1]: https://github.com/GalvanizeDataScience/oop
+[c1.3.2]: https://github.com/GalvanizeDataScience/transformers
 [c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
 [c1.4.2]: https://github.com/GalvanizeDataScience/numpy
 [c1.5.1]: https://github.com/GalvanizeDataScience/mongo-db
