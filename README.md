@@ -64,13 +64,20 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 2: Big Data
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday    | [Assessment 1][learn0]<br/>[Algorithmic Complexity][c2.1.1] |  Flora  | [Slides][-] |
-| Tuesday   | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [slides][-] |
-| Wednesday | [SQL][-]<br>[Python SQL][-]                                                           |  Hamid  | [slides][-]]|
-| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                         |  Flora  | [slides][-] |
-| Friday    | [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   | [slides][150.2] |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-----------------------------------------|:--|:--:|:--:|
+| Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] |  Flora  | [Slides][-] |
+| Tuesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [slides][-] |
+| Wednesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql]                                                           |  Hamid  | [slides][-] |
+| Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Flora  | [slides][-] |
+| Friday    || [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   | [slides][150.2] |
+
+[r-intro-alg]:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
+[r-mongo]:http://openmymind.net/mongodb.pdf
+[r-web-scraping]:https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+[r-sqlzoo]:http://sqlzoo.net/wiki/Main_Page
+[r-sql-join]:http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+[r-spark]:https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
 
 --
 
@@ -283,16 +290,18 @@ We will focus on a few canonical texts for the class and readings will be assign
 [transformer]:https://github.com/GalvanizeDataScience/transformers
 [linalg]: https://github.com/GalvanizeDataScience/linear-algebra
 [numpy]: https://github.com/GalvanizeDataScience/numpy
-[mongodb]: https://github.com/GalvanizeDataScience/mongo-db
-[webscraping]: https://github.com/GalvanizeDataScience/web-scraping
-
-<!-- Week 2 -->
-[c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
-[c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
 [docker]: https://github.com/GalvanizeDataScience/docker
 [aws]: https://github.com/GalvanizeDataScience/aws
-[c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
-[c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
+
+<!-- Week 2 -->
+[big-o]: https://github.com/GalvanizeDataScience/algorithmic-complexity
+[c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
+[sql]: https://github.com/GalvanizeDataScience/sql
+[py-sql]: https://github.com/GalvanizeDataScience/sql-python
+[mongodb]: https://github.com/GalvanizeDataScience/mongo-db
+[webscraping]: https://github.com/GalvanizeDataScience/web-scraping
+[rdds]: https://github.com/GalvanizeDataScience/spark-rdds
+[dfs]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
 
 <!-- Week 3 -->
