@@ -64,7 +64,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
 | Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Data Structures][c2.1.2]  | Frank |[1][l-py]<br>[2][l-oop]  |
 | Tuesday   | [Docker][c2.2.1]<br>[AWS][c2.2.2]                                              | Frank | [slides][-]             |
-| Wednesday | [SQL][-]<br>[Python SQL][-]                                                    | Kayla | [slides][-]             |
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | Kayla | [slides][-]             |
 | Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla | [slides][-]             |
 | Friday    | [Spark EDA Case Study][c2.5.1]                                                 | Frank | [slides][150.2]         |
 
@@ -271,9 +271,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
+[c2.3.1]: https://github.com/GalvanizeDataScience/sql
+[c2.3.2]: https://github.com/GalvanizeDataScience/sql-python
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
+
+
 
 <!-- Week 3 -->
 [c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
