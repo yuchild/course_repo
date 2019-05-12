@@ -28,6 +28,7 @@ To jump to a week of interest, click on the link.
 | 12 | 07/29/19 | [Showcase](#week-12-showcase) |
 
 ## Other important links
+* [Daily Readings](./notes/readings.md) These assigned readings are meant to prepare you for the lectures and assignments that day.  Each reading is meant to require about 30 minutes, though some are also references and are more extensive.
 * [Solutions repo](https://github.com/GalvanizeDataScience/solutions-g90)  Solutions for the daily assignments, weekly reviews, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
 * [Weekly feedback](https://forms.gle/QaHo9NyxC2ZYFi2u8)  Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Past student projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
@@ -48,24 +49,24 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 
 ### Week 1: Programming for Data Science
-| Day  | Readings                                 | Repos                                                         |Lead |        Slides           |  
-|:----:|:-----------------------------------------|:--------------------------------------------------------------|:---:|:-----------------------:|    
-| Mon. |[AWS credit][r-aws]<br>[Unix][r-unix]     |Assessment 0<br>[git][git]<br>[Unix][unix]                     |Frank|[1][l-git]               |
-| Tue. |[Code style][r-python]<br>[Classes][r-oop]|[Python Intro.][python]<br>[OOP][oop]                          |Frank|[1][l-py]<br>[2][l-oop]  |
-| Wed. |[Pandas][r-pan]<br>[Matplotlib][r-mpl]    |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                       |Kayla|[1][l-pn]<br>[2][l-mpl]  |
-| Thu. |[LA notes][r-la]<br>[LA for DS][r-la4ds]  |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                   |Kayla|[1][l-nplalg]            |
-| Fri. |[Mongo][r-mdb]<br>[Webscraping][r-ws]     |[Review][wr]<br>[Mongo DB][c1.5.1]<br>[Web Scraping][c1.5.2]   |Frank|[1][l-md]<br>[2][l-ws]   |
+|    Day    | Repos                                                                          | Lead  |        Slides           |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
+| Monday    |Assessment 0<br>[git][git]<br>[Unix][unix]                                      | Frank |[1][l-git]               |
+| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Frank |[1][l-py]<br>[2][l-oop]  |
+| Wednesday |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Kayla |[1][l-pn]<br>[2][l-mpl]  |
+| Thursday  |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                                    | Kayla |[1][l-nplalg]            |
+| Friday    |[Review][wr]<br>[Mongo DB][c1.5.1]<br>[Web Scraping][c1.5.2]                    | Frank |[1][l-md]<br>[2][l-ws]   |
 
 --
 
 ### Week 2: Big Data
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  - <br/> -  | [Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  -  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
-| Friday |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
+|    Day    | Repos                                                                          | Lead  |        Slides           |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
+| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Data Structures][c2.1.2]  | Frank |[1][l-py]<br>[2][l-oop]  |
+| Tuesday   | [Docker][c2.2.1]<br>[AWS][c2.2.2]                                              | Frank | [slides][-]             |
+| Wednesday | [SQL][-]<br>[Python SQL][-]                                                    | Kayla | [slides][-]             |
+| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla | [slides][-]             |
+| Friday    | [Spark EDA Case Study][c2.5.1]                                                 | Frank | [slides][150.2]         |
 
 --
 
