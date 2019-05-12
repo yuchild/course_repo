@@ -28,7 +28,7 @@ To jump to a week of interest, click on the link.
 | 12 | 07/29/19 | [Showcase](#week-12-showcase) |
 
 ## Other important links
-* [Daily Readings](./notes/readings.md) These assigned readings are meant to prepare you for the lectures and assignments that day.  Each reading is meant to require about 30 minutes, though some are also references and are more extensive.
+* [Daily Readings](./notes/readings.md) The assigned readings are intended to prepare you for the lectures and assignments that day.  Allocate about 30 minutes for each reading, though some are also references and are more extensive.  Only the **bolded** readings are required for that day.
 * [Solutions repo](https://github.com/GalvanizeDataScience/solutions-g90)  Solutions for the daily assignments, weekly reviews, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
 * [Weekly feedback](https://forms.gle/QaHo9NyxC2ZYFi2u8)  Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Past student projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
@@ -62,11 +62,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Big Data
 |    Day    | Repos                                                                          | Lead  |        Slides           |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
-| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Data Structures][c2.1.2]  | Frank |[1][l-py]<br>[2][l-oop]  |
-| Tuesday   | [Docker][c2.2.1]<br>[AWS][c2.2.2]                                              | Frank | [slides][-]             |
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | Kayla | [slides][-]             |
-| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla | [slides][-]             |
-| Friday    | [Spark EDA Case Study][c2.5.1]                                                 | Frank | [slides][150.2]         |
+| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Data Structures][c2.1.2]  | Frank |[1][l-bgO]               |
+| Tuesday   | [Docker][c2.2.1]<br>[AWS][c2.2.2]                                              | Frank |[1][l-dck]<br>[2][l-aws] |
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | Kayla |[1][l-sql]<br>[2][l-pg2] |
+| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |[1][l-spk]               |
+| Friday    | [Spark EDA Case Study][c2.5.1]                                                 | Frank | -                       |
 
 --
 
@@ -341,3 +341,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-md]: https://github.com/gSchool/DSI_Lectures/tree/master/mongo/elliot_cohen
 [l-ws]: https://github.com/gschool/DSI_Lectures/tree/master/web-scraping
 [wr]: https://github.com/GalvanizeDataScience/weekly-student-led-review
+
+<!-- Week 2 -->
+[l-bgO]: https://github.com/gSchool/DSI_Lectures/tree/master/big-O 
+[l-dck]: https://github.com/gSchool/DSI_Lectures/tree/master/docker
+[l-aws]: https://github.com/gSchool/DSI_Lectures/tree/master/aws 
+[l-sql]: https://github.com/gSchool/DSI_Lectures/tree/master/sql
+[l-pg2]: https://github.com/gSchool/DSI_Lectures/tree/master/sql-python 
+[l-spk]: https://github.com/gSchool/DSI_Lectures/tree/master/spark
