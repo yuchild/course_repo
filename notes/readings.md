@@ -1,12 +1,14 @@
+Assigned readings are listed first each day and are **bolded**.
+
 
 ### Week 1: Programming for Data Science
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Unix Fundamental |  <ul><li>[Development Workflow][1.1.1] </li><li> [Pair Programming][1.1.2] </li><li> [Unix Philosophy][1.1.3] </li><li> [The Art of Data Science, Ch 2][1.1.4] </li></ul>| 
-| Tuesday |  Pandas <br/> Matplotlib | <ul><li>[10 minutes to Pandas][1.2.1] (not as cute as you would think) </li><li> [Pandas Top 10][1.2.2] </li><li>  [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li><li>(not sure this is the best place for these) [Effective Visualization][1.2.5] </li><li> [Less is More][1.2.6]</li></ul> | 
-| Wednesday | OOP <br/> Transformers|  <ul><li>[Learn Python the Hard Way (ex 40-43)][1.3.1]  </li></ul>| 
-| Thursday | Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra and Numpy][1.4.1] </li><li> [Linear Algebra Notes][1.4.2] </li></ul> | 
-| Friday |  Web Scraping Case Study |  -  | 
+| Monday | Git and Unix |[**Register for AWS credit**][r-aws]<br>[**Unix Philosophy**][1.1.3]<br>[Development Workflow][1.1.1]<br>[Pair Programming][1.1.2]<br>[The Art of Data Science, Ch 2][1.1.4]| 
+| Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]<br>[Learn Python the Hard Way (ex 40-43)][1.3.1]| 
+| Wednesday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Visualization][1.2.5]<br>[Less is More][1.2.6]<br>| 
+| Thursday | Linear Algebra<br>Numpy |[**Linear Algebra and Numpy**][1.4.1]<br>[**Linear Algebra for Data Science**][r-la4ds]<br>[Linear Algebra Notes][1.4.2]| 
+| Friday |  MongoDB<br>Web Scraping|[**MongoDB Basics**][r-mdb]<br>[**Webscraping with Python and Beautiful Soup**][r-ws]| 
 
 --
 
@@ -143,6 +145,19 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [EoSL]: https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 [MMDS]: http://infolab.stanford.edu/~ullman/mmds/book.pdf
 [SNA]: readings/Social_Network_Analysis_for_Startups.pdf
+
+
+<!-- Denver -->
+<!-- Week 1 -->
+[r-aws]: ./setup_aws.md
+[r-python]: https://docs.python-guide.org/writing/style/#general-concepts 
+[r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
+[r-mpl]: https://www.stat.berkeley.edu/~nelle/teaching/2017-visualization/README.html
+[r-la4ds]: https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
+[r-mdb]: https://flaviocopes.com/mongodb/
+[r-ws]: https://www.dataquest.io/blog/web-scraping-tutorial-python/
+
+
 
 <!-- Week 1 -->
 [1.1.1]: notes/workflow.md
