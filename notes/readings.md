@@ -1,5 +1,6 @@
-Assigned readings are listed first each day and are **bolded**.
+# Daily Readings
 
+For each day, assigned readings are listed first and are **bolded**. The rest of the readings for the day are supplementary.
 
 ### Week 1: Programming for Data Science
 | Day | Topic | Readings |
@@ -15,10 +16,10 @@ Assigned readings are listed first each day and are **bolded**.
 ### Week 2: Big Data
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Algorithmic Complexity <br/> Data Structures |  <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li><li> [Introduction to Data Structures] [-]</li></ul>| 
-| Tuesday | Docker <br/>  AWS  |  <ul><li>[Docker Getting Started][2.2.1] </li></ul> | 
-| Wednesday | SQL <br> Mongo DB |  <ul><li>[SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li><li> [Little book of MongoDB][2.3.3] </li></ul>| 
-| Thursday | Spark RDDs <br/> Spark SQL  | <ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
+| Monday | Algorithmic Complexity<br>Data Structures |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Linked Lists**][r-linkedl]<br>[Big O notation][r-bigO]| 
+| Tuesday | Docker <br>  AWS  |  [**Docker Getting Started**][2.2.1](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS]<br>**Read through three 10 minute tutorials**:<br>- Launch a VM (EC2)<br>- Store and Retrieve a File (S3)<br>- Store Multiple Files to the Cloud Using s3 and the AWS CLI |
+| Wednesday | SQL <br> Psycopg2 |[**SQLZOO (tutorial: 1-9)**][2.3.1]<br>[**Psycopg**][r-psycopg]<br>[Visual Explanation of Joins][2.3.2]| 
+| Thursday | Spark RDDs <br> Spark SQL  | [**Learning Spark**][LearningSpark] (ch 1-2, pg 1-22)<br>Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)<br>|
 | Friday | Spark EDA Case Study |  -   |  
 
 --
@@ -148,7 +149,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 
 <!-- Denver -->
-<!-- Week 1 -->
+<!-- Denver Week 1 -->
 [r-aws]: ./setup_aws.md
 [r-python]: https://docs.python-guide.org/writing/style/#general-concepts 
 [r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
@@ -157,6 +158,12 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-mdb]: https://flaviocopes.com/mongodb/
 [r-ws]: https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
+<!-- Denver Week 2-->
+[r-linkedl]: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html 
+[r-bigO]: https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c
+[r-start-AWS]: https://aws.amazon.com/start-now/
+[r-about-AWS]: https://aws.amazon.com/about-aws/
+[r-psycopg]: http://www.postgresqltutorial.com/postgresql-python/
 
 
 <!-- Week 1 -->
@@ -180,7 +187,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 <!-- Week 2 -->
 
 [2.2.1]: https://docs.docker.com/get-started/
-
 [2.3.1]: http://sqlzoo.net/wiki/Main_Page
 [2.3.2]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
 [2.3.3]: http://openmymind.net/mongodb.pdf
