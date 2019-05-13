@@ -66,18 +66,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Big Data
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] |  Flora  | [Slides][-] |
+| Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] |  Flora  | [AM][lec-bigo] |
 | Tuesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [slides][-] |
 | Wednesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql]                                                           |  Hamid  | [slides][-] |
-| Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Flora  | [slides][-] |
+| Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Flora  | [AM][-] <br/>[PM][-] |
 | Friday    || [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   | [slides][150.2] |
-
-[r-intro-alg]:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
-[r-mongo]:http://openmymind.net/mongodb.pdf
-[r-web-scraping]:https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
-[r-sqlzoo]:http://sqlzoo.net/wiki/Main_Page
-[r-sql-join]:http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
-[r-spark]:https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
 
 --
 
@@ -280,6 +273,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/oop_pm
 [lec-docker]:https://github.com/GalvanizeDataScience/lectures/blob/SF/docker/docker.pptx
 [lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/SF/aws
+[lec-bigo]:https://github.com/GalvanizeDataScience/lectures/tree/SF/big_o
 
 <!-- Assignments -->
 <!-- Week 1 -->
@@ -363,6 +357,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-multiproc]:https://www.youtube.com/watch?v=X2mO1O5Nuwg
 [r-intro-parallel]:http://sebastianraschka.com/Articles/2014_multiprocessing.html
 [r-intro-threading]:http://pymotw.com/2/threading/
-
+[r-intro-alg]:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
+[r-mongo]:http://openmymind.net/mongodb.pdf
+[r-web-scraping]:https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+[r-sqlzoo]:http://sqlzoo.net/wiki/Main_Page
+[r-sql-join]:http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+[r-spark]:https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
 <!-- Week 2 -->
 
