@@ -18,7 +18,7 @@
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Mongo DB <br/> Web Scraping |  <ul><li>[Little book of MongoDB][1.5.1]</li><li>[Basic Web Scaping][1.5.2]</li></ul>  |
-| Tuesday | Algorithmic Complexity <br/> Data Structures |  <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li><li> [Introduction to Data Structures] [-]</li></ul>| 
+| Tuesday | Algorithmic Complexity <br/> Data Structures |  <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li></ul>| 
 | Wednesday | SQL <br> Python SQL |  <ul><li> [SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li></ul>| 
 | Thursday | Spark RDDs <br/> Spark SQL  | <ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
 | Friday | Spark EDA Case Study |  -   |  
