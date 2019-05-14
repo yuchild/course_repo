@@ -19,7 +19,7 @@
 |:--:|:--|:--:|
 | Monday | Mongo DB <br/> Web Scraping |  <ul><li>[Little book of MongoDB][1.5.1]</li><li>[Basic Web Scaping][1.5.2]</li></ul>  |
 | Tuesday | Algorithmic Complexity <br/> Data Structures |  <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li></ul>| 
-| Wednesday | SQL <br> Python SQL |  <ul><li> [SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li></ul>| 
+| Wednesday | SQL <br> Python SQL |  <ul><li> [SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li> <li> Optional [Intro to ERD][2.3.3] </li></ul>| 
 | Thursday | Spark RDDs <br/> Spark SQL  | <ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
 | Friday | Spark EDA Case Study |  -   |  
 
@@ -175,7 +175,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 [2.3.1]: http://sqlzoo.net/wiki/Main_Page
 [2.3.2]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
-
+[2.3.3]: https://www.smartdraw.com/entity-relationship-diagram/
 
 <!-- Week 3 -->
 [3.1.1]: http://cs229.stanford.edu/section/cs229-prob.pdf
