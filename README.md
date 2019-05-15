@@ -299,7 +299,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [webscraping]: https://github.com/GalvanizeDataScience/web-scraping
 [rdds]: https://github.com/GalvanizeDataScience/spark-rdds
 [dfs]: https://github.com/GalvanizeDataScience/spark-dfs
-[c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study/blob/g92
+[c2.5.1]:https://github.com/GalvanizeDataScience/Spark-Case-Study/tree/g92
 
 <!-- Week 3 -->
 [prob]:https://github.com/GalvanizeDataScience/probability-distributions
