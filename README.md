@@ -40,6 +40,7 @@ To jump to a week of interest, click on the link.
 * [Pairing](notes/pairing.md): Notes on how to pair program
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
+* [Google drive for Project Submissions](https://drive.google.com/drive/folders/11kF4hanRIU50rpWLFTh_R7EHb_dr4jtY)
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
