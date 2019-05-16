@@ -66,7 +66,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   | [Docker][c2.2.1]<br>[AWS][c2.2.2]                                              | Frank |[1][l-dck]<br>[2][l-aws] |
 | Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | Kayla |[1][l-sql]<br>[2][l-pg2] |
 | Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |[1][l-spk]               |
-| Friday    | [Spark EDA Case Study][c2.5.1]                                                 | Frank | -                       |
+| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Frank | -                       |
 
 --
 
