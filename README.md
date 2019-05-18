@@ -71,24 +71,24 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 3: Statistical Inference
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  -  | [slides][-] |
-| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
-| Friday | [Stats Case Study][-] |  -   | - |
+|    Day    | Repos                                                                          | Lead  |        Slides           |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
+| Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | Frank |[1][l-prob]              |
+| Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]           | Kayla |[1][l-samp]              |
+| Wednesday | Capstone Proposals Due<br>[Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle] | Frank |[1][l-samp]              |
+| Thursday  | [Hypothesis Testing][hyp-ts]<br>[Power Calculation][power]                     | Kayla |[1][l-powr]              |
+| Friday    | [Review][wr]<br>[Flask][flask]                                                 | Frank |[1][l-flsk]              |
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  -   | [slides][-] |
-| Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday | Memorial Day (no class)   |  -   |  |
+| Tuesday |  Capstone/Mock Interview |  -  | - |
+| Wednesday | Capstone/Mock Interview | - | - |
+| Thursday | Capstone/Mock Interview | - | - |
+| Friday | Capstone Presentations  | - | - |
 
 --
 
@@ -349,3 +349,19 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-sql]: https://github.com/gSchool/DSI_Lectures/tree/master/sql
 [l-pg2]: https://github.com/gSchool/DSI_Lectures/tree/master/sql-python 
 [l-spk]: https://github.com/gSchool/DSI_Lectures/tree/master/spark
+
+
+<!-- Week 3-->
+[prob-dist]: https://github.com/GalvanizeDataScience/probability-distributions
+[binom-tst]: https://github.com/GalvanizeDataScience/binomial-tests
+[smp-dist]: https://github.com/GalvanizeDataScience/sampling-distributions
+[law-ln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
+[clt-bs]: https://github.com/GalvanizeDataScience/central-limit
+[mle]: https://github.com/GalvanizeDataScience/maximum-likelihood
+[hyp-ts]: https://github.com/GalvanizeDataScience/hypothesis-testing
+[power]: https://github.com/GalvanizeDataScience/statistical-power
+[flask]: https://github.com/GalvanizeDataScience/data-products
+[l-prob]: https://github.com/gSchool/DSI_Lectures/tree/master/probability
+[l-samp]: https://github.com/gSchool/DSI_Lectures/tree/master/estimation-sampling
+[l-powr]: https://github.com/gSchool/DSI_Lectures/tree/master/power-bayesian
+[l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
