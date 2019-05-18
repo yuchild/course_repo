@@ -78,7 +78,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 3: Statistical Inference
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday   | [Review of Probability Theory][r-] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [slides][-] |
+| Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [slides][-] |
 | Tuesday  | | [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
 | Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
 | Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
