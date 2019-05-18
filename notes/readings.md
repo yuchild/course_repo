@@ -4,7 +4,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 
 ### Week 1: Programming for Data Science
 | Day | Topic | Readings |
-|:--:|:--|:--:|
+|:--:|:--|:---|
 | Monday | Git and Unix |[**Register for AWS credit**][r-aws]<br>[**Unix Philosophy**][1.1.3]<br>[Development Workflow][1.1.1]<br>[Pair Programming][1.1.2]<br>[The Art of Data Science, Ch 2][1.1.4]| 
 | Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]<br>[Learn Python the Hard Way (ex 40-43)][1.3.1]| 
 | Wednesday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Visualization][1.2.5]<br>[Less is More][1.2.6]<br>| 
@@ -15,7 +15,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 
 ### Week 2: Big Data
 | Day | Topic | Readings |
-|:--:|:--|:--:|
+|:--:|:--|:---|
 | Monday | Algorithmic Complexity<br>Data Structures |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Linked Lists**][r-linkedl]<br>[Big O notation][r-bigO]| 
 | Tuesday | Docker <br>  AWS  |  [**Docker Getting Started**][2.2.1](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS]<br>**Read through three 10 minute tutorials**:<br>- Launch a VM (EC2)<br>- Store and Retrieve a File (S3)<br>- Store Multiple Files to the Cloud Using s3 and the AWS CLI |
 | Wednesday | SQL <br> Psycopg2 |[**SQLZOO (tutorial: 1-9)**][2.3.1]<br>[**Psycopg**][r-psycopg]<br>[Visual Explanation of Joins][2.3.2]| 
@@ -26,9 +26,9 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 
 ### Week 3: Statistical Inference
 | Day | Topic | Readings |
-|:--:|:--|:--:|
-| Monday | Probability <br/> Binomial Tests |  <ul><li>[Review of Probability Theory][3.1.1] </li><li> [Binomial Test Review] [ - ] </li></ul>| 
-| Tuesday |  Sampling Distributions <br/> Law of Large Numbers |  <ul><li>[Sampling Distributions] [ - ] </li><li>  [Law of Large Numbers] [ - ] </li></ul>| 
+|:--:|:--|:---|
+| Monday | Probability <br> Binomial Tests |  [**Seeing Theory: Basic Probability, Compound Probability, and Probability Distributions**][r-see-theory-1-3] <br> [**Binomial Test**][r-binom-test] <br> [Review of Probability Theory][3.1.1] | 
+| Tuesday |  Sampling Distributions <br/> Law of Large Numbers |  [**Seeing Theory: Frequentist Inference**][r-see-theory-4] <br> [**Law of Large Numbers**][r-law-large-numbers]| 
 | Wednesday |  Central Limit Theorem <br/> Maximum Likelihood Estimation | <ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul>| 
 | Thursday |  Hypothesis Testing <br/> Power Calculation | <ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul>| 
 | Friday | Stats Case Study |  -   |
@@ -201,6 +201,10 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [3.4.1]: https://www.youtube.com/watch?v=5ABpqVSx33I
 [3.4.2]: https://www.youtube.com/watch?v=-FtlH4svqx4
 [3.4.3]: https://www.youtube.com/watch?v=lHI5oEgNkrk
+[r-see-theory-1-3]: https://seeing-theory.brown.edu/basic-probability/index.html
+[r-binom-test]: https://en.wikipedia.org/wiki/Binomial_test
+[r-see-theory-4]: https://seeing-theory.brown.edu/frequentist-inference/index.html
+[r-law-large-numbers]: https://en.wikipedia.org/wiki/Law_of_large_numbers
 
 <!-- Week 4 -->
 [4.1.1]: http://flask.pocoo.org/
