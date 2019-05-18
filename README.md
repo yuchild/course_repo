@@ -79,7 +79,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [slides][-] |
-| Tuesday  | | [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
+| Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
 | Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
 | Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
 | Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | - |
@@ -384,3 +384,4 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-ztest]:https://www.youtube.com/watch?v=5ABpqVSx33I
 [r-hypo]:https://www.youtube.com/watch?v=-FtlH4svqx4
 [r-power]:https://www.youtube.com/watch?v=lHI5oEgNkrk
+[r-bootstrap]:https://www.youtube.com/watch?v=_nhgHjdLE-I
