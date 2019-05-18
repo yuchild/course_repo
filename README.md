@@ -76,13 +76,14 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 3: Statistical Inference
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday    | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [slides][-] |
-| Tuesday   | [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
-| Wednesday | [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
-| Thursday  | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
-| Friday    | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot/Hamid/Flora   | - |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-----------------------------------------|:--|:--:|:--:|
+| Monday   | [Review of Probability Theory][r-] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [slides][-] |
+| Tuesday  | | [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
+| Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
+| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
+| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | - |
+
 
 --
 
@@ -100,7 +101,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 5: Supervised Learning and Regression
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [slides][-] |
+| Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Lori/Flora | [slides][-] |
 | Tuesday |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
@@ -284,6 +285,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-spark-df]:https://github.com/GalvanizeDataScience/lectures/tree/SF/spark/spark_df_lecture.ipynb
 
 
+
 <!-- Assignments -->
 <!-- Week 1 -->
 [unix]: https://github.com/GalvanizeDataScience/unix
@@ -366,11 +368,19 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-multiproc]:https://www.youtube.com/watch?v=X2mO1O5Nuwg
 [r-intro-parallel]:http://sebastianraschka.com/Articles/2014_multiprocessing.html
 [r-intro-threading]:http://pymotw.com/2/threading/
+
+<!-- Week 2 -->
 [r-intro-alg]:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
 [r-mongo]:http://openmymind.net/mongodb.pdf
 [r-web-scraping]:https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
 [r-sqlzoo]:http://sqlzoo.net/wiki/Main_Page
 [r-sql-join]:http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
 [r-spark]:https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
-<!-- Week 2 -->
 
+<!-- Week 3 -->
+[r-prob]:http://cs229.stanford.edu/section/cs229-prob.pdf
+[r-clt]:https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/sampling-distribution-mean/v/central-limit-theorem
+[r-mle]:https://www.youtube.com/watch?v=I_dhPETvll8
+[r-ztest]:https://www.youtube.com/watch?v=5ABpqVSx33I
+[r-hypo]:https://www.youtube.com/watch?v=-FtlH4svqx4
+[r-power]:https://www.youtube.com/watch?v=lHI5oEgNkrk
