@@ -75,8 +75,8 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
 | Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | Frank |[1][l-prob]              |
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]           | Kayla |[1][l-samp]              |
-| Wednesday | Capstone Proposals Due<br>[Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle] | Frank |[1][l-samp]              |
-| Thursday  | [Hypothesis Testing][hyp-ts]<br>[Power Calculation][power]                     | Kayla |[1][l-powr]              |
+| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]        | Frank |[1][l-samp]              |
+| Thursday  | Capstone proposals due 9 am<br>[Hypothesis Testing][hyp-ts]<br>[Power Calculation][power] | Kayla |[1][l-powr]              |
 | Friday    | [Review][wr]<br>[Flask][flask]                                                 | Frank |[1][l-flsk]              |
 
 --
