@@ -29,7 +29,7 @@
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Probability <br/> Binomial Tests |  <ul><li>[Review of Probability Theory][3.1.1] </li><li> [Binomial Test Review] [ - ] </li></ul>| 
-| Tuesday |  Sampling Distributions <br/> Law of Large Numbers |  <ul><li>[Sampling Distributions] [ - ] </li><li>  [Law of Large Numbers] [ - ] </li></ul>| 
+| Tuesday |  Sampling Distributions <br/> Law of Large Numbers |  <ul><li>[Sampling Distributions][3.2.1] </li><li>  [Law of Large Numbers][3.2.2] </li></ul>| 
 | Wednesday |  Central Limit Theorem <br/> Maximum Likelihood Estimation | <ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul>| 
 | Thursday |  Hypothesis Testing <br/> Power Calculation | <ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul>| 
 | Friday | Stats Case Study |  -   |
@@ -179,6 +179,9 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 <!-- Week 3 -->
 [3.1.1]: http://cs229.stanford.edu/section/cs229-prob.pdf
+
+[3.2.1]: https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/introduction-to-sampling-distributions
+[3.2.2]: https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/law-of-large-numbers
 
 [3.3.1]: https://www.khanacademy.org/math/probability/statistics-inferential/sampling_distribution/v/central-limit-theorem
 [3.3.2]: https://www.youtube.com/watch?v=I_dhPETvll8
