@@ -80,9 +80,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
 | Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
-| Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
+| Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
 | Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
 | Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | - |
+
 
 --
 
@@ -321,8 +322,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [binom]:https://github.com/GalvanizeDataScience/binomial-tests
 [sampling]: https://github.com/GalvanizeDataScience/sampling-distributions-dev/blob/master/assignment.md
 [lln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
-[c3.3.1]: https://github.com/GalvanizeDataScience/central-limit
-[c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
+[clt]:https://github.com/GalvanizeDataScience/central-limit-theorem-dev/blob/master/assignment.md
+[mle]:https://github.com/GalvanizeDataScience/maximum-likelihood
 [c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 
