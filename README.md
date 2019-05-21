@@ -79,7 +79,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
-| Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2]  |  Flora  | [slides][-] |
+| Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [slides][-] |
 | Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Hamid  | [slides][-] |
 | Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [slides][-] |
 | Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | - |
@@ -314,8 +314,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 3 -->
 [prob]:https://github.com/GalvanizeDataScience/probability-distributions
 [binom]:https://github.com/GalvanizeDataScience/binomial-tests
-[c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
-[c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
+[sampling]: https://github.com/GalvanizeDataScience/sampling-distributions-dev/blob/master/assignment.md
+[lln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [c3.3.1]: https://github.com/GalvanizeDataScience/central-limit
 [c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
 [c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
