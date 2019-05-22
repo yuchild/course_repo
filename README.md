@@ -291,7 +291,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-tlln]:https://github.com/GalvanizeDataScience/lectures/tree/SF/the_law_of_large_numbers
 [lec-clm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/central_limit_theorem
 [lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/maximum_likelihood
-[lec-hypothesis]:https://google.com
+[lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/SF/hypothesis_testing
 [lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/SF/statistical_power
 
 <!-- Assignments -->
