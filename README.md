@@ -291,7 +291,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-tlln]:https://github.com/GalvanizeDataScience/lectures/tree/SF/the_law_of_large_numbers
 [lec-clm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/central_limit_theorem
 [lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/maximum_likelihood
-[lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/SF/hypothesis_testing
+[lec-hypothesis]:https://google.com
 [lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/SF/statistical_power
 
 <!-- Assignments -->
@@ -327,7 +327,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 [132.0]:  https://github.com/Esaslow/FlaskWebsite
-[lec-hypothesis]: https://google.com
+
 
 
 <!-- Week 4 -->
