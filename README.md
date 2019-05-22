@@ -82,7 +82,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
 | Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
 | Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
-| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | - |
+| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | [Lecture Repository][132.0] |
 
 
 --
