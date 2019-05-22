@@ -55,7 +55,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Brandon  | [Algorithmic Complexity][slides-bigo] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Brandon | [Docker][slides-docker]  |
+| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Brandon | [Docker][slides-docker] <br/> [AWS][slides-aws] |
 | Wednesday | [SQL][-]<br>[Python SQL][-] |  Sharad  | [SQL][slides-sql] <br/> [Python SQL][slides-pysql]  |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Brandon  | [Spark][slides-spark] |
 | Friday |  [Spark EDA Case Study][c2.5.1] | Brandon   |  |
@@ -278,6 +278,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 [slides-bigo]: https://github.com/gSchool/DSI_Lectures/blob/master/interview-week/brandon_ma/runtime_analysis.ipynb
 [slides-docker]: https://github.com/gSchool/DSI_Lectures/blob/master/docker/brandon_ma/docker_setup.md
+[slides-aws]: https://github.com/gSchool/DSI_Lectures/blob/master/high-performance-python/moses_marsh/aws_lecture.ipynb
 [slides-sql]: https://github.com/gSchool/DSI_Lectures/tree/master/sql/jack_bennetto
 [slides-pysql]: https://github.com/gSchool/DSI_Lectures/tree/master/sql/jack_bennetto/sql-python
 [slides-spark]: https://github.com/gSchool/DSI_Lectures/blob/master/spark/brandon_ma/spark_fundamentals.ipynb
