@@ -62,14 +62,14 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 
 --
 
-### Week 3: Statistical Inference
+### Week 3: [Statistical Inference](https://github.com/GalvanizeDataScience/matts-stats-week)
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Matt  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Matt  | [Probability][slides-prob] <br/> [Binomial Tests][slides-binom] |
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Matt  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Matt  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Matt  | [slides][-] |
-| Friday | Discuss and kickoff capstone 1 |  Brandon   | - |
+| Thursday |  [Hypothesis Testing][c3.4.1]<br/> |  Matt  | [slides][-] |
+| Friday | [Power Calculation][c3.4.2] <br/> Discuss and kickoff capstone 1 | Matt / Brandon   | - |
 
 --
 
