@@ -20,15 +20,15 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 | 1 | --- | [Programming](#week-1-programming-for-data-science) |
 | 2 | --- |  [Big Data](#week-2-big-data) |
 | 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
+| 4 | --- | [**Capstone 1**](#week-4-unit-1-capstone) |
 | 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
 | - | --- | Solo Week |
 | 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
 | 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
+| 8 | --- | [**Capstone 2**](#week-8-unit-2-capstone) |
 | 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
 | 10 | --- | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | --- | [Capstone 3](#week-11-unit-3-capstone) |
+| 11 | --- | [**Capstone 3**](#week-11-unit-3-capstone) |
 | 12 | --- | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
