@@ -56,7 +56,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Brandon  | [Algorithmic Complexity][slides-bigo] |
 | Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Brandon | [Docker][slides-docker] <br/> [AWS][slides-aws] |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  Sharad  | [SQL][slides-sql] <br/> [Python SQL][slides-pysql]  |
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][-] |  Sharad  | [SQL][slides-sql] <br/> [Python SQL][slides-pysql]  |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Brandon  | [Spark][slides-spark] |
 | Friday |  [Spark EDA Case Study][c2.5.1] | Brandon   |  |
 
@@ -65,7 +65,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Probability][-]<br/>[Binomial Tests][-] |  Matt  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Matt  | [slides][-] |
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Matt  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Matt  | [slides][-] |
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Matt  | [slides][-] |
@@ -272,6 +272,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
+[c2.3.1]: https://github.com/gSchool/dsi-sql
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
@@ -284,6 +285,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [slides-spark]: https://github.com/gSchool/DSI_Lectures/blob/master/spark/brandon_ma/spark_fundamentals.ipynb
 
 <!-- Week 3 -->
+[c3.1.1]: https://github.com/GalvanizeDataScience/probability-distributions
+[c3.1.2]: https://github.com/GalvanizeDataScience/binomial-tests
 [c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
 [c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [c3.3.1]: https://github.com/GalvanizeDataScience/central-limit
