@@ -69,7 +69,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Matt  | [Sampling Dists][slides-sampledists] <br/> [Law of Large Numbers][slides-lln] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Matt  | [Central Limit Theorem][slides-clt] <br/> [Maximum Likelihood Estimation][slides-mle] |
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/> |  Matt  | [Hypothesis Testing][slides-hyptest] |
-| Friday | [Power Calculation][c3.4.2] <br/> Discuss and kickoff capstone 1 | Matt / Brandon   | [Hypothesis Testing][slides-power] |
+| Friday | [Power Calculation][c3.4.2] <br/> Discuss and kickoff capstone 1 | Matt / Brandon   | [Power Calculation][slides-power] |
 
 --
 
