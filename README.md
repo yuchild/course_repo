@@ -54,11 +54,11 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Brandon  | [Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Brandon | [slides][-]  |
-| Wednesday | [SQL][-]<br>[Python SQL][-] |  Matt?  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Brandon  | [slides][-] |
-| Friday |  [Spark EDA Case Study][c2.5.1] | Brandon   | [slides][150.2] |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  Brandon  | [Algorithmic Complexity][slides-bigo] |
+| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  Brandon | [Docker][slides-docker]  |
+| Wednesday | [SQL][-]<br>[Python SQL][-] |  Sharad  | [SQL][slides-sql] <br/> [Python SQL][slides-pysql]  |
+| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Brandon  | [Spark][slides-spark] |
+| Friday |  [Spark EDA Case Study][c2.5.1] | Brandon   |  |
 
 --
 
@@ -275,6 +275,12 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
+
+[slides-bigo]: https://github.com/gSchool/DSI_Lectures/blob/master/interview-week/brandon_ma/runtime_analysis.ipynb
+[slides-docker]: https://github.com/gSchool/DSI_Lectures/blob/master/docker/brandon_ma/docker_setup.md
+[slides-sql]: https://github.com/gSchool/DSI_Lectures/tree/master/sql/jack_bennetto
+[slides-pysql]: https://github.com/gSchool/DSI_Lectures/tree/master/sql/jack_bennetto/sql-python
+[slides-spark]: https://github.com/gSchool/DSI_Lectures/blob/master/spark/brandon_ma/spark_fundamentals.ipynb
 
 <!-- Week 3 -->
 [c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
