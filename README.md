@@ -43,11 +43,11 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Jack  | [slides][s1.1] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Jack  | [slides][s1.2] |
-| Wednesday | [OOP][c1.3.1] |  Brandon  | [slides][s1.3]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Matt  | [slides][s1.4] |
-| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Brandon  | [slides][s1.5] |
+| Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  Jack  | [Unix][slide-unix] |
+| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Jack  | [Pandas][slide-pandas] <br/> [Matplotlib][slide-matplotlib] |
+| Wednesday | [OOP][c1.3.1] |  Brandon  | [OOP][slide-oop]  |
+| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Matt  | [Linear Algebra][slide-linalg] |
+| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Brandon  | [Mongo DB][slide-mongo] <br/> [Web Scraping][slide-webscraping]|
 
 --
 
@@ -257,6 +257,15 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c1.4.2]: https://github.com/GalvanizeDataScience/numpy
 [c1.5.1]: https://github.com/GalvanizeDataScience/mongo-db
 [c1.5.2]: https://github.com/GalvanizeDataScience/web-scraping
+
+[slide-unix]: https://github.com/gSchool/DSI_Lectures/blob/master/fundamentals/jack_bennetto/unix.md
+[slide-pandas]: https://github.com/gschool/DSI_Lectures/tree/master/pandas
+[slide-matplotlib]: https://github.com/gschool/DSI_Lectures/tree/master/pandas-matplotlib
+[slide-oop]: https://github.com/gSchool/DSI_Lectures/tree/master/OOP/brandon_ma
+[slide-linalg]: https://github.com/gschool/DSI_Lectures/tree/master/linear-algebra-eda
+[slide-webscraping]: https://github.com/gSchool/DSI_Lectures/blob/master/web-scraping/brandon_ma/scraping.ipynb
+[slide-mongo]: https://github.com/gSchool/DSI_Lectures/blob/master/web-scraping/brandon_ma/mongo.ipynb
+
 
 <!-- Week 2 -->
 [c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
