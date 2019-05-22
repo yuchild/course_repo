@@ -15,20 +15,20 @@ The [nighly readings](notes/readings.md) are maintained in a separate file.  Man
 # Schedule
 | Week | Date | Topic |
 | --- | --- | --- |
-| 0 | --- | Week 0 Prep |
-| 1 | --- | [Programming](#week-1-programming-for-data-science) |
-| 2 | --- |  [Big Data](#week-2-big-data) |
-| 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
-| - | --- | Solo Week |
-| 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | --- | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | --- | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | --- | [Career Week](#week-12-career-week) |
+| 0 | 4/29/19 | Week 0 Prep |
+| 1 | 5/06/19 | [Programming](#week-1-programming-for-data-science) |
+| 2 | 5/13/19 |  [Big Data](#week-2-big-data) |
+| 3 | 5/20/19 | [Statistical Inference](#week-3-statistical-inference) |
+| 4 | 5/28/19 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 6/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
+| - | 6/10/19 | Solo Week |
+| 6 | 6/17/19 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 7 | 6/24/19 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 8 | 7/01/19 | [Capstone 2](#week-8-unit-2-capstone) |
+| 9 | 7/08/19 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 10 | 7/15/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 11 | 7/22/19 | [Capstone 3](#week-11-unit-3-capstone) |
+| 12 | 7/29/19 | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
