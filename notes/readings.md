@@ -29,9 +29,9 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 |:--:|:--|:---|
 | Monday | Probability <br> Binomial Tests |  [**Seeing Theory: Basic Probability, Compound Probability, and Probability Distributions**][r-see-theory-1-3] <br> [**Binomial Test**][r-binom-test] <br> [Review of Probability Theory][3.1.1] | 
 | Tuesday |  Sampling Distributions <br/> Law of Large Numbers |  [**Seeing Theory: Frequentist Inference**][r-see-theory-4] <br> [**Law of Large Numbers**][r-law-large-numbers]| 
-| Wednesday |  Central Limit Theorem <br/> Maximum Likelihood Estimation | <ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul>| 
-| Thursday |  Hypothesis Testing <br/> Power Calculation | <ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul>| 
-| Friday | Stats Case Study |  -   |
+| Wednesday |  Central Limit Theorem <br/> Maximum Likelihood Estimation | [**Central Limit Theorem**][3.3.1]<br>[**MLE**][3.3.2]| 
+| Thursday |  Hypothesis Testing <br> Power Calculation | [**z-test VS t-test**][3.4.1]<br>[**Hypothesis Testing**][3.4.2] <br> [**Power Analysis**][3.4.3]| 
+| Friday | Flask |[**Flask setup**][r-flask1]<br>[**Flask MegaTutorial, Chapters 1 and 2**][r-flask2]|
 
 --
 
@@ -205,6 +205,9 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-binom-test]: https://en.wikipedia.org/wiki/Binomial_test
 [r-see-theory-4]: https://seeing-theory.brown.edu/frequentist-inference/index.html
 [r-law-large-numbers]: https://en.wikipedia.org/wiki/Law_of_large_numbers
+[r-flask1]: http://flask.pocoo.org/
+[r-flask2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 
 <!-- Week 4 -->
 [4.1.1]: http://flask.pocoo.org/
