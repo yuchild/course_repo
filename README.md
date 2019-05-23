@@ -2,6 +2,29 @@
 
 Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll find all the information you need to know about the day to day activities in the program.
 
+# Handy Resources
+
+* [Lecture material](https://github.com/gSchool/DSI_Lectures/) 
+  * there's a lot of it, see the readme for tips on downloading it. Don't fork this repo, just clone it
+* [Morning warmup exercises](https://github.com/gschool/dsi-warmups)
+* [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeh2TqggE5jisWBh2coL6KHdEfSelEdP2MaU2DXeTnA-1GsUQ/viewform)
+* [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)
+  * [Project proposal tips & schedule](TODO
+  * [Project proposal google folder](TODO): make a folder with your name, submit your proposals as a google doc
+
+# Notes
+
+In the notes folder, you'll find these things:
+
+* [Pairing](notes/pairing.md): Notes on how to pair program
+* [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
+* [Workflow](notes/workflow.md): Notes on programming workflow
+* [Docker Setup](notes/docker_setup.md): how to install & use Docker
+* [Docker Setup - Postgres](notes/docker_postgres.md): how to use PostgresSQL with Docker & Python
+* [Docker Setup - MongoDB](notes/docker_mongodb.md): how to use MongoDB with Docker & Python
+* [Docker Setup - Spark](notes/docker_spark.md): how to use Spark with Docker & Python
+
+
 # Course Outline
 This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
 
