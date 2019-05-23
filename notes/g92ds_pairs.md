@@ -1,4 +1,4 @@
-*--- Wed 5/8 ---*
+**--- Wed 5/8 ---**
 
 Bill, J-G
 
@@ -19,7 +19,7 @@ Ian, Vinh
 
 
 
-*--- Thurs 5/9 ---*
+**--- Thurs 5/9 ---**
 
 J-G, James
 
@@ -40,7 +40,7 @@ Herbert, Karen
 
 
 
-*--- Fri 5/10 ---*
+**--- Fri 5/10 ---**
 
 James, Jonathan
 
@@ -61,17 +61,17 @@ Guang, Ian
 
 
 
-*--- Mon 5/13 ---*
+**--- Mon 5/13 ---**
 
 Jonathan, Tyler
 
 James, Michael
 
-J-G, Qiang, Guang
+J-G, Qiang
 
 Bill, Samuel
 
-Chris, Vinh
+Guang, Vinh
 
 Claudio, Karen
 
@@ -82,19 +82,19 @@ Franz, Herbert
 
 
 
-*--- Tues 5/14 ---*
+**--- Tues 5/14 ---**
 
 Tyler, Michael
 
 Jonathan, Qiang
 
-James, Samuel, Franz
+James, Samuel 
 
 J-G, Vinh
 
 Bill, Karen
 
-Chris, Ian
+Franz, Ian
 
 Claudio, Herbert
 
@@ -103,13 +103,13 @@ Daniel, Guang
 
 
 
-*--- Wed 5/15 ---*
+**--- Wed 5/15 ---**
 
 Michael, Qiang
 
 Tyler, Samuel
 
-Jonathan, Vinh, Daniel
+Jonathan, Vinh 
 
 James, Karen
 
@@ -117,20 +117,20 @@ J-G, Ian
 
 Bill, Herbert
 
-Chris, Guang
+Daniel, Guang
 
 Claudio, Franz
 
 
 
 
-*--- Thurs 5/16 ---*
+**--- Thurs 5/16 ---**
 
 Qiang, Samuel
 
 Michael, Vinh
 
-Tyler, Karen, Claudio
+Tyler, Karen 
 
 Jonathan, Ian
 
@@ -140,18 +140,18 @@ J-G, Guang
 
 Bill, Franz
 
-Chris, Daniel
+Claudio, Daniel
 
 
 
 
-*---  ---*
+**--- Mon 5/20 ---**
 
 Samuel, Vinh
 
 Qiang, Karen
 
-Michael, Ian, Chris
+Michael, Ian
 
 Tyler, Herbert
 
@@ -166,13 +166,13 @@ Bill, Claudio
 
 
 
-*---  ---*
+**--- Tues 5/21 ---**
 
 Vinh, Karen
 
 Samuel, Ian
 
-Qiang, Herbert, Bill
+Qiang, Herbert 
 
 Michael, Guang
 
@@ -182,18 +182,18 @@ Jonathan, Daniel
 
 James, Claudio
 
-J-G, Chris
+J-G, Bill
 
 
 
 
-*---  ---*
+**--- Wed 5/22 ---**
 
 Karen, Ian
 
 Vinh, Herbert
 
-Samuel, Guang, J-G
+Samuel, Guang 
 
 Qiang, Franz
 
@@ -201,26 +201,26 @@ Michael, Daniel
 
 Tyler, Claudio
 
-Jonathan, Chris
+Jonathan, J-G
 
 James, Bill
 
 
 
 
-*---  ---*
+**--- Thurs 5/23 ---**
 
 Ian, Herbert
 
 Karen, Guang
 
-Vinh, Franz, James
+Vinh, Franz 
 
 Samuel, Daniel
 
 Qiang, Claudio
 
-Michael, Chris
+Michael, James
 
 Tyler, Bill
 
@@ -229,17 +229,17 @@ Jonathan, J-G
 
 
 
-*---  ---*
+**--- Mon 6/3 ---**
 
 Herbert, Guang
 
 Ian, Franz
 
-Karen, Daniel, Jonathan
+Karen, Daniel 
 
 Vinh, Claudio
 
-Samuel, Chris
+Samuel, Jonathan
 
 Qiang, Bill
 
@@ -250,15 +250,15 @@ Tyler, James
 
 
 
-*---  ---*
+**--- Tues 6/4 ---**
 
 Guang, Franz
 
 Herbert, Daniel
 
-Ian, Claudio, Tyler
+Ian, Claudio 
 
-Karen, Chris
+Karen, Tyler
 
 Vinh, Bill
 
@@ -271,13 +271,13 @@ Michael, Jonathan
 
 
 
-*---  ---*
+**--- Wed 6/5  ---**
 
 Franz, Daniel
 
 Guang, Claudio
 
-Herbert, Chris, Michael
+Herbert, Michael
 
 Ian, Bill
 
@@ -292,13 +292,13 @@ Qiang, Tyler
 
 
 
-*---  ---*
+**--- Thurs 6/6 ---**
 
 Daniel, Claudio
 
-Franz, Chris
+Franz, Qiang
 
-Guang, Bill, Qiang
+Guang, Bill 
 
 Herbert, J-G
 
@@ -313,13 +313,13 @@ Samuel, Michael
 
 
 
-*---  ---*
+**--- Mon 6/17 ---**
 
-Claudio, Chris
+Claudio, Samuel
 
 Daniel, Bill
 
-Franz, J-G, Samuel
+Franz, J-G 
 
 Guang, James
 
@@ -334,13 +334,13 @@ Vinh, Qiang
 
 
 
-*---  ---*
+**--- Tues 6/18 ---**
 
-Chris, Bill
+Vinh, Bill
 
 Claudio, J-G
 
-Daniel, James, Vinh
+Daniel, James 
 
 Franz, Jonathan
 
@@ -351,3 +351,218 @@ Herbert, Michael
 Ian, Qiang
 
 Karen, Samuel
+
+
+
+
+
+**--- Wed 6/19 ---**
+
+J-G, James
+
+Bill, Jonathan
+
+Claudio, Tyler
+
+Daniel, Michael
+
+Franz, Qiang
+
+Guang, Samuel
+
+Herbert, Vinh
+
+Karen, Ian
+
+
+
+
+**--- Thurs 6/20 ---**
+
+James, Jonathan
+
+J-G, Tyler
+
+Bill, Michael
+
+Claudio, Qiang
+
+Daniel, Samuel
+
+Franz, Vinh
+
+Guang, Ian
+
+Karen, Herbert
+
+
+
+
+**--- Mon 6/24 ---**
+
+Jonathan, Tyler
+
+James, Michael
+
+J-G, Qiang
+
+Bill, Samuel
+
+Claudio, Vinh
+
+Daniel, Ian
+
+Franz, Herbert
+
+Karen, Guang
+
+
+
+
+**--- Tues 6/25 ---**
+
+Tyler, Michael
+
+Jonathan, Qiang
+
+James, Samuel
+
+J-G, Vinh
+
+Bill, Ian
+
+Claudio, Herbert
+
+Daniel, Guang
+
+Karen, Franz
+
+
+
+
+**--- Wed 6/26 ---**
+
+Michael, Qiang
+
+Tyler, Samuel
+
+Jonathan, Vinh
+
+James, Ian
+
+J-G, Herbert
+
+Bill, Guang
+
+Claudio, Franz
+
+Karen, Daniel
+
+
+
+
+**--- Thurs 6/27 ---**
+
+Qiang, Samuel
+
+Michael, Vinh
+
+Tyler, Ian
+
+Jonathan, Herbert
+
+James, Guang
+
+J-G, Franz
+
+Bill, Daniel
+
+Karen, Claudio
+
+
+
+
+**---  ---**
+
+Samuel, Vinh
+
+Qiang, Ian
+
+Michael, Herbert
+
+Tyler, Guang
+
+Jonathan, Franz
+
+James, Daniel
+
+J-G, Claudio
+
+Karen, Bill
+
+
+
+
+**---  ---**
+
+Vinh, Ian
+
+Samuel, Herbert
+
+Qiang, Guang
+
+Michael, Franz
+
+Tyler, Daniel
+
+Jonathan, Claudio
+
+James, Bill
+
+Karen, J-G
+
+
+
+
+**---  ---**
+
+Ian, Herbert
+
+Vinh, Guang
+
+Samuel, Franz
+
+Qiang, Daniel
+
+Michael, Claudio
+
+Tyler, Bill
+
+Jonathan, J-G
+
+Karen, James
+
+
+
+
+**---  ---**
+
+Herbert, Guang
+
+Ian, Franz
+
+Vinh, Daniel
+
+Samuel, Claudio
+
+Qiang, Bill
+
+Michael, J-G
+
+Tyler, James
+
+Karen, Jonathan
+
+
+
+
