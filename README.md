@@ -76,7 +76,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | Frank |[1][l-prob]              |
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]           | Kayla |[1][l-samp]              |
 | Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]        | Frank |[1][l-samp]              |
-| Thursday  | Capstone proposals due 9 am<br>[Hypothesis Testing][hyp-ts]<br>[Power Calculation][power] | Kayla |[1][l-powr]              |
+| Thursday  | Capstone proposals due 9 am<br>[Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power] | Kayla |[1][l-powr]              |
 | Friday    | [Review][wr]<br>[Flask][flask]                                                 | Frank |[1][l-flsk]              |
 
 --
@@ -358,7 +358,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [law-ln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [clt-bs]: https://github.com/GalvanizeDataScience/central-limit
 [mle]: https://github.com/GalvanizeDataScience/maximum-likelihood
-[hyp-ts]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
+[hyp-ts-d]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
 [power]: https://github.com/GalvanizeDataScience/statistical-power
 [flask]: https://github.com/GalvanizeDataScience/data-products
 [l-prob]: https://github.com/gSchool/DSI_Lectures/tree/master/probability
