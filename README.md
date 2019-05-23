@@ -358,7 +358,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [law-ln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [clt-bs]: https://github.com/GalvanizeDataScience/central-limit
 [mle]: https://github.com/GalvanizeDataScience/maximum-likelihood
-[hyp-ts]: https://github.com/GalvanizeDataScience/hypothesis-testing
+[hyp-ts]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
 [power]: https://github.com/GalvanizeDataScience/statistical-power
 [flask]: https://github.com/GalvanizeDataScience/data-products
 [l-prob]: https://github.com/gSchool/DSI_Lectures/tree/master/probability
