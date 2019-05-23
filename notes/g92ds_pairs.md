@@ -67,11 +67,11 @@ Jonathan, Tyler
 
 James, Michael
 
-J-G, Qiang
+J-G, Qiang, Guang
 
 Bill, Samuel
 
-Guang, Vinh
+Chris, Vinh
 
 Claudio, Karen
 
@@ -88,13 +88,13 @@ Tyler, Michael
 
 Jonathan, Qiang
 
-James, Samuel 
+James, Samuel, Franz
 
 J-G, Vinh
 
 Bill, Karen
 
-Franz, Ian
+Chris, Ian
 
 Claudio, Herbert
 
@@ -109,7 +109,7 @@ Michael, Qiang
 
 Tyler, Samuel
 
-Jonathan, Vinh 
+Jonathan, Vinh, Daniel
 
 James, Karen
 
@@ -117,7 +117,7 @@ J-G, Ian
 
 Bill, Herbert
 
-Daniel, Guang
+Chris, Guang
 
 Claudio, Franz
 
@@ -130,7 +130,7 @@ Qiang, Samuel
 
 Michael, Vinh
 
-Tyler, Karen 
+Tyler, Karen, Claudio
 
 Jonathan, Ian
 
@@ -140,7 +140,7 @@ J-G, Guang
 
 Bill, Franz
 
-Claudio, Daniel
+Chris, Daniel
 
 
 
@@ -151,7 +151,7 @@ Samuel, Vinh
 
 Qiang, Karen
 
-Michael, Ian
+Michael, Ian, Chris
 
 Tyler, Herbert
 
@@ -172,7 +172,7 @@ Vinh, Karen
 
 Samuel, Ian
 
-Qiang, Herbert 
+Qiang, Herbert, Bill
 
 Michael, Guang
 
@@ -182,7 +182,7 @@ Jonathan, Daniel
 
 James, Claudio
 
-J-G, Bill
+J-G, Chris
 
 
 
@@ -193,7 +193,7 @@ Karen, Ian
 
 Vinh, Herbert
 
-Samuel, Guang 
+Samuel, Guang, J-G
 
 Qiang, Franz
 
@@ -201,7 +201,7 @@ Michael, Daniel
 
 Tyler, Claudio
 
-Jonathan, J-G
+Jonathan, Chris
 
 James, Bill
 
@@ -214,13 +214,13 @@ Ian, Herbert
 
 Karen, Guang
 
-Vinh, Franz 
+Vinh, Franz, James
 
 Samuel, Daniel
 
 Qiang, Claudio
 
-Michael, James
+Michael, Chris
 
 Tyler, Bill
 
@@ -235,11 +235,11 @@ Herbert, Guang
 
 Ian, Franz
 
-Karen, Daniel 
+Karen, Daniel, Jonathan
 
 Vinh, Claudio
 
-Samuel, Jonathan
+Samuel, Chris
 
 Qiang, Bill
 
@@ -256,9 +256,9 @@ Guang, Franz
 
 Herbert, Daniel
 
-Ian, Claudio 
+Ian, Claudio, Tyler
 
-Karen, Tyler
+Karen, Chris
 
 Vinh, Bill
 
@@ -277,7 +277,7 @@ Franz, Daniel
 
 Guang, Claudio
 
-Herbert, Michael
+Herbert, Chris, Michael
 
 Ian, Bill
 
@@ -296,9 +296,9 @@ Qiang, Tyler
 
 Daniel, Claudio
 
-Franz, Qiang
+Franz, Chris
 
-Guang, Bill 
+Guang, Bill, Qiang
 
 Herbert, J-G
 
@@ -315,11 +315,11 @@ Samuel, Michael
 
 *---  ---*
 
-Claudio, Samuel
+Claudio, Chris
 
 Daniel, Bill
 
-Franz, J-G 
+Franz, J-G, Samuel
 
 Guang, James
 
@@ -336,11 +336,11 @@ Vinh, Qiang
 
 *---  ---*
 
-Vinh, Bill
+Chris, Bill
 
 Claudio, J-G
 
-Daniel, James 
+Daniel, James, Vinh
 
 Franz, Jonathan
 
