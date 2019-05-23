@@ -87,11 +87,11 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Jack | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  Brandon   | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Jack  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Jack  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  Brandon  | [slides][-] |
+| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Jack | [KNN][slides-knn] <br/> [Cross Validation][slides-crossval] |
+| Tuesday |  [Predictive Linear Regression][c5.2.1] |  Brandon   | [Predictive Linear Regression][slides-linreg] |
+| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Jack  | [Regularized Regression][slides-regreg] <br/> [Inferential Regression][slides-infreg] |
+| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Jack  | [Logistic Regression][slides-logreg] <br/> [Classification Metrics][slides-classificationmetrics]|
+| Friday | [Regression Case Study][c5.5.1] |  Brandon  | [slides][slides-regcasestudy] |
 
 --
 ### Solo Week
@@ -305,6 +305,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 4 -->
 
+[132.0]: https://github.com/GalvanizeDataScience/data-products
 
 <!-- Week 5 -->
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
@@ -315,6 +316,15 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c5.4.1]: https://github.com/GalvanizeDataScience/logistic-regression
 [c5.4.2]: https://github.com/GalvanizeDataScience/decision-rules
 [c5.5.1]: https://github.com/GalvanizeDataScience/regression-case-study
+
+[slides-knn]: https://github.com/gSchool/DSI_Lectures/tree/master/non-parametric-learners
+[slides-crossval]: https://github.com/gSchool/DSI_Lectures/blob/master/regularized-regression/brandon_ma/morning-model-selection.ipynb
+[slides-linreg]: https://github.com/gSchool/DSI_Lectures/tree/2e2b726f489a1e7f174c389444be0430f6d97feb/linear-regression
+[slides-regreg]: https://github.com/gSchool/DSI_Lectures/blob/master/regularized-regression/brandon_ma/afternoon-reg-reg.ipynb
+[slides-infreg]: https://github.com/gSchool/DSI_Lectures/blob/2e2b726f489a1e7f174c389444be0430f6d97feb/linear-regression/matt_drury/linear-regression-introduction.ipynb
+[slides-logreg]: https://github.com/gSchool/DSI_Lectures/tree/master/logistic-regression
+[slides-classificationmetrics]: ???
+[slides-regcasestudy]: ???
 
 <!-- Week 6-->
 [c6.1.1]: https://github.com/GalvanizeDataScience/search-trees
