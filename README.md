@@ -45,6 +45,8 @@ To jump to a week of interest, click on the link.
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
+**[Capstone Project Materials](https://github.com/GalvanizeDataScience/lectures/tree/SF/projects)**
+
 ## Daily Outline
 In the weekly tables below, each row represents a day.  Each row information and links on:
 * __Day__ Day of the Week
