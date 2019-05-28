@@ -93,10 +93,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day  | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | Holiday (Memorial Day)                      |  -  | - |
-| Tuesday   | [Assessment 3][learn0]<br/> Continue to Capstone |  -  | - |
+| Tuesday   | [Assessment 3][learn0]<br/> Group Check-in <br/> Continue to Capstone |  -  | - |
 | Wednesday | Group Check-in <br/> Back to Work! | - | - |
 | Thursday  | Group Check-in <br/> MORE WORK!!!! | - | - |
-| Friday    | Capstone Presentations PM | - | - |
+| Friday    | Group Check-in <br/> Deliveriables by 5PM | - | - |
 
 --
 
