@@ -39,8 +39,8 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday |  none | - | 
-| Tuesday | [**Agile Manifesto**](r-agile)<br>[**Agile Scrum**](r-scrum) |  -  |
-| Wednesday | [**Test Driven Development**](r-tdd) | - |
+| Tuesday |Agile & Scrum| [**Agile Manifesto**][r-agile]<br>[**Agile Scrum**][r-scrum] |   
+| Wednesday | Test driven development | [**Test Driven Development**][r-tdd] |
 | Thursday |  none | - | 
 | Friday | Capstone Presentations | - | 
 
