@@ -38,11 +38,11 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 4: Unit 1 Capstone 
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday |  Data Products |<ul><li>[Setup Flask][4.1.1] (5min) </li><li> [Flask Tutorials][4.1.2] (Do as many as you see fit, dont worry about setting up the virtual environment) </li><li> [Get vs Post][4.1.3]   </li></ul>| 
-| Tuesday |  Discuss and kickoff capstone 1 |  -  |
-| Wednesday |  Work! | - |
-| Thursday |  MORE WORK!!!! | - | 
-| Friday | Capstone Presentations PM | - | 
+| Monday |  none | - | 
+| Tuesday | [**Agile Manifesto**](r-agile)<br>[**Agile Scrum**](r-scrum) |  -  |
+| Wednesday | [**Test Driven Development**](r-tdd) | - |
+| Thursday |  none | - | 
+| Friday | Capstone Presentations | - | 
 
 --
 
@@ -208,11 +208,10 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-flask1]: http://flask.pocoo.org/
 [r-flask2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
-
 <!-- Week 4 -->
-[4.1.1]: http://flask.pocoo.org/
-[4.1.2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
-[4.1.3]: http://www.w3schools.com/tags/ref_httpmethods.asp
+[r-agile]: https://agilemanifesto.org/
+[r-scrum]: https://www.mountaingoatsoftware.com/agile/scrum
+[r-tdd]: https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
 
 <!-- Week 5 -->
 
