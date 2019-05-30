@@ -50,9 +50,9 @@
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | KNN <br/> Cross Validation | [KNN] [ -] </li><li> [StatLearning][ISLR]: Cross Validation (5-5.1.4, pg 175-184) </li></ul>|
-| Tuesday | Predictive Linear Regression  | <ul><li>[Predictive Linear Regression] [ - ] </li></ul>| 
-| Wednesday |  Regularized Regression <br/> Inferential Regression  |<ul><li> [StatLearning][ISLR]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214) <br/> [Inferential Regression] [ - ] </li></ul>|
+| Monday | KNN <br/> Cross Validation | [KNN](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/) </li><li> [StatLearning][ISLR]: Cross Validation (5-5.1.4, pg 175-184) </li></ul>|
+| Tuesday | Predictive Linear Regression  | <ul><li>[Predictive Linear Regression] [StatLearning][ISLR]:Linear Regression (3-3.2, pg 59-82) </li></ul>| 
+| Wednesday |  Regularized Regression <br/> Inferential Regression  |<ul><li> [StatLearning][ISLR]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214) <br/> [StatLearning][ISLR]Linear Regression cont'd (3.3-3.4, pg 82-104) </li></ul>|
 | Thursday | Logistic Regression <br/> Classification Measures of Effectiveness |  <ul><li>[StatLearning][ISLR]: Classification (4-4.4, pg 127-137) </li><li> [Machine Learning in Action][MLIA] (section 7.7, pg 142-148) </li><li> [Machine Learning in Action][MLIA] (ch 5, pg 83-90) (optional 90-96)</li></ul>| 
 | Friday | Regression Case Study |  -  | 
 
@@ -71,7 +71,7 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Search Trees <br/> Decision Trees  | <ul><li>[Search Trees] [ - ] </li><li> [Machine Learning in Action][MLIA] (3.1 pg 37-48) </li><li> Optional: [StatLearning][ISLR] (8.1 pg 303-316)</li></ul>| 
+| Monday | Search Trees <br/> Decision Trees  | <ul><li>[Search Trees](https://medium.com/@mbetances1002/data-structures-binary-search-trees-explained-5a2eeb1a9e8b) </li><li> [Machine Learning in Action][MLIA] (3.1 pg 37-48) </li><li> Optional: [StatLearning][ISLR] (8.1 pg 303-316)</li></ul>| 
 | Tuesday |  Random Forests | <ul><li> [StatLearning][ISLR] (8.1.2-8.2.2, pg 311-321)  </li></ul> | 
 | Wednesday |  Gradient Boosted Regressors <br/> Gradient Boosted Classifiers | <ul><li> [StatLearning][ISLR] (8.2.3, pg 321-324)</li><li>Optional (more depth): [Elements of Stats Learning][EoSL] (10-10.6, pg 337-350) </li></ul> |
 | Thursday | Gradient Decent <br/> Basic Neural Networks  | <ul><li> [Machine Learning in Action][MLIA] (ch 5, pg 83-90) (optional 90-96) </li><li> [Neural Network Basics (Part 1 - 3)][6.4.2] </li><li> [NN Zoo][6.4.3] </li><li> Optional (for more rigor): [Andrew Ng Notes (p. 1-7, 16-19)][6.4.1]</li></ul> | 
