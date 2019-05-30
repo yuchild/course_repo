@@ -51,8 +51,8 @@
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | KNN <br/> Cross Validation | [KNN](https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/) </li><li> [StatLearning][ISLR]: Cross Validation (5-5.1.4, pg 175-184) </li></ul>|
-| Tuesday | Predictive Linear Regression  | <ul><li>[Predictive Linear Regression] [StatLearning][ISLR]:Linear Regression (3-3.2, pg 59-82) </li></ul>| 
-| Wednesday |  Regularized Regression <br/> Inferential Regression  |<ul><li> [StatLearning][ISLR]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214) <br/> [StatLearning][ISLR]Linear Regression cont'd (3.3-3.4, pg 82-104) </li></ul>|
+| Tuesday | Predictive Linear Regression  | <ul><li> [StatLearning][ISLR]: Linear Regression (3-3.2, pg 59-82) </li></ul>| 
+| Wednesday |  Regularized Regression <br/> Inferential Regression  |<ul><li> [StatLearning][ISLR]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214) <br/> [StatLearning][ISLR]: Linear Regression cont'd (3.3-3.4, pg 82-104) </li></ul>|
 | Thursday | Logistic Regression <br/> Classification Measures of Effectiveness |  <ul><li>[StatLearning][ISLR]: Classification (4-4.4, pg 127-137) </li><li> [Machine Learning in Action][MLIA] (section 7.7, pg 142-148) </li><li> [Machine Learning in Action][MLIA] (ch 5, pg 83-90) (optional 90-96)</li></ul>| 
 | Friday | Regression Case Study |  -  | 
 
