@@ -45,6 +45,8 @@ To jump to a week of interest, click on the link.
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
+**[Capstone Project Materials](https://github.com/GalvanizeDataScience/lectures/tree/SF/projects)**
+
 ## Daily Outline
 In the weekly tables below, each row represents a day.  Each row information and links on:
 * __Day__ Day of the Week
@@ -81,8 +83,8 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
 | Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
 | Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
-| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
-| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliot   | [Lecture Repository][132.0] |
+| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
+| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliott   | [Lecture Repository][132.0] |
 
 
 --
@@ -91,21 +93,21 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day  | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | Holiday (Memorial Day)                      |  -  | - |
-| Tuesday   | [Assessment 3][-]<br/> Continue to Capstone |  -  | - |
+| Tuesday   | [Assessment 3][learn0]<br/> Group Check-in <br/> Continue to Capstone |  -  | - |
 | Wednesday | Group Check-in <br/> Back to Work! | - | - |
 | Thursday  | Group Check-in <br/> MORE WORK!!!! | - | - |
-| Friday    | Capstone Presentations PM | - | - |
+| Friday    | Group Check-in <br/> Deliveriables by 5PM | - | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Lori/Flora | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  Lori  | [slides][-] |
+| Day |  Readings | Repos | Lead Instructor | Slides |
+|:--:|:--|:--|:--:|:--:|
+| Monday | [kNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Lori/Flora | [slides][-] |
+| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
+| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
+| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
+| Friday | | [Regression Case Study][c5.5.1] |  Hamid/Elliott  | [slides][-] |
 
 --
 ### Week 6: Solo Week
@@ -146,8 +148,8 @@ Your priorities this week:
 | Monday | [Assessment 6][learn0]<br/> Discuss and kickoff capstone 2 | - | [slides][-] |
 | Tuesday |  Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Capstone Presentations PM | - | - |
-| Thursday |  Holidy (Independence Day) | - | - |
-| Friday | Holidy (Independence Day) | - | - |
+| Thursday |  Holiday (Independence Day) | - | - |
+| Friday | Holiday (Independence Day) | - | - |
 
 --
 
@@ -291,8 +293,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-tlln]:https://github.com/GalvanizeDataScience/lectures/tree/SF/the_law_of_large_numbers
 [lec-clm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/central_limit_theorem
 [lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/maximum_likelihood
-[lec-hypothesis]:https://github.com/GalvanizeDataScience/matts-stats-week/blob/master/hypothesis-testing.ipynb
-[lec-power]:https://github.com/GalvanizeDataScience/matts-stats-week/blob/master/statistical-power.ipynb
+[lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/SF/hypothesis_testing
+[lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/SF/statistical_power
 
 <!-- Assignments -->
 <!-- Week 1 -->
@@ -324,7 +326,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
 [clt]:https://github.com/GalvanizeDataScience/central-limit-theorem-dev/blob/master/assignment.md
 [mle]:https://github.com/GalvanizeDataScience/maximum-likelihood
-[c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
+[hyp]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev/blob/master/assignment.md
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 [132.0]:  https://github.com/Esaslow/FlaskWebsite
 
@@ -374,8 +376,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-matplot2]:https://matplotlib.org/users/artists.html
 [r-linalg-numpy]:https://github.com/gSchool/precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
 [r-linalg-review]:http://cs229.stanford.edu/section/cs229-linalg.pdf
-[r-linalg-numpy]:https://github.com/gSchool/precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
-[r-linalg-review]:http://cs229.stanford.edu/section/cs229-linalg.pdf
 [r-multiproc]:https://www.youtube.com/watch?v=X2mO1O5Nuwg
 [r-intro-parallel]:http://sebastianraschka.com/Articles/2014_multiprocessing.html
 [r-intro-threading]:http://pymotw.com/2/threading/
@@ -396,3 +396,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-hypo]:https://www.youtube.com/watch?v=-FtlH4svqx4
 [r-power]:https://www.youtube.com/watch?v=lHI5oEgNkrk
 [r-bootstrap]:https://www.youtube.com/watch?v=_nhgHjdLE-I
+
+
+<!-- Week 4 -->
+[r-knn]:https://learn.galvanize.com/cohorts/1341/units/8278
+[r-mlia]:https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
+[r-bias]:https://learn.galvanize.com/cohorts/1341/units/8274
+[r-cv]:https://learn.galvanize.com/cohorts/1341/units/8275
+[r-regu]:https://learn.galvanize.com/cohorts/1341/units/8276
+[r-islr]:http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+[r-prac-reg]:https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf
