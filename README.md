@@ -107,7 +107,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
-| Friday | | [Regression Case Study][c5.5.1] |  Hamid/Elliott  | [slides][-] |
+| Friday | | [Regression Case Study][c5.5.1] |  Hamid  | [slides][-] |
 
 
 --
