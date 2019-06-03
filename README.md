@@ -103,11 +103,12 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 5: Supervised Learning and Regression
 | Day |  Readings | Repos | Lead Instructor | Slides |
 |:--:|:--|:--|:--:|:--:|
-| Monday | [kNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Lori/Flora | [slides][-] |
+| Monday | [kNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Lori/Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
 | Friday | | [Regression Case Study][c5.5.1] |  Hamid/Elliott  | [slides][-] |
+
 
 --
 ### Week 6: Solo Week
@@ -295,6 +296,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/maximum_likelihood
 [lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/SF/hypothesis_testing
 [lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/SF/statistical_power
+
+<!-- Week 5 -->
+[lec-knn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/knn
+[lec-cv]:https://github.com/GalvanizeDataScience/lectures/tree/SF/cross_validation
 
 <!-- Assignments -->
 <!-- Week 1 -->
