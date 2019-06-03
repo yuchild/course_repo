@@ -114,7 +114,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 6: Solo Week
 Your priorities this week:
 <ul>
-<li>Study any material from the previous weeks.</li>
+<li>Clean up your repo from capstone 1</li>
+<li>Write a medium article for capstone 1</li>
+<li>Study any material from the previous weeks</li>
 <li>Collect data for upcoming capstones</li>
 <li>Recharge for the 2nd half of the course</li>
 </ul>
