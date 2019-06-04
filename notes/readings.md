@@ -49,15 +49,15 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | KNN <br/> Cross Validation | [KNN] [ -] </li><li> [StatLearning][ISLR]: Cross Validation (5-5.1.4, pg 175-184) </li></ul>|
-| Tuesday | Predictive Linear Regression  | <ul><li>[Predictive Linear Regression] [ - ] </li></ul>| 
-| Wednesday |  Regularized Regression <br/> Inferential Regression  |<ul><li> [StatLearning][ISLR]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214) <br/> [Inferential Regression] [ - ] </li></ul>|
-| Thursday | Logistic Regression <br/> Classification Measures of Effectiveness |  <ul><li>[StatLearning][ISLR]: Classification (4-4.4, pg 127-137) </li><li> [Machine Learning in Action][MLIA] (section 7.7, pg 142-148) </li><li> [Machine Learning in Action][MLIA] (ch 5, pg 83-90) (optional 90-96)</li></ul>| 
+| Monday | KNN<br>Cross Validation | [**KNN**][ISLR]<br>(pp. 39-42, 104-109)<br>[**Cross Validation**][ISLR]<br>(pp. 175-184)|
+| Tuesday | Linear Regression  | [**Linear Regression**][ISLR]<br>(pp. 59-104)| 
+| Wednesday |  Regularized Regression <br> Inferential Regression  | [**Regularization**][ISLR]<br>(pp. 203-228)<br> [Inferential Regression] [ - ]|
+| Thursday | Logistic Regression<br>Classification Measures of Effectiveness |[**Logistic Regression**][ISLR]<br>(pp. 127-138) | 
 | Friday | Regression Case Study |  -  | 
 
 --
 
-### Solo Week
+### Break Week
 Your priorities this week:
 <ul>
 <li>Study any material from the previous weeks.</li>
@@ -141,7 +141,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 <!-- Books -->
 [algorithms]: http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
 [LearningSpark]: https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
-[ISLR]: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+[ISLR]: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
 [MLIA]: https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
 [EoSL]: https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 [MMDS]: http://infolab.stanford.edu/~ullman/mmds/book.pdf
@@ -214,7 +214,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-tdd]: https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
 
 <!-- Week 5 -->
-
 
 <!-- Week 6 -->
 [6.4.1]: https://www.youtube.com/watch?v=bxe2T-V8XRs
