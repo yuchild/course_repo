@@ -85,7 +85,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Memorial Day (no class)   |  -   |  |
-| Tuesday |  Capstone/Mock Interview |  -  | - |
+| Tuesday |  Assessment 3<br>Capstone/Mock Interview |  -  | - |
 | Wednesday | Capstone/Mock Interview | - | - |
 | Thursday | Capstone/Mock Interview | - | - |
 | Friday | Capstone Presentations  | - | - |
@@ -93,16 +93,16 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  -   | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+|    Day    | Repos                                                                          | Lead  |        Slides           |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
+| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[1][l-knn]<br>[2][l-rgcv]|
+| Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[1][l-linr]              |
+| Wednesday |[Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2]           | Kayla |[1][l-logr]              |
+| Thursday  |[Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2]| Frank |[1][l-logr]          |
+| Friday    |[Regression Case Study][c5.5.1]                                                 | Frank | [-] |
 
 --
-### Solo Week
+### Break Week
 Your priorities this week:
 <ul>
 <li>Study any material from the previous weeks.</li>
@@ -365,3 +365,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-samp]: https://github.com/gSchool/DSI_Lectures/tree/master/estimation-sampling
 [l-powr]: https://github.com/gSchool/DSI_Lectures/tree/master/power-bayesian
 [l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
+
+<!-- Week 5-->
+[l-knn]: https://github.com/gschool/DSI_Lectures/tree/master/non-parametric-learners 
+[l-rgcv]: https://github.com/gschool/DSI_Lectures/tree/master/regularized-regression 
+[l-linr]: https://github.com/gschool/DSI_Lectures/tree/master/linear-regression
+[l-logr]: https://github.com/gschool/DSI_Lectures/tree/master/logistic-regression
+[r-linr]: https://github.com/gSchool/dsi-linear-regression 
