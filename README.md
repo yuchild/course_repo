@@ -61,7 +61,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Elliott/Flora  | [AM][lec-git] <br/> [PM][lec-fun] |
 | Tuesday   | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
 | Wednesday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
-| Thursday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-lin]<br/>[PM][lec-lin]   |
+| Thursday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Friday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading]| [Docker][docker]<br/>[AWS][aws]|  Hamid | [AM][lec-docker] <br/>[PM][lec-aws] |
 
 --
@@ -104,7 +104,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day |  Readings | Repos | Lead Instructor | Slides |
 |:--:|:--|:--|:--:|:--:|
 | Monday | [kNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Lori/Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
-| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [slides][-] |
+| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [AM][lec-lin-reg] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [slides][-] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [slides][-] |
 | Friday | | [Regression Case Study][c5.5.1] |  Hamid  | [slides][-] |
@@ -275,7 +275,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-fun]:https://github.com/gSchool/DSI_Lectures/tree/master/fundamentals
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
-[lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/
+[lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
+[lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_algebra
 [lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/blob/SF/oop/oop_am.pdf
 [lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/oop_pm
 [lec-docker]:https://github.com/GalvanizeDataScience/lectures/blob/SF/docker/docker.pptx
@@ -302,6 +303,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 5 -->
 [lec-knn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/knn
 [lec-cv]:https://github.com/GalvanizeDataScience/lectures/tree/SF/cross_validation
+[lec-lin-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_regression
 
 <!-- Assignments -->
 <!-- Week 1 -->
