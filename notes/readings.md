@@ -51,9 +51,9 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 |:--:|:--|:--:|
 | Monday | KNN<br>Cross Validation | [**KNN**][ISLR]<br>(pp. 39-42, 104-109)<br>[**Cross Validation**][ISLR]<br>(pp. 175-184)|
 | Tuesday | Linear Regression  | [**Linear Regression**][ISLR]<br>(pp. 59-104)| 
-| Wednesday |  Regularized Regression <br> Inferential Regression  | [**Regularization**][ISLR]<br>(pp. 203-228)<br> [Inferential Regression] [ - ]|
-| Thursday | Logistic Regression<br>Classification Measures of Effectiveness |[**Logistic Regression**][ISLR]<br>(pp. 127-138) | 
-| Friday | Regression Case Study |  -  | 
+| Wednesday |  Regularized Regression <br> Logistic Regression| [**Regularization**][ISLR]<br>(pp. 203-228)<br>[**Logistic Regression**][ISLR]<br>(pp. 127-138)|
+| Thursday | Gradient Descent<br>Decision Rules |[**Gradient Descent - conceptual**][r_grds1]<br>[**Gradient Descent in Python**][r_grds2]<br>[**Profit Curves**][r_ds4b]<br>(pp. 194-203, 212-218) | 
+| Friday | Regression Case Study |[**6 methods for data imputation**][r-dimp]  | 
 
 --
 
@@ -147,7 +147,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [MMDS]: http://infolab.stanford.edu/~ullman/mmds/book.pdf
 [SNA]: readings/Social_Network_Analysis_for_Startups.pdf
 
-
 <!-- Denver -->
 <!-- Denver Week 1 -->
 [r-aws]: ./setup_aws.md
@@ -164,6 +163,28 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-start-AWS]: https://aws.amazon.com/start-now/
 [r-about-AWS]: https://aws.amazon.com/about-aws/
 [r-psycopg]: http://www.postgresqltutorial.com/postgresql-python/
+[r-git-wf]: https://www.atlassian.com/git/tutorials/comparing-workflows
+
+<!--Denver Week 3-->
+[r-see-theory-1-3]: https://seeing-theory.brown.edu/basic-probability/index.html
+[r-binom-test]: https://en.wikipedia.org/wiki/Binomial_test
+[r-see-theory-4]: https://seeing-theory.brown.edu/frequentist-inference/index.html
+[r-law-large-numbers]: https://en.wikipedia.org/wiki/Law_of_large_numbers
+[r-flask1]: http://flask.pocoo.org/
+[r-flask2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+<!--Denver Week 4-->
+[r-agile]: https://agilemanifesto.org/
+[r-scrum]: https://www.mountaingoatsoftware.com/agile/scrum
+[r-tdd]: https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
+
+<!--Denver Week 5-->
+[r_grds1]: https://medium.com/@rnbrown/about-gradient-descent-80f5a2730a2d 
+[r_grds2]: https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
+[r_ds4b]: https://drive.google.com/file/d/0B1cm3fV8cnJwNDJFNmx2a2RBaTg/view 
+[r-dimp]: https://www.omicsonline.org/open-access/a-comparison-of-six-methods-for-missing-data-imputation-2155-6180-1000224.pdf
+
+
 
 
 <!-- Week 1 -->
@@ -190,7 +211,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [2.3.1]: http://sqlzoo.net/wiki/Main_Page
 [2.3.2]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
 [2.3.3]: http://openmymind.net/mongodb.pdf
-[r-git-wf]: https://www.atlassian.com/git/tutorials/comparing-workflows
 
 <!-- Week 3 -->
 [3.1.1]: http://cs229.stanford.edu/section/cs229-prob.pdf
@@ -201,20 +221,42 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [3.4.1]: https://www.youtube.com/watch?v=5ABpqVSx33I
 [3.4.2]: https://www.youtube.com/watch?v=-FtlH4svqx4
 [3.4.3]: https://www.youtube.com/watch?v=lHI5oEgNkrk
-[r-see-theory-1-3]: https://seeing-theory.brown.edu/basic-probability/index.html
-[r-binom-test]: https://en.wikipedia.org/wiki/Binomial_test
-[r-see-theory-4]: https://seeing-theory.brown.edu/frequentist-inference/index.html
-[r-law-large-numbers]: https://en.wikipedia.org/wiki/Law_of_large_numbers
-[r-flask1]: http://flask.pocoo.org/
-[r-flask2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 <!-- Week 4 -->
-[r-agile]: https://agilemanifesto.org/
-[r-scrum]: https://www.mountaingoatsoftware.com/agile/scrum
-[r-tdd]: https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
 
 <!-- Week 5 -->
 
+<!-- Week 6 -->
+[6.4.1]: https://www.youtube.com/watch?v=bxe2T-V8XRs
+[6.4.2]: http://www.asimovinstitute.org/neural-network-zoo/
+[6.4.3]: http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+<!-- Week 7 -->
+[tfidf1]: http://blog.christianperone.com/?p=1589
+[tfidf2]: http://blog.christianperone.com/?p=1747
+[tfidf3]: http://blog.christianperone.com/?p=2497
+[NLP]: https://radimrehurek.com/phd_rehurek.pdf
+[py.nlp]: https://pdfs.semanticscholar.org/3673/bccde93025e05431a2bcac4e8ff18c9c273a.pdf
+
+
+
+<!-- Week 8 -->
+
+
+<!-- Week 9 -->
+[9.2.1]: http://stevehanov.ca/blog/index.php?id=132
+
+<!-- Week 10 -->
+[10.1.2]: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+[10.1.3]: https://github.com/tensorflow/models/tree/master/research/inception
+
+[10.3.1]: http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+[10.3.2]: https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+
+<!-- Week 11 -->
+
+
+<!-- Week 12 -->
 <!-- Week 6 -->
 [6.4.1]: https://www.youtube.com/watch?v=bxe2T-V8XRs
 [6.4.2]: http://www.asimovinstitute.org/neural-network-zoo/

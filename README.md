@@ -93,13 +93,13 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-|    Day    | Repos                                                                          | Lead  |        Slides           |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
-| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[1][l-knn]<br>[2][l-rgcv]|
-| Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[1][l-linr]              |
-| Wednesday |[Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2]           | Kayla |[1][l-logr]              |
-| Thursday  |[Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2]| Frank |[1][l-logr]          |
-| Friday    |[Regression Case Study][c5.5.1]                                                 | Frank | [-] |
+|    Day    | Repos                                                                          | Lead  |        Slides            |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|    
+| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[1][l-knn]<br>[2][l-rgcv] |
+| Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[1][l-linr]               |
+| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | Kayla |[1][l-regr]<br>[2][l-logr]|
+| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | Frank |[1][l-grds]<br>[2][l-decr]|
+| Friday    |[Regression Case Study][cs-regression]                                          | Frank |           [-]            |
 
 --
 ### Break Week
@@ -371,4 +371,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-rgcv]: https://github.com/gschool/DSI_Lectures/tree/master/regularized-regression 
 [l-linr]: https://github.com/gschool/DSI_Lectures/tree/master/linear-regression
 [l-logr]: https://github.com/gschool/DSI_Lectures/tree/master/logistic-regression
+[l-regr]: https://github.com/gschool/DSI_Lectures/tree/master/regularized-regression 
+[l-grds]: https://github.com/gSchool/DSI_Lectures/tree/master/gradient-descent
+[l-decr]: https://github.com/gSchool/DSI_Lectures/tree/master/profit-curve
 [r-linr]: https://github.com/gSchool/dsi-linear-regression 
+[r-grds]: https://github.com/GalvanizeDataScience/gradient-descent
+[r-decr]: https://github.com/GalvanizeDataScience/decision-rules
+[cs-regression]: https://github.com/gSchool/dsd-case-study-linear-models
