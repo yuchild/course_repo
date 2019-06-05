@@ -303,7 +303,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-lin-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_regression
 [lec-regularization]:https://github.com/GalvanizeDataScience/lectures/tree/SF/regularized_regression
 [lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/inferential_linear_regression
-[lec-log-reg]:https://github.com/gSchool/DSI_Lectures/tree/master/logistic-regression/jack_bennetto
+[lec-log-reg]:https://github.com/gSchool/DSI_Lectures/tree/master/logistic-regression/natalie_hunt
 
 <!-- Assignments -->
 <!-- Week 1 -->
