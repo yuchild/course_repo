@@ -5,7 +5,7 @@ Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll f
 # Course Outline
 This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
 
-The [nighly readings](notes/readings.md) are maintained in a separate file.  Many students find it useful to read ahead a bit on the weekends.
+The [nightly readings](notes/readings.md) are maintained in a separate file.  Many students find it useful to read ahead a bit on the weekends.
 
 * __Day:__ Day of the Week
 * __Repo:__ The repo contains the day's exercise(s). You should be able to complete this in the time allotted (you will not have access until the day of).
@@ -36,7 +36,7 @@ During all instructional weeks, every Monday will begin with an assessment.  Ass
 During instructional weeks, every Friday will be a capstone where the material that had been covered during the week will be put to use in a more open ended application of the knowledge.
 
 ## Capstones
-Capstone projects are designed to be showcases of the diverse skill set that you aquire over this challenging course of study.  In addition to building machine learnign models, capstones should feature fundamental skills like data collection and cleaning (which employers find very attractive).
+Capstone projects are designed to be showcases of the diverse skill set that you aquire over this challenging course of study.  In addition to building machine learning models, capstones should feature fundamental skills like data collection and cleaning (which employers find very attractive).
 
 --
 
@@ -112,7 +112,7 @@ Your priorities this week:
 | Tuesday |  [Random Forests][c6.2.1] |  Dan   | 
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | 
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Joe  | 
-| Friday | [Supervised Learning Capstone][-]  |  Dan  | 
+| Friday | [Supervised Learning Case Study][-] <br/> Capstone Proposals Due  |  Dan  | 
 
 --
 
@@ -123,7 +123,7 @@ Your priorities this week:
 | Tuesday |  [PCA][-]<br/>[SVD][-] |  Joe  | 
 | Wednesday |  [Clustering][-]<br/>[NMF][-] |  Dan  | 
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Dan  | 
-| Friday | [NLP Case Study][-] |  Dan  | 
+| Friday | [Capstone 2 Kick Off |  Dan  | 
 
 --
 
