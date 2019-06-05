@@ -84,7 +84,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
 | Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
 | Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
-| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliott   | [Lecture Repository][132.0] |
+| Friday   | | [Data Products][132.0]</br> Discuss and kickoff capstone 1            | Elliott   | |
 
 
 --
@@ -303,7 +303,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-lin-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_regression
 [lec-regularization]:https://github.com/GalvanizeDataScience/lectures/tree/SF/regularized_regression
 [lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/inferential_linear_regression
-[lec-log-reg]:https://github.com/gSchool/DSI_Lectures/tree/master/logistic-regression/natalie_hunt
+[lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/logistic_regression/
 
 <!-- Assignments -->
 <!-- Week 1 -->
