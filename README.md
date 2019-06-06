@@ -124,15 +124,11 @@ Your priorities this week:
 | Day | Readings |  Repos | Lead Instructor | Slides |
 |:--:|:----|:--|:--:|:--:|
 | Monday |[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
-| Tuesday |  | [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
-| Wednesday |  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
-| Thursday |  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
-| Friday | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Flora | [slides][-] |
+| Tuesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
+| Wednesday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
+| Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
+| Friday |  | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Flora | [slides][-] |
 
-[r-dec-tree]:https://learn.galvanize.com/cohorts/1341/units/8277
-[r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
-[r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
-[r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 --
 
 ### Week 8: NLP and Unsupervised Learning
@@ -426,3 +422,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
 [r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
 [r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+[r-esl]:https://web.stanford.edu/~hastie/ElemStatLearn/download.html
+[r-nn]:https://www.youtube.com/watch?v=bxe2T-V8XRs
+[r-ng-note]:http://cs229.stanford.edu/notes/cs229-notes1.pdf
