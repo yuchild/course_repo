@@ -121,14 +121,18 @@ Your priorities this week:
 --
 
 ### Week 7: Nonlinear Supervised Learning
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
-| Tuesday |  [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
+| Day | Readings |  Repos | Lead Instructor | Slides |
+|:--:|:----|:--|:--:|:--:|
+| Monday |[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
+| Tuesday |  | [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
+| Wednesday |  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
+| Thursday |  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
 | Friday | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Flora | [slides][-] |
 
+[r-dec-tree]:https://learn.galvanize.com/cohorts/1341/units/8277
+[r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
+[r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
+[r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 --
 
 ### Week 8: NLP and Unsupervised Learning
@@ -415,3 +419,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-regu]:https://learn.galvanize.com/cohorts/1341/units/8276
 [r-islr]:http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 [r-prac-reg]:https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf
+
+
+<!-- Week 7 --> 
+[r-dec-tree]:https://learn.galvanize.com/cohorts/1341/units/8277
+[r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
+[r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
+[r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
