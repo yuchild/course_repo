@@ -119,7 +119,7 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | - | [slides][-] |
+| Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
 | Tuesday |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
 | Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
@@ -303,6 +303,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
+
+<!-- Week 7-->
+[c7.1.1]: https://github.com/GalvanizeDataScience/nlp
+[c7.1.2]: https://github.com/GalvanizeDataScience/text-classification
+
 
 <!-- Assessments -->
 <!-- Week 1 -->
