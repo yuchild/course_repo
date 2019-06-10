@@ -145,7 +145,7 @@ Your priorities this week:
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
+| Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
 
@@ -155,8 +155,8 @@ Your priorities this week:
 | Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
 | Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
 | Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
+| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
+| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
 --
 
@@ -314,8 +314,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c7.4.1]: https://github.com/GalvanizeDataScience/graphs
 [c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
 
-<!-- Week 8-->
+<!-- Week 9-->
+[c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
 
+<!-- Week 10-->
+[c10.4.1]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
 
 <!-- Assessments -->
 <!-- Week 1 -->
