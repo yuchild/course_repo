@@ -121,7 +121,7 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
 | Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
+| Wednesday |  [Clustering][7.3.1]<br/>[NMF][7.3.2] |  -  | [slides][-] |
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
 | Friday | [NLP Case Study][-] |  -  | [slides][-] |
 
@@ -309,6 +309,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c7.1.2]: https://github.com/GalvanizeDataScience/text-classification
 [c7.2.1]: https://github.com/GalvanizeDataScience/pca
 [c7.2.2]: https://github.com/GalvanizeDataScience/svd
+[c7.3.1]: https://github.com/GalvanizeDataScience/clustering
+[c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
+
 
 <!-- Assessments -->
 <!-- Week 1 -->
