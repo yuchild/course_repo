@@ -134,10 +134,10 @@ Your priorities this week:
 ### Week 8: NLP and Unsupervised Learning
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 5][learn0]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Hamid | [slides][-] |
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  Hamid   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  Flora  | [slides][-] |
-| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Flora  | [slides][-] |
+| Monday | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [slides][-] |
+| Tuesday |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [slides][-] |
+| Wednesday |  [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
+| Thursday | [Graph Representation of Data][graph] |  Flora  | [slides][-] |
 | Friday | [NLP Case Study][-] |  Hamid/Flora | [slides][-] |
 
 --
@@ -363,6 +363,16 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
+
+<!-- Week 8 -->
+[nlp]:https://github.com/GalvanizeDataScience/nlp
+[txt-clf]:https://github.com/GalvanizeDataScience/text-classification
+[pca]:https://github.com/GalvanizeDataScience/pca
+[svd]:https://github.com/GalvanizeDataScience/svd
+[clustering]:https://github.com/GalvanizeDataScience/clustering
+[nmf]:https://github.com/GalvanizeDataScience/topicmodeling
+[graph]:https://github.com/GalvanizeDataScience/graphs
+
 
 <!-- Assessments -->
 <!-- Week 1 -->
