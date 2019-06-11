@@ -138,7 +138,7 @@ Your priorities this week:
 | Tuesday |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [slides][-] |
 | Wednesday |  [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
 | Thursday | [Graph Representation of Data][graph] |  Flora  | [slides][-] |
-| Friday | [NLP Case Study][-] |  Hamid/Flora | [slides][-] |
+| Friday | [NLP Case Study][nlp-case-study] |  Hamid/Flora | [slides][-] |
 
 --
 
@@ -372,7 +372,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [clustering]:https://github.com/GalvanizeDataScience/clustering
 [nmf]:https://github.com/GalvanizeDataScience/topicmodeling
 [graph]:https://github.com/GalvanizeDataScience/graphs
-
+[nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
 
 <!-- Assessments -->
 <!-- Week 1 -->
