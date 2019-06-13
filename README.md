@@ -112,17 +112,17 @@ Your priorities this week:
 | Tuesday |  [Random Forests][c6.2.1] |  Dan   | 
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | 
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Joe  | 
-| Friday | [Supervised Learning Case Study][-] <br/> Capstone Proposals Due  |  Dan  | 
+| Friday | [Supervised Learning Case Study][c6.5.1] <br/> Capstone Proposals Due  |  Dan  | 
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | Joe | 
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  Joe  | 
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  Dan  | 
-| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  Dan  | 
+| Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Joe | 
+| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Joe  | 
+| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Dan  | 
+| Thursday | [Graph Representation of Data][c7.4.1]|  Dan  | 
 | Friday | [Capstone 2 Kick Off |  Dan  | 
 
 --
@@ -145,7 +145,7 @@ Your priorities this week:
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Joe  | 
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan <br/> Christina (Resumes) 11:00 - 12:00 | 
 | Thursday | [Implicit Recommenders][-] |  Dan <br/> Christina (LinkedIn) 11:00 - 12:00 | 
-| Friday | [Recommender Case Study][-]  |  Dan  | 
+| Friday | [Recommender Case Study][c9.5.1]  |  Dan  | 
 
 --
 
@@ -156,7 +156,7 @@ Your priorities this week:
 | Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  Dan  | 
 | Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-]  <br/> Resumes and LinkedIn Due |  Joe  | 
 | Thursday | [Fraud Case Study (day 1)][-] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
-| Friday | [Fraud Case Study (day 2)][-] |  Dan  | 
+| Friday | [Fraud Case Study (day 2)][c10.4.1] |  Dan  | 
 
 --
 
@@ -311,6 +311,23 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
+
+<!-- Week 7-->
+[c7.1.1]: https://github.com/GalvanizeDataScience/nlp
+[c7.1.2]: https://github.com/GalvanizeDataScience/text-classification
+[c7.2.1]: https://github.com/GalvanizeDataScience/pca
+[c7.2.2]: https://github.com/GalvanizeDataScience/svd
+[c7.3.1]: https://github.com/GalvanizeDataScience/clustering
+[c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
+[c7.4.1]: https://github.com/GalvanizeDataScience/graphs
+[c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
+
+<!-- Week 9-->
+[c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
+
+<!-- Week 10-->
+[c10.4.1]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
+
 
 <!-- Assessments -->
 <!-- Week 1 -->
