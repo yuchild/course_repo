@@ -130,11 +130,11 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
-| Friday | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Jack | [Search Trees][slides-searchtrees]<br/>[Decision Trees][slides-decisiontrees] |
+| Tuesday |  [Random Forests][c6.2.1] |  Brandon  | [Random Forests][slides-randomforest] |
+| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Jack  | [Gradient Boosting][slides-gradientboosting] |
+| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Brandon  | [Gradient Descent][slides-gradientdescent] |
+| Friday | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][slides-suplearncasestudy] |
 
 --
 
@@ -358,6 +358,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
+
+[slides-searchtrees]: ???
+[slides-decisiontrees]: https://github.com/gSchool/DSI_Lectures/blob/master/non-parametric-learners/jack_bennetto/decision-trees.ipynb
+[slides-randomforest]: https://github.com/gSchool/DSI_Lectures/tree/master/random-forest 
+[slides-gradientboosting]: https://github.com/gSchool/DSI_Lectures/tree/master/boosting
+[slides-gradientdescent]: https://github.com/gSchool/DSI_Lectures/tree/master/gradient-descent
+[slides-suplearncasestudy]: ???
 
 <!-- Assessments -->
 <!-- Week 1 -->
