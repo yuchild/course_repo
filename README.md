@@ -133,7 +133,7 @@ Your priorities this week:
 | Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Jack | [Search Trees][slides-searchtrees]<br/>[Decision Trees][slides-decisiontrees] |
 | Tuesday |  [Random Forests][c6.2.1] |  Brandon  | [Random Forests][slides-randomforest] |
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Jack  | [Gradient Boosting][slides-gradientboosting] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Brandon  | [Gradient Descent][slides-gradientdescent] |
+| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Brandon  | [Gradient Descent][slides-gradientdescent] <br/> [Neural Networks][slides-neuralnetworks] |
 | Friday | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][slides-suplearncasestudy] |
 
 --
@@ -365,6 +365,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [slides-randomforest]: https://github.com/gSchool/DSI_Lectures/tree/master/random-forest 
 [slides-gradientboosting]: https://github.com/gSchool/DSI_Lectures/tree/master/boosting
 [slides-gradientdescent]: https://github.com/gSchool/DSI_Lectures/tree/master/gradient-descent
+[slides-neuralnetworks]: https://github.com/gSchool/DSI_Lectures/tree/master/neural-network
 [slides-suplearncasestudy]: ???
 
 <!-- Assessments -->
