@@ -92,7 +92,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Matt  | [Sampling Dists][slides-sampledists] <br/> [Law of Large Numbers][slides-lln] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Matt  | [Central Limit Theorem][slides-clt] <br/> [Maximum Likelihood Estimation][slides-mle] |
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/> |  Matt  | [Hypothesis Testing][slides-hyptest] |
-| Friday | [Power Calculation][c3.4.2] <br/> Discuss and kickoff capstone 1 | Matt / Brandon   | [Power Calculation][slides-power] |
+| Friday | [Power Calculation][c3.4.2] <br/> [Discuss and kickoff capstone 1][c3.4.3] | Matt / Brandon   | [Power Calculation][slides-power] |
 
 --
 
@@ -316,6 +316,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
 [c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
+[c3.4.3]: https://github.com/gSchool/DSI_Lectures/blob/master/capstone-kickoffs/capstone1/capstone-1.ipynb
 
 [slides-prob]: https://github.com/GalvanizeDataScience/matts-stats-week/blob/master/probability-distributions.ipynb
 [slides-binom]: https://github.com/GalvanizeDataScience/matts-stats-week/blob/master/binomial-tests.ipynb
