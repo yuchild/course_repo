@@ -119,11 +119,11 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | - | [slides][-] |
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
-| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
-| Friday | [NLP Case Study][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
+| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
+| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
+| Thursday | [Graph Representation of Data][c7.4.1] |  -  | [slides][-] |
+| Friday | [NLP Case Study][c7.5.1] |  -  | [slides][-] |
 
 --
 
@@ -145,7 +145,7 @@ Your priorities this week:
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
+| Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
 
@@ -155,8 +155,8 @@ Your priorities this week:
 | Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
 | Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
 | Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
+| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
+| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
 --
 
@@ -303,6 +303,22 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
+
+<!-- Week 7-->
+[c7.1.1]: https://github.com/GalvanizeDataScience/nlp
+[c7.1.2]: https://github.com/GalvanizeDataScience/text-classification
+[c7.2.1]: https://github.com/GalvanizeDataScience/pca
+[c7.2.2]: https://github.com/GalvanizeDataScience/svd
+[c7.3.1]: https://github.com/GalvanizeDataScience/clustering
+[c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
+[c7.4.1]: https://github.com/GalvanizeDataScience/graphs
+[c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
+
+<!-- Week 9-->
+[c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
+
+<!-- Week 10-->
+[c10.4.1]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
 
 <!-- Assessments -->
 <!-- Week 1 -->
