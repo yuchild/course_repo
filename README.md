@@ -99,7 +99,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[1][l-linr]               |
 | Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | Kayla |[1][l-regr]<br>[2][l-logr]|
 | Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | Frank |[1][l-grds]<br>[2][l-decr]|
-| Friday    |[Regression Case Study][cs-regression]                                          | Frank |           [-]            |
+| Friday    |[Review][wr]<br>[Regression Case Study][cs-regression]                          | Frank |           [-]            |
 
 --
 ### Break Week
