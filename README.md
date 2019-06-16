@@ -123,7 +123,7 @@ Your priorities this week:
 ### Week 7: Nonlinear Supervised Learning
 | Day | Readings |  Repos | Lead Instructor | Slides |
 |:--:|:----|:--|:--:|:--:|
-| Monday |[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [slides][-] |
+| Monday |[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [AM][lec-bst]<br/>[PM][lec-dt] |
 | Tuesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests][c6.2.1] |  Hamid   | [slides][-] |
 | Wednesday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
 | Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
@@ -304,6 +304,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-regularization]:https://github.com/GalvanizeDataScience/lectures/tree/SF/regularized_regression
 [lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/inferential_linear_regression
 [lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/logistic_regression/
+
+<!-- Week 6 -->
+[lec-bst]:https://docs.google.com/presentation/d/1WWTJNC27OlppPpHKqX4ydlWQB1cFDijSheLa4Yc-HLo/edit#slide=id.p
+[lec-dt]:https://docs.google.com/presentation/d/1xF3u1lSnfgFvF1Uo1kYEdzbEeHJWjuVSSPC8A6MDhPI/edit#slide=id.g4fb7357452_0_0
 
 <!-- Assignments -->
 <!-- Week 1 -->
