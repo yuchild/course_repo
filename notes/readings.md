@@ -49,9 +49,9 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | KNN<br>Cross Validation | [**KNN**][ISLR]<br>(pp. 39-42, 104-109)<br>[**Cross Validation**][ISLR]<br>(pp. 175-184)|
-| Tuesday | Linear Regression  | [**Linear Regression**][ISLR]<br>(pp. 59-104)| 
-| Wednesday |  Regularized Regression <br> Logistic Regression| [**Regularization**][ISLR]<br>(pp. 203-228)<br>[**Logistic Regression**][ISLR]<br>(pp. 127-138)|
+| Monday | KNN<br>Cross Validation | [ISLR: **KNN**][ISLR]<br>(pp. 39-42, 104-109)<br>[ISLR: **Cross Validation**][ISLR]<br>(pp. 175-184)|
+| Tuesday | Linear Regression  | [ISLR: **Linear Regression**][ISLR]<br>(pp. 59-104)| 
+| Wednesday |  Regularized Regression <br> Logistic Regression| [ISLR: **Regularization**][ISLR]<br>(pp. 203-228)<br>[ISLR: **Logistic Regression**][ISLR]<br>(pp. 127-138)|
 | Thursday | Gradient Descent<br>Decision Rules |[**Gradient Descent - conceptual**][r_grds1]<br>[**Gradient Descent in Python**][r_grds2]<br>[**Profit Curves**][r_ds4b]<br>(pp. 194-203, 212-218) | 
 | Friday | Regression Case Study |[**6 methods for data imputation**][r-dimp]  | 
 
@@ -70,11 +70,11 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Search Trees <br/> Decision Trees  | <ul><li>[Search Trees] [ - ] </li><li> [Machine Learning in Action][MLIA] (3.1 pg 37-48) </li><li> Optional: [StatLearning][ISLR] (8.1 pg 303-316)</li></ul>| 
-| Tuesday |  Random Forests | <ul><li> [StatLearning][ISLR] (8.1.2-8.2.2, pg 311-321)  </li></ul> | 
-| Wednesday |  Gradient Boosted Regressors <br/> Gradient Boosted Classifiers | <ul><li> [StatLearning][ISLR] (8.2.3, pg 321-324)</li><li>Optional (more depth): [Elements of Stats Learning][EoSL] (10-10.6, pg 337-350) </li></ul> |
-| Thursday | Gradient Decent <br/> Basic Neural Networks  | <ul><li> [Machine Learning in Action][MLIA] (ch 5, pg 83-90) (optional 90-96) </li><li> [Neural Network Basics (Part 1 - 3)][6.4.2] </li><li> [NN Zoo][6.4.3] </li><li> Optional (for more rigor): [Andrew Ng Notes (p. 1-7, 16-19)][6.4.1]</li></ul> | 
-| Friday | Supervised Learning Capstone |  -  | 
+| Monday | Decision Trees<br>Bagging  | [ISLR: **Decision Trees**][ISLR]<br>(pp. 303-316))<br>[**DT explained visually**][v-dt]<br>[ISLR: **Bagging**][ISLR]<br>(pp. 316-319)| 
+| Tuesday |  Random Forests<br>Boosting | [ISLR: **Random Forests**][ISLR]<br>(pp. 319-321)<br> [ISLR: **Boosting**][ISLR]<br>(pp. 321-323)| 
+| Wednesday |  Multilayer perceptrons| [**Neural nets demystified**][v-nndm]<br>(parts 1-7)<br>[What is a NN?][v-3b1b]<br>(parts 1&2)<br>[Oxford class][r-oxf]<br>(Lecture 9)<br>[NN zoo][r-nnz]|
+| Thursday | Convolutional neural nets<br>Recurrent neural nets  | [**CS231n: CNNs**][r-cnn]<br>[**Unreasonable effectiveness of RNNs**][r-rnn]| 
+| Friday | Supervised Learning Case Study |  -  | 
 
 --
 
@@ -183,6 +183,15 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r_grds2]: https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
 [r_ds4b]: https://drive.google.com/file/d/0B1cm3fV8cnJwNDJFNmx2a2RBaTg/view 
 [r-dimp]: https://www.omicsonline.org/open-access/a-comparison-of-six-methods-for-missing-data-imputation-2155-6180-1000224.pdf
+
+<!--Denver Week 6-->
+[v-dt]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ 
+[v-nndm]: https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PL77aoaxdgEVDrHoFOMKTjDdsa0p9iVtsR 
+[v-3b1b]: https://www.youtube.com/watch?v=aircAruvnKk
+[r-oxf]: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+[r-nnz]: http://www.asimovinstitute.org/neural-network-zoo/
+[r-cnn]: http://cs231n.github.io/convolutional-networks/
+[r-rnn]: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 
 
