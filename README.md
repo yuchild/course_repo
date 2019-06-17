@@ -132,20 +132,20 @@ Your priorities this week:
 --
 
 ### Week 8: NLP and Unsupervised Learning
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [slides][-] |
-| Tuesday |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [slides][-] |
-| Wednesday |  [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
-| Thursday | [Graph Representation of Data][graph] |  Flora  | [slides][-] |
-| Friday | [NLP Case Study][nlp-case-study] |  Hamid/Flora | [slides][-] |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday |  | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [slides][-] |
+| Tuesday |  |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [slides][-] |
+| Wednesday |  | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
+| Thursday |  | [Graph Representation of Data][graph] |  Flora  | [slides][-] |
+| Friday | | Capstone 2 Kick-Off | - | - |
 
 --
 
 ### Week 9: Unit 2 Capstone 
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 6][learn0]<br/> Discuss and kickoff capstone 2 | - | [slides][-] |
+| Monday |  Group Check-in | - | [slides][-] |
 | Tuesday |  Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Capstone Presentations PM | - | - |
 | Thursday |  Holiday (Independence Day) | - | - |
@@ -156,7 +156,7 @@ Your priorities this week:
 ### Week 10: Advanced Topics 1
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
+| Monday | [Assessment 6][learn0] <br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Hamid  | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
