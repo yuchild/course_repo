@@ -126,7 +126,7 @@ Your priorities this week:
 | Monday |[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [AM][lec-bst]<br/>[PM][lec-dt] |
 | Tuesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests][c6.2.1] |  Hamid   | [AM][lec-bg]<br/>[PM][lec-rf] |
 | Wednesday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [AM][lec-boosting] |
-| Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
+| Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [AM][lec-grad-des] <br/> [PM][lec-nn] |
 | Friday |  | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Flora | [slides][-] |
 
 --
@@ -311,6 +311,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-bg]:https://docs.google.com/presentation/d/1J3HfdYqJSsqU1026yXMhSo0-OYmtZNZR8zk0p-SEepQ/edit#slide=id.p
 [lec-rf]:https://github.com/gSchool/DSI_Lectures/blob/master/random-forest/jack_bennetto/Random%20Forests.ipynb
 [lec-boosting]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient_boosting
+[lec-grad-des]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient_descent
+[lec-nn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/neural_networks
 
 <!-- Assignments -->
 <!-- Week 1 -->
