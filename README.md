@@ -309,7 +309,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-bst]:https://docs.google.com/presentation/d/1WWTJNC27OlppPpHKqX4ydlWQB1cFDijSheLa4Yc-HLo/edit#slide=id.p
 [lec-dt]:https://docs.google.com/presentation/d/1xF3u1lSnfgFvF1Uo1kYEdzbEeHJWjuVSSPC8A6MDhPI/edit#slide=id.g4fb7357452_0_0
 [lec-bg]:https://docs.google.com/presentation/d/1J3HfdYqJSsqU1026yXMhSo0-OYmtZNZR8zk0p-SEepQ/edit#slide=id.p
-[lec-rf]:https://docs.google.com/presentation/d/1xF3u1lSnfgFvF1Uo1kYEdzbEeHJWjuVSSPC8A6MDhPI/edit#slide=id.g4fb7357452_0_0
+[lec-rf]:https://github.com/gSchool/DSI_Lectures/blob/master/random-forest/jack_bennetto/Random%20Forests.ipynb
 
 <!-- Assignments -->
 <!-- Week 1 -->
