@@ -116,7 +116,7 @@ Your priorities this week:
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|    
 | Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | Kayla |[1][l-dt]                 |
 | Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | K/F   |[1][l-rf]<br>[2][l-boo]   |
-| Wednesday |[Gradient Boosted Classifiers][c6.3.2]<br> [Neural nets - MLP][c6.4.2]          | F/K   |[1][l-boo]<br>[2][l-mlp] |          
+| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | F/K   |[1][l-boo]<br>[2][l-mlp]  |          
 | Thursday  |[Neural nets - CNN][r-cnn]<br>[Neural nets - RNN][r-rnn]                        | Frank |[1][l-cnn]<br>[2][l-rnn]  |
 | Friday    |[Supervised Learning Case Study][c6.5.1]                                        | Kayla |                          |
 
@@ -379,6 +379,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [cs-regression]: https://github.com/gSchool/dsd-case-study-linear-models
 
 <!-- Week 6-->
+
+[r-abst]: https://github.com/gSchool/dsi-boosting
 [l-dt]: https://github.com/gSchool/DSI_Lectures/tree/master/non-parametric-learners 
 [l-rf]: https://github.com/gSchool/DSI_Lectures/tree/master/random-forest
 [l-boo]: https://github.com/gSchool/DSI_Lectures/tree/master/boosting 
