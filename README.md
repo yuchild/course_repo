@@ -356,7 +356,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
 [c6.3.2]: https://github.com/GalvanizeDataScience/gradient-boosted-classification
-[c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
+[c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent/tree/g91-sea
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
 
