@@ -364,8 +364,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [slides-decisiontrees]: https://github.com/gSchool/DSI_Lectures/blob/master/non-parametric-learners/jack_bennetto/decision-trees.ipynb
 [slides-randomforest]: https://github.com/gSchool/DSI_Lectures/tree/master/random-forest 
 [slides-gradientboosting]: https://github.com/gSchool/DSI_Lectures/tree/master/boosting
-[slides-gradientdescent]: https://github.com/gSchool/DSI_Lectures/tree/master/gradient-descent
-[slides-neuralnetworks]: https://github.com/gSchool/DSI_Lectures/tree/master/neural-network
+[slides-gradientdescent]: https://github.com/GalvanizeDataScience/lectures/blob/SF/gradient_descent/Gradient%20Descent.ipynb
+[slides-neuralnetworks]: https://github.com/GalvanizeDataScience/lectures/blob/SF/neural_networks/Neural%20networks.ipynb
 [slides-suplearncasestudy]: ???
 
 <!-- Assessments -->
