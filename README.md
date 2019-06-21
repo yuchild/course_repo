@@ -137,7 +137,7 @@ Your priorities this week:
 | Monday |  | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [slides][-] |
 | Tuesday |  |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [slides][-] |
 | Wednesday |  | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
-| Thursday |  | [Graph Representation of Data][graph] |  Flora  | [slides][-] |
+| Thursday |  |[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [slides][-] |
 | Friday | | Capstone 2 Kick-Off | - | - |
 
 --
@@ -380,6 +380,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [svd]:https://github.com/GalvanizeDataScience/svd
 [clustering]:https://github.com/GalvanizeDataScience/clustering
 [nmf]:https://github.com/GalvanizeDataScience/topicmodeling
+[graph-searching]: https://github.com/GalvanizeDataScience/graphs-searching
+[graph-communities]: https://github.com/GalvanizeDataScience/graphs-communities
 [graph]:https://github.com/GalvanizeDataScience/graphs
 [nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
 
