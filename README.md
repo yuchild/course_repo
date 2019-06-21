@@ -118,36 +118,36 @@ Your priorities this week:
 | Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | K/F   |[1][l-rf]<br>[2][l-boo]   |
 | Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | F/K   |[1][l-boo]<br>[2][l-mlp]  |          
 | Thursday  |[Neural nets - CNN][r-cnn]<br>[Neural nets - RNN][r-rnn]                        | Frank |[1][l-cnn]<br>[2][l-rnn]  |
-| Friday    |[Supervised Learning Case Study][c6.5.1]                                        | Kayla |                          |
+| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | Kayla |                          |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | - | [slides][-] |
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
+| Monday   | Assessment 5<br>[NLP Intro][-]<br>[Text Classification][-] | - | [slides][-] |
+| Tuesday  |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
+| Wednesday| Proposals due<br>[Clustering][-]<br/>[NMF][-]  |  -  | [slides][-] |
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
-| Friday | [NLP Case Study][-] |  -  | [slides][-] |
+| Friday   | Capstone 2/Mock Interviews |  -  | - |
 
 --
 
 ### Week 8: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
-| Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday | Capstone 2/Mock Interviews | - | - |
+| Tuesday | Capstone 2/Mock Interviews|  -  | - |
+| Wednesday |  Capstone 2 presentations | - | - |
+| Thursday | July 4 holiday | - | - |
+| Friday | July 5 holiday   | - | - |
 
 --
 
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
+| Monday | Assessment 6<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
@@ -389,3 +389,4 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-rnn]: https://github.com/gSchool/DSI_Lectures/tree/master/nn-rnn
 [r-cnn]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
 [r-rnn]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
+[r-csml]: https://github.com/gSchool/dsd-non-parametric-case-study
