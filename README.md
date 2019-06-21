@@ -122,7 +122,7 @@ Your priorities this week:
 | Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Joe | 
 | Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Joe  | 
 | Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Dan  | 
-| Thursday | [Graph Representation of Data][c7.4.1]|  Dan  | 
+| Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Dan  | 
 | Friday | [Capstone 2 Kick Off |  Dan  | 
 
 --
@@ -260,7 +260,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c1.1.1]: https://github.com/GalvanizeDataScience/unix
 [c1.2.1]: https://github.com/GalvanizeDataScience/pandas
 [c1.2.2]: https://github.com/GalvanizeDataScience/matplotlib
-[c1.3.1]: https://github.com/GalvanizeDataScience/oop   
+[c1.3.1]: https://github.com/GalvanizeDataScience/oop
 [c1.3.2]: https://github.com/GalvanizeDataScience/transformers
 [c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
 [c1.4.2]: https://github.com/GalvanizeDataScience/numpy
@@ -287,7 +287,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
 [c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
-
 
 <!-- Week 4 -->
 
@@ -319,7 +318,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c7.2.2]: https://github.com/GalvanizeDataScience/svd
 [c7.3.1]: https://github.com/GalvanizeDataScience/clustering
 [c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
-[c7.4.1]: https://github.com/GalvanizeDataScience/graphs
+[c7.4.1]: https://github.com/GalvanizeDataScience/graphs-searching
+[c7.4.2]: https://github.com/GalvanizeDataScience/graphs-communities
 [c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
 
 <!-- Week 9-->
