@@ -141,9 +141,9 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][-]<br/>[Text Classification][-] | - | [slides][-] |
-| Tuesday |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
-| Wednesday |  [Clustering][-]<br/>[NMF][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
+| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
+| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
 | Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
 | Friday | [NLP Case Study][-] |  -  | [slides][-] |
 
@@ -276,6 +276,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c1.2.1]: https://github.com/GalvanizeDataScience/pandas
 [c1.2.2]: https://github.com/GalvanizeDataScience/matplotlib
 [c1.3.1]: https://github.com/GalvanizeDataScience/oop
+[c1.3.2]: https://github.com/GalvanizeDataScience/transformers
 [c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
 [c1.4.2]: https://github.com/GalvanizeDataScience/numpy
 [c1.5.1]: https://github.com/GalvanizeDataScience/mongo-db
@@ -295,7 +296,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
-[c2.3.1]: https://github.com/gSchool/dsi-sql
+[c2.3.1]: https://github.com/GalvanizeDataScience/sql
+[c2.3.2]: https://github.com/GalvanizeDataScience/sql-python
 [c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
@@ -367,6 +369,30 @@ We will focus on a few canonical texts for the class and readings will be assign
 [slides-gradientdescent]: https://github.com/GalvanizeDataScience/lectures/blob/SF/gradient_descent/Gradient%20Descent.ipynb
 [slides-neuralnetworks]: https://github.com/gSchool/DSI_Lectures/blob/master/neural-network/brandon_ma/multilayer_perceptron.ipynb
 [slides-suplearncasestudy]: ???
+<!-- Week 7-->
+[c7.1.1]: https://github.com/GalvanizeDataScience/nlp
+[c7.1.2]: https://github.com/GalvanizeDataScience/text-classification
+[c7.2.1]: https://github.com/GalvanizeDataScience/pca
+[c7.2.2]: https://github.com/GalvanizeDataScience/svd
+[c7.3.1]: https://github.com/GalvanizeDataScience/clustering
+[c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
+[c7.4.1]: https://github.com/GalvanizeDataScience/graphs
+[c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
+
+<!-- Week 9-->
+[c9.1.1]: https://github.com/GalvanizeDataScience/bayes-intro
+[c9.1.2]: https://github.com/GalvanizeDataScience/bayes-testing
+[c9.2.1]: https://github.com/GalvanizeDataScience/multi-armed-bandit
+[c9.2.2]: https://github.com/GalvanizeDataScience/mcmc
+[c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
+
+<!-- Week 10-->
+[c10.1.2]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
+[c10.2.1]: https://github.com/GalvanizeDataScience/time-series
+[c10.2.2]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
+
+[c10.3.2]: https://github.com/GalvanizeDataScience/transfer-learning
+[c10.4.1]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
 
 <!-- Assessments -->
 <!-- Week 1 -->
