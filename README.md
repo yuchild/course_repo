@@ -380,8 +380,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [svd]:https://github.com/GalvanizeDataScience/svd
 [clustering]:https://github.com/GalvanizeDataScience/clustering
 [nmf]:https://github.com/GalvanizeDataScience/topicmodeling
-[graph-searching]: https://github.com/GalvanizeDataScience/graphs-searching
-[graph-communities]: https://github.com/GalvanizeDataScience/graphs-communities
+[graphs-searching]: https://github.com/GalvanizeDataScience/graphs-searching
+[graphs-communities]: https://github.com/GalvanizeDataScience/graphs-communities
 [graph]:https://github.com/GalvanizeDataScience/graphs
 [nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
 
