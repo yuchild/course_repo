@@ -93,8 +93,8 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-|    Day    | Repos                                                                          | Lead  |        Slides            |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|    
+|    Day    | Repos                                                                          | Lead  |        Slides            |
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
 | Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[1][l-knn]<br>[2][l-rgcv] |
 | Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[1][l-linr]               |
 | Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | Kayla |[1][l-regr]<br>[2][l-logr]|
@@ -113,23 +113,23 @@ Your priorities this week:
 --
 ### Week 6: Nonlinear Supervised Learning
 |    Day    | Repos                                                                          | Lead  |        Slides            |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|    
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
 | Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | Kayla |[1][l-dt]                 |
 | Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | K/F   |[1][l-rf]<br>[2][l-boo]   |
-| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | F/K   |[1][l-boo]<br>[2][l-mlp]  |          
+| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | F/K   |[1][l-boo]<br>[2][l-mlp]  |
 | Thursday  |[Neural nets - CNN][r-cnn]<br>[Neural nets - RNN][r-rnn]                        | Frank |[1][l-cnn]<br>[2][l-rnn]  |
 | Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | Kayla |                          |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday   | Assessment 5<br>[NLP Intro][-]<br>[Text Classification][-] | - | [slides][-] |
-| Tuesday  |  [PCA][-]<br/>[SVD][-] |  -   | [slides][-] |
-| Wednesday| Proposals due<br>[Clustering][-]<br/>[NMF][-]  |  -  | [slides][-] |
-| Thursday | [Graph Distance][-]<br/>[Graph Communities][-] |  -  | [slides][-] |
-| Friday   | Capstone 2/Mock Interviews |  -  | - |
+|    Day    | Repos                                                                          | Lead  |        Slides            
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
+| Monday    | Assessment 5<br>[NLP Intro][r-nlp]<br>[Text Classification][r-nvb]             | K/F   |[1][l-nlp]                |
+| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | Frank |[1][l-pca]                |
+| Wednesday | Proposals due<br>[Clustering][r-clst]<br>[NMF][r-tm]                           | Kayla |[1][l-clst]<br>[2][l-tm]  |
+| Thursday  | [Graph Distance][r-gr1]<br/>[Graph Communities][r-gr2]                         | Frank |[1][l-grph]               |
+| Friday    | [Review][wr]<br>Capstone 2/Mock Interviews                                     | Kayla | -                        |
 
 --
 
@@ -390,3 +390,18 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-cnn]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
 [r-rnn]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
 [r-csml]: https://github.com/gSchool/dsd-non-parametric-case-study
+
+<!-- Week 7-->
+[r-nlp]: https://github.com/GalvanizeDataScience/nlp
+[r-nvb]: https://github.com/GalvanizeDataScience/text-classification
+[l-nlp]: https://github.com/gSchool/DSI_Lectures/tree/master/nlp
+[r-pca]: https://github.com/GalvanizeDataScience/pca
+[r-svd]: https://github.com/GalvanizeDataScience/svd
+[r-clst]: https://github.com/GalvanizeDataScience/clustering
+[r-tm]: https://github.com/GalvanizeDataScience/topicmodeling
+[r-gr1]: https://github.com/GalvanizeDataScience/graphs-searching
+[r-gr2]: https://github.com/GalvanizeDataScience/graphs-communities
+[l-pca]: https://github.com/gSchool/DSI_Lectures/tree/master/dimensionality-reduction
+[l-clst]: https://github.com/gSchool/DSI_Lectures/tree/master/clustering
+[l-tm]: https://github.com/gSchool/DSI_Lectures/tree/master/topicmodeling
+[l-grph]: https://github.com/gSchool/DSI_Lectures/tree/master/graphs
