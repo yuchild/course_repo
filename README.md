@@ -145,25 +145,26 @@ Your priorities this week:
 | Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Brandon   | [slides][-] |
 | Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Brandon  | [slides][-] |
 | Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Jack  | [slides][-] |
-| Friday | [NLP Case Study][-] |  -  | [slides][-] |
+| Friday | Discuss and kickoff capstone 2 |  -  | - |
 
 --
 
 ### Week 8: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
-| Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday | Work on capstone 2 | - | - |
+| Tuesday |  Work on capstone |  -  | - |
+| Wednesday |  Work on capstone and present results | - | - |
+| Thursday |  Holiday | - | - |
+| Friday | Holiday | - | - |
 
 --
 
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
+| Monday | [Assessment][-]<br/>[
+ian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
