@@ -143,8 +143,8 @@ Your priorities this week:
 |:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Joe | 
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Joe  | 
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan <br/> Christina (Resumes) 11:00 - 12:00 | 
-| Thursday | [Implicit Recommenders][-] |  Dan <br/> Christina (LinkedIn) 11:00 - 12:00 | 
+| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan  | 
+| Thursday | [Implicit Recommenders][-] |  Dan  | 
 | Friday | [Recommender Case Study][c9.5.1]  |  Dan  | 
 
 --
@@ -153,7 +153,7 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | Dan | 
-| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  Dan  | 
+| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  Dan <br /> Christina 9:30 to 11:00 am  | 
 | Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-]  <br/> Resumes and LinkedIn Due |  Joe  | 
 | Thursday | [Fraud Case Study (day 1)][-] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
 | Friday | [Fraud Case Study (day 2)][c10.4.1] |  Dan  | 
