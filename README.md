@@ -135,7 +135,7 @@ Your priorities this week:
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [AM & PM][lec-nlp] |
-| Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [AM][lec-pca]|
+| Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [AM][lec-pca] <br/> [PM][lec-svd]|
 | Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
 | Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [slides][-] |
 | Friday | | Capstone 2 Kick-Off | - | - |
@@ -317,6 +317,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 8 -->
 [lec-nlp]:https://github.com/gSchool/DSI_Lectures/tree/master/nlp/miles_erickson
 [lec-pca]:https://docs.google.com/presentation/d/1jJNgokqP2YH0c89-k8LF8V-gn3ht1IphXGL453zOq_8/edit#slide=id.g4d18f43a57_0_0
+[lec-svd]:https://docs.google.com/presentation/d/1fUucXz_wiPyIi86wfBRn6Ci_MrCU23_u83gVwFu0mbM/edit#slide=id.g5280dd6d74_0_5
+
 
 <!-- Assignments -->
 <!-- Week 1 -->
