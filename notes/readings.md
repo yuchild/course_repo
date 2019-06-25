@@ -84,7 +84,7 @@ Your priorities this week:
 |:--:|:--|:--:|
 | Monday | NLP Intro <br/> Text Classification | <ul><li>Text feature extraction (tf-idf) [I][tfidf1], [II][tfidf2], [III][tfidf3] </li><li> [Scalability of Semantic Analysis in Natural Language Processing][NLP] (Sections 1.1 - 1.7) </li><li>[NLP in Python][py.nlp] (3.6, pg 107-108) </li></ul> | 
 | Tuesday | PCA <br/> SVD |  <ul><li>[StatsLearning][ISLR] (ch 10.2 pg 374-385) </li><li> [Mining Massive Datasets][MMDS] (ch 11) </li></ul>| 
-| Wednesday |  Clustering <br/> NMF |  <ul><li>[StatLearning][ISLR] (pg 385-400) </li><li> [NMF in Python][nmf-reading]</li></ul>| 
+| Wednesday |  Clustering <br/> NMF |  <ul><li>[StatLearning][ISLR] (pg 385-400) </li><li> [NMF in Python][7.3.1]</li></ul>| 
 | Thursday | Graph Distance <br/> Graph Communities |  <ul><li>[Social Network Analysis][SNA] (ch 2 pg 19-38) </li><li> [Mining Massive Datasets][MMDS] (ch 10.1-10.2 pg 343-356) </li></ul> | 
 | Friday | NLP Case Study  |  -  | 
 
@@ -211,6 +211,8 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [tfidf3]: http://blog.christianperone.com/?p=2497
 [NLP]: https://radimrehurek.com/phd_rehurek.pdf
 [py.nlp]: https://pdfs.semanticscholar.org/3673/bccde93025e05431a2bcac4e8ff18c9c273a.pdf
+
+[7.3.1]: http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
 
 
 
