@@ -143,7 +143,7 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Jack | [slides][-] |
 | Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Brandon   | [Curse of Dimensionality][slides-curse] <br> [PCA][slides-pca] <br> [SVD][slides-svd]|
-| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Brandon  | [slides][-] |
+| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Brandon  | [Clustering][slides-clustering] <br/> [NMF][slides-nmf]|
 | Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Jack  | [slides][-] |
 | Friday | Discuss and kickoff capstone 2 |  -  | - |
 
@@ -384,6 +384,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [slides-curse]:https://github.com/gSchool/DSI_Lectures/blob/master/dimensionality-reduction/brandon_ma/curse_of_dimensionality.ipynb
 [slides-pca]:https://github.com/gSchool/DSI_Lectures/blob/master/dimensionality-reduction/brandon_ma/pca.ipynb
 [slides-svd]:https://github.com/gSchool/DSI_Lectures/blob/master/dimensionality-reduction/brandon_ma/svd.ipynb
+[slides-clustering]:https://github.com/gSchool/DSI_Lectures/blob/master/clustering/brandon_ma/clustering.ipynb
+[slides-nmf]:https://github.com/gSchool/DSI_Lectures/blob/master/topicmodeling/brandon_ma/nmf.ipynb
 
 <!-- Week 9-->
 [c9.1.1]: https://github.com/GalvanizeDataScience/bayes-intro
