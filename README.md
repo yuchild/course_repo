@@ -156,11 +156,11 @@ Your priorities this week:
 ### Week 10: Advanced Topics 1
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 6][learn0] <br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Hamid  | [slides][-] |
+| Monday | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [slides][-] |
+| Tuesday |  [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  Hamid/Flora  | [slides][-] |
+| Friday | [Recommender Case Study][recom-case-study]  |  Hamid/Flora  | [slides][-] |
 
 --
 
@@ -393,6 +393,15 @@ We will focus on a few canonical texts for the class and readings will be assign
 [graphs-communities]: https://github.com/GalvanizeDataScience/graphs-communities
 [graph]:https://github.com/GalvanizeDataScience/graphs
 [nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
+
+
+<!-- Week 9 -->
+[bayes-inf]:https://github.com/GalvanizeDataScience/bayes-intro
+[bayes-testing]:https://github.com/GalvanizeDataScience/bayes-testing
+[mab]:https://github.com/GalvanizeDataScience/multi-armed-bandit
+[mcmc]:https://github.com/GalvanizeDataScience/mcmc
+[recom-case-study]:https://github.com/GalvanizeDataScience/recommender-case-study
+
 
 <!-- Assessments -->
 <!-- Week 1 -->
