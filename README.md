@@ -162,16 +162,18 @@ Your priorities this week:
 | Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
 | Friday | [Recommender Case Study][recom-case-study]  |  Hamid/Flora  | [slides][-] |
 
+
 --
 
 ### Week 11: Advanced Topics 2
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Image Analysis][-]<br/>[CNNs][-] | Flora | [slides][-] |
-| Tuesday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] | 
-| Wednesday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] | 
-| Thursday | [Sequence Analysis][-]<br/>[RNN/LSTM][-]<br/> Capstone III |  Hamid   | [slides][-] |
+| Monday | [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
+| Tuesday | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
+| Wednesday | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
+| Thursday | [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
 | Friday | [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
+
 
 --
 
@@ -401,6 +403,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [mab]:https://github.com/GalvanizeDataScience/multi-armed-bandit
 [mcmc]:https://github.com/GalvanizeDataScience/mcmc
 [recom-case-study]:https://github.com/GalvanizeDataScience/recommender-case-study
+
+<!-- Week 10 -->
+[convnets]:https://github.com/GalvanizeDataScience/convolutional-neural-nets
+[seq-ana]:https://github.com/GalvanizeDataScience/time-series
+[rnns]:https://github.com/GalvanizeDataScience/recurrent-neural-nets
+[fraud-case-study]:https://github.com/GalvanizeDataScience/fraud-detection-case-study
+[transfer-learning]: https://github.com/GalvanizeDataScience/transfer-learning
 
 
 <!-- Assessments -->
