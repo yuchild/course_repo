@@ -159,8 +159,9 @@ Your priorities this week:
 | Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [slides][-] |
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | [slides][-] |
 | Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
-| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) | [Implicit Recommenders][-] |  Flora  | [slides][-] |
+| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Implicit Recommenders][-] |  Flora  | [slides][-] |
 | Friday |  | [Recommender Case Study][recom-case-study]  |  Hamid/Flora  | [slides][-] |
+
 
 --
 
@@ -492,6 +493,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-forecasting]:https://www.otexts.org/fpp
 [r-time-series]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/notes/TimeSeries.pdf
 [r-arima]:http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf
+[r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
+[r-graphlab]:https://turi.com/learn/userguide/recommender/choosing-a-model.html
 
 <!-- Week 11-->
 [r-autoencoder]:http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
