@@ -143,25 +143,24 @@ Your priorities this week:
 --
 
 ### Week 9: Unit 2 Capstone 
-| Day | Repos | Lead Instructor | Slides |
+| Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  Group Check-in | - | [slides][-] |
-| Tuesday |  Group Check-in <br/> Back to work |  -  | - |
-| Wednesday | Capstone Presentations PM | - | - |
+| Monday |    Group Check-in | - | [slides][-] |
+| Tuesday |   Group Check-in <br/> Back to work |  -  | - |
+| Wednesday  |  Capstone Presentations PM | - | - |
 | Thursday |  Holiday (Independence Day) | - | - |
 | Friday | Holiday (Independence Day) | - | - |
 
 --
 
 ### Week 10: Advanced Topics 1
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [slides][-] |
-| Tuesday |  [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
-| Friday | [Recommender Case Study][recom-case-study]  |  Hamid/Flora  | [slides][-] |
-
+| Day | Readings |Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [slides][-] |
+| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | [slides][-] |
+| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
+| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) | [Implicit Recommenders][-] |  Flora  | [slides][-] |
+| Friday |  | [Recommender Case Study][recom-case-study]  |  Hamid/Flora  | [slides][-] |
 
 --
 
@@ -484,4 +483,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-mmd]:http://infolab.stanford.edu/~ullman/mmds/book.pdf
 [r-nmf-py]:http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
 [r-sna]:http://www.asecib.ase.ro/mps/Social%20Network%20Analysis%20for%20Startups%20[2011].pdf
+
+
+<!-- Week 9-->
+[r-mab]:http://stevehanov.ca/blog/index.php?id=132
 
