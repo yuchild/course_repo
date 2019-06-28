@@ -171,7 +171,7 @@ Your priorities this week:
 | Tuesday |  | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
 | Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
 | Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
-| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][]| [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
+| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
 
 
 --
