@@ -169,11 +169,10 @@ Your priorities this week:
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
-| Tuesday |  | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
+| Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
 | Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
 | Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
 | Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
-
 
 --
 
@@ -501,3 +500,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-word-embedding]:https://arxiv.org/pdf/1301.3781.pdf
 [r-convnets]:https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 [r-transfer]:https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+[r-flask]:http://flask.pocoo.org/
+[r-flask-tutorials]:http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+[r-get-post]:http://www.w3schools.com/tags/ref_httpmethods.asp
