@@ -165,13 +165,13 @@ Your priorities this week:
 --
 
 ### Week 11: Advanced Topics 2
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
-| Tuesday | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
-| Wednesday | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
-| Thursday | [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
-| Friday | [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
+| Tuesday |  | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
+| Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
+| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
+| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][]| [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
 
 
 --
@@ -179,11 +179,11 @@ Your priorities this week:
 ### Week 12: Unit 3 Capstone
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | group check-in <br/> Work | - | [slides][-] |
-| Tuesday | group check-in <br/> Work   |  -   | [slides][-] |
-| Wednesday | Work <br/> Code freeze (EOD)  |  -  | [slides][-] |
-| Thursday | Practice |  -  | [slides][-] |
-| Friday | Practice |  -  | [slides][-] |
+| Monday | group check-in <br/> Work | - | - |
+| Tuesday | group check-in <br/> Work   |  -   | - |
+| Wednesday | Work <br/> Code freeze (EOD)  |  -  | - |
+| Thursday | Practice |  -  | - |
+| Friday | Practice |  -  | - |
 
 --
 
@@ -488,3 +488,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 9-->
 [r-mab]:http://stevehanov.ca/blog/index.php?id=132
 
+<!-- Week 10-->
+[r-forecasting]:https://www.otexts.org/fpp
+[r-time-series]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/notes/TimeSeries.pdf
+[r-arima]:http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf
+
+<!-- Week 11-->
+[r-autoencoder]:http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+[r-word-embedding]:https://arxiv.org/pdf/1301.3781.pdf
+[r-convnets]:https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+[r-transfer]:https://machinelearningmastery.com/transfer-learning-for-deep-learning/
