@@ -145,7 +145,7 @@ Your priorities this week:
 | Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Brandon   | [Curse of Dimensionality][slides-curse] <br> [PCA][slides-pca] <br> [SVD][slides-svd]|
 | Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Brandon  | [Clustering][slides-clustering] <br/> [NMF][slides-nmf]|
 | Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Jack  | [slides][-] |
-| Friday | Discuss and kickoff capstone 2 |  -  | - |
+| Friday | [Discuss and kickoff capstone 2][c7.5.1] |  -  | - |
 
 --
 
@@ -379,7 +379,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
 [c7.4.1]: https://github.com/GalvanizeDataScience/graphs-searching
 [c7.4.2]: https://github.com/GalvanizeDataScience/graphs-communities
-[c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
+[c7.5.1]: https://github.com/gSchool/DSI_Lectures/blob/master/capstone-kickoffs/capstone2/capstone-2.ipynb
 
 [slides-curse]:https://github.com/gSchool/DSI_Lectures/blob/master/dimensionality-reduction/brandon_ma/curse_of_dimensionality.ipynb
 [slides-pca]:https://github.com/gSchool/DSI_Lectures/blob/master/dimensionality-reduction/brandon_ma/pca.ipynb
