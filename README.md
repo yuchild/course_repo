@@ -163,23 +163,22 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[
-ian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
+| Monday | [Assessment][-]<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
+| Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
+| Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
-| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
+| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][c10.1.2] | - | [slides][-] |
+| Tuesday |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  -   | [slides][-] |
+| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
+| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
+| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
 --
 
