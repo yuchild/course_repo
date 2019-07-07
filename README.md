@@ -141,8 +141,8 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Joe | 
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Joe  | 
+| Monday | [Assessment][-]<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Coin Flipping][c9.1.2] | Joe | 
+| Tuesday |  [Reinforcement Learning][c9.2.1]<br/>[Multi-Armed Bandit][c9.2.2] |  Joe  | 
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Dan  | 
 | Thursday | [Implicit Recommenders][-] |  Dan  | 
 | Friday | [Recommender Case Study][c9.5.1]  |  Dan  | 
@@ -323,6 +323,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
 
 <!-- Week 9-->
+[c9.1.1]: https://github.com/GalvanizeDataScience/bayes-intro
+[c9.1.2]: https://github.com/GalvanizeDataScience/bayes-testing
+[c9.2.1]: https://github.com/GalvanizeDataScience/multi-armed-bandit
+[c9.2.2]: https://github.com/GalvanizeDataScience/mcmc
 [c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
 
 <!-- Week 10-->
