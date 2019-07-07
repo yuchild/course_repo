@@ -73,7 +73,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [AM][lec-web] |
 | Wednesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql]                                                           |  Hamid  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
 | Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Flora  | [AM][lec-spark-intro] <br/> [PM][lec-spark-df] |
-| Friday    || [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   |  |
+| Friday    || [Spark EDA Case Study][c2.5.1]     |  -   |  |
 
 --
 
@@ -107,7 +107,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [AM][lec-lin-reg] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [AM][lec-regularization]<br/>[PM][lec-inf] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [AM][lec-log-reg] |
-| Friday | | [Regression Case Study][c5.5.1] |  Hamid  | [slides][-] |
+| Friday | | [Regression Case Study][c5.5.1] |  -  | - |
 
 --
 ### Week 6: Solo Week
@@ -127,7 +127,7 @@ Your priorities this week:
 | Tuesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests][c6.2.1] |  Hamid   | [AM][lec-bg]<br/>[PM][lec-rf] |
 | Wednesday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [AM][lec-boosting] |
 | Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [AM][lec-grad-des] <br/> [PM][lec-nn] |
-| Friday |  | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Lori/Alberto | [slides][-] |
+| Friday |  | [Supervised Learning Case Study][c6.5.1]  |  - | - |
 
 --
 
@@ -158,9 +158,9 @@ Your priorities this week:
 |:--:|:-------|:--|:--:|:--:|
 | Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [slides][-] |
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | [slides][-] |
-| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][sim-recom]<br/>[Content Based Recommenders][cont-recom]] |  Flora  | [slides][-] |
+| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][sim-recom]<br/>[Content Based Recommenders][cont-recom] |  Flora  | [slides][-] |
 | Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Flora  | [AM][-] |
-| Friday |  | [Recommender Case Study][recom-case-study]  |  Hamid/Flora  | [slides][-] |
+| Friday |  | [Recommender Case Study][recom-case-study]  |  -  | - |
 
 --
 
