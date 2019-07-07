@@ -152,7 +152,7 @@ Your priorities this week:
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][c10.1.2] | Dan | 
+| Monday | [Assessment][-]<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Dan | 
 | Tuesday |  [Transfer Learning][c10.2.2]<br/>[Autoencoding][-]  |  Joe <br /> Christina 9:30 to 11:00 am  | 
 | Wednesday |  [Sequence Analysis][c10.3.1]<br/>[RNNs][c10.3.2]<br/> Resumes and LinkedIn Due |  Dan  | 
 | Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
@@ -330,6 +330,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
 
 <!-- Week 10-->
+[c10.1.1]: https://github.com/GalvanizeDataScience/image-processing
 [c10.1.2]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
 [c10.2.2]: https://github.com/GalvanizeDataScience/transfer-learning
 [c10.3.1]: https://github.com/GalvanizeDataScience/time-series
