@@ -149,8 +149,8 @@ Your priorities this week:
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
 | Monday    | Assessment 6<br/>[Bayesian Inference][r-bi]<br/>[Bayesian Testing][r-bab]      | Frank | [1][l-bay]<br>[2][l-bab] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
+| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
+| Thursday | [Implicit Recommenders][c9.4.1] |  -  | [slides][-] |
 | Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
 
 --
@@ -411,3 +411,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-bab]: https://github.com/GalvanizeDataScience/bayes-testing
 [l-bay]: https://github.com/gschool/DSI_Lectures/tree/master/power-bayesian
 [l-bab]: https://github.com/gschool/DSI_Lectures/tree/master/multi-armed-bandit
+
+
+<!-- Week 9 -->
+[c9.3.1]: https://github.com/GalvanizeDataScience/content_based_recommender
+[c9.3.2]: https://github.com/GalvanizeDataScience/similarity_based_recommenders
+[c9.4.1]: https://github.com/GalvanizeDataScience/factorization_recommender
+
+
