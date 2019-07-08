@@ -141,7 +141,7 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Coin Flipping][c9.1.2] | Joe | 
+| Monday | [Assessment][c9.1.0]<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Coin Flipping][c9.1.2] | Joe | 
 | Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[MCMC][c9.2.2] |  Joe  | 
 | Wednesday | [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan  | 
 | Thursday | [Implicit Recommenders][c9.4.1] |  Dan  | 
@@ -152,7 +152,7 @@ Your priorities this week:
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Dan | 
+| Monday | [Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Dan | 
 | Tuesday |  [Transfer Learning][c10.2.2]<br/>[Autoencoding][-]  |  Joe <br /> Christina 9:30 to 11:00 am  | 
 | Wednesday |  [Sequence Analysis][c10.3.1]<br/>[RNNs][c10.3.2]<br/> Resumes and LinkedIn Due |  Dan  | 
 | Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
@@ -323,6 +323,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
 
 <!-- Week 9-->
+[c9.1.0]: https://github.com/gSchool/dsi-final-assessment
 [c9.1.1]: https://github.com/GalvanizeDataScience/bayes-intro
 [c9.1.2]: https://github.com/GalvanizeDataScience/bayes-testing
 [c9.2.1]: https://github.com/GalvanizeDataScience/multi-armed-bandit
