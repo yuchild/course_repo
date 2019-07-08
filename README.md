@@ -391,7 +391,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-rnn]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
 [r-csml]: https://github.com/gSchool/dsd-non-parametric-case-study
 
-<!-- Week 7-->
+<!-- Week 8-->
 [r-nlp]: https://github.com/GalvanizeDataScience/nlp
 [r-nvb]: https://github.com/GalvanizeDataScience/text-classification
 [l-nlp]: https://github.com/gSchool/DSI_Lectures/tree/master/nlp
@@ -406,7 +406,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-tm]: https://github.com/gSchool/DSI_Lectures/tree/master/topicmodeling
 [l-grph]: https://github.com/gSchool/DSI_Lectures/tree/master/graphs
 
-<!-- Week 8-->
+<!-- Week 9-->
 [r-bi]: https://github.com/GalvanizeDataScience/bayes-intro
 [r-bab]: https://github.com/GalvanizeDataScience/bayes-testing
 [l-bay]: https://github.com/gschool/DSI_Lectures/tree/master/power-bayesian
@@ -419,4 +419,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-mab]: https://github.com/GalvanizeDataScience/multi-armed-bandit
 [r-lda]: https://github.com/gSchool/dsd-lda
 [l-mab]: https://github.com/gSchool/DSI_Lectures/tree/master/multi-armed-bandit   
+
+
 
