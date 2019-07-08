@@ -143,7 +143,7 @@ Your priorities this week:
 |:--:|:--|:--:|
 | Monday | [Assessment][-]<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Coin Flipping][c9.1.2] | Joe | 
 | Tuesday |  [Reinforcement Learning][c9.2.1]<br/>[Multi-Armed Bandit][c9.2.2] |  Joe  | 
-| Wednesday |  [Similarity Based Recommenders][c9.3.1]<br/>[Content Based Recommenders][c9.3.2] |  Dan  | 
+| Wednesday | [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan  | 
 | Thursday | [Implicit Recommenders][c9.4.1] |  Dan  | 
 | Friday | [Recommender Case Study][c9.5.1]  |  Dan  | 
 
