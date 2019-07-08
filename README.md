@@ -145,9 +145,9 @@ Your priorities this week:
 --
 
 ### Week 9: Advanced Topics 1
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | Assessment 6<br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | - | [slides][-] |
+|    Day    | Repos                                                                          | Lead  |        Slides            
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
+| Monday    | Assessment 6<br/>[Bayesian Inference][r-bi]<br/>[Bayesian Testing][r-bab]      | Frank | [1][l-bay]<br>[2][l-bab] |
 | Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
 | Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
 | Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
@@ -405,3 +405,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-clst]: https://github.com/gSchool/DSI_Lectures/tree/master/clustering
 [l-tm]: https://github.com/gSchool/DSI_Lectures/tree/master/topicmodeling
 [l-grph]: https://github.com/gSchool/DSI_Lectures/tree/master/graphs
+
+<!-- Week 8-->
+[r-bi]: https://github.com/GalvanizeDataScience/bayes-intro
+[r-bab]: https://github.com/GalvanizeDataScience/bayes-testing
+[l-bay]: https://github.com/gschool/DSI_Lectures/tree/master/power-bayesian
+[l-bab]: https://github.com/gschool/DSI_Lectures/tree/master/multi-armed-bandit
