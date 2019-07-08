@@ -158,9 +158,10 @@ Your priorities this week:
 |:--:|:-------|:--|:--:|:--:|
 | Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | [slides][-] |
-| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][sim-recom]<br/>[Content Based Recommenders][cont-recom] |  Flora  | [slides][-] |
-| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Flora  | [AM][-] |
+| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][sim-recom]<br/>[Content Based Recommenders][cont-recom] |  Flora  | [AM][lec-recom] |
+| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Flora  | [AM][lec-matrix-recom] |
 | Friday |  | [Recommender Case Study][recom-case-study]  |  -  | - |
+
 
 --
 
@@ -172,6 +173,7 @@ Your priorities this week:
 | Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
 | Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
 | Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
+
 
 --
 
@@ -325,6 +327,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 10 -->
 [lec-bys]:https://github.com/gSchool/DSI_Lectures/blob/master/power-bayesian/miles_erickson/bayes.pdf
 [lec-bysabtest]:https://docs.google.com/presentation/d/13T99fSjy5U52mJsuiSPfX-XRclnYJHFYvqdBzcb1qDg/edit#slide=id.g5d0912ce3c_0_0
+[lec-recom]:https://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/recommenders.ipynb
+[lec-matrix-recom]:hhttps://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/matrix_factorization_for_recommendation.ipynb
+
+
+<!-- Week 11 -->
 
 <!-- Assignments -->
 <!-- Week 1 -->
