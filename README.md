@@ -143,8 +143,8 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
 | Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
+| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
+| Thursday | [Implicit Recommenders][c9.4.1] |  -  | [slides][-] |
 | Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
@@ -320,6 +320,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c9.1.2]: https://github.com/GalvanizeDataScience/bayes-testing
 [c9.2.1]: https://github.com/GalvanizeDataScience/multi-armed-bandit
 [c9.2.2]: https://github.com/GalvanizeDataScience/mcmc
+[c9.3.1]: https://github.com/GalvanizeDataScience/content_based_recommender
+[c9.3.2]: https://github.com/GalvanizeDataScience/similarity_based_recommenders
+[c9.4.1]: https://github.com/GalvanizeDataScience/factorization_recommender
 [c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
 
 <!-- Week 10-->
