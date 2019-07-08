@@ -148,10 +148,10 @@ Your priorities this week:
 |    Day    | Repos                                                                          | Lead  |        Slides            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
 | Monday    | Assessment 6<br/>[Bayesian Inference][r-bi]<br/>[Bayesian Testing][r-bab]      | Frank | [1][l-bay]<br>[2][l-bab] |
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  -   | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  -  | [slides][-] |
+| Tuesday   | [Multi-Armed Bandit][r-mab]<br>[LDA][r-lda]                                    | Kayla | [1][l-mab]               |
+| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        |  K/F  | [1][l-rcmd]              |
+| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | Frank | [1][l-rcmd]              |
+| Friday    | [Recommender Case Study][r-csrec]                                              | Kayla |            -             |
 
 --
 
@@ -411,3 +411,12 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-bab]: https://github.com/GalvanizeDataScience/bayes-testing
 [l-bay]: https://github.com/gschool/DSI_Lectures/tree/master/power-bayesian
 [l-bab]: https://github.com/gschool/DSI_Lectures/tree/master/multi-armed-bandit
+[r-cbr]: https://github.com/GalvanizeDataScience/content_based_recommender
+[r-smr]: https://github.com/GalvanizeDataScience/similarity_based_recommenders
+[l-rcmd]: https://github.com/gSchool/DSI_Lectures/tree/master/recommendation-systems
+[r-mfr]: https://github.com/GalvanizeDataScience/factorization_recommender                      
+[r-csrec]: https://github.com/GalvanizeDataScience/recommender-case-study
+[r-mab]: https://github.com/GalvanizeDataScience/multi-armed-bandit
+[r-lda]: https://github.com/gSchool/dsd-lda
+[l-mab]: https://github.com/gSchool/DSI_Lectures/tree/master/multi-armed-bandit   
+
