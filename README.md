@@ -328,7 +328,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-bys]:https://github.com/gSchool/DSI_Lectures/blob/master/power-bayesian/miles_erickson/bayes.pdf
 [lec-bysabtest]:https://docs.google.com/presentation/d/13T99fSjy5U52mJsuiSPfX-XRclnYJHFYvqdBzcb1qDg/edit#slide=id.g5d0912ce3c_0_0
 [lec-recom]:https://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/recommenders.ipynb
-[lec-matrix-recom]:hhttps://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/matrix_factorization_for_recommendation.ipynb
+[lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/matrix_factorization_for_recommendation.ipynb
 
 
 <!-- Week 11 -->
