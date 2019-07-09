@@ -157,7 +157,7 @@ Your priorities this week:
 | Day | Readings |Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
-| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid  | Hamid | [AM][lec-mab]<br/>[PM][lec-mcmc] |
+| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid | [AM][lec-mab] <br/> [PM][lec-mcmc] |
 | Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Similarity Based Recommenders][sim-recom]<br/>[Content Based Recommenders][cont-recom] |  Flora  | [AM][lec-recom] |
 | Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Flora  | [AM][lec-matrix-recom] |
 | Friday |  | [Recommender Case Study][recom-case-study]  |  -  | - |
