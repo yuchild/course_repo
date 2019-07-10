@@ -324,10 +324,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-graph]:https://github.com/GalvanizeDataScience/lectures/tree/SF/graph
 
 <!-- Week 10 -->
-[lec-bys]:https://github.com/gSchool/DSI_Lectures/blob/master/power-bayesian/miles_erickson/bayes.pdf
-[lec-bysabtest]:https://docs.google.com/presentation/d/13T99fSjy5U52mJsuiSPfX-XRclnYJHFYvqdBzcb1qDg/edit#slide=id.g5d0912ce3c_0_0
-[lec-mab]:https://docs.google.com/presentation/d/1HxfcUe5fyyipnLKyh7T0KIgzqAZiCkYusEF9Y55ibQc/edit#slide=id.p
-[lec-mcmc]:https://github.com/gSchool/DSI_Lectures/blob/master/mcmc/jack_bennetto/mcmc.ipynb
+[lec-bys]:https://github.com/GalvanizeDataScience/lectures/blob/SF/bayesian_inference
+[lec-bysabtest]:https://github.com/GalvanizeDataScience/lectures/blob/SF/bayesian_testing
+[lec-mab]:https://github.com/GalvanizeDataScience/lectures/blob/SF/multi_armed_bandit
+[lec-mcmc]:https://github.com/GalvanizeDataScience/lectures/blob/SF/mcmc/
 [lec-recom]:https://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/recommenders.ipynb
 [lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/blob/SF/recommendations/matrix_factorization_for_recommendation.ipynb
 
