@@ -73,7 +73,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [AM][lec-web] |
 | Wednesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql]                                                           |  Hamid  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
 | Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Flora  | [AM][lec-spark-intro] <br/> [PM][lec-spark-df] |
-| Friday    || [Spark EDA Case Study][c2.5.1]     |  Hamid/Flora/Elliott   |  |
+| Friday    || [Spark EDA Case Study][c2.5.1]     |  -   |  |
 
 --
 
@@ -107,7 +107,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [AM][lec-lin-reg] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [AM][lec-regularization]<br/>[PM][lec-inf] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [AM][lec-log-reg] |
-| Friday | | [Regression Case Study][c5.5.1] |  Hamid  | [slides][-] |
+| Friday | | [Regression Case Study][c5.5.1] |  -  | - |
 
 --
 ### Week 6: Solo Week
@@ -125,64 +125,65 @@ Your priorities this week:
 |:--:|:----|:--|:--:|:--:|
 | Monday |[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Hamid | [AM][lec-bst]<br/>[PM][lec-dt] |
 | Tuesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests][c6.2.1] |  Hamid   | [AM][lec-bg]<br/>[PM][lec-rf] |
-| Wednesday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [slides][-] |
-| Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [slides][-] |
-| Friday |  | [Supervised Learning Case Study][c6.5.1]  |  Hamid/Flora | [slides][-] |
+| Wednesday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Flora | [AM][lec-boosting] |
+| Thursday | [Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Flora  | [AM][lec-grad-des] <br/> [PM][lec-nn] |
+| Friday |  | [Supervised Learning Case Study][c6.5.1]  |  - | - |
 
 --
 
 ### Week 8: NLP and Unsupervised Learning
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
-| Monday |  | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [slides][-] |
-| Tuesday |  |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [slides][-] |
-| Wednesday |  | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [slides][-] |
-| Thursday |  | [Graph Representation of Data][graph] |  Flora  | [slides][-] |
+| Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [AM][lec-nlp] |
+| Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [AM][lec-pca] <br/> [PM][lec-svd]|
+| Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
+| Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [AM][lec-graph] |
 | Friday | | Capstone 2 Kick-Off | - | - |
 
 --
 
 ### Week 9: Unit 2 Capstone 
-| Day | Repos | Lead Instructor | Slides |
+| Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  Group Check-in | - | [slides][-] |
-| Tuesday |  Group Check-in <br/> Back to work |  -  | - |
-| Wednesday | Capstone Presentations PM | - | - |
+| Monday |    Group Check-in | - | [slides][-] |
+| Tuesday |   Group Check-in <br/> Back to work |  -  | - |
+| Wednesday  |  Capstone Presentations PM | - | - |
 | Thursday |  Holiday (Independence Day) | - | - |
 | Friday | Holiday (Independence Day) | - | - |
 
 --
 
 ### Week 10: Advanced Topics 1
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment 6][learn0] <br/>[Bayesian Inference][-]<br/>[Bayesian Coin Flipping][-] | Hamid | [slides][-] |
-| Tuesday |  [Reinforcement Learning][-]<br/>[Multi-Armed Bandit][-] |  Hamid  | [slides][-] |
-| Wednesday |  [Similarity Based Recommenders][-]<br/>[Content Based Recommenders][-] |  Flora  | [slides][-] |
-| Thursday | [Implicit Recommenders][-] |  Flora  | [slides][-] |
-| Friday | [Recommender Case Study][-]  |  Hamid/Flora  | [slides][-] |
+| Day | Readings |Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
+| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid | [AM][lec-mab] <br/> [PM][lec-mcmc] |
+| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Content Based Recommenders][cont-recom]<br/>[Similarity Based Recommenders][sim-recom] |  Flora  | [AM][lec-recom] |
+| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Flora  | [AM][lec-matrix-recom] |
+| Friday |  | [Recommender Case Study][recom-case-study]  |  -  | - |
+
 
 --
 
 ### Week 11: Advanced Topics 2
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Image Analysis][-]<br/>[CNNs][-] | Flora | [slides][-] |
-| Tuesday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] | 
-| Wednesday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] | 
-| Thursday | [Sequence Analysis][-]<br/>[RNN/LSTM][-]<br/> Capstone III |  Hamid   | [slides][-] |
-| Friday | [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [slides][-] |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][image]<br/>[ConvNets][convnets] | Flora | [slides][-] |
+| Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
+| Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
+| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
+| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [slides][-] |
 
 --
 
 ### Week 12: Unit 3 Capstone
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | group check-in <br/> Work | - | [slides][-] |
-| Tuesday | group check-in <br/> Work   |  -   | [slides][-] |
-| Wednesday | Work <br/> Code freeze (EOD)  |  -  | [slides][-] |
-| Thursday | Practice |  -  | [slides][-] |
-| Friday | Practice |  -  | [slides][-] |
+| Monday | group check-in <br/> Work | - | - |
+| Tuesday | group check-in <br/> Work   |  -   | - |
+| Wednesday | Work <br/> Code freeze (EOD)  |  -  | - |
+| Thursday | Practice |  -  | - |
+| Friday | Practice |  -  | - |
 
 --
 
@@ -305,11 +306,33 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/inferential_linear_regression
 [lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/logistic_regression/
 
-<!-- Week 6 -->
-[lec-bst]:https://docs.google.com/presentation/d/1WWTJNC27OlppPpHKqX4ydlWQB1cFDijSheLa4Yc-HLo/edit#slide=id.p
-[lec-dt]:https://docs.google.com/presentation/d/1xF3u1lSnfgFvF1Uo1kYEdzbEeHJWjuVSSPC8A6MDhPI/edit#slide=id.g4fb7357452_0_0
-[lec-bg]:https://docs.google.com/presentation/d/1J3HfdYqJSsqU1026yXMhSo0-OYmtZNZR8zk0p-SEepQ/edit#slide=id.p
-[lec-rf]:https://github.com/gSchool/DSI_Lectures/blob/master/random-forest/jack_bennetto/Random%20Forests.ipynb
+<!-- Week 7 -->
+[lec-bst]:https://github.com/GalvanizeDataScience/lectures/tree/SF/search_trees
+[lec-dt]:https://github.com/GalvanizeDataScience/lectures/tree/SF/decision_tress
+[lec-bg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random_forests
+[lec-rf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random_forests
+[lec-boosting]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient_boosting
+[lec-grad-des]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient_descent
+[lec-nn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/neural_networks
+
+<!-- Week 8 -->
+[lec-nlp]:https://github.com/GalvanizeDataScience/lectures/tree/SF/nlp/
+[lec-pca]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pca
+[lec-svd]:https://github.com/GalvanizeDataScience/lectures/tree/SF/svd
+[lec-clustering]:https://github.com/GalvanizeDataScience/lectures/tree/SF/clustering
+[lec-nmf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/nmf
+[lec-graph]:https://github.com/GalvanizeDataScience/lectures/tree/SF/graph
+
+<!-- Week 10 -->
+[lec-bys]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian_inference
+[lec-bysabtest]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian_testing
+[lec-mab]:https://github.com/GalvanizeDataScience/lectures/tree/SF/multi_armed_bandit
+[lec-mcmc]:https://github.com/GalvanizeDataScience/lectures/tree/SF/mcmc/
+[lec-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/recommenders.ipynb
+[lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/matrix_factorization_for_recommendation.ipynb
+
+
+<!-- Week 11 -->
 
 <!-- Assignments -->
 <!-- Week 1 -->
@@ -367,7 +390,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
 [c6.3.2]: https://github.com/GalvanizeDataScience/gradient-boosted-classification
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
-[c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
+[c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons/tree/g91-sea
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
 
 <!-- Week 8 -->
@@ -377,9 +400,34 @@ We will focus on a few canonical texts for the class and readings will be assign
 [svd]:https://github.com/GalvanizeDataScience/svd
 [clustering]:https://github.com/GalvanizeDataScience/clustering
 [nmf]:https://github.com/GalvanizeDataScience/topicmodeling
+[graphs-searching]: https://github.com/GalvanizeDataScience/graphs-searching
+[graphs-communities]: https://github.com/GalvanizeDataScience/graphs-communities
 [graph]:https://github.com/GalvanizeDataScience/graphs
 [nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
 [autoencode]: https://github.com/GalvanizeDataScience/auto-encoders
+
+
+<!-- Week 9 -->
+[bayes-inf]:https://github.com/GalvanizeDataScience/bayes-intro
+[bayes-testing]:https://github.com/GalvanizeDataScience/bayes-testing
+[mab]:https://github.com/GalvanizeDataScience/multi-armed-bandit
+[mcmc]:https://github.com/GalvanizeDataScience/mcmc
+[recom-case-study]:https://github.com/GalvanizeDataScience/recommender-case-study
+
+<!-- Week 10 -->
+[convnets]:https://github.com/GalvanizeDataScience/convolutional-neural-nets
+[image]:https://github.com/GalvanizeDataScience/image-processing
+[seq-ana]:https://github.com/GalvanizeDataScience/time-series
+[rnns]:https://github.com/GalvanizeDataScience/recurrent-neural-nets
+[fraud-case-study]:https://github.com/GalvanizeDataScience/fraud-detection-case-study
+[transfer-learning]: https://github.com/GalvanizeDataScience/transfer-learning
+[sim-recom]:https://github.com/GalvanizeDataScience/similarity_based_recommenders
+[cont-recom]:https://github.com/GalvanizeDataScience/content_based_recommender
+[fac-recom]:https://github.com/GalvanizeDataScience/factorization_recommender
+
+
+<!-- Week 11 -->
+
 
 <!-- Assessments -->
 <!-- Week 1 -->
@@ -442,3 +490,34 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-esl]:https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 [r-nn]:https://www.youtube.com/watch?v=bxe2T-V8XRs
 [r-ng-note]:http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+
+<!-- Week 8 -->
+[r-tfe-1]:http://blog.christianperone.com/?p=1589
+[r-tfe-2]:http://blog.christianperone.com/?p=1747
+[r-tfe-3]:http://blog.christianperone.com/?p=2497
+[r-sem-ana]:https://radimrehurek.com/phd_rehurek.pdf
+[r-nlp]:http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf
+[r-mmd]:http://infolab.stanford.edu/~ullman/mmds/book.pdf
+[r-nmf-py]:http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
+[r-sna]:http://www.asecib.ase.ro/mps/Social%20Network%20Analysis%20for%20Startups%20[2011].pdf
+
+
+<!-- Week 9-->
+[r-mab]:http://stevehanov.ca/blog/index.php?id=132
+
+<!-- Week 10-->
+[r-forecasting]:https://www.otexts.org/fpp
+[r-time-series]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/notes/TimeSeries.pdf
+[r-arima]:http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf
+[r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
+[r-graphlab]:https://turi.com/learn/userguide/recommender/choosing-a-model.html
+
+<!-- Week 11-->
+[r-autoencoder]:http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+[r-word-embedding]:https://arxiv.org/pdf/1301.3781.pdf
+[r-convnets]:https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+[r-transfer]:https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+[r-flask]:http://flask.pocoo.org/
+[r-flask-tutorials]:http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+[r-get-post]:http://www.w3schools.com/tags/ref_httpmethods.asp
