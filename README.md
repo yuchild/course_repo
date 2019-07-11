@@ -171,7 +171,7 @@ Your priorities this week:
 | Tuesday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] | 
 | Wednesday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] | 
 | Thursday | [Sequence Analysis][-]<br/>[RNN/LSTM][-]<br/> Capstone III |  Hamid   | [slides][-] |
-| Friday | [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
+| Friday | [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [slides][-] |
 
 --
 
@@ -379,6 +379,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [nmf]:https://github.com/GalvanizeDataScience/topicmodeling
 [graph]:https://github.com/GalvanizeDataScience/graphs
 [nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
+[autoencode]: https://github.com/GalvanizeDataScience/auto-encoders
 
 <!-- Assessments -->
 <!-- Week 1 -->
