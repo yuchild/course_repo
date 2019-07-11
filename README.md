@@ -160,7 +160,7 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
 | Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][-] |  -  | [slides][-] |
+| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][-] |  -  | [slides][-] |
 | Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
 | Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
 
@@ -309,6 +309,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
 
+<!-- Week 10 -->
+[c10.3.1]: https://github.com/GalvanizeDataScience/auto-encoders
 
 <!-- Readings -->
 <!-- Week 1 -->
