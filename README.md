@@ -151,7 +151,7 @@ Your priorities this week:
 | Tuesday   | [Multi-Armed Bandit][r-mab]<br>[LDA][r-lda]                                    | Kayla | [1][l-mab]               |
 | Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        |  K/F  | [1][l-rcmd]              |
 | Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | Frank | [1][l-rcmd]              |
-| Friday    | [Recommender Case Study][r-csrec]                                              | Kayla |            -             |
+| Friday    | [Recommender Case Study][r-csrec2]                                              | Kayla |            -             |
 
 --
 
@@ -419,6 +419,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-mab]: https://github.com/GalvanizeDataScience/multi-armed-bandit
 [r-lda]: https://github.com/gSchool/dsd-lda
 [l-mab]: https://github.com/gSchool/DSI_Lectures/tree/master/multi-armed-bandit   
-
+[r-csrec2]: https://github.com/gSchool/dsd-recommender-case-study
 
 
