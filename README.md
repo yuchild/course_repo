@@ -154,7 +154,7 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
 | Tuesday |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][-]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
+| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
 | Thursday | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
 | Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
@@ -330,7 +330,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c10.1.2]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
 [c10.2.1]: https://github.com/GalvanizeDataScience/time-series
 [c10.2.2]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
-
+[c10.3.1]: https://github.com/GalvanizeDataScience/auto-encoders
 [c10.3.2]: https://github.com/GalvanizeDataScience/transfer-learning
 [c10.4.1]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
 
