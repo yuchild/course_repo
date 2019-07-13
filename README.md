@@ -88,7 +88,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan |
+| Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan |
 | Tuesday |  [Predictive Linear Regression][c5.2.1] |  Dan   | 
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | 
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | 
@@ -108,7 +108,7 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Dan | 
+| Monday | Assessment<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Dan | 
 | Tuesday |  [Random Forests][c6.2.1] |  Dan   | 
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | 
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Joe  | 
@@ -119,7 +119,7 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
-| Monday | [Assessment][-]<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Joe | 
+| Monday | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Joe | 
 | Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Joe  | 
 | Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Dan  | 
 | Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Dan  | 
