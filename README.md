@@ -397,7 +397,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
 
 <!-- Week 10-->
-[c10.1.1]: https://github.com/GalvanizeDataScience/image-processing
+[c10.1.1]: https://github.com/GalvanizeDataScience/image-processing/tree/seattle-g91
 [c10.1.2]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
 [c10.2.1]: https://github.com/GalvanizeDataScience/time-series
 [c10.2.2]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
