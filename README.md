@@ -156,13 +156,13 @@ Your priorities this week:
 --
 
 ### Week 10: Advanced Topics 2
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Image Analysis][-]<br/>[CNNs][-] | - | [slides][-] |
-| Tuesday |  [Sequence Analysis][-]<br/>[RNNs][-] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][-] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][-] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][-] |  -  | [slides][-] |
+|    Day    | Repos                                                                          | Lead  |        Slides            
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
+| Monday    |[Autoencoders][c10.3.1]<br>[RL with neural networks][r-rlnn]                    | Frank | -                        |
+| Tuesday   |[Transfer Learning][r-tlnn]<br>[MCMC][r-mcmc]                                   |  F/K  | -                        |
+| Wednesday | TBD                                                                            | Frank | -                        |
+| Thursday  | [Fraud Case Study (day 1)][r-fdcs]                                             | Kayla | -                        |
+| Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             |  K&F  | -                        |
 
 --
 
@@ -174,11 +174,11 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 ### Week 12: Showcase
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  | - | [slides][-] |
-| Tuesday |   |  -   | [slides][-] |
-| Wednesday |   |  -  | [slides][-] |
-| Thursday | PM - Demo evening |  -  | [slides][-] |
-| Friday | PM - Graduation |  -  | [slides][-] |
+| Monday |  | - | - |
+| Tuesday |   |  -   | - |
+| Wednesday |   |  -  | - |
+| Thursday | PM - Showcase |  -  | - |
+| Friday | Lunch - Graduation |  -  | - |
 
 --
 
@@ -423,4 +423,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-mab]: https://github.com/gSchool/DSI_Lectures/tree/master/multi-armed-bandit   
 [r-csrec2]: https://github.com/gSchool/dsd-recommender-case-study
 
-
+<!-- Week 10-->
+[r-rlnn]: https://github.com/GalvanizeDataScience/reinforcement-learning-with-nn
+[r-tlnn]: https://github.com/GalvanizeDataScience/transfer-learning
+[r-mcmc]: https://github.com/GalvanizeDataScience/mcmc
+[r-fdcs]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
