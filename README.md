@@ -417,7 +417,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 10 -->
 [convnets]:https://github.com/GalvanizeDataScience/convolutional-neural-nets
-[image]:https://github.com/GalvanizeDataScience/image-processing
+[image]:https://github.com/GalvanizeDataScience/image-processing/blob/seattle-g91/individual.md
 [seq-ana]:https://github.com/GalvanizeDataScience/time-series
 [rnns]:https://github.com/GalvanizeDataScience/recurrent-neural-nets
 [fraud-case-study]:https://github.com/GalvanizeDataScience/fraud-detection-case-study
