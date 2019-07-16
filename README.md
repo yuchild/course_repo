@@ -168,8 +168,8 @@ Your priorities this week:
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
-| Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | [slides][-] | 
-| Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | [slides][-] | 
+| Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
+| Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | - | 
 | Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
 | Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][-]<br/> |  Hamid  | [slides][-] |
 
@@ -187,13 +187,14 @@ Your priorities this week:
 --
 
 ### Week 13: Career Week
-| Day | Repos | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday | Demo Day | - | [slides][-] |
-| Tuesday | Caereer's Week  |  -   | [slides][-] |
-| Wednesday | Caereer's Week  |  -  | [slides][-] |
-| Thursday | Caereer's Week |  -  | [slides][-] |
-| Friday | Caereer's Week <br/> Graduation |  -  | [slides][-] |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:--:|:--|:--:|:--:|
+| Monday |[120 Questions][](work on these all week) | Demo Day | - | [slides][-] |
+| Tuesday | |  Caereer's Week  |  -   | [slides][-] |
+| Wednesday | |  Caereer's Week  |  -  | [slides][-] |
+| Thursday |  | Caereer's Week |  -  | [slides][-] |
+| Friday | - | Caereer's Week <br/> Graduation |  -  | [slides][-] |
+
 
 --
 
