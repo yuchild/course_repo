@@ -154,8 +154,8 @@ Your priorities this week:
 |:--:|:--|:--:|
 | Monday | [Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Dan | 
 | Tuesday |  [Transfer Learning][c10.2.2]<br/>[Autoencoding][c10.2.1]  |  Joe <br /> Christina 9:30 to 11:00 am  | 
-| Wednesday |  [Sequence Analysis][c10.3.1]<br/>[RNNs][c10.3.2]<br/> Resumes and LinkedIn Due |  Dan  | 
-| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
+| Wednesday |  [Sequence Analysis][c10.3.1]<br/> Resumes and LinkedIn Due |  Dan  | 
+| Thursday | [RNNs][c10.3.2]<br/>[Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina (Resume Group Feedback) 10:00 - 10:30 | 
 | Friday | [Fraud Case Study (day 2)][c10.4.1] |  Dan  | 
 
 --
