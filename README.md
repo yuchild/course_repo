@@ -47,7 +47,9 @@ Capstone projects allow you to put into practice some of the knowledge you are g
 
 **[Capstone Project Materials](https://github.com/GalvanizeDataScience/course-outline/tree/19-02-DS-SF-g92/projects)**
 
-**[Final Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
+### Demo Day 7/29 17:00 @Cafe/Library
+  - **[Your One-Pagers google drive](https://drive.google.com/drive/folders/1qoIzpvoPHt12sV-82YTS9J_oFFsouoyD)**
+  - **[Previous Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
 ## Daily Outline
 In the weekly tables below, each row represents a day.  Each row information and links on:
