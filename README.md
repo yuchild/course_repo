@@ -192,13 +192,11 @@ Your priorities this week:
 ### Week 13: Career Week
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Monday |[120 Questions][](work on these all week) | Demo Day | - | [slides][-] |
-| Tuesday | |  Caereer's Week  |  -   | [slides][-] |
-| Wednesday | |  Caereer's Week  |  -  | [slides][-] |
-| Thursday |  | Caereer's Week |  -  | [slides][-] |
-| Friday | - | Caereer's Week <br/> Graduation |  -  | [slides][-] |
-
-
+| Monday |[120 Questions][r-120-Qs](work on these all week) | Demo Day | - | - |
+| Tuesday | [Tackling the takehome][r-takehome] |  Caereer's Week  |  -   | - |
+| Wednesday | [Business Analytics][r-business] |  Caereer's Week  |  -  | - |
+| Thursday | [Model Comparison Guide][r-model-comp] | Caereer's Week |  -  | - |
+| Friday | - | Caereer's Week <br/> Graduation |  -  | - |
 --
 
 ## Textbooks
@@ -525,3 +523,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-flask]:http://flask.pocoo.org/
 [r-flask-tutorials]:http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 [r-get-post]:http://www.w3schools.com/tags/ref_httpmethods.asp
+
+<!-- Week 13-->
+[r-120-Qs]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/120_Interview_Questions.pdf
+[r-takehome]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/takehome/take-home-guide.md
+[r-model-comp]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/review/Model_Comparison_Guide.md
+[r-business]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/business/business_analytics_reading.md
