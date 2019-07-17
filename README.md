@@ -160,7 +160,7 @@ Your priorities this week:
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
 | Monday    |[Autoencoders][c10.3.1]<br>[RL with neural networks][r-rlnn]                    | Frank | -                        |
 | Tuesday   |[Transfer Learning][r-tlnn]<br>[MCMC][r-mcmc]                                   |  F/K  | -                        |
-| Wednesday | TBD                                                                            | Frank | -                        |
+| Wednesday | Docker Compose and Swarm Lecture                                               | Frank | -                        |
 | Thursday  | [Fraud Case Study (day 1)][r-fdcs]                                             | Kayla | -                        |
 | Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             |  K&F  | -                        |
 
