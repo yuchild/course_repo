@@ -175,7 +175,7 @@ Your priorities this week:
 | Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
 | Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
 | Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | - | 
-| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [slides][-] |
+| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [PM][lec-rnn] |
 | Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [slides][-] |
 
 --
@@ -337,6 +337,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 11 -->
 [lec-convnets]:https://github.com/GalvanizeDataScience/lectures/tree/SF/convnets
+[lec-rnn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/rnn
 
 <!-- Assignments -->
 <!-- Week 1 -->
