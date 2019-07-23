@@ -41,15 +41,16 @@ To jump to a week of interest, click on the link.
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
 * [Google drive for Project Submissions](https://drive.google.com/drive/folders/11kF4hanRIU50rpWLFTh_R7EHb_dr4jtY)
+* [Mock Interview Scheduler](https://docs.google.com/spreadsheets/u/1/d/1M77pR_f93XvePJVQwnccygJPDYVTvuedhAvjVokpOL8/edit#gid=695734520)
+* [Previous Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
 **[Capstone Project Materials](https://github.com/GalvanizeDataScience/course-outline/tree/19-02-DS-SF-g92/projects)**
 
-### Demo Day 7/29 17:00 @Cafe/Library
+## Demo Day 7/29 17:00 @Cafe/Library
   - **[Your One-Pagers google drive](https://drive.google.com/drive/folders/1qoIzpvoPHt12sV-82YTS9J_oFFsouoyD)**
-  - **[Previous Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
 ## Daily Outline
 In the weekly tables below, each row represents a day.  Each row information and links on:
