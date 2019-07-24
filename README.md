@@ -195,11 +195,13 @@ Your priorities this week:
 ### Week 13: Career Week
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Monday |[120 Questions][r-120-Qs](work on these all week) | Demo Day | - | - |
+| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Demo Day | - | - |
 | Tuesday | [Tackling the takehome][r-takehome] |  Caereer's Week  |  -   | - |
 | Wednesday | [Business Analytics][r-business] |  Caereer's Week  |  -  | - |
 | Thursday | [Model Comparison Guide][r-model-comp] | Caereer's Week |  -  | - |
 | Friday | - | Caereer's Week <br/> Graduation |  -  | - |
+
+
 --
 
 ## Textbooks
@@ -534,3 +536,5 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-takehome]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/takehome/take-home-guide.md
 [r-model-comp]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/review/Model_Comparison_Guide.md
 [r-business]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/business/business_analytics_reading.md
+[polya]:https://math.berkeley.edu/~gmelvin/polya.pdf
+
