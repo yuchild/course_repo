@@ -41,15 +41,16 @@ To jump to a week of interest, click on the link.
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
 * [Google drive for Project Submissions](https://drive.google.com/drive/folders/11kF4hanRIU50rpWLFTh_R7EHb_dr4jtY)
+* [Mock Interview Scheduler](https://docs.google.com/spreadsheets/u/1/d/1M77pR_f93XvePJVQwnccygJPDYVTvuedhAvjVokpOL8/edit#gid=695734520)
+* [Previous Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
 **[Capstone Project Materials](https://github.com/GalvanizeDataScience/course-outline/tree/19-02-DS-SF-g92/projects)**
 
-### Demo Day 7/29 17:00 @Cafe/Library
+## Demo Day 7/29 17:00 @Cafe/Library
   - **[Your One-Pagers google drive](https://drive.google.com/drive/folders/1qoIzpvoPHt12sV-82YTS9J_oFFsouoyD)**
-  - **[Previous Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
 ## Daily Outline
 In the weekly tables below, each row represents a day.  Each row information and links on:
@@ -176,7 +177,7 @@ Your priorities this week:
 | Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
 | Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | - | 
 | Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [PM][lec-rnn] |
-| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [slides][-] |
+| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [PM][lec-autoencoder] |
 
 --
 
@@ -194,11 +195,13 @@ Your priorities this week:
 ### Week 13: Career Week
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Monday |[120 Questions][r-120-Qs](work on these all week) | Demo Day | - | - |
+| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Demo Day | - | - |
 | Tuesday | [Tackling the takehome][r-takehome] |  Caereer's Week  |  -   | - |
 | Wednesday | [Business Analytics][r-business] |  Caereer's Week  |  -  | - |
 | Thursday | [Model Comparison Guide][r-model-comp] | Caereer's Week |  -  | - |
 | Friday | - | Caereer's Week <br/> Graduation |  -  | - |
+
+
 --
 
 ## Textbooks
@@ -338,6 +341,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 11 -->
 [lec-convnets]:https://github.com/GalvanizeDataScience/lectures/tree/SF/convnets
 [lec-rnn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/rnn
+[lec-autoencoder]:https://github.com/GalvanizeDataScience/lectures/tree/SF/autoencoders
 
 <!-- Assignments -->
 <!-- Week 1 -->
@@ -532,3 +536,5 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-takehome]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/takehome/take-home-guide.md
 [r-model-comp]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/review/Model_Comparison_Guide.md
 [r-business]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/business/business_analytics_reading.md
+[polya]:https://math.berkeley.edu/~gmelvin/polya.pdf
+
