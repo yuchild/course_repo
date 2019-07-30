@@ -169,7 +169,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 | Day | Topic | Lead Instructor | 
 |:--:|:--|:--:|
 | Monday |  | - | 
-| Tuesday |   |  Christina (Cover letter/Outreach) 1:00 - 1:45  | 
+| Tuesday | [Interview Prep](https://github.com/gSchool/dsi-interview-prep) <br/> [Polya’s Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf)  |  Christina (Cover letter/Outreach) 1:00 - 1:45  | 
 | Wednesday |   |  Christina (Job Search Strategy) 10:00 - 11:00 | 
 | Thursday | PM - Demo evening |  -  | 
 | Friday | PM - Graduation |  Christina (Negotiation) 10:00 - 11:00  | 
