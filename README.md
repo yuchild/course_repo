@@ -45,18 +45,18 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Readiness Assessment][a0]<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
-| Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Wednesday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  |
-| Thursday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Friday |  [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
+| Tuesday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
+| Wednesday | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
+| Thursday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
+| Friday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Data Structures][c2.1.2] |  - <br/> -  | [Slides][-] |
-| Tuesday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
+| Monday | [Assessment 1][-]<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  -  | [Slides][-] |
+| Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
 | Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  -  | [slides][-]] |
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
 | Friday |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
@@ -66,7 +66,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][c3.1.1]<br/>[Probability][-]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
+| Monday | [Assessment][c3.1.1]<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
 | Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
 | Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
 | Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
@@ -89,7 +89,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | [Assessment][-]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday |  [Predictive Linear Regression][c5.2.1] |  -   | [slides][-] |
+| Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  -   | [slides][-] |
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
 | Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
@@ -108,7 +108,7 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Assessment][-]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | - | [slides][-] |
+| Monday | [Assessment][-]<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | - | [slides][-] |
 | Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
@@ -262,7 +262,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 2 -->
 [c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
-[c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
+[c2.1.2]: https://github.com/GalvanizeDataScience/search-trees
 [c2.2.1]: https://github.com/GalvanizeDataScience/docker
 [c2.2.2]: https://github.com/GalvanizeDataScience/aws
 [c2.3.1]: https://github.com/GalvanizeDataScience/sql
@@ -287,7 +287,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 5 -->
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
 [c5.1.2]: https://github.com/GalvanizeDataScience/cross-validation
-[c5.2.1]: https://github.com/GalvanizeDataScience/predictive-linear-regression
+[c5.2.1]: https://github.com/GalvanizeDataScience/linear-regression-eda
+[c5.2.2]: https://github.com/GalvanizeDataScience/predictive-linear-regression-half-day
 [c5.3.1]: https://github.com/GalvanizeDataScience/regularized-regression
 [c5.3.2]: https://github.com/GalvanizeDataScience/inferential-regression
 [c5.4.1]: https://github.com/GalvanizeDataScience/logistic-regression
@@ -295,7 +296,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c5.5.1]: https://github.com/GalvanizeDataScience/regression-case-study
 
 <!-- Week 6-->
-[c6.1.1]: https://github.com/GalvanizeDataScience/search-trees
+[c6.1.1]: https://github.com/GalvanizeDataScience/predictive-linear-regression
 [c6.1.2]: https://github.com/GalvanizeDataScience/decision-trees
 [c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
