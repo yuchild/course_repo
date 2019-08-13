@@ -2,55 +2,43 @@
 
 Welcome to the Galvanize Data Science Immersive Program! On this page you'll find information you about the program as a whole as well as links to daily readings and assignments.  You'll be working with this page everyday; please bookmark it in your web browser. 
 
-### Pairs for Each Day:
-
-[Pairs](notes/g92ds_pairs.md) -- these are your daily pair assignments
 
 #  Weekly overview
-The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
+The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase/career week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
 
 The capstone weeks are reserved for your capstone projects (see below).  You will scrum with your peers during this time, participate in mock job interiews, and at the end of the week present your project to your peers and instructors (capstones 1 & 2), or to the data science community on a demo day (capstone 3).
 
-The final week is reserved for demo day, completing Career Services deliverables, mock interviews, and graduating.
+The final week is reserved for capstone III, demo day, completing Career Services deliverables, mock interviews, and graduating.
 
 To jump to a week of interest, click on the link. 
 
 | Week | Date  | Topic |
 | ---- |:-----:| ----- |
-|  0 | 04/29/19 | Week 0 Prep |
-|  1 | 05/06/19 | [Programming](#week-1-programming-for-data-science) |
-|  2 | 05/13/19 | [Big Data](#week-2-big-data) |
-|  3 | 05/20/19 | [Statistical Inference](#week-3-statistical-inference) |
-|  4 | 05/27/19 | [Capstone 1](#week-4-unit-1-capstone) |
-|  5 | 06/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
-|  6 | 06/10/19 | Solo Week |
-|  7 | 06/17/19 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
-|  8 | 06/24/19 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
-|  9 | 07/01/19 | [Capstone 2](#week-9-unit-2-capstone) |
-| 10 | 07/08/19 | [Advanced Topics 1](#week-10-advanced-topics-1) |
-| 11 | 07/15/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
-| 12 | 07/22/19 | [Capstone 3](#week-12-unit-3-capstone) |
-| 13 | 07/29/19 | [Career Week](#week-13-career-week) |
+|  1 | 08/19/19 | [Programming](#week-1-programming-for-data-science) |
+|  2 | 08/26/19 | [Big Data](#week-2-big-data) |
+|  3 | 09/03/19 | [Statistical Inference](#week-3-statistical-inference) |
+|  4 | 09/09/19 | [Capstone 1](#week-4-unit-1-capstone) |
+|  5 | 09/16/19 | [Regression](#week-5-supervised-learning-and-regression) |
+|  6 | 09/23/19 | Solo Week |
+|  7 | 09/30/19 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
+|  8 | 10/06/19 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
+|  9 | 10/13/19 | [Capstone 2](#week-9-unit-2-capstone) |
+| 10 | 10/20/19 | [Advanced Topics 1](#week-10-advanced-topics-1) |
+| 11 | 10/27/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
+| 12 | 11/03/19 | [Capstone 3](#week-12-unit-3-capstone) |
+| 13 | 11/10/19 | [Career Week](#week-13-career-week) |
 
 ## Other important links
-* [Solutions](https://github.com/GalvanizeDataScience/solutions-g92) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
+* [Solutions](https://github.com/GalvanizeDataScience/solutions-g98) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
 * [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
 * [Weekly feedback](https://docs.google.com/forms/d/e/1FAIpQLSdg4SE99Cri-9VTGvmaJ2aDsFQGU_ocK7cmJ_-9yGQl_BhOjw/viewform?usp=sf_link) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 * [Pairing](notes/pairing.md): Notes on how to pair program
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
-* [Google drive for Project Submissions](https://drive.google.com/drive/folders/11kF4hanRIU50rpWLFTh_R7EHb_dr4jtY)
-* [Mock Interview Scheduler](https://docs.google.com/spreadsheets/u/1/d/1M77pR_f93XvePJVQwnccygJPDYVTvuedhAvjVokpOL8/edit#gid=695734520)
-* [Previous Capstone One-Pagers Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
-
-**[Capstone Project Materials](https://github.com/GalvanizeDataScience/course-outline/tree/19-02-DS-SF-g92/projects)**
-
-## Demo Day 7/29 17:00 @Cafe/Library
-  - **[Your One-Pagers google drive](https://drive.google.com/drive/folders/1qoIzpvoPHt12sV-82YTS9J_oFFsouoyD)**
 
 ## Daily Outline
 In the weekly tables below, each row represents a day.  Each row information and links on:
