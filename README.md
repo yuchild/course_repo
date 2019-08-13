@@ -295,7 +295,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c5.5.1]: https://github.com/GalvanizeDataScience/regression-case-study
 
 <!-- Week 6-->
-[c6.1.1]: https://github.com/GalvanizeDataScience/predictive-linear-regression
+[c6.1.1]: https://github.com/GalvanizeDataScience/linear-splines
 [c6.1.2]: https://github.com/GalvanizeDataScience/decision-trees
 [c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
