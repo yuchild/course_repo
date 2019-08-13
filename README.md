@@ -287,7 +287,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
 [c5.1.2]: https://github.com/GalvanizeDataScience/cross-validation
 [c5.2.1]: https://github.com/GalvanizeDataScience/linear-regression-eda
-[c5.2.2]: https://github.com/GalvanizeDataScience/predictive-linear-regression-half-day
+[c5.2.2]: https://github.com/GalvanizeDataScience/predictive-linear-regression
 [c5.3.1]: https://github.com/GalvanizeDataScience/regularized-regression
 [c5.3.2]: https://github.com/GalvanizeDataScience/inferential-regression
 [c5.4.1]: https://github.com/GalvanizeDataScience/logistic-regression
