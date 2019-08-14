@@ -470,17 +470,17 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 
 <!-- Week 4 -->
-[r-knn]:https://learn.galvanize.com/cohorts/1341/units/8278
+[r-knn]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/knn/README.md
 [r-mlia]:https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
-[r-bias]:https://learn.galvanize.com/cohorts/1341/units/8274
-[r-cv]:https://learn.galvanize.com/cohorts/1341/units/8275
-[r-regu]:https://learn.galvanize.com/cohorts/1341/units/8276
+[r-bias]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/bias-variance/readme.md
+[r-cv]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/cross-validation/readme.md
+[r-regu]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/regularized-regression/readme.md
 [r-islr]:http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 [r-prac-reg]:https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf
 
 
 <!-- Week 7 --> 
-[r-dec-tree]:https://learn.galvanize.com/cohorts/1341/units/8277
+[r-dec-tree]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/dec_tree/README.md
 [r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
 [r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
 [r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
