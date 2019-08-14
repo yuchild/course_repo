@@ -54,10 +54,10 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  Joe  | [Slides][-] |
-| Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | [slides][-] |
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | [slides][-] |
+| Monday | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  Joe  | [AM][lec-algo-complex]<br/>[PM][lec-search-trees] |
+| Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | [AM][lec-mongo] <br/> [PM][lec-web-scrape]|
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan  | [AM][lec-sql] <br/> [PM][lec-python-sql]|
+| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | [slides][spark] |
 | Friday |  [Spark EDA Case Study][c2.5.1] |  Joe   | [slides][150.2] |
 
 --
@@ -91,7 +91,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  Joe  | [slides][-] |
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | [slides][-] |
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+| Friday | [Regression Case Study][c5.5.1] |  Dan  | [slides][-] |
 
 --
 ### Solo Week
@@ -256,6 +256,17 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 
 <!-- Week 2 -->
+[lec-algo-complex]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/algorithmic_complexity
+[lec-search-trees]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/search_trees
+[lec-mongo]:https://github.com/GalvanizeDataScience/lectures/tree/Austin/mongo-db
+[lec-web-scrape]:https://github.com/GalvanizeDataScience/lectures/tree/Austin/web-scraping
+[lec-sql]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/SQL
+[lec-python-sql]:https://github.com/GalvanizeDataScience/lectures/tree/Austin/python-sql
+[spark]:nhttps://github.com/GalvanizeDataScience/lectures/tree/Austin/spark
+
+
+
+
 <!-- Week 3 -->
 <!-- Week 4 -->
 <!-- Week 5 -->
