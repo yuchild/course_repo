@@ -13,24 +13,24 @@ To jump to a week of interest, click on the link.
 
 | Week | Date | Topic |
 | --- | --- | --- |
-| 1 | 05/06/19| [Programming](#week-1-programming-for-data-science) |
-| 2 | 05/13/19 |  [Big Data](#week-2-big-data) |
-| 3 | 05/20/19 | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | 05/27/19 | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | 06/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
-| - | 06/10/19 | Break Week |
-| 6 | 06/17/19 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 7 | 06/24/19 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | 07/01/19 | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | 07/08/19 | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | 07/15/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | 07/22/19 | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | 07/29/19 | [Showcase](#week-12-showcase) |
+| 1 | 08/19/19| [Programming](#week-1-programming-for-data-science) |
+| 2 | 08/26/19 |  [Big Data](#week-2-big-data) |
+| 3 | 09/02/19 | [Statistical Inference](#week-3-statistical-inference) |
+| 4 | 09/09/19 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 09/16/19 | [Regression](#week-5-supervised-learning-and-regression) |
+| - | 09/23/19 | Break Week |
+| 6 | 09/30/19 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 7 | 10/07/19 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 8 | 10/14/19 | [Capstone 2](#week-8-unit-2-capstone) |
+| 9 | 10/21/19 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 10 | 10/28/19 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 11 | 11/04/19 | [Capstone 3](#week-11-unit-3-capstone) |
+| 12 | 11/11/19 | [Showcase](#week-12-showcase) |
 
 ## Other important links
 * [Daily Readings](./notes/readings.md) The assigned readings are intended to prepare you for the lectures and assignments that day.  Allocate about 30 minutes for each reading, though some are also references and are more extensive.  Only the **bolded** readings are required for that day.
-* [Solutions repo](https://github.com/GalvanizeDataScience/solutions-g90)  Solutions for the daily assignments, weekly reviews, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
-* [Weekly feedback](https://forms.gle/QaHo9NyxC2ZYFi2u8)  Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
+* [Solutions repo](https://github.com/GalvanizeDataScience/solutions-g99)  Solutions for the daily assignments, weekly reviews, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
+* [Weekly feedback](https://forms.gle/FKQkpa8Wb5CTT9nL9) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Past student projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 
 
@@ -49,35 +49,35 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 
 ### Week 1: Programming for Data Science
-|    Day    | Repos                                                                          | Lead  |        Slides           |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
-| Monday    |Assessment 0<br>[git][git]<br>[Unix][unix]                                      | Frank |[1][l-git]               |
-| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Frank |[1][l-py]<br>[2][l-oop]  |
-| Wednesday |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Kayla |[1][l-pn]<br>[2][l-mpl]  |
-| Thursday  |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                                    | Kayla |[1][l-nplalg]            |
-| Friday    |[Review][wr]<br>[Mongo DB][c1.5.1]<br>[Web Scraping][c1.5.2]                    | Frank |[1][l-md]<br>[2][l-ws]   |
+|    Day    | Repos                                                                          | Lead  |         Slides             |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
+| Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][unix]                       | Frank |[PM][l-git]                 |
+| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | ----- |[AM][l-py]<br>[PM][l-oop]   |
+| Wednesday |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                                    | ----- |[AM/PM][l-nplalg]           |
+| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | ----- |[AM][l-pn]<br>[PM][l-mpl]   |
+| Friday    |[Review][wr]<br>[EDA case study]                                                | ----- |--                          |
 
 --
 
 ### Week 2: Big Data
-|    Day    | Repos                                                                          | Lead  |        Slides           |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
-| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Data Structures][c2.1.2]  | Frank |[1][l-bgO]               |
-| Tuesday   | [Docker][c2.2.1]<br>[AWS][c2.2.2]                                              | Frank |[1][l-dck]<br>[2][l-aws] |
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | Kayla |[1][l-sql]<br>[2][l-pg2] |
-| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |[1][l-spk]               |
-| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Frank | -                       |
+|    Day    | Repos                                                                          | Lead  |        Slides              |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
+| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | ----- |[AM][l-bgO]<br>[PM][l-dck]  |
+| Tuesday   | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                | ----- |[AM][l-aws]<br>[PM][l-ws]   |
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | ----- |[AM][l-sql]<br>[PM][l-pg2]  |
+| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | ----- |[AM/PM][l-spk]              |
+| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | ----- |--                          |
 
 --
 
 ### Week 3: Statistical Inference
-|    Day    | Repos                                                                          | Lead  |        Slides           |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:-----------------------:|    
-| Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | Frank |[1][l-prob]              |
-| Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]           | Kayla |[1][l-samp]              |
-| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]        | Frank |[1][l-samp]              |
-| Thursday  | Capstone proposals due 9 am<br>[Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power] | Kayla |[1][l-powr]              |
-| Friday    | [Review][wr]<br>[Flask][flask]                                                 | Frank |[1][l-flsk]              |
+|    Day    | Repos                                                                          | Lead  |        Slides             |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:-------------------------:|    
+| Monday    | Labor Day (no class)                                                           | ----- |--                         |
+| Tuesday   | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | ----- |[AM/PM][l-prob]            |
+| Wednesday | [Sampling Distributions][smp-dist]<br>[Central Limit Theorem][clt-bs]          | ----- |[AM/PM][l-samp]            |
+| Thursday  | CI proposal due, 9 am<br>[Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| ----- |[AM][l-samp]<br>[PM][l-ab] |
+| Friday    | [Power Calculation][power]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | ----- |[1][l-powr]<br>[2][l-bay]<br>[3][l-bab]|
 
 --
 
@@ -366,6 +366,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-samp]: https://github.com/gSchool/DSI_Lectures/tree/master/estimation-sampling
 [l-powr]: https://github.com/gSchool/DSI_Lectures/tree/master/power-bayesian
 [l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
+[l-ab]: https://github.com/gSchool/DSI_Lectures/tree/master/ab-testing
 
 <!-- Week 5-->
 [l-knn]: https://github.com/gschool/DSI_Lectures/tree/master/non-parametric-learners 
