@@ -273,11 +273,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 3 -->
 [c3.1.1]: https://github.com/GalvanizeDataScience/probability-distributions
 [c3.1.2]: https://github.com/GalvanizeDataScience/binomial-tests
-[c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions-dev
+[c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
 [c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
-[c3.3.1]: https://github.com/GalvanizeDataScience/central-limit-theorem-dev
+[c3.3.1]: https://github.com/GalvanizeDataScience/central-limit-theorem
 [c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
-[c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
+[c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 
 <!-- Week 4 -->
