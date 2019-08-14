@@ -130,14 +130,14 @@ Your priorities this week:
 | Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [AM][lec-pca] <br/> [PM][lec-svd]|
 | Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
 | Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [AM][lec-graph] |
-| Friday | | Capstone 2 Kick-Off | - | - |
+| Friday | - | TBD | - | - |
 
 --
 
 ### Week 9: Unit 2 Capstone 
 | Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Group Check-in  <br/> Back to work | - | [slides][-] |
+| Monday | Capstone 2 Kick-Off <br/> Work | - | [slides][-] |
 | Tuesday | Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Group Check-in  <br/> Back to work | - | - |
 | Thursday | Group Check-in  <br/> Back to work| - | - |
@@ -148,11 +148,11 @@ Your priorities this week:
 ### Week 10: Advanced Topics 1
 | Day | Readings |Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
-| Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
+| Monday | - | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid | [AM][lec-mab] <br/> [PM][lec-mcmc] |
 | Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Content Based Recommenders][cont-recom]<br/>[Similarity Based Recommenders][sim-recom] |  Flora  | [AM][lec-recom] |
 | Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Flora  | [AM][lec-matrix-recom] |
-| Friday |  | [Recommender Case Study][recom-case-study]  |  -  | - |
+| Friday | -  | [Recommender Case Study][recom-case-study]  |  -  | - |
 
 
 --
@@ -160,11 +160,11 @@ Your priorities this week:
 ### Week 11: Advanced Topics 2
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
-| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Flora | [slides][-] |
-| Tuesday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
-| Wednesday |  | [Fraud Case Study (day 2)][fraud-case-study] |  -  | - | 
-| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [PM][lec-rnn] |
-| Friday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [PM][lec-autoencoder] |
+| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] | Flora | [AM][lec-cnn] |
+| Tuesday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Hamid   | [PM][lec-rnn] |
+| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [PM][lec-autoencoder] |
+| Thursday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
+| Friday | - | [Fraud Case Study (day 2)][fraud-case-study]<br/> Kick off Capstone III|  -  | - | 
 
 --
 
@@ -182,9 +182,9 @@ Your priorities this week:
 ### Week 13: Career Week
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Demo Day | - | - |
-| Tuesday | [Tackling the takehome][r-takehome] |  Work <br/> Code freeze (EOD) / Caereer's Week  |  -   | - |
-| Wednesday | [Business Analytics][r-business] |  Practice / Caereer's Week  |  -  | - |
+| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
+| Tuesday | [Tackling the takehome][r-takehome] |  Presentations <br/>  Caereer's Week  |  -   | - |
+| Wednesday | [Business Analytics][r-business] |  Rehearsal / Caereer's Week  |  -  | - |
 | Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Caereer's Week |  -  | - |
 | Friday | - | Caereer's Week <br/> Graduation |  -  | - |
 
