@@ -168,7 +168,7 @@ Your priorities this week:
 
 --
 
-### Week 12: Unit 3 Capstone
+### Week 12: Unit 3 Capstone 
 | Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | group check-in <br/> Work | - | - |
@@ -179,14 +179,14 @@ Your priorities this week:
 
 --
 
-### Week 13: Career Week
+### Week 13: Career Week (mock interviews)
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
-| Tuesday | [Tackling the takehome][r-takehome] |  Presentations <br/>  Caereer's Week  |  -   | - |
-| Wednesday | [Business Analytics][r-business] |  Rehearsal / Caereer's Week  |  -  | - |
-| Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Caereer's Week |  -  | - |
-| Friday | - | Caereer's Week <br/> Graduation |  -  | - |
+| Tuesday | [Tackling the takehome][r-takehome] |  Presentations <br/>  Career's Week  |  -   | - |
+| Wednesday | [Business Analytics][r-business] |  Rehearsal / Career's Week  |  -  | - |
+| Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Career's Week |  -  | - |
+| Friday | - | Career's Week <br/> Graduation |  -  | - |
 
 
 --
