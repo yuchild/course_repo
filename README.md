@@ -137,11 +137,11 @@ Your priorities this week:
 ### Week 9: Unit 2 Capstone 
 | Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |    Group Check-in | - | [slides][-] |
-| Tuesday |   Group Check-in <br/> Back to work |  -  | - |
-| Wednesday  |  Capstone Presentations PM | - | - |
-| Thursday |  Holiday (Independence Day) | - | - |
-| Friday | Holiday (Independence Day) | - | - |
+| Monday | Group Check-in | - | [slides][-] |
+| Tuesday | Group Check-in <br/> Back to work |  -  | - |
+| Wednesday | Group Check-in | MORE work! | - |
+| Thursday | Group Check-in | MORE WORK! | - |
+| Friday | Capstone Presentations PM | - | - |
 
 --
 
@@ -173,9 +173,9 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | group check-in <br/> Work | - | - |
 | Tuesday | group check-in <br/> Work   |  -   | - |
-| Wednesday | Work <br/> Code freeze (EOD)  |  -  | - |
-| Thursday | Practice |  -  | - |
-| Friday | Practice |  -  | - |
+| Wednesday | group check-in <br/> Work  |  -  | - |
+| Thursday | group check-in <br/> Work |  -  | - |
+| Friday | group check-in <br/> Work |  -  | - |
 
 --
 
@@ -183,9 +183,9 @@ Your priorities this week:
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Demo Day | - | - |
-| Tuesday | [Tackling the takehome][r-takehome] |  Caereer's Week  |  -   | - |
-| Wednesday | [Business Analytics][r-business] |  Caereer's Week  |  -  | - |
-| Thursday | [Model Comparison Guide][r-model-comp] | Caereer's Week |  -  | - |
+| Tuesday | [Tackling the takehome][r-takehome] |  Work <br/> Code freeze (EOD) / Caereer's Week  |  -   | - |
+| Wednesday | [Business Analytics][r-business] |  Practice / Caereer's Week  |  -  | - |
+| Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Caereer's Week |  -  | - |
 | Friday | - | Caereer's Week <br/> Graduation |  -  | - |
 
 
