@@ -137,10 +137,10 @@ Your priorities this week:
 ### Week 9: Unit 2 Capstone 
 | Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Group Check-in | - | [slides][-] |
+| Monday | Group Check-in  <br/> Back to work | - | [slides][-] |
 | Tuesday | Group Check-in <br/> Back to work |  -  | - |
-| Wednesday | Group Check-in | MORE work! | - |
-| Thursday | Group Check-in | MORE WORK! | - |
+| Wednesday | Group Check-in  <br/> Back to work | - | - |
+| Thursday | Group Check-in  <br/> Back to work| - | - |
 | Friday | Capstone Presentations PM | - | - |
 
 --
