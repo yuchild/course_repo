@@ -84,11 +84,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Memorial Day (no class)   |  -   |  |
-| Tuesday |  Assessment 3<br>Capstone/Mock Interview |  -  | - |
+| Monday |  Assessment 3<br>Capstone/Mock Interview |  -  | - |
+| Tuesday | Capstone/Mock Interview | - | - |
 | Wednesday | Capstone/Mock Interview | - | - |
 | Thursday | Capstone/Mock Interview | - | - |
-| Friday | Capstone Presentations  | - | - |
+| Friday | Code Review / Capstone Presentations  | - | - |
 
 --
 
