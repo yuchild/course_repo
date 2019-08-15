@@ -262,8 +262,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Lecture Repos -->
 <!-- Week 1 -->
-[lec-git]:https://github.com/gSchool/dsi-week-zero/blob/master/day-1-git-functions-testing/am_git-unix/intro_git_lec.md
-[lec-fun]:https://github.com/gSchool/DSI_Lectures/tree/master/fundamentals
+[lec-git]:https://github.com/GalvanizeDataScience/lectures/tree/SF/git
+[lec-fun]:https://github.com/GalvanizeDataScience/lectures/tree/SF/unix
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
