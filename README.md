@@ -71,18 +71,18 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 3: Statistical Inference
-|    Day    | Repos                                                                          | Lead  |        Slides             |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:-------------------------:|    
-| Monday    | Labor Day (no class)                                                           | ----- |--                         |
-| Tuesday   | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | ----- |[AM/PM][l-prob]            |
-| Wednesday | [Sampling Distributions][smp-dist]<br>[Central Limit Theorem][clt-bs]          | ----- |[AM/PM][l-samp]            |
+|    Day    | Repos                                                                          | Lead  |        Slides              |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
+| Monday    | Labor Day (no class)                                                           | ----- |--                          |
+| Tuesday   | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | ----- |[AM/PM][l-prob]             |
+| Wednesday | [Sampling Distributions][smp-dist]<br>[Central Limit Theorem][clt-bs]          | ----- |[AM/PM][l-samp]             |
 | Thursday  | CI proposal due, 9 am<br>[Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| ----- |[AM][l-samp]<br>[PM][l-ab] |
 | Friday    | [Power Calculation][power]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | ----- |[1][l-powr]<br>[2][l-bay]<br>[3][l-bab]|
 
 --
 
 ### Week 4: Unit 1 Capstone 
-| Day  | Topic | Lead Instructor | Slides |
+| Day  | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |  Assessment 3<br>Capstone/Mock Interview |  -  | - |
 | Tuesday | Capstone/Mock Interview | - | - |
@@ -93,13 +93,13 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-|    Day    | Repos                                                                          | Lead  |        Slides            |
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
-| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[1][l-knn]<br>[2][l-rgcv] |
-| Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[1][l-linr]               |
-| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | Kayla |[1][l-regr]<br>[2][l-logr]|
-| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | Frank |[1][l-grds]<br>[2][l-decr]|
-| Friday    |[Review][wr]<br>[Regression Case Study][cs-regression]                          | Frank |           [-]            |
+|    Day    | Repos                                                                          | Lead  |        Slides              |
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
+| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | ----- |[AM][l-knn]<br>[PM][l-rgcv] |
+| Tuesday   |[Linear Regression][r-linr]                                                     | ----- |[AM/PM][l-linr]             |
+| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | ----- |[AM][l-regr]<br>[PM][l-logr]|
+| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | ----- |[AM][l-grds]<br>[PM][l-decr]|
+| Friday    |[Review][wr]<br>[Regression Case Study][cs-regression]                          | ----- |--                          |
 
 --
 ### Break Week
@@ -112,58 +112,57 @@ Your priorities this week:
 
 --
 ### Week 6: Nonlinear Supervised Learning
-|    Day    | Repos                                                                          | Lead  |        Slides            |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
-| Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | Kayla |[1][l-dt]                 |
-| Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | K/F   |[1][l-rf]<br>[2][l-boo]   |
-| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | F/K   |[1][l-boo]<br>[2][l-mlp]  |
-| Thursday  |[Neural nets - CNN][r-cnn]<br>[Neural nets - RNN][r-rnn]                        | Frank |[1][l-cnn]<br>[2][l-rnn]  |
-| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | Kayla |                          |
+|    Day    | Repos                                                                          | Lead  |        Slides              |  
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
+| Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | ----- |[AM][l-dt]                  |
+| Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | ----- |[AM][l-rf]<br>[PM][l-boo]   |
+| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | ----- |[AM][l-boo]<br>[PM][l-mlp]  |
+| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                          | ----- |[AM][l-imp]<br>[PM][l-cnn]  |
+| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | ----- |--                          |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 |    Day    | Repos                                                                          | Lead  |        Slides            
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
-| Monday    | Assessment 5<br>[NLP Intro][r-nlp]<br>[Text Classification][r-nvb]             | K/F   |[1][l-nlp]                |
-| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | Frank |[1][l-pca]                |
-| Wednesday | Proposals due<br>[Clustering][r-clst]<br>[NMF][r-tm]                           | Kayla |[1][l-clst]<br>[2][l-tm]  |
-| Thursday  | [Graph Distance][r-gr1]<br/>[Graph Communities][r-gr2]                         | Frank |[1][l-grph]               |
-| Friday    | [Review][wr]<br>Capstone 2/Mock Interviews                                     | Kayla | -                        |
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
+| Monday    | Assessment 5<br>[NLP Intro][r-nlp]<br>[Text Classification][r-nvb]             | ----- |[AM/PM][l-nlp]              |
+| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | ----- |[AM/PM][l-pca]              |
+| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                           | ----- |[AM][l-clst]<br>[PM][l-tm]  |
+| Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | ----- |[PM][l-grph]            |
+| Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp]| ----- |--             |
 
 --
 
 ### Week 8: Unit 2 Capstone 
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Capstone 2/Mock Interviews | - | - |
 | Tuesday | Capstone 2/Mock Interviews|  -  | - |
-| Wednesday |  Capstone 2 presentations | - | - |
-| Thursday | July 4 holiday | - | - |
-| Friday | July 5 holiday   | - | - |
+| Wednesday | Capstone 2/Mock Interviews|  -  | - |
+| Thursday  | Capstone 2/Mock Interviews | - | - |
+| Friday | Code Review / Capstone Presentations   | - | - |
 
 --
 
 ### Week 9: Advanced Topics 1
 |    Day    | Repos                                                                          | Lead  |        Slides            
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
-| Monday    | Assessment 6<br/>[Bayesian Inference][r-bi]<br/>[Bayesian Testing][r-bab]      | Frank | [1][l-bay]<br>[2][l-bab] |
-| Tuesday   | [Multi-Armed Bandit][r-mab]<br>[LDA][r-lda]                                    | Kayla | [1][l-mab]               |
-| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        |  K/F  | [1][l-rcmd]              |
-| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | Frank | [1][l-rcmd]              |
-| Friday    | [Recommender Case Study][r-csrec2]                                              | Kayla |            -             |
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
+| Monday    | Assessment 6<br/>[Data products: Flask][r-flsk]                                | ----- | [AM/PM][l-flsk]            |
+| Tuesday   | [Time Series][r-ts]<br>[Neural Nets- RNN][r-rnn]                               | ----- | [AM][l-ts]<br>[PM][l-rnn]  |
+| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | ----- | [AM/PM][l-rcmd]            |
+| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | ----- | [AM/PM][l-rcmd]            |
+| Friday    | [Recommender Case Study][r-csrec2]                                             | ----- | --                         |
 
 --
 
 ### Week 10: Advanced Topics 2
 |    Day    | Repos                                                                          | Lead  |        Slides            
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:------------------------:|
-| Monday    |[Autoencoders][c10.3.1]<br>[RL with neural networks][r-rlnn]                    | Frank | -                        |
-| Tuesday   |[Transfer Learning][r-tlnn]<br>[MCMC][r-mcmc]                                   |  F/K  | -                        |
-| Wednesday | Docker Compose and Swarm Lecture                                               | Frank | -                        |
-| Thursday  | [Fraud Case Study (day 1)][r-fdcs]                                             | Kayla | -                        |
-| Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             |  K&F  | -                        |
-
+|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
+| Monday    |[Multi-Armed Bandit][r-mab]<br>[RL with neural networks][r-rlnn]                | ----- | [AM][l-mab]                |
+| Tuesday   |[Autoencoders][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | ----- | --                         |
+| Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Docker Compose and Swarm                  | ----- | --                         |
+| Thursday  |CIII proposals due, 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- | --                         |
+| Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             | ----- | --                         |
 --
 
 ### Week 11: Unit 3 Capstone
@@ -172,7 +171,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 --
 
 ### Week 12: Showcase
-| Day | Topic | Lead Instructor | Slides |
+| Day | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |  | - | - |
 | Tuesday |   |  -   | - |
@@ -276,8 +275,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
 [c2.5.1]: https://github.com/GalvanizeDataScience/Spark-Case-Study
 
-
-
 <!-- Week 3 -->
 [c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
 [c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
@@ -287,7 +284,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 
 <!-- Week 4 -->
-
 
 <!-- Week 5 -->
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
@@ -351,7 +347,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-pg2]: https://github.com/gSchool/DSI_Lectures/tree/master/sql-python 
 [l-spk]: https://github.com/gSchool/DSI_Lectures/tree/master/spark
 
-
 <!-- Week 3-->
 [prob-dist]: https://github.com/GalvanizeDataScience/probability-distributions
 [binom-tst]: https://github.com/GalvanizeDataScience/binomial-tests
@@ -382,7 +377,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [cs-regression]: https://github.com/gSchool/dsd-case-study-linear-models
 
 <!-- Week 6-->
-
 [r-abst]: https://github.com/gSchool/dsi-boosting
 [l-dt]: https://github.com/gSchool/DSI_Lectures/tree/master/non-parametric-learners 
 [l-rf]: https://github.com/gSchool/DSI_Lectures/tree/master/random-forest
@@ -393,6 +387,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-cnn]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
 [r-rnn]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
 [r-csml]: https://github.com/gSchool/dsd-non-parametric-case-study
+[r-imp]: https://github.com/GalvanizeDataScience/image-processing
+[l-imp]: https://github.com/gSchool/DSI_Lectures/tree/master/image_featurization
 
 <!-- Week 8-->
 [r-nlp]: https://github.com/GalvanizeDataScience/nlp
@@ -405,24 +401,30 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-gr1]: https://github.com/GalvanizeDataScience/graphs-searching
 [r-gr2]: https://github.com/GalvanizeDataScience/graphs-communities
 [l-pca]: https://github.com/gSchool/DSI_Lectures/tree/master/dimensionality-reduction
+[r-lda]: https://github.com/gSchool/dsd-lda
 [l-clst]: https://github.com/gSchool/DSI_Lectures/tree/master/clustering
 [l-tm]: https://github.com/gSchool/DSI_Lectures/tree/master/topicmodeling
 [l-grph]: https://github.com/gSchool/DSI_Lectures/tree/master/graphs
+[r-csnlp]: https://github.com/GalvanizeDataScience/nlp_case_study
 
 <!-- Week 9-->
+[r-ts]: https://github.com/GalvanizeDataScience/time-series
+[l-ts]: https://github.com/gSchool/DSI_Lectures/tree/master/time-series
 [r-bi]: https://github.com/GalvanizeDataScience/bayes-intro
 [r-bab]: https://github.com/GalvanizeDataScience/bayes-testing
+[l-bab]: https://github.com/gSchool/DSI_Lectures/tree/master/power-bayesian
 [l-bay]: https://github.com/gschool/DSI_Lectures/tree/master/power-bayesian
-[l-bab]: https://github.com/gschool/DSI_Lectures/tree/master/multi-armed-bandit
+[l-mab]: https://github.com/gschool/DSI_Lectures/tree/master/multi-armed-bandit
 [r-cbr]: https://github.com/GalvanizeDataScience/content_based_recommender
 [r-smr]: https://github.com/GalvanizeDataScience/similarity_based_recommenders
 [l-rcmd]: https://github.com/gSchool/DSI_Lectures/tree/master/recommendation-systems
 [r-mfr]: https://github.com/GalvanizeDataScience/factorization_recommender                      
 [r-csrec]: https://github.com/GalvanizeDataScience/recommender-case-study
 [r-mab]: https://github.com/GalvanizeDataScience/multi-armed-bandit
-[r-lda]: https://github.com/gSchool/dsd-lda
 [l-mab]: https://github.com/gSchool/DSI_Lectures/tree/master/multi-armed-bandit   
 [r-csrec2]: https://github.com/gSchool/dsd-recommender-case-study
+[r-flsk]: https://github.com/GalvanizeDataScience/data-products
+[l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
 
 <!-- Week 10-->
 [r-rlnn]: https://github.com/GalvanizeDataScience/reinforcement-learning-with-nn
