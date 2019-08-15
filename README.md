@@ -163,8 +163,8 @@ Your priorities this week:
 | Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Docker Compose and Swarm                  | ----- | --                         |
 | Thursday  |CIII proposals due, 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- | --                         |
 | Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             | ----- | --                         |
---
 
+--
 ### Week 11: Unit 3 Capstone
 Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No presentations this week, as you'll have a demo evening next week.
 
