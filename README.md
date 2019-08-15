@@ -30,12 +30,8 @@ To jump to a week of interest, click on the link.
 
 ## Other important links
 * [Solutions](https://github.com/GalvanizeDataScience/solutions-g98) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
-* [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
 * [Weekly feedback](https://docs.google.com/forms/d/e/1FAIpQLSdg4SE99Cri-9VTGvmaJ2aDsFQGU_ocK7cmJ_-9yGQl_BhOjw/viewform?usp=sf_link) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
-* [Pairing](notes/pairing.md): Notes on how to pair program
-* [Workflow](notes/workflow.md): Notes on programming workflow
-* [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
@@ -137,7 +133,7 @@ Your priorities this week:
 ### Week 9: Unit 2 Capstone 
 | Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Capstone 2 Kick-Off <br/> Work | - | [slides][-] |
+| Monday | Capstone 2 Kick-Off <br/> Work | - | - |
 | Tuesday | Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Group Check-in  <br/> Back to work | - | - |
 | Thursday | Group Check-in  <br/> Back to work| - | - |
@@ -179,7 +175,7 @@ Your priorities this week:
 
 --
 
-### Week 13: Career Week (mock interviews)
+### Week 13: Career Week 
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
@@ -262,8 +258,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Lecture Repos -->
 <!-- Week 1 -->
-[lec-git]:https://github.com/gSchool/dsi-week-zero/blob/master/day-1-git-functions-testing/am_git-unix/intro_git_lec.md
-[lec-fun]:https://github.com/gSchool/DSI_Lectures/tree/master/fundamentals
+[lec-git]:https://github.com/GalvanizeDataScience/lectures/tree/SF/git
+[lec-fun]:https://github.com/GalvanizeDataScience/lectures/tree/SF/unix
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
