@@ -29,6 +29,7 @@ To jump to a week of interest, click on the link.
 | 13 | 11/10/19 | [Career Week](#week-13-career-week) |
 
 ## Other important links
+* [Morning Warmups](https://github.com/GalvanizeDataScience/morning-warmups).
 * [Solutions](https://github.com/GalvanizeDataScience/solutions-g98) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
 * [Weekly feedback](https://docs.google.com/forms/d/e/1FAIpQLSdg4SE99Cri-9VTGvmaJ2aDsFQGU_ocK7cmJ_-9yGQl_BhOjw/viewform?usp=sf_link) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
 * [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
@@ -47,11 +48,12 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Herbert/Flora  | [AM][lec-git]<br/>[PM][lec-fun] |
+| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Herbert/Flora  | [AM][lec-git]<br/>[PM][lec-fun] |
 | Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-numpy]<br/>[PM][lec-lin]   |
-| Wednesday | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
-| Thursday | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
-| Friday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading]| [Docker][docker]<br/>[AWS][aws]|  Hamid | [AM][lec-docker] <br/>[PM][lec-aws] |
+| Wednesday | [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
+| Thursday | [Think Python][r-py15] <br/> [**Python code style**][r-python]  | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
+| Friday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading] <br> [**Docker Getting Started**][r-docker](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS] | [Docker][docker]<br/>[AWS][aws]|  Hamid | [AM][lec-docker] <br/>[PM][lec-aws] |
+
 
 --
 
@@ -446,6 +448,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-multiproc]:https://www.youtube.com/watch?v=X2mO1O5Nuwg
 [r-intro-parallel]:http://sebastianraschka.com/Articles/2014_multiprocessing.html
 [r-intro-threading]:http://pymotw.com/2/threading/
+[r-aws]:notes/setup_aws.md
+[r-python]:https://docs.python-guide.org/writing/style/#general-concepts 
+[r-docker]: https://docs.docker.com/get-started/
+[r-start-AWS]: https://aws.amazon.com/start-now/
+[r-about-AWS]: https://aws.amazon.com/about-aws/
 
 <!-- Week 2 -->
 [r-intro-alg]:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
