@@ -137,7 +137,7 @@ Your priorities this week:
 ### Week 9: Unit 2 Capstone 
 | Day |  Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Capstone 2 Kick-Off <br/> Work | - | [slides][-] |
+| Monday | Capstone 2 Kick-Off <br/> Work | - | - |
 | Tuesday | Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Group Check-in  <br/> Back to work | - | - |
 | Thursday | Group Check-in  <br/> Back to work| - | - |
@@ -179,7 +179,7 @@ Your priorities this week:
 
 --
 
-### Week 13: Career Week (mock interviews)
+### Week 13: Career Week 
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
