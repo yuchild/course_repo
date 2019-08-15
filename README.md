@@ -55,7 +55,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | ----- |[AM][l-py]<br>[PM][l-oop]   |
 | Wednesday |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                                    | ----- |[AM/PM][l-nplalg]           |
 | Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | ----- |[AM][l-pn]<br>[PM][l-mpl]   |
-| Friday    |[Review][wr]<br>[EDA case study]                                                | ----- |--                          |
+| Friday    |[Review][wr]<br>[EDA case study][r-cs-eda]                                      | ----- |--                          |
 
 --
 
@@ -338,6 +338,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-md]: https://github.com/gSchool/DSI_Lectures/tree/master/mongo/elliot_cohen
 [l-ws]: https://github.com/gschool/DSI_Lectures/tree/master/web-scraping
 [wr]: https://github.com/GalvanizeDataScience/weekly-student-led-review
+[r-cs-eda]: https://github.com/GalvanizeDataScience/Pandas-EDA-Case-Study
 
 <!-- Week 2 -->
 [l-bgO]: https://github.com/gSchool/DSI_Lectures/tree/master/big-O 
