@@ -56,7 +56,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  Joe  | [AM][lec-algo-complex]<br/>[PM][lec-search-trees] |
 | Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | [AM][lec-mongo] <br/> [PM][lec-web-scrape]|
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan <br/> Christina 9:30 - 10:00 | [AM][lec-sql] <br/> [PM][lec-python-sql]|
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan | [AM][lec-sql] <br/> [PM][lec-python-sql]|
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | [slides][spark] |
 | Friday |  [Spark EDA Case Study][c2.5.1] |  Joe   | - |
 
@@ -69,7 +69,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Tuesday |  Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Joe  | [AM][lec-prob] <br/> [PM][lec-binom-test]|
 | Wednesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Joe  | [AM][lec-samp-distros] <br/> [PM][lec-loln] |
 | Thursday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | [AM][lec-clt] <br/> [PM][lec-mle] |
-| Friday | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe <br/> Christina 1:00 - 2:00  | [slides][lec-hypo-test] |
+| Friday | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe  | [slides][lec-hypo-test] |
 
 --
 
@@ -79,8 +79,8 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Monday |   [Data Products][132.0] |  Joe   | [slides][lec-flask] |
 | Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
 | Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | Christina 1:00 - 2:00 | - |
-| Friday | Capstone Presentations PM | PN/EP Due | - |
+| Thursday |  MORE WORK!!!! | - | - |
+| Friday | Capstone Presentations PM | - | - |
 
 --
 
@@ -143,7 +143,7 @@ Your priorities this week:
 | Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
 | Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
 | Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][c9.4.1] |  Dan <br/> Christina 11:00 - 12:00  | [slides][-] |
+| Thursday | [Implicit Recommenders][c9.4.1] |  Dan  | [slides][-] |
 | Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
@@ -154,7 +154,7 @@ Your priorities this week:
 | Monday | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
 | Tuesday |  [Sequence Analysis][c10.2.1] |  -   | [slides][-] |
 | Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Dan <br/> Resumes and LikedIn Due  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina 10:00 - 11:00  | [slides][-] |
+| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan  | [slides][-] |
 | Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
 --
@@ -168,10 +168,10 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |  | - | [slides][-] |
-| Tuesday |   |  Christina 1:00 - 2:00   | [slides][-] |
-| Wednesday |   |  Christina 10:00 - 11:00 <br/> Christina 1:00 - 2:00  | [slides][-] |
+| Tuesday |   |  -   | [slides][-] |
+| Wednesday |   |  - | [slides][-] |
 | Thursday | PM - Demo evening |  -  | [slides][-] |
-| Friday | PM - Graduation |  Christina 10:00 - 11:00  | [slides][-] |
+| Friday | PM - Graduation |  - | [slides][-] |
 
 --
 
