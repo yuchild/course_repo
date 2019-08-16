@@ -56,9 +56,9 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  Joe  | [AM][lec-algo-complex]<br/>[PM][lec-search-trees] |
 | Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | [AM][lec-mongo] <br/> [PM][lec-web-scrape]|
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan  | [AM][lec-sql] <br/> [PM][lec-python-sql]|
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan <br/> Christina 9:30 - 10:00 | [AM][lec-sql] <br/> [PM][lec-python-sql]|
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | [slides][spark] |
-| Friday |  [Spark EDA Case Study][c2.5.1] |  Joe   | [slides][150.2] |
+| Friday |  [Spark EDA Case Study][c2.5.1] |  Joe   | - |
 
 --
 
@@ -66,32 +66,32 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | HOLIDAY NO CLASS | - | - |
-| Tuesday |  Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Joe  | [slides][-] |
-| Wednesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Joe  | [slides][-] |
-| Thursday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | [slides][-] |
-| Friday | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe  | [slides][-] |
+| Tuesday |  Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Joe  | [AM][lec-prob] <br/> [PM][lec-binom-test]|
+| Wednesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Joe  | [AM][lec-samp-distros] <br/> [PM][lec-loln] |
+| Thursday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | [AM][lec-clt] <br/> [PM][lec-mle] |
+| Friday | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe <br/> Christina 1:00 - 2:00  | [slides][lec-hypo-test] |
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  Joe   | [slides][-] |
+| Monday |   [Data Products][132.0] |  Joe   | [slides][lec-flask] |
 | Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
 | Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Thursday |  MORE WORK!!!! | Christina 1:00 - 2:00 | - |
+| Friday | Capstone Presentations PM | PN/EP Due | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [slides][-] |
-| Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  Joe  | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  Dan  | [slides][-] |
+| Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [AM][lec-knn] <br/> [PM][lec-cross-val] |
+| Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  Joe  | [slides][lec-lin-pred] |
+| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | [AM][lec-reg-regress] <br/> [PM][lec-inferential-reg]|
+| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | [slides][lec-log-regress] |
+| Friday | [Regression Case Study][c5.5.1] |  Dan  | |
 
 --
 ### Solo Week
@@ -143,7 +143,7 @@ Your priorities this week:
 | Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
 | Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
 | Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][c9.4.1] |  -  | [slides][-] |
+| Thursday | [Implicit Recommenders][c9.4.1] |  Dan <br/> Christina 11:00 - 12:00  | [slides][-] |
 | Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
@@ -153,8 +153,8 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
 | Tuesday |  [Sequence Analysis][c10.2.1] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
+| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Dan <br/> Resumes and LikedIn Due  | [slides][-] |
+| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina 10:00 - 11:00  | [slides][-] |
 | Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
 --
@@ -168,10 +168,10 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |  | - | [slides][-] |
-| Tuesday |   |  -   | [slides][-] |
-| Wednesday |   |  -  | [slides][-] |
+| Tuesday |   |  Christina 1:00 - 2:00   | [slides][-] |
+| Wednesday |   |  Christina 10:00 - 11:00 <br/> Christina 1:00 - 2:00  | [slides][-] |
 | Thursday | PM - Demo evening |  -  | [slides][-] |
-| Friday | PM - Graduation |  -  | [slides][-] |
+| Friday | PM - Graduation |  Christina 10:00 - 11:00  | [slides][-] |
 
 --
 
@@ -264,12 +264,28 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-python-sql]:https://github.com/GalvanizeDataScience/lectures/tree/Austin/python-sql
 [spark]:nhttps://github.com/GalvanizeDataScience/lectures/tree/Austin/spark
 
-
-
-
 <!-- Week 3 -->
+[lec-prob]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/probability-distributions
+[lec-binom-test]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/binomial_tests
+[lec-samp-distros]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/sampling-distributions
+[lec-loln]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/law-of-large-numbers
+[lec-clt]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/central_limit_theorem
+[lec-mle]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/maximum-likelihood
+[lec-hypo-test]:https://github.com/GalvanizeDataScience/lectures/tree/Austin/ab-testing
+
 <!-- Week 4 -->
+[lec-flask]:https://github.com/GalvanizeDataScience/lectures/tree/Austin/flask
+
+
 <!-- Week 5 -->
+[lec-knn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/knn
+[lec-cross-val]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/cross_validation
+[lec-lin-pred]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/linear-regression
+[lec-reg-regress]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/regularized_regression
+[lec-inferential-reg]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/inferential_regression
+[lec-log-regress]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/logistic-regression
+
+
 
 <!-- Week 6 -->
 
