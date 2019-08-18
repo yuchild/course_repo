@@ -443,7 +443,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-data-wrangling-pandas]:http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb
 [r-matplot1]:http://matplotlib.org/users/pyplot_tutorial.html
 [r-matplot2]:https://matplotlib.org/users/artists.html
-[r-linalg-numpy]:https://github.com/gSchool/precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
+[r-linalg-numpy]:https://github.com/gSchool/dsi-precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
 [r-linalg-review]:http://cs229.stanford.edu/section/cs229-linalg.pdf
 [r-multiproc]:https://www.youtube.com/watch?v=X2mO1O5Nuwg
 [r-intro-parallel]:http://sebastianraschka.com/Articles/2014_multiprocessing.html
