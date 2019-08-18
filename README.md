@@ -43,33 +43,33 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Readiness Assessment<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
-| Tuesday |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Wednesday | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Thursday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
-| Friday | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
+| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
+| Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
+| Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
+| Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
+| Friday 8/23 | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  -  | [Slides][-] |
-| Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  -  | [slides][-]] |
-| Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
-| Friday |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
+| Monday 8/26 | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  -  | [Slides][-] |
+| Tuesday 8/27 | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
+| Wednesday 8/28 | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  -  | [slides][-]] |
+| Thursday 8/29 |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
+| Friday 8/30 |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
 
 --
 
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
-| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Thursday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
-| Friday | [Stats Case Study][-] |  -   | - |
+| Monday | Holiday |  -   | - |
+| Tuesday | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
+| Wednesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
+| Thursday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
+| Friday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
 
 --
 
