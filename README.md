@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamental][c1.1.1] |  -  | [slides][-] |
+| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1] [Python][https://github.com/gSchool/dsi-python-intro] |  -  | [slides][-] |
 | Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
 | Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
 | Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
@@ -65,33 +65,33 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Holiday |  -   | - |
-| Tuesday | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
-| Wednesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Thursday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Friday |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
+| Monday 9/2 | Holiday |  -   | - |
+| Tuesday 9/3 | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
+| Wednesday 9/4 |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
+| Thursday 9/5 |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
+| Friday 9/6 |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
 
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  -   | [slides][-] |
-| Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday 9/9 |   [Data Products][132.0] |  -   | [slides][-] |
+| Tuesday 9/10 |  Discuss and kickoff capstone 1 |  -  | - |
+| Wednesday 9/11 |  Work! | - | - |
+| Thursday 9/12 |  MORE WORK!!!! | - | - |
+| Friday 9/13 | Capstone Presentations PM | - | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  -   | [slides][-] |
-| Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
-| Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
-| Friday | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+| Monday 9/16 | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
+| Tuesday 9/17 | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  -   | [slides][-] |
+| Wednesday 9/18 |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
+| Thursday 9/19 | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
+| Friday 9/20 | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
 
 --
 ### Solo Week
