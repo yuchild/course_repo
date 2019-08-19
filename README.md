@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1] [Python](https://github.com/gSchool/dsi-python-intro) |  -  | [slides][-] |
+| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1]<br/>[Python](https://github.com/gSchool/dsi-python-intro) |  -  | [slides][-] |
 | Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
 | Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
 | Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
@@ -118,44 +118,44 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
-| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
-| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
-| Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  -  | [slides][-] |
-| Friday | [NLP Case Study][c7.5.1] |  -  | [slides][-] |
+| Monday 9/30 | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
+| Tuesday 10/1 |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
+| Wednesday 10/2 |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
+| Thursday 10/3 | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  -  | [slides][-] |
+| Friday 10/4 | [NLP Case Study][c7.5.1] |  -  | [slides][-] |
 
 --
 
 ### Week 8: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
-| Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | - | - |
-| Friday | Capstone Presentations PM | - | - |
+| Monday 10/7 | Discuss and kickoff capstone 2 | - | [slides][-] |
+| Tuesday 10/8 |  Work. |  -  | - |
+| Wednesday 10/9 |  Work! | - | - |
+| Thursday 10/10 |  MORE WORK!!!! | - | - |
+| Friday 10/11 | Capstone Presentations PM | - | - |
 
 --
 
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
-| Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
-| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][c9.4.1] |  -  | [slides][-] |
-| Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
+| Monday 10/14 | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
+| Tuesday 10/15 |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
+| Wednesday 10/16 |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
+| Thursday 10/17 | [Implicit Recommenders][c9.4.1] |  -  | [slides][-] |
+| Friday 10/18 | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
 
 --
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
-| Tuesday |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
+| Monday 10/21 | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
+| Tuesday 10/22 |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  -   | [slides][-] |
+| Wednesday 10/23 |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
+| Thursday 10/24 | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
+| Friday 10/25 | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
 
 --
 
