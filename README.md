@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1] [Python][https://github.com/gSchool/dsi-python-intro] |  -  | [slides][-] |
+| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1] [Python](https://github.com/gSchool/dsi-python-intro) |  -  | [slides][-] |
 | Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
 | Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
 | Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
