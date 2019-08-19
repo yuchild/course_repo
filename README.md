@@ -48,7 +48,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Herbert/Flora  | [AM][lec-git]<br/>[PM][lec-fun] |
+| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Herbert / J-G / Flora  | [AM][lec-git]<br/>[PM][lec-fun] |
 | Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora         | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Wednesday | [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
 | Thursday | [Think Python][r-py15] <br/> [**Python code style**][r-python]  | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
@@ -60,7 +60,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Big Data
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] |  Flora  | [AM][lec-bigo] |
+| Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] <br> [Search Tree][c6.1.1]|  Flora / Hamid  | [AM][lec-bigo] <br> [PM][lec-bst]|
 | Tuesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql]                                                           |  Hamid  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
 | Wednesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Hamid  | [AM][lec-web] |
 | Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Flora  | [AM][lec-spark-intro]<br/>[PM][lec-spark-df] |
@@ -273,6 +273,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 2 -->
 [lec-bigo]:https://github.com/GalvanizeDataScience/lectures/tree/SF/big_o
+[lec-bst]:https://github.com/GalvanizeDataScience/lectures/tree/SF/search_trees
 [lec-web]:https://github.com/GalvanizeDataScience/lectures/tree/SF/web_scraping
 [lec-sql]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sql
 [lec-sql-python]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sql_python
@@ -298,7 +299,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/logistic_regression/
 
 <!-- Week 7 -->
-[lec-bst]:https://github.com/GalvanizeDataScience/lectures/tree/SF/search_trees
 [lec-dt]:https://github.com/GalvanizeDataScience/lectures/tree/SF/decision_tress
 [lec-bg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random_forests
 [lec-rf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random_forests
