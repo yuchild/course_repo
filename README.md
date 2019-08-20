@@ -52,10 +52,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 |    Day    | Repos                                                                          | Lead  |         Slides             |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][unix]                       | Frank |[PM][l-git]                 |
-| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | ----- |[AM][l-py]<br>[PM][l-oop]   |
-| Wednesday |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                                    | ----- |[AM/PM][l-nplalg]           |
-| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | ----- |[AM][l-pn]<br>[PM][l-mpl]   |
-| Friday    |[Review][wr]<br>[EDA case study][r-cs-eda]                                      | ----- |--                          |
+| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Frank |[AM][l-py]<br>[PM][l-oop]   |
+| Wednesday |[Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2]                                    | Kayla |[AM/PM][l-nplalg]           |
+| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Kayla |[AM][l-pn]<br>[PM][l-mpl]   |
+| Friday    |[Review][wr]<br>[EDA case study][r-cs-eda]                                      | Frank |--                          |
 
 --
 
