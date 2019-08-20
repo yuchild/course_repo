@@ -5,7 +5,7 @@
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Unix Fundamental |  <ul><li>[Development Workflow][1.1.1] </li><li> [Pair Programming][1.1.2] </li><li> [Unix Philosophy][1.1.3] </li><li> [The Art of Data Science, Ch 2][1.1.4] </li></ul>| 
-| Tuesday |  Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra and Numpy][1.4.1] </li><li>[Linear Algebra for Data Science][r-la4ds] </li><li> [Linear Algebra Notes][1.4.2] </li></ul> |
+| Tuesday |  Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra for Data Science (Ch 1-3, 4 is optional)][r-la4ds] </li><li> [Linear Algebra Notes][1.4.2] </li><li>[Linear Algebra and Numpy (optional)][1.4.1] </li></ul> |
 | Wednesday | Pandas <br/> Matplotlib | <ul><li>[10 minutes to Pandas][1.2.1] </li><li> [Pandas Top 10][1.2.2] </li><li> [Matplolib tutorial and reference][r-mpl] </li><li> [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li><li>[Effective Visualization][1.2.5] </li><li> [Less is More][1.2.6]</li></ul> | 
 | Thursday |  OOP <br/> Transformers|  <ul><li>[**Python code style**][r-python]</li><li>[**Classes**][r-oop]  </li></ul>| 
 | Friday |  Docker <br/>  AWS  | <ul><li>[Docker Getting Started][2.2.1](Do not re-install Docker)</li><li>[About AWS][r-about-AWS]</li><li>[Getting Started on AWS][r-start-AWS] Read through three 10 minute tutorials:</li><li>- Launch a VM (EC2)</li><li>- Store and Retrieve a File (S3)</li><li>- Store Multiple Files to the Cloud Using s3 and the AWS CLI </li></ul>|
@@ -104,7 +104,7 @@ Your priorities this week:
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Bayesian Inference <br/> Bayesian Coin Flipping | <ul><li>[Bayesian] [ - ] </li></ul>| 
-| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning][9.2.2] (Ch 1 & 2) </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
+| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 | Wednesday | Similarity Based Recommenders <br/> Content Based Recommenders | <ul><li>[Machine Learning in Action][MLIA] (ch 14.4-14.5 pg 286-295) </li><li> [Mining Massive Datasets][MMDS] (ch 9.1, 9.2, pages 307 - 320) </li></ul>|
 | Thursday | Implicit Recommenders | <ul><li>[Mining Massive Datasets][MMDS] (ch 9.4, 9.5) </li><li> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] </li></ul>| 
 | Friday | Recommender Case Study |  -  | 
@@ -165,7 +165,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-python]: https://docs.python-guide.org/writing/style/#general-concepts 
 [r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
 
-[1.4.1]: https://github.com/gschool/dsi-precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
+[1.4.1]: https://github.com/GalvanizeDataScience/course-outline/blob/master/notes/reading_material/numpy_reading.md
 [1.4.2]: http://cs229.stanford.edu/section/cs229-linalg.pdf
 [r-la4ds]: https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
 
@@ -231,7 +231,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 <!-- Week 9 -->
 [9.2.1]: http://stevehanov.ca/blog/index.php?id=132
-[9.2.2]: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 
 [r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
 
