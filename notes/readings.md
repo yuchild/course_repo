@@ -9,7 +9,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]| 
 | Wednesday | Linear Algebra<br>Numpy |[**Linear Algebra and Numpy**][1.4.1]<br>[**Linear Algebra for Data Science**][r-la4ds]<br>[Linear Algebra Notes][1.4.2]| 
 | Thursday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Less is more][r-less]<br>| 
-| Friday   | EDA Case Study   | [**What is EDA?**][r-eda1]<br>Examples of beautiful EDA:<br>[**Denver Auto Accidents**][r-jh]<br>(check out the plotting code in `src/plot.py`)<br>[**Service Provisions by Non-State Actors**][r-jst]<br>(see `FinalCode.py`)<br>[**Comparing Git Workflows**][r-git-wf]<br>(focus on Feature Branch workflows) |
+| Friday   | EDA Case Study   | [**What is EDA?**][r-eda1]<br>Examples of beautiful EDA:<br>[**Denver Auto Accidents**][r-jh]<br>(check out the plotting code in `src/plot.py`)<br>[**Service Provisions by Non-State Actors**][r-jst]<br>(see `FinalCode.py`)<br>[**Comparing Git Workflows**][r-git-wf]<br>(focus on Feature Branch workflow) |
 
 --
 
