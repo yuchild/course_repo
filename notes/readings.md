@@ -16,7 +16,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 2: Big Data
 | Day | Topic | Readings |
 |:--:|:--|:---|
-| Monday | Algorithmic Complexity<br>Docker |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Docker Getting Started**][2.2.1](Do not re-install Docker!)<br>[Big O notation][r-bigO]| 
+| Monday | Algorithmic Complexity<br>Docker |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Docker Getting Started**][2.2.1](wait to install in class)<br>[Big O notation][r-bigO]| 
 | Tuesday | AWS <br> MongoDB and Webscraping  |  [**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS]<br>**Read through three 10 minute tutorials**:<br>- Launch a VM (EC2)<br>- Store and Retrieve a File (S3)<br>- Store Multiple Files to the Cloud Using s3 and the AWS CLI<br>[**MongoDB Basics**][r-mdb]<br>[**Webscraping with Python and Beautiful Soup**][r-ws]|
 | Wednesday | SQL <br> Psycopg2 |[**SQLZOO (tutorial: 1-9)**][2.3.1]<br>[**Psycopg**][r-psycopg]<br>[Visual Explanation of Joins][2.3.2]| 
 | Thursday | Spark RDDs <br> Spark SQL  | [**Learning Spark**][LearningSpark] (ch 1-2, pg 1-22)<br>Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)<br>|
