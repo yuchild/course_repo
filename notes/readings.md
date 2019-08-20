@@ -8,19 +8,19 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Monday | Git and Unix |[**Register for AWS credit**][r-aws]<br>[**Unix Philosophy**][1.1.3]<br>[Development Workflow][1.1.1]<br>[Pair Programming][1.1.2]<br>[The Art of Data Science, Ch 2][1.1.4]| 
 | Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]| 
 | Wednesday | Linear Algebra<br>Numpy |[**Linear Algebra and Numpy**][1.4.1]<br>[**Linear Algebra for Data Science**][r-la4ds]<br>[Linear Algebra Notes][1.4.2]| 
-| Thursday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Visualization][1.2.5]<br>[Less is More][1.2.6]<br>| 
-| Friday |  MongoDB<br>Web Scraping|[**MongoDB Basics**][r-mdb]<br>[**Webscraping with Python and Beautiful Soup**][r-ws]| 
+| Thursday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Visualization][1.2.5]<br>| 
+| Friday   | EDA Case Study   | [**What is EDA?**][r-eda1]<br>Examples of beautiful EDA:<br>[**Denver Auto Accidents**][r-jh]<br>(check out the plotting code in `src/plot.py`)<br>[**Service Provisions by Non-State Actors**][r-jst]<br>(see `FinalCode.py`)<br>[**Comparing Git Workflows**][r-git-wf]<br>(focus on Feature Branch workflows) |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Readings |
 |:--:|:--|:---|
-| Monday | Algorithmic Complexity<br>Data Structures |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Linked Lists**][r-linkedl]<br>[Big O notation][r-bigO]| 
-| Tuesday | Docker <br>  AWS  |  [**Docker Getting Started**][2.2.1](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS]<br>**Read through three 10 minute tutorials**:<br>- Launch a VM (EC2)<br>- Store and Retrieve a File (S3)<br>- Store Multiple Files to the Cloud Using s3 and the AWS CLI |
+| Monday | Algorithmic Complexity<br>Docker |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Docker Getting Started**][2.2.1](Do not re-install Docker!)<br>[Big O notation][r-bigO]| 
+| Tuesday | AWS <br> MongoDB and Webscraping  |  [**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS]<br>**Read through three 10 minute tutorials**:<br>- Launch a VM (EC2)<br>- Store and Retrieve a File (S3)<br>- Store Multiple Files to the Cloud Using s3 and the AWS CLI<br>[**MongoDB Basics**][r-mdb]<br>[**Webscraping with Python and Beautiful Soup**][r-ws]|
 | Wednesday | SQL <br> Psycopg2 |[**SQLZOO (tutorial: 1-9)**][2.3.1]<br>[**Psycopg**][r-psycopg]<br>[Visual Explanation of Joins][2.3.2]| 
 | Thursday | Spark RDDs <br> Spark SQL  | [**Learning Spark**][LearningSpark] (ch 1-2, pg 1-22)<br>Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)<br>|
-| Friday | Spark EDA Case Study |[**Comparing Git Workflows**][r-git-wf]<br>(compare/contrast Centralized and Feature Branch workflows)   |  
+| Friday | Spark EDA Case Study |-   |  
 
 --
 
@@ -156,6 +156,9 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-la4ds]: https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
 [r-mdb]: https://flaviocopes.com/mongodb/
 [r-ws]: https://www.dataquest.io/blog/web-scraping-tutorial-python/
+[r-eda1]: https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm
+[r-jh]: https://github.com/johnherr/Traffic-Accidents-in-Denver
+[r-jst]: https://github.com/gagejane/Terrorism-NonViolent
 
 <!-- Denver Week 2-->
 [r-linkedl]: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html 
