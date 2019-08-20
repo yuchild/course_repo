@@ -104,7 +104,7 @@ Your priorities this week:
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Bayesian Inference <br/> Bayesian Coin Flipping | <ul><li>[Bayesian] [ - ] </li></ul>| 
-| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning][9.2.2] (Ch 1 & 2) </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
+| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 | Wednesday | Similarity Based Recommenders <br/> Content Based Recommenders | <ul><li>[Machine Learning in Action][MLIA] (ch 14.4-14.5 pg 286-295) </li><li> [Mining Massive Datasets][MMDS] (ch 9.1, 9.2, pages 307 - 320) </li></ul>|
 | Thursday | Implicit Recommenders | <ul><li>[Mining Massive Datasets][MMDS] (ch 9.4, 9.5) </li><li> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] </li></ul>| 
 | Friday | Recommender Case Study |  -  | 
@@ -165,7 +165,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-python]: https://docs.python-guide.org/writing/style/#general-concepts 
 [r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
 
-[1.4.1]: https://github.com/gschool/dsi-precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
+[1.4.1]: https://github.com/GalvanizeDataScience/course-outline/blob/master/notes/reading_material/numpy_reading.md
 [1.4.2]: http://cs229.stanford.edu/section/cs229-linalg.pdf
 [r-la4ds]: https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
 
@@ -231,7 +231,6 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 <!-- Week 9 -->
 [9.2.1]: http://stevehanov.ca/blog/index.php?id=132
-[9.2.2]: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 
 [r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
 
