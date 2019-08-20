@@ -5,7 +5,7 @@
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Unix Fundamental |  <ul><li>[Development Workflow][1.1.1] </li><li> [Pair Programming][1.1.2] </li><li> [Unix Philosophy][1.1.3] </li><li> [The Art of Data Science, Ch 2][1.1.4] </li></ul>| 
-| Tuesday |  Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra and Numpy][1.4.1] </li><li>[Linear Algebra for Data Science][r-la4ds] </li><li> [Linear Algebra Notes][1.4.2] </li></ul> |
+| Tuesday |  Linear Algebra <br/> Numpy |  <ul><li>[Linear Algebra for Data Science (Ch 1-3, 4 is optional)][r-la4ds] </li><li> [Linear Algebra Notes][1.4.2] </li><li>[Linear Algebra and Numpy (optional)][1.4.1] </li></ul> |
 | Wednesday | Pandas <br/> Matplotlib | <ul><li>[10 minutes to Pandas][1.2.1] </li><li> [Pandas Top 10][1.2.2] </li><li> [Matplolib tutorial and reference][r-mpl] </li><li> [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li><li>[Effective Visualization][1.2.5] </li><li> [Less is More][1.2.6]</li></ul> | 
 | Thursday |  OOP <br/> Transformers|  <ul><li>[**Python code style**][r-python]</li><li>[**Classes**][r-oop]  </li></ul>| 
 | Friday |  Docker <br/>  AWS  | <ul><li>[Docker Getting Started][2.2.1](Do not re-install Docker)</li><li>[About AWS][r-about-AWS]</li><li>[Getting Started on AWS][r-start-AWS] Read through three 10 minute tutorials:</li><li>- Launch a VM (EC2)</li><li>- Store and Retrieve a File (S3)</li><li>- Store Multiple Files to the Cloud Using s3 and the AWS CLI </li></ul>|
@@ -165,7 +165,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-python]: https://docs.python-guide.org/writing/style/#general-concepts 
 [r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
 
-[1.4.1]: https://github.com/gschool/dsi-precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
+[1.4.1]: https://github.com/GalvanizeDataScience/course-outline/blob/master/notes/reading_material/numpy_reading.md
 [1.4.2]: http://cs229.stanford.edu/section/cs229-linalg.pdf
 [r-la4ds]: https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
 
