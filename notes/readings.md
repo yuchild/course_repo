@@ -6,7 +6,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Day | Topic | Readings |
 |:--:|:--|:---|
 | Monday | Git and Unix |[**Register for AWS credit**][r-aws]<br>[**Unix Philosophy**][1.1.3]<br>[Development Workflow][1.1.1]<br>[Pair Programming][1.1.2]<br>[The Art of Data Science, Ch 2][1.1.4]| 
-| Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]<br>[Learn Python the Hard Way (ex 40-43)][1.3.1]| 
+| Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]| 
 | Wednesday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Visualization][1.2.5]<br>[Less is More][1.2.6]<br>| 
 | Thursday | Linear Algebra<br>Numpy |[**Linear Algebra and Numpy**][1.4.1]<br>[**Linear Algebra for Data Science**][r-la4ds]<br>[Linear Algebra Notes][1.4.2]| 
 | Friday |  MongoDB<br>Web Scraping|[**MongoDB Basics**][r-mdb]<br>[**Webscraping with Python and Beautiful Soup**][r-ws]| 
