@@ -266,9 +266,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
 [lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_algebra
-[lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/blob/SF/oop/oop_am.pdf
-[lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/oop_pm
-[lec-docker]:https://github.com/GalvanizeDataScience/lectures/blob/SF/docker/docker.pptx
+[lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/
+[lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/
+[lec-docker]:https://github.com/GalvanizeDataScience/lectures/tree/SF/docker/
 [lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/SF/aws
 
 <!-- Week 2 -->
