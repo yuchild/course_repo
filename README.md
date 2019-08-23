@@ -62,11 +62,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Big Data
 |    Day    | Repos                                                                          | Lead  |        Slides              |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
-| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | ----- |[AM][l-bgO]<br>[PM][l-dck]  |
-| Tuesday   | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                | ----- |[AM][l-aws]<br>[PM][l-ws]   |
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | ----- |[AM][l-sql]<br>[PM][l-pg2]  |
-| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | ----- |[AM/PM][l-spk]              |
-| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | ----- |--                          |
+| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | Kayla/Nick |[AM][l-bgO]<br>[PM][l-dck]  |
+| Tuesday   | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                | Frank |[AM][l-aws]<br>[PM][l-ws]   |
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          | Kayla |[AM][l-sql]<br>[PM][l-pg2]  |
+| Thursday  | [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Frank |[AM/PM][l-spk]              |
+| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Kayla |--                          |
 
 --
 
