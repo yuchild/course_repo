@@ -55,7 +55,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Frank |[AM][l-py]<br>[PM][l-oop]   |
 | Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | Kayla |[AM/PM][l-nplalg]           |
 | Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Kayla |[AM][l-pn]<br>[PM][l-mpl]   |
-| Friday    |[Review][wr]<br>[EDA case study][r-cs-eda]                                      | Frank |--                          |
+| Friday    |[Review][wr]<br>[Feature Branch Workflow][fbw]<br>[EDA case study][r-cs-eda]    | Frank |--                          |
 
 --
 
@@ -339,6 +339,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-ws]: https://github.com/gschool/DSI_Lectures/tree/master/web-scraping
 [wr]: https://github.com/GalvanizeDataScience/weekly-student-led-review
 [r-cs-eda]: https://github.com/GalvanizeDataScience/Pandas-EDA-Case-Study
+[fbw]: https://github.com/GalvanizeDataScience/feature-branch-git-workflow
 
 <!-- Week 2 -->
 [l-bgO]: https://github.com/gSchool/DSI_Lectures/tree/master/big-O
