@@ -130,24 +130,19 @@ subtract matrices, Transpose matrices, verify inverses.
 1. Use user-defined functions
 1. Set up a pipeline to use spark's MLLib
 
-#### **16. Probability**
+#### **16. Probability Distributions**
+1. Give noncircular definitions for probability, statistics, and likelihood
 1. Define what a random variable is.
-1. Explain difference between permutations and combinations.
-1. Recite and perform major probability laws from memory:
-  - Bayes Rule
-  - LOTP
-  - Chain Rule
-1. Recite and perform major random variable formulas from memory:
-  - E(X)
-  - Var(X)
-  - Cov(X,Y)
-1. Describe what a joint distribution is and be able to perform a simple calculation using joint distribution.  
-1. Define each major probability distributions and give 1 clear example of each
-1. Explain independence of 2 r.v.’s and implications with respect to probability formulas, covariance formulas, etc.
-1. Compute expectation of aX+bY and explain that it is a linear operator, where X and Y are random variables
-1. Compute variance of aX + bY
-1. Discuss why correlation is not causation
-1. Describe correlation and its perils, with reference to Anscombe’s quartet
+1. Contrast discrete and continuous probability distributions
+1. Describe phenomena that are modeled using the following distributions: Bernoulli, binomial (bonus: multinomial), Poisson, geometric, uniform, normal, exponential.
+1. Use models to assess the likelihood of and event having happened.
+
+#### **17. Binomial Tests**
+1. Describe a null and alternative hypothesis
+1. Explain the connection between significance level and type 1 error.
+1. Describe a p-value.
+1. Calculate a p-value for a binomial test.
+1. Describe how a Chi^2 test works, and the scenarios in which it is appropriate.
 
 #### **17. Sampling**
 1. Compute MLE estimate for simple example (such as coin-flipping)
@@ -159,9 +154,7 @@ subtract matrices, Transpose matrices, verify inverses.
 1. Compare and contrast the use cases of parametric and nonparametric estimation
 
 
-#### **18. Hypothesis Testing**
-1. Given a dataset, set up a null and alternative hypothesis, and calculate and interpret the p-value for the difference of means or proportions.
-1. Given a dataset, set up a null and alternative hypothesis, and calculate and interpret the p-value for Chi-square test of independence
+#### **18. Central Limit Theorem Tests**
 1. Describe a situation in which a one-tailed test would be appropriate (vs. a two-tailed test).
 1. Given a particular situation, correctly choose among the following options:
   - z-test
@@ -170,7 +163,6 @@ subtract matrices, Transpose matrices, verify inverses.
   - 2 sample z-test (one-sided and two-sided)
 1. Define p-value, Type I error, Type II error, significance level and discuss their significance in an example problem.
 1. Account for the multiple comparisons problem via Bonferroni correction.
-1. Compute the difference of two independent random normal variables.
 1. Discuss when to use an A/B test to evaluate the efficacy of a treatment
 
 #### **19. Power**
