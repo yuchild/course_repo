@@ -94,7 +94,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day |  Readings | Repos | Lead Instructor | Slides |
 |:--:|:--|:--|:--:|:--:|
 | Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [Assessment 3][learn0]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Herbert/Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
-| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Hamid  | [AM][lec-lin-reg] |
+| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Linear Regression EDA ][lin-reg-eda] <br/>  [Predictive Linear Regression][pred-lin-reg] |  Hamid  | [AM][lec-lin-reg] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [AM][lec-regularization]<br/>[PM][lec-inf] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [AM][lec-log-reg] |
 | Friday | | [Regression Case Study][c5.5.1] |  -  | - |
@@ -370,7 +370,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 5 -->
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
 [c5.1.2]: https://github.com/GalvanizeDataScience/cross-validation/tree/knn
-[c5.2.1]: https://github.com/GalvanizeDataScience/predictive-linear-regression
+[lin-reg-eda]:https://github.com/GalvanizeDataScience/linear-regression-eda
+[pred-lin-reg]:https://github.com/GalvanizeDataScience/predictive-linear-regression
 [c5.3.1]: https://github.com/GalvanizeDataScience/regularized-regression
 [c5.3.2]: https://github.com/GalvanizeDataScience/inferential-regression
 [c5.4.1]: https://github.com/GalvanizeDataScience/logistic-regression
