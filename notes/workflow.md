@@ -125,7 +125,7 @@ document.**
 * Anaconda Python and Packages
 
   We use the Anaconda scientific python stack which is just a vanilla version of
-  Python 2.7 along with all the packages that a data scientist would need,
+  Python 3.7 along with all the packages that a data scientist would need,
   including **NumPy**, **SciPy**, **SciKit-Learn**, **Pandas**, and
   **matplotlib**. Anaconda manages the Python environment for us. If you need to
   install other Python packages, do so with the `conda` command-line
