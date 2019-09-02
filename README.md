@@ -74,10 +74,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 |    Day    | Repos                                                                          | Lead  |        Slides              |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    | Labor Day (no class)                                                           | ----- |--                          |
-| Tuesday   | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | ----- |[AM/PM][l-prob]             |
-| Wednesday | [Sampling Distributions][smp-dist]<br>[Central Limit Theorem][clt-bs]          | ----- |[AM/PM][l-samp]             |
-| Thursday  | CI proposal due, 9 am<br>[Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| ----- |[AM][l-samp]<br>[PM][l-ab] |
-| Friday    | [Power Calculation][power]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | ----- |[1][l-powr]<br>[2][l-bay]<br>[3][l-bab]|
+| Tuesday   | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | Kayla |[AM/PM][l-prob]             |
+| Wednesday | [Sampling Distributions][smp-dist]<br>[Central Limit Theorem][clt-bs]          | Kayla |[AM/PM][l-samp]             |
+| Thursday  | CI proposal due, 9 am<br>[Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| Frank |[AM][l-samp]<br>[PM][l-ab] |
+| Friday    | [Power Calculation][power]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |[1][l-powr]<br>[2][l-bay]<br>[3][l-bab]|
 
 --
 

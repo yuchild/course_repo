@@ -27,11 +27,11 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 3: Statistical Inference
 | Day | Topic | Readings |
 |:--:|:--|:---|
-| Monday | Probability <br> Binomial Tests |  [**Seeing Theory: Basic Probability, Compound Probability, and Probability Distributions**][r-see-theory-1-3] <br> [**Binomial Test**][r-binom-test] <br> [Review of Probability Theory][3.1.1] | 
-| Tuesday |  Sampling Distributions <br/> Law of Large Numbers |  [**Seeing Theory: Frequentist Inference**][r-see-theory-4] <br> [**Law of Large Numbers**][r-law-large-numbers]| 
-| Wednesday |  Central Limit Theorem <br/> Maximum Likelihood Estimation | [**Central Limit Theorem**][3.3.1]<br>[**MLE**][3.3.2]| 
-| Thursday |  Hypothesis Testing <br> Power Calculation | [**z-test VS t-test**][3.4.1]<br>[**Hypothesis Testing**][3.4.2] <br> [**Power Analysis**][3.4.3]| 
-| Friday | Flask |[**Flask setup**][r-flask1]<br>[**Flask MegaTutorial, Chapters 1 and 2**][r-flask2]|
+| Monday |  none | - | 
+| Tuesday | Probability <br> Binomial Tests |  [**Seeing Theory: Basic Probability, Compound Probability, and Probability Distributions**][r-see-theory-1-3] <br> [**Binomial Test**][r-binom-test] <br> [Review of Probability Theory][3.1.1] | 
+| Wednesday |  Sampling Distributions <br> Central Limit Theorem | [**Seeing Theory: Frequentist Inference**][r-see-theory-4] <br>[**Central Limit Theorem**][3.3.1] |
+| Thursday |  Maximum Likelihood Estimation <br> Hypothesis Testing | [**MLE**][3.3.2]<br>[**z-test VS t-test**][3.4.1]<br>[**Hypothesis Testing**][3.4.2]| 
+| Friday | Power Calculation |[**Power Analysis**][3.4.3]| 
 
 --
 
@@ -58,7 +58,10 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 --
 
 ### Break Week
-Your priorities this week:
+| Day | Topic | Readings |
+|:--:|:--|:--:|
+| some day | Flask |[**Flask setup**][r-flask1]<br>[**Flask MegaTutorial, Chapters 1 and 2**][r-flask2]|
+| another day | Law of Large Numbers |  [**Law of Large Numbers**][r-law-large-numbers]| 
 <ul>
 <li>Study any material from the previous weeks.</li>
 <li>Collect data for upcoming capstones</li>
