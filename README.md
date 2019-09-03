@@ -354,7 +354,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [binom-tst]: https://github.com/GalvanizeDataScience/binomial-tests
 [smp-dist]: https://github.com/GalvanizeDataScience/sampling-distributions
 [law-ln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
-[clt-bs]: https://github.com/GalvanizeDataScience/central-limit
+[clt-bs]: https://github.com/GalvanizeDataScience/central-limit-theorem
 [mle]: https://github.com/GalvanizeDataScience/maximum-likelihood
 [hyp-ts-d]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev
 [power]: https://github.com/GalvanizeDataScience/statistical-power
