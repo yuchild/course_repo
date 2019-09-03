@@ -104,4 +104,9 @@ work with a company.  Their timescale is different from the DSI.  "Fast" for the
 couple of weeks.  You needed the dataset yesterday.
 
 3) State your MVP.  MVP is your Minimum Viable Product.  What's the minimum that you 
-hope to accomplish?  Then, feel free to expand on MVP+, and MVP++.
+hope to accomplish?  Then, feel free to expand on MVP+, and MVP++.  
+
+### Evaluation  
+The three capstones account for 40% of your DSI assessment score/grade.  The scores
+equally weight each capstone, and equally weight the presentations (~10 minues) and
+the accompanying Github.  We'll be provided a more-detailed scoring rubric soon.
