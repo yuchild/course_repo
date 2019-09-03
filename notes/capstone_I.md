@@ -20,16 +20,16 @@ important.
 * **A Helpful, Organized Github Repository**  
 You should make it as easy as possible for people from diverse backgrounds 
 to understand your capstone.  The single easiest way of doing so is having a
-well written `README.md` file in your repo that introduces your project.  
+well written `README.md` file in your repo that introduces your project. 
 Organizationally, put Python scripts in the `src` folder, Jupyter notebooks in 
 a `notebooks` folder, data (probably just a subset) in a `data` folder, tests
 for your Python scripts in a `tests` folder, and images in an `images` folder.
 
 Here are some examples of excellent READMEs and Githubs from past capstones:
-* [Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)  
+* [Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)
 * [Purifying Hearthstone Data](https://github.com/NJacobsohn/Hearthstone-Data-Analysis)
 * [Does Work-Life Balance Matter?](https://github.com/tsandefer/dsi_capstone_1)
-* [Services provided by Non-State actors](https://github.com/gagejane/Terrorism-NonViolent)  
+* [Services provided by Non-State actors](https://github.com/gagejane/Terrorism-NonViolent)
 
 * **Evidence of Data Wrangling**
 Data wrangling - the process of cleaning and unifying messy and complex data sets 
