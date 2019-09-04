@@ -25,7 +25,7 @@ Organizationally, put Python scripts in the `src` folder, Jupyter notebooks in
 a `notebooks` folder, data (probably just a subset) in a `data` folder, tests
 for your Python scripts in a `tests` folder, and images in an `images` folder.
 
-Here are some examples of excellent READMEs and Githubs from past capstones:
+Here are some examples of excellent READMEs and Githubs from past first capstones:
 * [Traffic Accidents in Denver](https://github.com/johnherr/Traffic-Accidents-in-Denver)
 * [Purifying Hearthstone Data](https://github.com/NJacobsohn/Hearthstone-Data-Analysis)
 * [Does Work-Life Balance Matter?](https://github.com/tsandefer/dsi_capstone_1)
@@ -108,5 +108,6 @@ hope to accomplish?  Then, feel free to expand on MVP+, and MVP++.
 
 ## Evaluation  
 The three capstones account for 40% of your DSI assessment score/grade.  The scores
-equally weight each capstone, and equally weight the presentations (~10 minues) and
-the accompanying Github for each capstone.  We'll be provided a more-detailed scoring rubric soon.
+equally weight each capstone, and equally weight the presentations (~10 minutes) and 
+accompanying Github for each capstone.  We'll be providing a more-detailed scoring 
+rubric soon.
