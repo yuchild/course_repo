@@ -84,10 +84,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 4: Unit 1 Capstone
 | Day  | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  Assessment 3<br>Capstone/Mock Interview |  -  | - |
-| Tuesday | Capstone/Mock Interview | - | - |
-| Wednesday | Capstone/Mock Interview | - | - |
-| Thursday | Capstone/Mock Interview | - | - |
+| Monday |  Assessment 3<br>Capstone/[Mock Interview][mi] |  -  | - |
+| Tuesday | Capstone/[Mock Interview][mi] | - | - |
+| Wednesday | Capstone/[Mock Interview][mi] | - | - |
+| Thursday | Capstone/[Mock Interview][mi] | - | - |
 | Friday | Code Review / Capstone Presentations  | - | - |
 
 --
@@ -364,6 +364,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-powr]: https://github.com/gSchool/DSI_Lectures/tree/master/power-bayesian
 [l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
 [l-ab]: https://github.com/gSchool/DSI_Lectures/tree/master/ab-testing
+
+<!-- Week 4-->
+[mi]: https://github.com/GalvanizeDataScience/mock-interview-questions
 
 <!-- Week 5-->
 [l-knn]: https://github.com/gschool/DSI_Lectures/tree/master/non-parametric-learners
