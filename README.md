@@ -161,6 +161,7 @@ Your priorities this week:
 
 ### Week 11: Unit 3 Capstone
 Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No presentations this week, as you'll have a demo evening next week.
+
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday 11/4 |  | - | [slides][-] |
