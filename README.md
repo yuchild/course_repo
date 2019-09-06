@@ -94,6 +94,18 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Friday 9/20 | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
 
 --
+
+### Week 6: Nonlinear Supervised Learning
+| Day | Topic | Lead Instructor | Slides |
+|:--:|:--|:--:|:--:|
+| Monday 9/23 | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | - | [slides][-] |
+| Tuesday 9/24 |  [Random Forests][c6.2.1] |  -   | [slides][-] |
+| Wednesday 9/25 |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
+| Thursday 9/26 | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
+| Friday 9/27 | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
+
+--
+
 ### Solo Week
 Your priorities this week:
 <ul>
@@ -104,16 +116,6 @@ Your priorities this week:
 
 --
 
-### Week 6: Nonlinear Supervised Learning
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 9/30 | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday 10/1 |  [Random Forests][c6.2.1] |  -   | [slides][-] |
-| Wednesday 10/2 |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
-| Thursday 10/3 | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
-| Friday 10/4 | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
-
---
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
