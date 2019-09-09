@@ -136,6 +136,7 @@ subtract matrices, Transpose matrices, verify inverses.
 1. Contrast discrete and continuous probability distributions
 1. Describe phenomena that are modeled using the following distributions: Bernoulli, binomial (bonus: multinomial), Poisson, geometric, uniform, normal, exponential.
 1. Use models to assess the likelihood of and event having happened.
+1. Know what the following methods give you for a scipy distribution: pdf, ppf, sf, cdf.
 
 #### **17. Binomial Tests**
 1. Describe a null and alternative hypothesis
