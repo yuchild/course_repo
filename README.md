@@ -76,7 +76,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Data Products][132.0] |  Joe   | [slides][lec-flask] |
+| Monday |   [Basic Web Programming][c4.1.1] |  Joe   | [slides][lec-flask] |
 | Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
 | Wednesday |  Work! | - | - |
 | Thursday |  MORE WORK!!!! | Christina 1:00 - 2:00 | - |
@@ -323,7 +323,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
 
 <!-- Week 4 -->
-
+[c4.1.1]: https://github.com/GalvanizeDataScience/web_basics
 
 <!-- Week 5 -->
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
