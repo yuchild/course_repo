@@ -123,7 +123,7 @@ Your priorities this week:
 
 ### Week 8: NLP and Unsupervised Learning
 | Day | Readings | Repos | Lead Instructor | Slides |
-|:--:|:-------|:--|:--:|:--:|
+|:--:|:-------:|:--|:--:|:--:|
 | Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [AM][lec-nlp] |
 | Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [AM][lec-pca] <br/> [PM][lec-svd]|
 | Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Flora  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
@@ -400,7 +400,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [graphs-searching]: https://github.com/GalvanizeDataScience/graphs-searching
 [graphs-communities]: https://github.com/GalvanizeDataScience/graphs-communities
 [graph]:https://github.com/GalvanizeDataScience/graphs
-[nlp-case-study]:https://github.com/GalvanizeDataScience/nlp-case-study
+[nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
 [autoencode]: https://github.com/GalvanizeDataScience/auto-encoders
 
 
