@@ -76,7 +76,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |   [Basic Web Programming][c4.1.1] |  Joe   | [slides][lec-flask] |
+| Monday |   Assessment<br/>[Basic Web Programming][c4.1.1] |  Joe   | [slides][lec-flask] |
 | Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
 | Wednesday |  Work! | - | - |
 | Thursday |  MORE WORK!!!! | Christina 1:00 - 2:00 | - |
@@ -87,7 +87,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [AM][lec-knn] <br/> [PM][lec-cross-val] |
+| Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [AM][lec-knn] <br/> [PM][lec-cross-val] |
 | Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  Joe  | [slides][lec-lin-pred] |
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | [AM][lec-reg-regress] <br/> [PM][lec-inferential-reg]|
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | [slides][lec-log-regress] |
@@ -107,29 +107,29 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
-| Friday | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
+| Monday | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | Dan | [AM][lec-splines] <br/> [PM][lec-dec-trees] |
+| Tuesday |  [Random Forests][c6.2.1] |  Dan   | [slides][lec-random-forest] |
+| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Skylar  | [AM][lec-grad-boost-class] <br/> [PM][lec-grad-boost-reg] |
+| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Dan  | [AM][lec-grad-decent] <br/> [AM][lec-nn] |
+| Friday | [Supervised Learning Case Study][c6.5.1]  |  Capstone 2 Proposals Due  | - |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
-| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
-| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
-| Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  -  | [slides][-] |
-| Friday | [NLP Case Study][c7.5.1] |  -  | [slides][-] |
+| Monday | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Dan | [AM][lec-nlp] <br/> [PM][lec-text-class] |
+| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Skylar   | [AM][lec-pca] <br/> [PM][lec-svd] |
+| Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Dan  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
+| Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Dan  | [AM][lec-graph-search] <br/> [PM][lec-graph-com]  |
+| Friday | [NLP Case Study][c7.5.1] |  -  | - |
 
 --
 
 ### Week 8: Unit 2 Capstone 
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Discuss and kickoff capstone 2 | - | [slides][-] |
+| Monday | Discuss and kickoff capstone 2 | - | - |
 | Tuesday |  Work. |  -  | - |
 | Wednesday |  Work! | - | - |
 | Thursday |  MORE WORK!!!! | - | - |
@@ -140,22 +140,22 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
-| Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
-| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
-| Thursday | [Implicit Recommenders][c9.4.1] |  Dan <br/> Christina 11:00 - 12:00  | [slides][-] |
-| Friday | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
+| Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | Skylar | [AM][lec-bayes-intro] <br/> [PM][lec-bayes-testing]|
+| Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  Dan  | [AM][lec-multi-bandit] <br/> [PM][lec-mcmc] |
+| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan | [AM][lec-cb-recommender] <br/> [PM][lec-sb-recommender] |
+| Thursday | [Implicit Recommenders][c9.4.1] |  Dan <br/> Christina 11:00 - 12:00   | [AM][lec-mf-recommender] |
+| Friday | [Recommender Case Study][c9.5.1]  |  -  | - |
 
 --
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
-| Tuesday |  [Sequence Analysis][c10.2.1] |  -   | [slides][-] |
-| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Dan <br/> Resumes and LikedIn Due  | [slides][-] |
-| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina 10:00 - 11:00  | [slides][-] |
-| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
+| Monday | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Dan | [AM][lec-image-a] <br/> [PM][lec-cnn] |
+| Tuesday |  [Sequence Analysis][c10.2.1] |  Dan   | [slides][lec-seq-analysis] |
+| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Dan <br/> Resumes and LikedIn Due  | [AM][lec-autoencode] <br/> [PM][lec-transfer-learn] |
+| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina 10:00 - 11:00  | - |
+| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | - |
 
 --
 
@@ -167,11 +167,11 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 ### Week 12: Career Week
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  | - | [slides][-] |
-| Tuesday |   |  Christina 1:00 - 2:00   | [slides][-] |
-| Wednesday |   |  Christina 10:00 - 11:00 <br/> Christina 1:00 - 2:00  | [slides][-] |
-| Thursday | PM - Demo evening |  -  | [slides][-] |
-| Friday | PM - Graduation |  Christina 10:00 - 11:00  | [slides][-] |
+| Monday |  | - | - |
+| Tuesday |   |  Christina 1:00 - 2:00   | - |
+| Wednesday |   |  Christina 10:00 - 11:00 <br/> Christina 1:00 - 2:00  | - |
+| Thursday | PM - Demo evening |  -  | - |
+| Friday | PM - Graduation |  Christina 10:00 - 11:00  | - |
 
 --
 
@@ -286,8 +286,44 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-log-regress]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/logistic-regression
 
 
-
 <!-- Week 6 -->
+[lec-splines]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/linear-splines
+[lec-dec-trees]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/decision-trees
+[lec-random-forest]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/random-forest
+[lec-grad-boost-class]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/gradient-boosted-classification
+[lec-grad-boost-reg]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/gradient-boosted-regression
+[lec-grad-decent]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/gradient-decent
+[lec-nn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/perceptrons
+
+
+<!-- Week 7 -->
+[lec-nlp]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/nlp
+[lec-text-class]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/text-classification
+[lec-pca]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/pca
+[lec-svd]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/svd
+[lec-clustering]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/clustering
+[lec-nmf]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/nmf
+[lec-graph-search]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/graphs-searching
+[lec-graph-com]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/graphs-communities
+
+
+<!-- Week 9 -->
+[lec-bayes-intro]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/bayes-intro
+[lec-bayes-testing]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/bayes-testing
+[lec-multi-bandit]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/multi-armed-bandit
+[lec-mcmc]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/MCMC
+[lec-cb-recommender]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/content-based-recommenders
+[lec-sb-recommender]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/similarity-based-recommenders
+[lec-mf-recommender]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/factorization-recommender
+
+
+<!-- Week 10 -->
+[lec-image-a]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/image-processing
+[lec-cnn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/convolutional-neural-nets
+[lec-seq-analysis]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/time-series
+[lec-autoencode]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/transfer-learning
+[lec-transfer-learn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/transfer-learning
+
 
 <!-- Content Repos (sprints and assessments) -->
 <!-- Week 1 -->
