@@ -88,7 +88,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [AM][lec-knn] <br/> [PM][lec-cross-val] |
-| Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  Joe  | [slides][lec-lin-pred] |
+| Tuesday | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  Joe  | [AM][lec-eda]<br/>[PM][lec-lin-pred] |
 | Wednesday |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Joe  | [AM][lec-reg-regress] <br/> [PM][lec-inferential-reg]|
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | [slides][lec-log-regress] |
 | Friday | [Regression Case Study][c5.5.1] |  Dan  | |
@@ -280,6 +280,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 5 -->
 [lec-knn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/knn
 [lec-cross-val]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/cross_validation
+[lec-eda]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/eda_for_modeling
 [lec-lin-pred]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/linear-regression
 [lec-reg-regress]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/regularized_regression
 [lec-inferential-reg]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/inferential_regression
