@@ -95,18 +95,18 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 5: Supervised Learning and Regression
 |    Day    | Repos                                                                          | Lead  |        Slides              |
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | ----- |[AM][l-knn]<br>[PM][l-rgcv] |
-| Tuesday   |[Linear Regression][r-linr]                                                     | ----- |[AM/PM][l-linr]             |
-| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | ----- |[AM][l-regr]<br>[PM][l-logr]|
-| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | ----- |[AM][l-grds]<br>[PM][l-decr]|
-| Friday    |[Review][wr]<br>[Regression Case Study][cs-regression]                          | ----- |--                          |
+| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[AM][l-knn]<br>[PM][l-rgcv] |
+| Tuesday   |[Linear Regression][r-linr]                                                     | Frank |[AM/PM][l-linr]             |
+| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | Kayla |[AM][l-regr]<br>[PM][l-logr]|
+| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | Frank |[AM][l-grds]<br>[PM][l-decr]|
+| Friday    |[Review][wr]<br>[Regression Case Study][cs-regression]                          | Kayla |--                          |
 
 --
 ### Break Week
 Your priorities this week:
 <ul>
-<li>Study any material from the previous weeks.</li>
-<li>Collect data for upcoming capstones</li>
+<li>Study material from the previous weeks.</li>
+<li>Research capstone 2 ideas</li>
 <li>Recharge for the 2nd half of the course</li>
 </ul>
 
