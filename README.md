@@ -87,9 +87,9 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [AM][lec-knn] <br/> [PM][lec-cross-val] |
-| Tuesday | [Linear Regression EDA][c5.2.1] <br/>[Inferential Regression][c5.3.2]  |  Joe  | [slides][lec-lin-pred] |
-| Wednesday | [Predictive Linear Regression][c5.2.2]<br/> [Regularized Regression][c5.3.1] |  Joe  | [AM][lec-reg-regress] <br/> [PM][lec-inferential-reg]|
+| Monday | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Dan | [AM][lec-knn] <br/> [PM][lec-cross-val] |
+| Tuesday | [Linear Regression EDA][c5.2.1]<br/>[Inferential Regression][c5.3.2]  |  Joe  | [Slides][lec-inferential-reg] |
+| Wednesday |  [Predictive Linear Regression][c5.2.2] <br/> [Regularized Regression][c5.3.1] |  Joe  | [AM][lec-lin-pred] <br/> [PM][lec-reg-regress] |
 | Thursday | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Joe  | [slides][lec-log-regress] |
 | Friday | [Regression Case Study][c5.5.1] |  Dan  | |
 
