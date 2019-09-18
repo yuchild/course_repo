@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome
 
 Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll find all the information you need to know about the day to day activities in the program.
 
@@ -44,21 +44,21 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1]<br/>[Python](https://github.com/gSchool/dsi-python-intro) |  -  | [slides][-] |
-| Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  -  | [slides][ ] |
-| Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  -  | [slides][-] |
-| Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  -  | [slides][-]  | 
-| Friday 8/23 | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  |  - | [slides][-]  |
+| Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Jack  | [slides][ ] |
+| Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Jack  | [slides][-] |
+| Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] | Jack  | [slides][-]  |
+| Friday 8/23 | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  | Andrew | [slides][-]  |
 
 --
 
 ### Week 2: Big Data
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 8/26 | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  -  | [Slides][-] |
-| Tuesday 8/27 | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  -  | [slides][-] |
-| Wednesday 8/28 | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  -  | [slides][-]] |
-| Thursday 8/29 |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  -  | [slides][-] |
-| Friday 8/30 |  [Spark EDA Case Study][c2.5.1] |  -   | [slides][150.2] |
+| Monday 8/26 | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] | Jack  | [Slides][-] |
+| Tuesday 8/27 | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] | Jack  | [slides][-] |
+| Wednesday 8/28 | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] | Jack  | [slides][-]] |
+| Thursday 8/29 |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] | Andrew  | [slides][-] |
+| Friday 8/30 |  [Spark EDA Case Study][c2.5.1] | Andrew   | [slides][150.2] |
 
 --
 
@@ -66,20 +66,20 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday 9/2 | Holiday |  -   | - |
-| Tuesday 9/3 | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  -  | [slides][-] |
-| Wednesday 9/4 |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  -  | [slides][-] |
-| Thursday 9/5 |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  -  | [slides][-] |
-| Friday 9/6 |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  -  | [slides][-] |
+| Tuesday 9/3 | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] | Jack  | [slides][-] |
+| Wednesday 9/4 |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] | Andrew  | [slides][-] |
+| Thursday 9/5 |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] | Jack  | [slides][-] |
+| Friday 9/6 |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] | Jack  | [slides][-] |
 
 --
 
-### Week 4: Unit 1 Capstone 
+### Week 4: Unit 1 Capstone
 | Day  | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 9/9 |   [Data Products][132.0] |  -   | [slides][-] |
-| Tuesday 9/10 |  Discuss and kickoff capstone 1 |  -  | - |
-| Wednesday 9/11 |  Work! | - | - |
-| Thursday 9/12 |  MORE WORK!!!! | - | - |
+| Monday 9/9 |   Kickoff capstone 1 |  -   | [slides][-] |
+| Tuesday 9/10 |  Capstone 1 |  -  | - |
+| Wednesday 9/11 |  Capstone | - | - |
+| Thursday 9/12 |  Capstone | - | - |
 | Friday 9/13 | Capstone Presentations PM | - | - |
 
 --
@@ -87,22 +87,22 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 5: Supervised Learning and Regression
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 9/16 | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | - | [slides][-] |
-| Tuesday 9/17 | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  |  -   | [slides][-] |
-| Wednesday 9/18 |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  -  | [slides][-] |
-| Thursday 9/19 | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  -  | [slides][-] |
-| Friday 9/20 | [Regression Case Study][c5.5.1] |  -  | [slides][-] |
+| Monday 9/16 | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] |Andrew | [slides][-] |
+| Tuesday 9/17 | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  | Jack   | [slides][-] |
+| Wednesday 9/18 |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] | Jack  | [slides][-] |
+| Thursday 9/19 | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] | Jack  | [slides][-] |
+| Friday 9/20 | [Regression Case Study][c5.5.1] | Andrew  | [slides][-] |
 
 --
 
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 9/23 | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday 9/24 |  [Random Forests][c6.2.1] |  -   | [slides][-] |
-| Wednesday 9/25 |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
-| Thursday 9/26 | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
-| Friday 9/27 | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
+| Monday 9/23 | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] | Jack  | [slides][-] |
+| Tuesday 9/24 | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] |Jack | [slides][-] |
+| Wednesday 9/25 |  [Random Forests][c6.2.1] | Andrew   | [slides][-] |
+| Thursday 9/26 |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] | Jack  | [slides][-] |
+| Friday 9/27 | [Supervised Learning Case Study][c6.5.1]  | Andrew  | [slides][-] |
 
 --
 
@@ -128,7 +128,7 @@ Your priorities this week:
 
 --
 
-### Week 8: Unit 2 Capstone 
+### Week 8: Unit 2 Capstone
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday 10/14 | Discuss and kickoff capstone 2 | - | [slides][-] |
@@ -188,7 +188,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 ## Textbooks
 We will focus on a few canonical texts for the class and readings will be assigned from them. If they are not in a physical form in our library, they are located in digital form on the Time Capsule or the Internet.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf): The book we use for the majority of machine learning readings.
-* [Machine Learning In Action](https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing): 
+* [Machine Learning In Action](https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing):
 
 ### Supplementary
 * [Doing Data Science](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659): One of the best treatments of the field with plenty of case studies.
