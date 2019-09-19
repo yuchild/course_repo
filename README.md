@@ -98,8 +98,8 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | Kayla |[AM][l-knn]<br>[PM][l-rgcv] |
 | Tuesday   |[Linear Regression Intro][r-lreda]<br>[Predictive Linear Regression][r-prlr]    | Frank |[AM/PM][l-linr]             |
 | Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | Kayla |[AM][l-regr]<br>[PM][l-logr]|
-| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules][r-decr]                          | Frank |[AM][l-grds]<br>[PM][l-decr]|
-| Friday    |[Review][wr]<br>[Regression Case Study][cs-regression]                          | Kayla |--                          |
+| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules (Denver)][r-decr]                 | Frank |[AM][l-grds]<br>[PM][l-decr]|
+| Friday    |[Review][wr]<br>[Regression Case Study (Denver)][cs-regression]                 | Kayla |--                          |
 
 --
 ### Break Week
