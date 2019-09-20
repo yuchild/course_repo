@@ -111,7 +111,7 @@ Your priorities this week:
 | Tuesday |  [Random Forests][c6.2.1] |  Dan   | [slides][lec-random-forest] |
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Skylar  | [AM][lec-grad-boost-class] <br/> [PM][lec-grad-boost-reg] |
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Dan  | [AM][lec-grad-decent] <br/> [AM][lec-nn] |
-| Friday | [Supervised Learning Case Study][c6.5.1]  |  Capstone 2 Proposals Due  | - |
+| Friday | [Supervised Learning Case Study][c6.5.1]  | Christina 9:30am <br/> Capstone 2 Proposals Due  | - |
 
 --
 
