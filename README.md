@@ -21,8 +21,8 @@ The [nightly readings](notes/readings.md) are maintained in a separate file.  Ma
 | 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
 | 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
 | 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
-| - | --- | Solo Week |
 | 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| - | --- | Solo Week |
 | 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
 | 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
 | 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
