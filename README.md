@@ -100,7 +100,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|:--:|
 | Monday 9/23 | Assessment <br/> [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] | Jack  | [slides][-] |
 | Tuesday 9/24 | [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] |Jack | [slides][-] |
-| Wednesday 9/25 |  [Random Forests][c6.2.1] | Andrew   | [slides][-] |
+| Wednesday 9/25 |  [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.1] | Andrew   | [slides][-] |
 | Thursday 9/26 |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] | Jack  | [slides][-] |
 | Friday 9/27 | [Supervised Learning Case Study][c6.5.1]  | Andrew  | [slides][-] |
 
@@ -307,7 +307,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 6-->
 [c6.1.1]: https://github.com/GalvanizeDataScience/linear-splines
 [c6.1.2]: https://github.com/GalvanizeDataScience/decision-trees
-[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
+[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests-implementation
+[c6.2.2]: https://github.com/GalvanizeDataScience/random-forests-application
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
 [c6.3.2]: https://github.com/GalvanizeDataScience/gradient-boosted-classification
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
