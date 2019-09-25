@@ -108,7 +108,7 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | - | [slides][-] |
-| Tuesday |  [Random Forests][c6.2.1] |  -   | [slides][-] |
+| Tuesday |  [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  -   | [slides][-] |
 | Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  -  | [slides][-] |
 | Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  -  | [slides][-] |
 | Friday | [Supervised Learning Case Study][c6.5.1]  |  -  | [slides][-] |
@@ -340,7 +340,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 6-->
 [c6.1.1]: https://github.com/GalvanizeDataScience/linear-splines
 [c6.1.2]: https://github.com/GalvanizeDataScience/decision-trees
-[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
+[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests-implementation
+[c6.2.2]: https://github.com/GalvanizeDataScience/random-forests-application
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
 [c6.3.2]: https://github.com/GalvanizeDataScience/gradient-boosted-classification
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
