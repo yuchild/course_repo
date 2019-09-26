@@ -120,11 +120,11 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/7 | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
-| Tuesday 10/8 |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
-| Wednesday 10/9 |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
-| Thursday 10/10 | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  -  | [slides][-] |
-| Friday 10/11 | [NLP Case Study][c7.5.1] |  -  | [slides][-] |
+| Monday 10/7 | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Jack | [slides][-] |
+| Tuesday 10/8 |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Jack   | [slides][-] |
+| Wednesday 10/9 |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Jack  | [slides][-] |
+| Thursday 10/10 | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Andrew  | [slides][-] |
+| Friday 10/11 | [NLP Case Study][c7.5.1] |  Andrew  | [slides][-] |
 
 --
 
