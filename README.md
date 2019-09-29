@@ -114,22 +114,22 @@ Your priorities this week:
 ### Week 6: Nonlinear Supervised Learning
 |    Day    | Repos                                                                          | Lead  |        Slides              |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | ----- |[AM][l-dt]                  |
-| Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | ----- |[AM][l-rf]<br>[PM][l-boo]   |
-| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | ----- |[AM][l-boo]<br>[PM][l-mlp]  |
-| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                          | ----- |[AM][l-imp]<br>[PM][l-cnn]  |
-| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | ----- |--                          |
+| Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | Kayla |[AM][l-dt]                  |
+| Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | Frank |[AM][l-rf]<br>[PM][l-boo]   |
+| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | Kayla |[AM][l-boo]<br>[PM][l-mlp]  |
+| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                          | Frank |[AM][l-imp]<br>[PM][l-cnn]  |
+| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | Frank |--                          |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 |    Day    | Repos                                                                          | Lead  |        Slides            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 5<br>[NLP Intro][r-nlp]<br>[Text Classification][r-nvb]             | ----- |[AM/PM][l-nlp]              |
-| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | ----- |[AM/PM][l-pca]              |
-| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                           | ----- |[AM][l-clst]<br>[PM][l-tm]  |
-| Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | ----- |[PM][l-grph]            |
-| Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp]| ----- |--             |
+| Monday    | Assessment 5<br>[NLP Intro][r-nlp]<br>[Text Classification][r-nvb]             | Frank |[AM/PM][l-nlp]              |
+| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | Frank |[AM/PM][l-pca]              |
+| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                           | Kayla |[AM][l-clst]<br>[PM][l-tm]  |
+| Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | Kayla |[PM][l-grph]            |
+| Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp]| Kayla |--             |
 
 --
 
@@ -381,7 +381,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-grds]: https://github.com/GalvanizeDataScience/gradient-descent
 [r-decr]: https://github.com/GalvanizeDataScience/decision-rules
 [cs-regression]: https://github.com/gSchool/dsd-case-study-linear-models
-[r-lreda]: https://github.com/GalvanizeDataScience/linear-regression-eda 
+[r-lreda]: https://github.com/GalvanizeDataScience/linear-regression-eda
 [r-prlr]: https://github.com/GalvanizeDataScience/predictive-linear-regression
 
 <!-- Week 6-->
