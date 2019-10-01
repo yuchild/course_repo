@@ -115,9 +115,9 @@ Your priorities this week:
 |    Day    | Repos                                                                          | Lead  |        Slides              |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
 | Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | Kayla |[AM][l-dt]                  |
-| Tuesday   |[Random Forests][c6.2.1]<br>[Gradient Boosted Regressors][c6.3.1]               | Frank |[AM][l-rf]<br>[PM][l-boo]   |
+| Tuesday   |[Random Forests][r-rfa]<br>[Gradient Boosted Regressors][c6.3.1]                | Frank |[AM][l-rf]<br>[PM][l-boo]   |
 | Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | Kayla |[AM][l-boo]<br>[PM][l-mlp]  |
-| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                          | Frank |[AM][l-imp]<br>[PM][l-cnn]  |
+| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                           | Frank |[AM][l-imp]<br>[PM][l-cnn]  |
 | Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | Frank |--                          |
 
 --
@@ -397,6 +397,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-csml]: https://github.com/gSchool/dsd-non-parametric-case-study
 [r-imp]: https://github.com/GalvanizeDataScience/image-processing
 [l-imp]: https://github.com/gSchool/DSI_Lectures/tree/master/image_featurization
+[r-rfa]: https://github.com/GalvanizeDataScience/random-forests-application
 
 <!-- Week 8-->
 [r-nlp]: https://github.com/GalvanizeDataScience/nlp
