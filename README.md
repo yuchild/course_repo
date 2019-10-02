@@ -116,7 +116,7 @@ Your priorities this week:
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
 | Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | Kayla |[AM][l-dt]                  |
 | Tuesday   |[Random Forests][r-rfa]<br>[Gradient Boosted Regressors][c6.3.1]                | Frank |[AM][l-rf]<br>[PM][l-boo]   |
-| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP][c6.4.2]                   | Kayla |[AM][l-boo]<br>[PM][l-mlp]  |
+| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP (Denver)][c6.4.2]          | Kayla |[AM][l-boo]<br>[PM][l-mlp]  |
 | Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                           | Frank |[AM][l-imp]<br>[PM][l-cnn]  |
 | Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | Frank |--                          |
 
