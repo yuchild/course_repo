@@ -131,7 +131,7 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | Discuss and kickoff capstone 2 | - | - |
 | Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | - | - |
+| Wednesday |  Work! | Crew 2pm - 3pm | - |
 | Thursday |  MORE WORK!!!! | - | - |
 | Friday | Capstone Presentations PM | - | - |
 
