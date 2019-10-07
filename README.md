@@ -125,9 +125,9 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 |    Day    | Repos                                                                          | Lead  |        Slides            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 5<br>[NLP Intro][r-nlp]<br>[Text Classification][r-nvb]             | Frank |[AM/PM][l-nlp]              |
+| Monday    | Assessment 5<br>[NLP Intro (Denver)][r-nlp]<br>[Text Classification][r-nvb]    | Frank |[AM/PM][l-nlp]              |
 | Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | Frank |[AM/PM][l-pca]              |
-| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                           | Kayla |[AM][l-clst]<br>[PM][l-tm]  |
+| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                                            | Kayla |[AM][l-clst]<br>[PM][l-tm]  |
 | Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | Kayla |[PM][l-grph]            |
 | Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp]| Kayla |--             |
 
