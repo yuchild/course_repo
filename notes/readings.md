@@ -145,7 +145,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [MLIA]: https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
 [EoSL]: https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 [MMDS]: http://infolab.stanford.edu/~ullman/mmds/book.pdf
-[SNA]: readings/Social_Network_Analysis_for_Startups.pdf
+[SNA]: reading_material/Social_Network_Analysis_for_Startups.pdf
 
 <!-- Week 1 -->
 [1.1.1]: workflow.md
