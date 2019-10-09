@@ -84,10 +84,10 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | NLP Intro <br/> Text Classification | <ul><li>Text feature extraction (tf-idf) [I][tfidf1], [II][tfidf2], [III][tfidf3] </li><li> [Scalability of Semantic Analysis in Natural Language Processing][NLP] (Sections 1.1 - 1.7) </li><li>[NLP in Python][py.nlp] (3.6, pg 107-108) </li></ul> | 
-| Tuesday | PCA <br/> SVD |  <ul><li>[StatsLearning][ISLR] (ch 10.2 pg 374-385) </li><li> [Mining Massive Datasets][MMDS] (ch 11) </li></ul>| 
-| Wednesday |  Clustering <br/> NMF |  <ul><li>[StatLearning][ISLR] (pg 385-400) </li><li> [NMF in Python][nmf-reading]</li></ul>| 
-| Thursday | Graph Distance <br/> Graph Communities |  <ul><li>[Social Network Analysis][SNA] (ch 2 pg 19-38) </li><li> [Mining Massive Datasets][MMDS] (ch 10.1-10.2 pg 343-356) </li></ul> | 
+| Monday | NLP Intro <br/> Text Classification | Text feature extraction (tf-idf) [**I**][tfidf1], [**II**][tfidf2], [**III**][tfidf3] <br>[Scalability of Semantic Analysis in Natural Language Processing][NLP] (Sections 1.1 - 1.7) <br>[NLP in Python][py.nlp] (3.6, pg 107-108)  | 
+| Tuesday | PCA <br/> SVD | [**PCA - ISLR**][ISLR] (ch 10.2 pg 374-385) <br>[**SVD - Mining Massive Datasets**][MMDS] (ch 11) | 
+| Wednesday |  Clustering <br> NMF |  [**Clustering - ISLR**][ISLR] (pg 385-400)<br>[**Why/How of NMF**][r-nmf1]<br>[NMF in Python][r-nmf2] | 
+| Thursday | Latent Dirichlet Allocation <br> Graphs <br> Graph Communities | [**Guide to LDA**][r-lda]<br>[**Graphs - Social Network Analysis**][r-sna] (ch 2 pg 19-38)<br>[Mining Massive Datasets][MMDS] (ch 10.1-10.2 pg 343-356) | 
 | Friday | NLP Case Study  |  -  | 
 
 --
@@ -144,7 +144,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 <!-- Books -->
 [algorithms]: http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
 [LearningSpark]: https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
-[ISLR]: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf
+[ISLR]: http://faculty.marshall.usc.edu/gareth-james/ISL/
 [MLIA]: https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
 [EoSL]: https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 [MMDS]: http://infolab.stanford.edu/~ullman/mmds/book.pdf
@@ -200,8 +200,11 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-cnn]: http://cs231n.github.io/convolutional-networks/
 [r-rnn]: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-
-
+<!--Denver Week 7-->
+[r-nmf1]: https://blog.acolyer.org/2019/02/18/the-why-and-how-of-nonnegative-matrix-factorization/
+[r-nmf2]: http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
+[r-sna]: http://www.asecib.ase.ro/mps/Social%20Network%20Analysis%20for%20Startups%20[2011].pdf
+[r-lda]: https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d
 
 <!-- Week 1 -->
 [1.1.1]: workflow.md
