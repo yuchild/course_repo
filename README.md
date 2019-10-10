@@ -129,7 +129,7 @@ Your priorities this week:
 | Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | Frank |[AM/PM][l-pca]              |
 | Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                                            | Kayla |[AM][l-clst]<br>[PM][l-tm]  |
 | Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | Kayla |[PM][l-grph]            |
-| Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp]| Kayla |--             |
+| Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp2]| Kayla |--             |
 
 --
 
@@ -415,6 +415,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-tm]: https://github.com/gSchool/DSI_Lectures/tree/master/topicmodeling
 [l-grph]: https://github.com/gSchool/DSI_Lectures/tree/master/graphs
 [r-csnlp]: https://github.com/GalvanizeDataScience/nlp_case_study
+[r-csnlp2]: https://github.com/gSchool/dsi-unsupervised-case-study 
 
 <!-- Week 9-->
 [r-ts]: https://github.com/GalvanizeDataScience/time-series

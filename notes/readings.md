@@ -85,7 +85,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | NLP Intro <br/> Text Classification | Text feature extraction (tf-idf) [**I**][tfidf1], [**II**][tfidf2], [**III**][tfidf3] <br>[Scalability of Semantic Analysis in Natural Language Processing][NLP] (Sections 1.1 - 1.7) <br>[NLP in Python][py.nlp] (3.6, pg 107-108)  | 
-| Tuesday | PCA <br/> SVD | [**PCA - ISLR**][ISLR] (ch 10.2 pg 374-385) <br>[**SVD - Mining Massive Datasets**][MMDS] (ch 11) | 
+| Tuesday | PCA <br/> SVD | [**PCA - ISLR**][ISLR] (ch 10.2 pg 374-385) <br>[**PCA explained visually**][r-pca]<br>[**SVD - Mining Massive Datasets**][MMDS] (ch 11) | 
 | Wednesday |  Clustering <br> NMF |  [**Clustering - ISLR**][ISLR] (pg 385-400)<br>[**Why/How of NMF**][r-nmf1]<br>[NMF in Python][r-nmf2] | 
 | Thursday | Latent Dirichlet Allocation <br> Graphs <br> Graph Communities | [**Guide to LDA**][r-lda]<br>[**Graphs - Social Network Analysis**][r-sna] (ch 2 pg 19-38)<br>[Mining Massive Datasets][MMDS] (ch 10.1-10.2 pg 343-356) | 
 | Friday | NLP Case Study  |  -  | 
@@ -205,6 +205,10 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-nmf2]: http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
 [r-sna]: http://www.asecib.ase.ro/mps/Social%20Network%20Analysis%20for%20Startups%20[2011].pdf
 [r-lda]: https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d
+[r-pca]: http://setosa.io/ev/principal-component-analysis/
+
+
+
 
 <!-- Week 1 -->
 [1.1.1]: workflow.md
