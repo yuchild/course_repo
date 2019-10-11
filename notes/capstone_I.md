@@ -1,9 +1,10 @@
 # DSI Capstone I guide
 
 Capstone projects showcase your data science skill and passion.  They 
-result in a digital portfolio of public Github repositories that you can show 
-potential employers.  We've had employers waive in-person coding requirements 
-because an applicant's Github "looks great."  We hope that happens to you.
+result in a digital portfolio of public Github repositories that you can talk
+about with potential employers.  We've had employers waive in-person coding 
+requirements because an applicant's Github "looks great."  We hope that happens
+to you.
 
 ## Components of a Good Capstone
 The Galvanize curriculum has been tailored over time to equip you with skills 
