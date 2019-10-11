@@ -136,10 +136,10 @@ Your priorities this week:
 ### Week 8: Unit 2 Capstone
 | Day | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [Capstone 2][cII]/[Mock Interviews][mi] | - | - |
-| Tuesday | [Capstone 2][cII]/[Mock Interviews][mi]|  -  | - |
-| Wednesday |[Capstone 2][cII]/[Mock Interviews][mi]|  -  | - |
-| Thursday  |[Capstone 2][cII]/[Mock Interviews][mi] | - | - |
+| Monday | [Capstone 2][cII]<br>[Mock Interviews][mi] | - | - |
+| Tuesday | [Capstone 2][cII]<br>[Mock Interviews][mi]|  -  | - |
+| Wednesday |[Capstone 2][cII]<br>[Mock Interviews][mi]|  -  | - |
+| Thursday  |[Capstone 2][cII]<br>[Mock Interviews][mi] | - | - |
 | Friday | Code Review / Capstone Presentations   | - | - |
 
 --
