@@ -136,10 +136,10 @@ Your priorities this week:
 ### Week 8: Unit 2 Capstone
 | Day | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Capstone 2/[Mock Interviews][mi] | - | - |
-| Tuesday | Capstone 2/[Mock Interviews][mi]|  -  | - |
-| Wednesday | Capstone 2/[Mock Interviews][mi]|  -  | - |
-| Thursday  | Capstone 2/[Mock Interviews][mi] | - | - |
+| Monday | [Capstone 2][cII]/[Mock Interviews][mi] | - | - |
+| Tuesday | [Capstone 2][cII]/[Mock Interviews][mi]|  -  | - |
+| Wednesday |[Capstone 2][cII]/[Mock Interviews][mi]|  -  | - |
+| Thursday  |[Capstone 2][cII]/[Mock Interviews][mi] | - | - |
 | Friday | Code Review / Capstone Presentations   | - | - |
 
 --
@@ -416,6 +416,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-grph]: https://github.com/gSchool/DSI_Lectures/tree/master/graphs
 [r-csnlp]: https://github.com/GalvanizeDataScience/nlp_case_study
 [r-csnlp2]: https://github.com/gSchool/dsi-unsupervised-case-study 
+[cII]: ./notes/capstone_II.md
 
 <!-- Week 9-->
 [r-ts]: https://github.com/GalvanizeDataScience/time-series
