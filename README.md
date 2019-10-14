@@ -422,9 +422,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [rnns]:https://github.com/GalvanizeDataScience/recurrent-neural-nets
 [fraud-case-study]:https://github.com/GalvanizeDataScience/fraud-detection-case-study
 [transfer-learning]: https://github.com/GalvanizeDataScience/transfer-learning
-[sim-recom]:https://github.com/GalvanizeDataScience/similarity-based-recommenders
-[cont-recom]:https://github.com/GalvanizeDataScience/content-based-recommender
-[fac-recom]:https://github.com/GalvanizeDataScience/factorization-recommender
+[sim-recom]:https://github.com/GalvanizeDataScience/similarity_based_recommenders
+[cont-recom]:https://github.com/GalvanizeDataScience/content_based_recommender
+[fac-recom]:https://github.com/GalvanizeDataScience/factorization_recommender
 
 
 <!-- Week 11 -->
