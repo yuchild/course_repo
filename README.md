@@ -130,8 +130,8 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Discuss and kickoff capstone 2 | - | - |
-| Tuesday |  Work. |  -  | - |
-| Wednesday |  Work! | Crew 2pm - 3pm | - |
+| Tuesday |  Work. |  Crew 2pm - 3pm  | - |
+| Wednesday |  Work! | - | - |
 | Thursday |  MORE WORK!!!! | - | - |
 | Friday | Capstone Presentations PM | - | - |
 
