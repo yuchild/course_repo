@@ -153,10 +153,10 @@ Your priorities this week:
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/28 | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Jack | [slides][-] |
+| Monday 10/28 | [Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Jack | [slides][-] |
 | Tuesday 10/29 |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  Jack   | [slides][-] |
 | Wednesday 10/30 |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Jack  | [slides][-] |
-| Thursday 110/31 | [Fraud Case Study (day 1)][c10.4.1] |  Andrew  | [slides][-] |
+| Thursday 10/31 | [Fraud Case Study (day 1)][c10.4.1] |  Andrew  | [slides][-] |
 | Friday 11/1 | [Fraud Case Study (day 2)][c10.4.1] |  Andrew  | [slides][-] |
 
 --
