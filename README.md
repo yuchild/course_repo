@@ -160,11 +160,12 @@ Your priorities this week:
 ### Week 11: Advanced Topics 2
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
-| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] | Flora | [AM][lec-convnets] |
+| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] <br/> [transfer learning][transfer] | Flora | [AM][lec-convnets] |
 | Tuesday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns] |  Hamid   | [PM][lec-rnn] |
-| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Hamid  | [PM][lec-autoencoder] |
-| Thursday | [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
+| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding] <br/> [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> [data product (flask)][flask] |  Hamid  | [AM][lec-autoencoder] <br/> - |
+| Thursday | - | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
 | Friday | - | [Fraud Case Study (day 2)][fraud-case-study]<br/> Kick off Capstone III|  -  | - | 
+
 
 --
 
@@ -417,6 +418,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Week 10 -->
 [convnets]:https://github.com/GalvanizeDataScience/convolutional-neural-nets
+[transfer]:https://github.com/GalvanizeDataScience/transfer-learning
 [image]:https://github.com/GalvanizeDataScience/image-processing/blob/seattle-g91/individual.md
 [seq-ana]:https://github.com/GalvanizeDataScience/time-series
 [rnns]:https://github.com/GalvanizeDataScience/recurrent-neural-nets
@@ -425,6 +427,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [sim-recom]:https://github.com/GalvanizeDataScience/similarity_based_recommenders
 [cont-recom]:https://github.com/GalvanizeDataScience/content_based_recommender
 [fac-recom]:https://github.com/GalvanizeDataScience/factorization_recommender
+[flask]:https://github.com/GalvanizeDataScience/data-products
 
 
 <!-- Week 11 -->
