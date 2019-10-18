@@ -120,18 +120,18 @@ Your priorities this week:
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/7 | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | - | [slides][-] |
-| Tuesday 10/8 |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  -   | [slides][-] |
-| Wednesday 10/9 |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  -  | [slides][-] |
-| Thursday 10/10 | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  -  | [slides][-] |
-| Friday 10/11 | [NLP Case Study][c7.5.1] |  -  | [slides][-] |
+| Monday 10/7 | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Jack | [slides][-] |
+| Tuesday 10/8 |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Jack   | [slides][-] |
+| Wednesday 10/9 |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Jack  | [slides][-] |
+| Thursday 10/10 | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Andrew  | [slides][-] |
+| Friday 10/11 | [NLP Case Study][c7.5.1] |  Andrew  | [slides][-] |
 
 --
 
 ### Week 8: Unit 2 Capstone
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/14 | Discuss and kickoff capstone 2 | - | [slides][-] |
+| Monday 10/14 | Discuss and kickoff capstone 2 |  -  | [slides][-] |
 | Tuesday 10/15 |  Work. |  -  | - |
 | Wednesday 10/16 |  Work! | - | - |
 | Thursday 10/17 |  MORE WORK!!!! | - | - |
@@ -142,22 +142,22 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/21 | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | - | [slides][-] |
-| Tuesday 10/22 |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  -   | [slides][-] |
-| Wednesday 10/23 |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  -  | [slides][-] |
-| Thursday 10/24 | [Implicit Recommenders][c9.4.1] |  -  | [slides][-] |
-| Friday 10/25 | [Recommender Case Study][c9.5.1]  |  -  | [slides][-] |
+| Monday 10/21 | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | Jack | [slides][-] |
+| Tuesday 10/22 |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  Jack   | [slides][-] |
+| Wednesday 10/23 |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Jack  | [slides][-] |
+| Thursday 10/24 | [Implicit Recommenders][c9.4.1] |  Andrew  | [slides][-] |
+| Friday 10/25 | [Recommender Case Study][c9.5.1]  |  Andrew  | [slides][-] |
 
 --
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/28 | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | - | [slides][-] |
-| Tuesday 10/29 |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  -   | [slides][-] |
-| Wednesday 10/30 |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  -  | [slides][-] |
-| Thursday 110/31 | [Fraud Case Study (day 1)][c10.4.1] |  -  | [slides][-] |
-| Friday 11/1 | [Fraud Case Study (day 2)][c10.4.1] |  -  | [slides][-] |
+| Monday 10/28 | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Jack | [slides][-] |
+| Tuesday 10/29 |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  Jack   | [slides][-] |
+| Wednesday 10/30 |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Jack  | [slides][-] |
+| Thursday 110/31 | [Fraud Case Study (day 1)][c10.4.1] |  Andrew  | [slides][-] |
+| Friday 11/1 | [Fraud Case Study (day 2)][c10.4.1] |  Andrew  | [slides][-] |
 
 --
 
