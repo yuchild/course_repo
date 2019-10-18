@@ -103,8 +103,8 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Bayesian Inference <br/> Bayesian Coin Flipping | <ul><li>[Bayesian] [ - ] </li></ul>| 
-| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
+| Monday | Bayesian Inference <br/> Bayesian Coin Flipping | <ul><li>[Wackerly (16.1 & 16.2)][9.1.0] </li></ul>| 
+| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[With Statements in Python][9.2.0]<li>[Wackerly (16.3 & 16.4)][9.1.0] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 | Wednesday | Similarity Based Recommenders <br/> Content Based Recommenders | <ul><li>[Machine Learning in Action][MLIA] (ch 14.4-14.5 pg 286-295) </li><li> [Mining Massive Datasets][MMDS] (ch 9.1, 9.2, pages 307 - 320) </li></ul>|
 | Thursday | Implicit Recommenders | <ul><li>[Mining Massive Datasets][MMDS] (ch 9.4, 9.5) </li><li> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] </li></ul>| 
 | Friday | Recommender Case Study |  -  | 
@@ -230,6 +230,8 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 
 <!-- Week 9 -->
+[9.1.0]: reading_material/Wackerly_bayesian_intro.pdf
+[9.2.0]: https://effbot.org/zone/python-with-statement.htm
 [9.2.1]: http://stevehanov.ca/blog/index.php?id=132
 
 [r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
