@@ -106,11 +106,12 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 9: Advanced Topics 1
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Bayesian Inference <br/> Bayesian Coin Flipping | <ul><li>[Bayesian] [ - ] </li></ul>| 
-| Tuesday | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
+| Monday | Bayesian Inference <br/> Bayesian Coin Flipping | [Bayesian][ - ] |
+| Tuesday | Time Series <br/> Recurrent Neural Nets | [**Introduction to Time Series**][r-tsarima]<br>[**Unreasonable effectiveness of RNNs**][r-rnn]| 
 | Wednesday | Similarity Based Recommenders <br/> Content Based Recommenders | <ul><li>[Machine Learning in Action][MLIA] (ch 14.4-14.5 pg 286-295) </li><li> [Mining Massive Datasets][MMDS] (ch 9.1, 9.2, pages 307 - 320) </li></ul>|
 | Thursday | Implicit Recommenders | <ul><li>[Mining Massive Datasets][MMDS] (ch 9.4, 9.5) </li><li> [Better Implicit Source] [ - ] </li></ul>| 
 | Friday | Recommender Case Study |  -  | 
+| Misc | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 
 --
 
@@ -207,7 +208,8 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-lda]: https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d
 [r-pca]: http://setosa.io/ev/principal-component-analysis/
 
-
+<!--Denver Week 9-->
+[r-tsarima]: https://blog.algorithmia.com/introduction-to-time-series
 
 
 <!-- Week 1 -->
