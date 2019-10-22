@@ -142,7 +142,7 @@ Your priorities this week:
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | Skylar | [AM][lec-bayes-intro] <br/> [PM][lec-bayes-testing]|
 | Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  Dan  | [AM][lec-multi-bandit] <br/> [PM][lec-mcmc] |
-| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan | [AM][lec-cb-recommender] <br/> [PM][lec-sb-recommender] |
+| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan <br/> Christina 11:00 - 12:00 | [AM][lec-cb-recommender] <br/> [PM][lec-sb-recommender] |
 | Thursday | [Implicit Recommenders][c9.4.1] |  Dan <br/> Christina 11:00 - 12:00   | [AM][lec-mf-recommender] |
 | Friday | [Recommender Case Study][c9.5.1]  |  -  | - |
 
