@@ -76,7 +76,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday    | Labor Day (no class)                                                           | ----- |--                          |
 | Tuesday   | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | Kayla |[AM/PM][l-prob]             |
 | Wednesday | [Sampling Distributions][smp-dist]<br>[Central Limit Theorem][clt-bs]          | Kayla |[AM/PM][l-samp]             |
-| Thursday  | [CI proposal due, 9 am][cI]<br>[Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| Frank |[AM][l-samp]<br>[PM][l-ab] |
+| Thursday  | [CI proposal due 9 am][cI]<br>[Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| Frank |[AM][l-samp]<br>[PM][l-ab] |
 | Friday    | [Power Calculation][power]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |[1][l-powr]<br>[2][l-bay]<br>[3][l-bab]|
 
 --
@@ -129,7 +129,7 @@ Your priorities this week:
 | Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | Frank |[AM/PM][l-pca]              |
 | Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                                            | Kayla |[AM][l-clst]<br>[PM][l-tm]  |
 | Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | Kayla |[PM][l-grph]            |
-| Friday    | CII proposals due, 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp2]| Kayla |--             |
+| Friday    | CII proposals due 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp2]| Kayla |--             |
 
 --
 
@@ -147,26 +147,32 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 |    Day    | Repos                                                                          | Lead  |        Slides            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 6<br/>[Data products: Flask][r-flsk]                                | ----- | [AM/PM][l-flsk]            |
-| Tuesday   | [Time Series][r-ts]<br>[Neural Nets- RNN][r-rnn]                               | ----- | [AM][l-ts]<br>[PM][l-rnn]  |
-| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | ----- | [AM/PM][l-rcmd]            |
-| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | ----- | [AM/PM][l-rcmd]            |
-| Friday    | [Recommender Case Study (Denver)][r-csrec1]                                             | ----- | --                         |
+| Monday    | Assessment 6<br/>[Data products: Flask][r-flsk]                                | Frank | [AM/PM][l-flsk]            |
+| Tuesday   | [Time Series][r-ts]<br>[Neural Nets- RNN][r-rnn]                               | Frank | [AM][l-ts]<br>[PM][l-rnn]  |
+| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | Kayla | [AM/PM][l-rcmd]            |
+| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | Kayla | [AM/PM][l-rcmd]            |
+| Friday    | [Recommender Case Study (Denver)][r-csrec1]                                    | Frank | --                         |
 
 --
 
 ### Week 10: Advanced Topics 2
 |    Day    | Repos                                                                          | Lead  |        Slides            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    |[Multi-Armed Bandit][r-mab]<br>[RL with neural networks][r-rlnn]                | ----- | [AM][l-mab]                |
-| Tuesday   |[Autoencoders][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | ----- | --                         |
-| Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Docker Compose and Swarm                  | ----- | --                         |
-| Thursday  |CIII proposals due, 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- | --                         |
+| Monday    |[Bayesian Testing][r-bab]<br> [Multi-Armed Bandit][r-mab]                       | Kayla | [AM][l-mab]                |
+| Tuesday   |[Autoencoders][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | Frank | --                         |
+| Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Open or [RL with neural networks][r-rlnn] | Kayla/Nick | --                         |
+| Thursday  |CIII proposals due 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- | --                         |
 | Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             | ----- | --                         |
 
 --
 ### Week 11: Unit 3 Capstone
-Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No presentations this week, as you'll have a demo evening next week.
+| Day  | Topic | Lead | Slides |
+|:--:|:--|:--:|:--:|
+| Monday |  Capstone III<br>[Mock Interview][mi] |  -  | - |
+| Tuesday | Capstone III<br>[Mock Interview][mi] | - | - |
+| Wednesday | Capstone III<br>[Mock Interview][mi] | - | - |
+| Thursday | Capstone III<br>[Mock Interview][mi] | - | - |
+| Friday | **Talk/Poster drafts due 12 pm**<br>(must have preliminary results)<br>Capstone III<br>[Mock Interview][mi]| - | - |
 
 --
 
@@ -174,7 +180,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 | Day | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |  | - | - |
-| Tuesday |   |  -   | - |
+| Tuesday |**CODE FREEZE** |  -   | - |
 | Wednesday |   |  -  | - |
 | Thursday | PM - Showcase |  -  | - |
 | Friday | Lunch - Graduation |  -  | - |
