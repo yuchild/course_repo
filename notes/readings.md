@@ -9,7 +9,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Tuesday | Python<br>OOP|[**Python code style**][r-python]<br>[**Classes**][r-oop]| 
 | Wednesday | Linear Algebra<br>Numpy |[**Linear Algebra and Numpy**][1.4.1]<br>[**Linear Algebra for Data Science**][r-la4ds]<br>[Linear Algebra Notes][1.4.2]| 
 | Thursday |  Pandas<br>Matplotlib |[**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Less is more][r-less]<br>| 
-| Friday   | EDA Case Study   | [**What is EDA?**][r-eda1]<br>Examples of beautiful EDA:<br>[**Denver Auto Accidents**][r-jh]<br>(check out the plotting code in `src/plot.py`)<br>[**Service Provisions by Non-State Actors**][r-jst]<br>(see `FinalCode.py`)<br>[**Comparing Git Workflows**][r-git-wf]<br>(focus on Feature Branch workflow) |
+| Friday   | EDA Case Study   | [**What is EDA?**][r-eda1]<br><br>Examples of beautiful EDA:<br>[**Denver Auto Accidents**][r-jh]<br>(check out the plotting code in `src/plot.py`)<br>[**Service Provisions by Non-State Actors**][r-jst]<br>(see `FinalCode.py`)<br><br>[**Comparing Git Workflows**][r-git-wf]<br>(focus on Feature Branch workflow) |
 
 --
 
@@ -27,20 +27,19 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 3: Statistical Inference
 | Day | Topic | Readings |
 |:--:|:--|:---|
-| Monday |  none | - | 
-| Tuesday | Probability <br> Binomial Tests |  [**Seeing Theory: Basic Probability, Compound Probability, and Probability Distributions**][r-see-theory-1-3] <br> [**Binomial Test**][r-binom-test] <br> [Review of Probability Theory][3.1.1] | 
-| Wednesday |  Sampling Distributions <br> Central Limit Theorem | [**Seeing Theory: Frequentist Inference**][r-see-theory-4] <br>[**Central Limit Theorem**][3.3.1] |
-| Thursday |  Maximum Likelihood Estimation <br> Hypothesis Testing | [**MLE**][3.3.2]<br>[**z-test VS t-test**][3.4.1]<br>[**Hypothesis Testing**][3.4.2]| 
-| Friday | Power Calculation |[**Power Analysis**][3.4.3]| 
-
+| Monday | Probability <br> Binomial Tests |  [**Seeing Theory: Basic Probability, Compound Probability, and Probability Distributions**][r-see-theory-1-3] <br> [**Binomial Test**][r-binom-test] <br> [Review of Probability Theory][3.1.1] | 
+| Tuesday |  Sampling Distributions <br> Central Limit Theorem | [**Seeing Theory: Frequentist Inference**][r-see-theory-4] <br>[**Central Limit Theorem**][3.3.1] |
+| Wednesday |  Maximum Likelihood Estimation <br> Hypothesis Testing | [**MLE**][3.3.2]<br>[**z-test VS t-test**][3.4.1]<br>[**Hypothesis Testing**][3.4.2]| 
+| Thursday | Power Calculation |[**Power Analysis**][3.4.3]| 
+| Friday   | Bayesian Inference <br> Bayesian Testing | [**Intro. to Bayesian Statistics 1**][r-ibs1]<br>[**Intro. to Bayesian Statistics 2**][r-ibs2]|
 --
 
 ### Week 4: Unit 1 Capstone 
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday |  none | - | 
-| Tuesday |Agile & Scrum| [**Agile Manifesto**][r-agile]<br>[**Agile Scrum**][r-scrum] |   
-| Wednesday | Test driven development | [**Test Driven Development**][r-tdd] |
+| Monday |Agile & Scrum| [**Agile Manifesto**][r-agile]<br>[**Agile Scrum**][r-scrum] |   
+| Tuesday |Writing clean code| [**Writing clean code**][r-wcc]|   
+| Wednesday | none | - |
 | Thursday |  none | - | 
 | Friday | Capstone Presentations | - | 
 
@@ -96,9 +95,9 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Day | Topic | Readings |
 |:--:|:--|:--:|
 | Monday | Discuss and kickoff capstone 2 | - | 
-| Tuesday |  Work. |  -  | 
-| Wednesday |  Work! | - | 
-| Thursday |  MORE WORK!!!! | - | 
+| Tuesday | Test driven development | [**Test Driven Development**][r-tdd] |
+| Wednesday |  Work. | - | 
+| Thursday |  Work. | - | 
 | Friday | Capstone Presentations PM | - | 
 
 --
@@ -106,12 +105,11 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 9: Advanced Topics 1
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Bayesian Inference <br/> Bayesian Coin Flipping | [Bayesian][ - ] |
+| Monday | Flask |[**Flask setup**][r-flask1]<br>[**Flask MegaTutorial, Chapters 1 and 2**][r-flask2]|
 | Tuesday | Time Series <br/> Recurrent Neural Nets | [**Introduction to Time Series**][r-tsarima]<br>[**Unreasonable effectiveness of RNNs**][r-rnn]| 
-| Wednesday | Similarity Based Recommenders <br/> Content Based Recommenders | <ul><li>[Machine Learning in Action][MLIA] (ch 14.4-14.5 pg 286-295) </li><li> [Mining Massive Datasets][MMDS] (ch 9.1, 9.2, pages 307 - 320) </li></ul>|
-| Thursday | Implicit Recommenders | <ul><li>[Mining Massive Datasets][MMDS] (ch 9.4, 9.5) </li><li> [Better Implicit Source] [ - ] </li></ul>| 
+| Wednesday | Content Based Recommenders <br> Similarity Based Recommenders | [**MMDS: Content-based recommendations**][MMDS] (ch 9.1, 9.2, pp. 307-320)<br>[**MMDS: Collaborative filtering**][MMDS] (ch 9.3, pp. 320-327) <br>[Machine Learning in Action][MLIA] (ch 14.4-14.5 pg 286-295)|
+| Thursday | Matrix Factorization Based Recommenders | [**MMDS: Dimensionality Reductions**][MMDS] (ch 9.4-9.5, pp. 328-340)| 
 | Friday | Recommender Case Study |  -  | 
-| Misc | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 
 --
 
@@ -123,6 +121,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Wednesday | Autoencoding <br/> Transfer Learning  |<ul><li> [Auto-Encoders][10.3.1] </li><li> [Transfer Learning][10.3.2]</li></ul> | 
 | Thursday |  Fraud Case Study (day 1) |  -  | 
 | Friday | Fraud Case Study (day 2) |  -  | 
+| Misc | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 
 --
 
@@ -180,11 +179,14 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-law-large-numbers]: https://en.wikipedia.org/wiki/Law_of_large_numbers
 [r-flask1]: http://flask.pocoo.org/
 [r-flask2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+[r-ibs1]: https://mathcs.clarku.edu/~djoyce/ma218/bayes1.pdf
+[r-ibs2]: https://mathcs.clarku.edu/~djoyce/ma218/bayes2.pdf
 
 <!--Denver Week 4-->
 [r-agile]: https://agilemanifesto.org/
 [r-scrum]: https://www.mountaingoatsoftware.com/agile/scrum
 [r-tdd]: https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
+[r-wcc]: http://www.chadvernon.com/blog/resources/python-scripting-for-maya-artists/writing-clean-code/
 
 <!--Denver Week 5-->
 [r_grds1]: https://medium.com/@rnbrown/about-gradient-descent-80f5a2730a2d 
