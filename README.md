@@ -151,7 +151,7 @@ Your priorities this week:
 | Tuesday   | [Time Series][r-ts]<br>[Neural Nets- RNN][r-rnn]                               | ----- | [AM][l-ts]<br>[PM][l-rnn]  |
 | Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | ----- | [AM/PM][l-rcmd]            |
 | Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | ----- | [AM/PM][l-rcmd]            |
-| Friday    | [Recommender Case Study][r-csrec2]                                             | ----- | --                         |
+| Friday    | [Recommender Case Study (Denver)][r-csrec1]                                             | ----- | --                         |
 
 --
 
@@ -436,6 +436,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-csrec2]: https://github.com/gSchool/dsd-recommender-case-study
 [r-flsk]: https://github.com/GalvanizeDataScience/data-products
 [l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
+[r-csrec1]: https://github.com/GalvanizeDataScience/recommender-case-study/tree/Denver
 
 <!-- Week 10-->
 [r-rlnn]: https://github.com/GalvanizeDataScience/reinforcement-learning-with-nn
