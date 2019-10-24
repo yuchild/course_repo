@@ -166,7 +166,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 ### Week 12: Career Week
 | Day | Activity | 
-|:--:|:--|:--:|:--:|
+|:--:|:--:|
 | Monday | Record Capstone Videos |
 | Tuesday |   AM Final Recordings (as needed) <br/>  Christina 1:00 - 2:00    |
 | Wednesday |   Christina 10:00 - 11:00 <br/> Alumni Lunch 12:00- 1:00<br/> Christina 1:00 - 2:00   |
