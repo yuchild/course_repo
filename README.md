@@ -151,9 +151,9 @@ Your priorities this week:
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Dan | [AM][lec-image-a] <br/> [PM][lec-cnn] |
+| Monday | [CNNs][c10.1.2]<br/>[Transfer Learning][c10.3.2] | Dan | [AM][lec-cnn] <br/> [PM][lec-transfer-learn] |
 | Tuesday |  [Sequence Analysis][c10.2.1] |  Dan   | [slides][lec-seq-analysis] |
-| Wednesday |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Dan <br/> Resumes and LikedIn Due  | [AM][lec-autoencode] <br/> [PM][lec-transfer-learn] |
+| Wednesday |  [Autoencoding][c10.3.1]<br/> [RNNs][c10.2.2] |  Joe <br/> Resumes and LikedIn Due  | [AM][lec-autoencode]<br/> [PM][lec-rnn]  |
 | Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina 10:00 - 11:00  | - |
 | Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | - |
 
@@ -165,13 +165,13 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 --
 
 ### Week 12: Career Week
-| Day | Topic | Lead Instructor | Slides |
+| Day | Activity | 
 |:--:|:--|:--:|:--:|
-| Monday |  | - | - |
-| Tuesday |   |  Christina 1:00 - 2:00   | - |
-| Wednesday |   |  Christina 10:00 - 11:00 <br/> Christina 1:00 - 2:00  | - |
-| Thursday | PM - Demo evening |  -  | - |
-| Friday | PM - Graduation |  Christina 10:00 - 11:00  | - |
+| Monday | Record Capstone Videos |
+| Tuesday |   AM Final Recordings (as needed) <br/>  Christina 1:00 - 2:00    |
+| Wednesday |   Christina 10:00 - 11:00 <br/> Alumni Lunch 12:00- 1:00<br/> Christina 1:00 - 2:00   |
+| Thursday | Employer Demo Lunch | 
+| Friday |  Christina 10:00 - 11:00  <br/> PM - Graduation |
 
 --
 
@@ -325,7 +325,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-seq-analysis]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/time-series
 [lec-autoencode]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/transfer-learning
 [lec-transfer-learn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/transfer-learning
-
+[lec-rnn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/rnn
 
 <!-- Content Repos (sprints and assessments) -->
 <!-- Week 1 -->

@@ -114,9 +114,9 @@ Your priorities this week:
 ### Week 10: Advanced Topics 2
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Image Analysis <br/> CNNs | <ul><li> [CNNs][10.1.2] </li><li> [Inception Model][10.1.3] </li></ul>|
-| Tuesday | Sequence Analysis <br/> RNNs |<ul><li>  [Forecasting: principles and practice][10.2.1] (Ch. 1, 2, & 6-8)</li><li>(Optional) [ARIMA models in Python][10.2.2] </li><li> [Understanding LSTM][10.2.3] </li><li> [Unreasonable Effectiveness of RNNs][10.2.4] </li></ul>| 
-| Wednesday | Autoencoding <br/> Transfer Learning  |<ul><li> [Auto-Encoders][10.3.1] </li><li> [Transfer Learning][10.3.2]</li></ul> | 
+| Monday | Image Analysis <br/> CNNs | <ul><li> [CNNs][10.1.2] </li><li> [Inception Model][10.1.3] </li><li> [Transfer Learning][10.3.2]</li></ul>|
+| Tuesday | Sequence Analysis <br/> RNNs |<ul><li>  [Forecasting: principles and practice][10.2.1] (Ch. 1, 2, & 6-8)</li><li>(Optional) [ARIMA models in Python][10.2.2] </li></ul>| 
+| Wednesday | Autoencoding <br/> Transfer Learning  |<ul><li> [Auto-Encoders][10.3.1] </li><li> [Understanding LSTM][10.2.3] </li><li> [Unreasonable Effectiveness of RNNs][10.2.4] </li><li>[ELMo Language Model][10.3.3]</li></ul> | 
 | Thursday |  Fraud Case Study (day 1) |  -  | 
 | Friday | Fraud Case Study (day 2) |  -  | 
 
@@ -247,6 +247,7 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 [10.3.1]: http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
 [10.3.2]: https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+[10.3.3]: https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
 
 <!-- Week 11 -->
 
