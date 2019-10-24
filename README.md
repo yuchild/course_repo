@@ -323,7 +323,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-image-a]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/image-processing
 [lec-cnn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/convolutional-neural-nets
 [lec-seq-analysis]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/time-series
-[lec-autoencode]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/transfer-learning
+[lec-autoencode]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/word_embeddings
 [lec-transfer-learn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/transfer-learning
 [lec-rnn]: https://github.com/GalvanizeDataScience/lectures/tree/Austin/rnn
 
