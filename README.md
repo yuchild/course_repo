@@ -323,7 +323,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-bysabtest]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian-testing
 [lec-mab]:https://github.com/GalvanizeDataScience/lectures/tree/SF/multi-armed-bandit
 [lec-mcmc]:https://github.com/GalvanizeDataScience/lectures/tree/SF/mcmc/
-[lec-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/recommenders.ipynb
+[lec-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations
 [lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/matrix-factorization-for-recommendation.ipynb
 
 
