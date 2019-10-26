@@ -59,8 +59,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Break Week
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| some day | Flask |[**Flask setup**][r-flask1]<br>[**Flask MegaTutorial, Chapters 1 and 2**][r-flask2]|
-| another day | Law of Large Numbers |  [**Law of Large Numbers**][r-law-large-numbers]| 
+| some day | Law of Large Numbers |  [**Law of Large Numbers**][r-law-large-numbers]| 
 <ul>
 <li>Study any material from the previous weeks.</li>
 <li>Collect data for upcoming capstones</li>
@@ -75,7 +74,7 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 | Monday | Decision Trees<br>Bagging  | [ISLR: **Decision Trees**][ISLR]<br>(pp. 303-316))<br>[**DT explained visually**][v-dt]<br>[ISLR: **Bagging**][ISLR]<br>(pp. 316-319)| 
 | Tuesday |  Random Forests<br>Boosting | [ISLR: **Random Forests**][ISLR]<br>(pp. 319-321)<br> [ISLR: **Boosting**][ISLR]<br>(pp. 321-323)| 
 | Wednesday |  Multilayer perceptrons| [**Neural nets demystified**][v-nndm]<br>(parts 1-7)<br>[What is a NN?][v-3b1b]<br>(parts 1&2)<br>[Oxford class][r-oxf]<br>(Lecture 9)<br>[NN zoo][r-nnz]|
-| Thursday | Convolutional neural nets<br>Recurrent neural nets  | [**CS231n: CNNs**][r-cnn]<br>[**Unreasonable effectiveness of RNNs**][r-rnn]| 
+| Thursday | Image Analysis<br>Convolutional neural nets | [**scikit-image User Guide**][r-img]<br>Read Getting Started, Crash course on Numpy<br>for images, then work through the Image<br>Segmentation tutorial.<br>[**CS231n: CNNs**][r-cnn]<br>[Intuitive explanation of CNNs][r-cnn2]| 
 | Friday | Supervised Learning Case Study |  -  | 
 
 --
@@ -116,12 +115,11 @@ For each day, assigned readings are listed first and are **bolded**. The rest of
 ### Week 10: Advanced Topics 2
 | Day | Topic | Readings |
 |:--:|:--|:--:|
-| Monday | Image Analysis <br/> CNNs | <ul><li>[Image Analysis] [ - ] </li><li> [CNNs][10.1.2] </li><li> [Inception Model][10.1.3] </li></ul>|
-| Tuesday | Sequence Analysis <br/> RNNs |<ul><li>  -   </li></ul>| 
-| Wednesday | Autoencoding <br/> Transfer Learning  |<ul><li> [Auto-Encoders][10.3.1] </li><li> [Transfer Learning][10.3.2]</li></ul> | 
+| Monday   |  Bayesian Testing<br>Multi-Armed Bandit | [**Intro. to Bayesian Statistics 2**][r-ibs2]<br>[**Bayesian AB and Multi-Arm Bandit**][9.2.1]|
+| Tuesday | Autoencoding <br/> Transfer Learning  |[**Auto-Encoders**][10.3.1]<br>[**Introduction to Transfer Learning**][10.3.2]| 
+| Wednesday | Markov Chain Monte Carlo<br>Deep Reinforcement Learning |[**MCMC no BS**][r-mcmc]<br>[Getting Started with Pymc3][r-pymc3]<br>Note pymc3 is available in conda:<br> `$ conda install pymc3`<br>[**Beginner's Guide to Deep Reinforcement Learning**][r-drl] | 
 | Thursday |  Fraud Case Study (day 1) |  -  | 
 | Friday | Fraud Case Study (day 2) |  -  | 
-| Misc | Reinforcement Learning <br/> Multi-Armed Bandit |  <ul><li>[Reinforcement Learning] [-] </li><li> [Bayesian AB and Multi-Arm Bandit][9.2.1] </li></ul> | 
 
 --
 
@@ -202,6 +200,8 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 [r-nnz]: http://www.asimovinstitute.org/neural-network-zoo/
 [r-cnn]: http://cs231n.github.io/convolutional-networks/
 [r-rnn]: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+[r-cnn2]: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+[r-img]: https://scikit-image.org/docs/stable/user_guide.html
 
 <!--Denver Week 7-->
 [r-nmf1]: https://blog.acolyer.org/2019/02/18/the-why-and-how-of-nonnegative-matrix-factorization/
@@ -212,7 +212,9 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 
 <!--Denver Week 9-->
 [r-tsarima]: https://blog.algorithmia.com/introduction-to-time-series
-
+[r-pymc3]: https://docs.pymc.io/notebooks/getting_started 
+[r-drl]: https://skymind.ai/wiki/deep-reinforcement-learning
+[r-mcmc]: https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
 
 <!-- Week 1 -->
 [1.1.1]: workflow.md
