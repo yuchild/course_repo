@@ -406,7 +406,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [graphs-communities]: https://github.com/GalvanizeDataScience/graphs-communities
 [graph]:https://github.com/GalvanizeDataScience/graphs
 [nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
-[autoencode]: https://github.com/GalvanizeDataScience/auto-encoders
+[autoencode]:https://github.com/GalvanizeDataScience/autoencoders/tree/Denver
 
 
 <!-- Week 9 -->
@@ -436,7 +436,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Assessments -->
 <!-- Week 1 -->
 [a0]: https://github.com/gschool/dsi-assessment-day1
-[learn0]: https://learn-2.galvanize.com/cohorts/858
+[learn0]: https://learn-2.galvanize.com/cohorts/992
 
 <!-- Readings -->
 <!-- Week 1 -->
