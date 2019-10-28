@@ -161,7 +161,7 @@ Your priorities this week:
 | Day | Readings | Repos | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] <br/> [transfer learning][transfer] | Flora | [AM][lec-convnets] |
-| Tuesday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns] |  Hamid   | [PM][lec-rnn] |
+| Tuesday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns] |  Hamid   | [AM][lec-time-series]<br/>[PM][lec-rnn] |
 | Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding] <br/> [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> [data product (flask)][flask] |  Hamid  | [AM][lec-autoencoder] <br/> - |
 | Thursday | - | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
 | Friday | - | [Fraud Case Study (day 2)][fraud-case-study]<br/> Kick off Capstone III|  -  | - | 
@@ -331,6 +331,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-convnets]:https://github.com/GalvanizeDataScience/lectures/tree/SF/convnets
 [lec-rnn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/rnn
 [lec-autoencoder]:https://github.com/GalvanizeDataScience/lectures/tree/SF/autoencoders
+[lec-time-series]:https://github.com/GalvanizeDataScience/lectures/tree/SF/time-series
 
 <!-- Assignments -->
 <!-- Week 1 -->
