@@ -159,7 +159,7 @@ Your priorities this week:
 |    Day    | Repos                                                                          | Lead  |        Slides            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
 | Monday    |[Bayesian Testing][r-bab]<br> [Multi-Armed Bandit][r-mab]                       | Kayla | [AM][l-mab]                |
-| Tuesday   |[Autoencoders][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | Frank | --                         |
+| Tuesday   |[Autoencoders (Denver)][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | Frank | --                         |
 | Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Open or [RL with neural networks][r-rlnn] | Kayla/Nick | --                         |
 | Thursday  |CIII proposals due 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- | --                         |
 | Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             | ----- | --                         |
