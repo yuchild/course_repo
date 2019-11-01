@@ -179,8 +179,8 @@ Your priorities this week:
 ### Week 12: Showcase
 | Day | Topic | Lead | Slides |
 |:--:|:--|:--:|:--:|
-| Monday |  | - | - |
-| Tuesday |**CODE FREEZE** |  -   | - |
+| Monday |**CODE FREEZE 3 pm**| - | - |
+| Tuesday | |  -   | - |
 | Wednesday |   |  -  | - |
 | Thursday | PM - Showcase |  -  | - |
 | Friday | Lunch - Graduation |  -  | - |
