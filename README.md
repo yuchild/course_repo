@@ -180,8 +180,8 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 | Monday 11/11 |  | - | [slides][-] |
 | Tuesday 11/12 |   |  -   | [slides][-] |
 | Wednesday 11/13 |   |  -  | [slides][-] |
-| Thursday 11/14 | PM - Demo evening |  -  | [slides][-] |
-| Friday 11/15 | PM - Graduation |  -  | [slides][-] |
+| Thursday 11/14 | PM - [Demo evening](notes/demo_day.md) |  -  | [slides][-] |
+| Friday 11/15 | PM - [Graduation](graduation_day.md) |  -  | [slides][-] |
 
 --
 
