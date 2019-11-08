@@ -31,7 +31,7 @@ To jump to a week of interest, click on the link.
 * [Daily Readings](./notes/readings.md) The assigned readings are intended to prepare you for the lectures and assignments that day.  Allocate about 30 minutes for each reading, though some are also references and are more extensive.  Only the **bolded** readings are required for that day.
 * [Solutions repo](https://github.com/GalvanizeDataScience/solutions-g99)  Solutions for the daily assignments, weekly reviews, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
 * [Weekly feedback](https://forms.gle/FKQkpa8Wb5CTT9nL9) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
-* [Past student projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
+* [Past student projects](https://github.com/GalvanizeDataScience/project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 * [Lectures](https://github.com/GalvanizeDataScience/lectures/tree/Denver) Lectures for each day can be found in the lectures repo of the same name.  Clone (don't Fork) this repo.  Then be sure you checkout the Denver branch.
 
 ## Capstone Project
