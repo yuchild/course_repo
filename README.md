@@ -53,7 +53,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |    Day    | Repos                                                                          | Lead  |         Readings             |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][unix]                       | Frank |  <ul><li>[Development Workflow][1.1.1] </li><li> [Pair Programming][1.1.2] </li><li> [Unix Philosophy][1.1.3] </li><li> [The Art of Data Science, Ch 2][1.1.4] </li></ul> |
-| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Kayla | <ul><li>[**Python code style**][r-python]</li><li>[**Classes**][r-oop]  </li></ul> |
+| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Kayla | <ul><li>[Python code style][r-python]</li><li>[Classes][r-oop]  </li></ul> |
 | Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | Fred | <ul><li>[Linear Algebra for Data Science (Ch 1-3, 4 is optional)][r-la4ds] </li><li> [Linear Algebra Notes][1.4.2] </li><li>[Linear Algebra and Numpy (optional)][1.4.1] </li></ul> |
 | Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Frank | <ul><li>[10 minutes to Pandas][1.2.1] </li><li> [Pandas Top 10][1.2.2] </li><li> [Matplolib tutorial and reference][r-mpl] </li><li> [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li><li>[Effective Visualization][1.2.5] </li><li> [Less is More][1.2.6]</li></ul> |
 | Friday    |[Review][wr]<br>[Feature Branch Workflow][fbw]<br>[EDA case study][r-cs-eda]    | Kayla | --                          |
@@ -67,7 +67,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |<ul><li>[Seeing Theory: Frequentest Inference][r-see-theory-4] </li><li>  [Law of Large Numbers][r-law-large-numbers] </li></ul> |
 | Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |<ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul> |
 | Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |<ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul> |
-| Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |----|
+| Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |<ul><li>[Bayesian] [ - ] </li></ul>|
 
 --
 
@@ -78,7 +78,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                               | Kayla|<ul><li>[SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li><li> [Psycopg][r-psycopg]</li></ul>|
 | Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                           | Frank | <ul><li> [Little book of MongoDB][1.5.1] </li><li> [Web Scraping with Python and Beautiful Soup][r-ws] </li><li> [Basic Web Scaping][1.5.2]</li></ul>  |
 | Thursday  | [CI proposal due 9 am][cI]<br>[Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |<ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
-| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Fred |--                          |--
+| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Fred |-                          |--
 
 --
 
