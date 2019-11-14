@@ -54,8 +54,8 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][unix]                       | Frank |  <ul><li>[Development Workflow][1.1.1] </li><li> [Pair Programming][1.1.2] </li><li> [Unix Philosophy][1.1.3] </li><li> [The Art of Data Science, Ch 2][1.1.4] </li></ul> |
 | Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Kayla | <ul><li>[**Python code style**][r-python]</li><li>[**Classes**][r-oop]  </li></ul> |
-| Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | Fred | -----  |
-| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Frank | ----- |
+| Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | Fred | <ul><li>[Linear Algebra for Data Science (Ch 1-3, 4 is optional)][r-la4ds] </li><li> [Linear Algebra Notes][1.4.2] </li><li>[Linear Algebra and Numpy (optional)][1.4.1] </li></ul> |
+| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Frank | <ul><li>[10 minutes to Pandas][1.2.1] </li><li> [Pandas Top 10][1.2.2] </li><li> [Matplolib tutorial and reference][r-mpl] </li><li> [EDA with pandas][1.2.3] </li><li> [Data Wrangling with pandas][1.2.4] </li><li>[Effective Visualization][1.2.5] </li><li> [Less is More][1.2.6]</li></ul> |
 | Friday    |[Review][wr]<br>[Feature Branch Workflow][fbw]<br>[EDA case study][r-cs-eda]    | Kayla | --                          |
 
 --
@@ -63,10 +63,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Statistical Inference
 |    Day    | Repos                                                                          | Lead  |        Readings              |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
-| Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]                                                           | Fred |--                          |
-| Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |----             |
-| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |----             |
-| Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |---- |
+| Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]                                                           | Fred | <ul><li> [Seeing Theory][r-see-theory-1-3] </li><li> [Binomial Test][r-binom-test] </li><li> [Review of Probability Theory][3.1.1] </li></ul> |
+| Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |<ul><li>[Seeing Theory: Frequentest Inference][r-see-theory-4] </li><li>  [Law of Large Numbers][r-law-large-numbers] </li></ul> |
+| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |<ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul> |
+| Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |<ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul> |
 | Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |----|
 
 --
@@ -74,10 +74,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 3: Big Data
 |    Day    | Repos                                                                          | Lead  |        Readings              |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
-| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | Frank |----  |
-| Tuesday   | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                               | Kayla|-----   |
-| Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                           | Frank |-----  |
-| Thursday  | [CI proposal due 9 am][cI]<br>[Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |-----  |
+| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | Frank | <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li><li> [Big O notation][r-bigO]|</li></ul>|
+| Tuesday   | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                               | Kayla|<ul><li>[SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li><li> [Psycopg][r-psycopg]</li></ul>|
+| Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                           | Frank | <ul><li> [Little book of MongoDB][1.5.1] </li><li> [Web Scraping with Python and Beautiful Soup][r-ws] </li><li> [Basic Web Scaping][1.5.2]</li></ul>  |
+| Thursday  | [CI proposal due 9 am][cI]<br>[Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |<ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
 | Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Fred |--                          |--
 
 --
@@ -474,7 +474,118 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
 [r-csrec1]: https://github.com/GalvanizeDataScience/recommender-case-study/tree/Denver
 
+
 <!-- Week 10-->
+
+<!-- Reading References -->
+
+<!-- Books -->
+[algorithms]: http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
+[LearningSpark]: https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
+[ISLR]: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+[MLIA]: https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
+[EoSL]: https://web.stanford.edu/~hastie/ElemStatLearn/download.html
+[MMDS]: http://infolab.stanford.edu/~ullman/mmds/book.pdf
+[SNA]: readings/Social_Network_Analysis_for_Startups.pdf
+
+<!-- Week 1 -->
+[1.1.1]: workflow.md
+[1.1.2]: pairing.md
+[1.1.3]: https://en.wikipedia.org/wiki/Unix_philosophy
+[1.1.4]: https://leanpub.com/artofdatascience
+
+[1.2.1]: http://pandas.pydata.org/pandas-docs/stable/10min.html
+[1.2.2]: http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+[1.2.3]: http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab3/lab3full.ipynb
+[1.2.4]: http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb
+[1.2.5]: http://pbpython.com/effective-matplotlib.html
+[1.2.6]: http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
+[r-mpl]: https://www.stat.berkeley.edu/~nelle/teaching/2017-visualization/README.html
+
+[1.3.1]: https://www.souravsengupta.com/cds2015/python/LPTHW.pdf
+[r-python]: https://docs.python-guide.org/writing/style/#general-concepts
+[r-oop]: http://www.greenteapress.com/thinkpython/html/thinkpython016.html
+
+[1.4.1]: https://github.com/GalvanizeDataScience/course-outline/blob/master/notes/reading_material/numpy_reading.md
+[1.4.2]: http://cs229.stanford.edu/section/cs229-linalg.pdf
+[r-la4ds]: https://medium.com/@rathi.ankit/linear-algebra-for-data-science-a9648b9daee0
+
+[1.5.1]: http://openmymind.net/mongodb.pdf
+[r-ws]: https://www.dataquest.io/blog/web-scraping-tutorial-python/
+[1.5.2]: https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+
+<!-- Week 2 -->
+
+[2.2.1]: https://docs.docker.com/get-started/
+[r-start-AWS]: https://aws.amazon.com/start-now/
+[r-about-AWS]: https://aws.amazon.com/about-aws/
+
+[r-bigO]: https://medium.freecodecamp.org/time-is-complex-but-priceless-f0abd015063c
+
+[2.3.1]: http://sqlzoo.net/wiki/Main_Page
+[2.3.2]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+[2.3.3]: http://openmymind.net/mongodb.pdf
+[r-psycopg]: http://www.postgresqltutorial.com/postgresql-python/
+
+
+<!-- Week 3 -->
+[3.1.1]: http://cs229.stanford.edu/section/cs229-prob.pdf
+[r-see-theory-1-3]: https://seeing-theory.brown.edu/basic-probability/index.html
+[r-binom-test]: https://en.wikipedia.org/wiki/Binomial_test
+
+[r-see-theory-4]: https://seeing-theory.brown.edu/frequentist-inference/index.html
+[r-law-large-numbers]: https://en.wikipedia.org/wiki/Law_of_large_numbers
+
+[3.3.1]: https://www.khanacademy.org/math/probability/statistics-inferential/sampling_distribution/v/central-limit-theorem
+[3.3.2]: https://www.youtube.com/watch?v=I_dhPETvll8
+
+[3.4.1]: https://www.youtube.com/watch?v=5ABpqVSx33I
+[3.4.2]: https://www.youtube.com/watch?v=-FtlH4svqx4
+[3.4.3]: https://www.youtube.com/watch?v=lHI5oEgNkrk
+
+<!-- Week 4 -->
+[4.1.1]: http://flask.pocoo.org/
+[4.1.2]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+[4.1.3]: http://www.w3schools.com/tags/ref_httpmethods.asp
+
+<!-- Week 5 -->
+
+
+<!-- Week 6 -->
+[6.4.1]: https://www.youtube.com/watch?v=bxe2T-V8XRs
+[6.4.2]: http://www.asimovinstitute.org/neural-network-zoo/
+[6.4.3]: http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+<!-- Week 7 -->
+[tfidf1]: http://blog.christianperone.com/?p=1589
+[tfidf2]: http://blog.christianperone.com/?p=1747
+[tfidf3]: http://blog.christianperone.com/?p=2497
+[NLP]: https://radimrehurek.com/phd_rehurek.pdf
+[py.nlp]: https://pdfs.semanticscholar.org/3673/bccde93025e05431a2bcac4e8ff18c9c273a.pdf
+[nmf-reading]: http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
+
+
+
+
+<!-- Week 8 -->
+
+
+<!-- Week 9 -->
+[9.2.1]: http://stevehanov.ca/blog/index.php?id=132
+
+[r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
+
+<!-- Week 10 -->
+[10.1.2]: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+[10.1.3]: https://github.com/tensorflow/models/tree/master/research/inception
+
+[10.2.1]: https://www.otexts.org/fpp
+[10.2.2]: http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf
+[10.2.3]: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+[10.2.4]: https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+[10.3.1]: http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+[10.3.2]: https://machinelearningmastery.com/transfer-learning-for-deep-learning/
 [r-rlnn]: https://github.com/GalvanizeDataScience/reinforcement-learning-with-nn
 [r-tlnn]: https://github.com/GalvanizeDataScience/transfer-learning
 [r-mcmc]: https://github.com/GalvanizeDataScience/mcmc
