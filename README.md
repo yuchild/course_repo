@@ -65,7 +65,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]                                                           | Fred |--                          |
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |----             |
-| Wednesday | Central Limit Theorem[clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |----             |
+| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |----             |
 | Thursday  | <br>[Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |---- |
 | Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |----|
 
@@ -76,7 +76,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | Frank |----  |
 | Tuesday   | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                               | Kayla|-----   |
-| Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                           | Kayla |-----  |
+| Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                           | Frank |-----  |
 | Thursday  | [CI proposal due 9 am][cI]<br>[Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |-----  |
 | Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Fred |--                          |--
 
