@@ -542,6 +542,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [3.4.1]: https://www.youtube.com/watch?v=5ABpqVSx33I
 [3.4.2]: https://www.youtube.com/watch?v=-FtlH4svqx4
 [3.4.3]: https://www.youtube.com/watch?v=lHI5oEgNkrk
+[r-ibs2]: https://mathcs.clarku.edu/~djoyce/ma218/bayes2.pdf
 
 
 <!-- Week 4 -->
