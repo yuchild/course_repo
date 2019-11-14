@@ -52,8 +52,8 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 |    Day    | Repos                                                                          | Lead  |         Readings             |  
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
-| Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][unix]                       | Frank | -----  |
-| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Kayla | -----  |
+| Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][unix]                       | Frank |  <ul><li>[Development Workflow][1.1.1] </li><li> [Pair Programming][1.1.2] </li><li> [Unix Philosophy][1.1.3] </li><li> [The Art of Data Science, Ch 2][1.1.4] </li></ul> |
+| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | Kayla | <ul><li>[**Python code style**][r-python]</li><li>[**Classes**][r-oop]  </li></ul> |
 | Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | Fred | -----  |
 | Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | Frank | ----- |
 | Friday    |[Review][wr]<br>[Feature Branch Workflow][fbw]<br>[EDA case study][r-cs-eda]    | Kayla | --                          |
@@ -66,7 +66,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]                                                           | Fred |--                          |
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |----             |
 | Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |----             |
-| Thursday  | <br>[Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |---- |
+| Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |---- |
 | Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |----|
 
 --
