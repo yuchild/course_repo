@@ -5,7 +5,7 @@
 3. **[SQL](sql):** For companies who use SQL to store their data (which is quite a few of them!), they will be looking for candidates who are comfortable writing SQL queries.
 4. **[Probability & Statistics Questions](prob-stats-ml):** Questions involving counting, Bayes Theorem, distributions, etc.
 5. **[Machine Learning Algorithms](prob-stats-ml):** Can you explain the algorithms at a high level?
-6. **[Business Analytics & Case Studies](https://github.com/gschool/dsi-business-analytics/):** Open ended questions where you need to brainstorm how to apply data science so solve a real business problem.
+
 
 ### Additional Questions
 
