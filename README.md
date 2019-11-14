@@ -65,9 +65,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
 | Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]                                                           | Fred |--                          |
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |----             |
-| Wednesday | Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |----             |
-| Thursday  | [Maximum Likelihood Estimation][mle]<br>[Hypothesis Testing][hyp-ts-d]| Frank |---- |
-| Friday    | [Power Calculation][power]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |----|
+| Wednesday | Central Limit Theorem[clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |----             |
+| Thursday  | <br>[Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |---- |
+| Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |----|
 
 --
 
@@ -86,7 +86,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 Your priorities this week:
 <ul>
 <li>Study material from the previous weeks.</li>
-<li>Research capstone 2 ideas</li>
+<li>Research capstone 1 ideas</li>
 <li>Recharge for the 2nd half of the course</li>
 </ul>
 
@@ -96,14 +96,14 @@ Your priorities this week:
 Your priorities this week:
 <ul>
 <li>Study material from the previous weeks.</li>
-<li>Research capstone 2 ideas</li>
+<li>Research capstone 1 ideas</li>
 <li>Recharge for the 2nd half of the course</li>
 </ul>
 
 --
 
 ### Week 4: Unit 1 Capstone
-| Day  | Topic | Lead | Slides |
+| Day  | Topic | Lead | Readings |
 |:--:|:--|:--:|:--:|
 | Monday |  Assessment 3<br>[Capstone I][cI]<br>[Mock Interview][mi] |  -  | - |
 | Tuesday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
@@ -147,7 +147,7 @@ Your priorities this week:
 --
 
 ### Week 8: Unit 2 Capstone
-| Day | Topic | Lead | Slides |
+| Day | Topic | Lead | Readings |
 |:--:|:--|:--:|:--:|
 | Monday | [Capstone 2][cII]<br>[Mock Interviews][mi] | - | - |
 | Tuesday | [Capstone 2][cII]<br>[Mock Interviews][mi]|  -  | - |
@@ -179,7 +179,7 @@ Your priorities this week:
 
 --
 ### Week 11: Unit 3 Capstone
-| Day  | Topic | Lead | Slides |
+| Day  | Topic | Lead | Readings |
 |:--:|:--|:--:|:--:|
 | Monday |  Capstone III<br>[Mock Interview][mi] |  -  | - |
 | Tuesday | Capstone III<br>[Mock Interview][mi] | - | - |
@@ -190,7 +190,7 @@ Your priorities this week:
 --
 
 ### Week 12: Showcase
-| Day | Topic | Lead | Slides |
+| Day | Topic | Lead | Readings |
 |:--:|:--|:--:|:--:|
 | Monday |**CODE FREEZE 3 pm**| - | - |
 | Tuesday | |  -   | - |
