@@ -67,7 +67,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |<ul><li>[Seeing Theory: Frequentest Inference][r-see-theory-4] </li><li>  [Law of Large Numbers][r-law-large-numbers] </li></ul> |
 | Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |<ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul> |
 | Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |<ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul> |
-| Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |<ul><li>[Bayesian] [ - ] </li></ul>|
+| Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |Intro. to Bayesian Statistics 2][r-ibs2]|
 
 --
 
@@ -542,6 +542,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [3.4.1]: https://www.youtube.com/watch?v=5ABpqVSx33I
 [3.4.2]: https://www.youtube.com/watch?v=-FtlH4svqx4
 [3.4.3]: https://www.youtube.com/watch?v=lHI5oEgNkrk
+
 
 <!-- Week 4 -->
 [4.1.1]: http://flask.pocoo.org/
