@@ -336,7 +336,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Denver -->
 <!-- Week 1 -->
-[git]: https://github.com/gSchool/dsd-git-intro
+[git]: https://github.com/GalvanizeDataScience/git-intro
 [unix]: https://github.com/gSchool/dsd-unix
 [r-aws]: notes/setup_aws.md
 [r-unix]: https://en.wikipedia.org/wiki/Unix_philosophy
