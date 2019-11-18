@@ -14,21 +14,21 @@ The [nightly readings](notes/readings.md) are maintained in a separate file.  Ma
 * __Slides:__ The day's lecture notes and slides
 
 # Schedule
-| Week | Date | Topic |
+| Week | Dates | Topic |
 | --- | --- | --- |
-| 1 | 8/19 - 8/23 | [Programming](#week-1-programming-for-data-science) |
-| 2 | 8/26 - 8/30 |  [Big Data](#week-2-big-data) |
-| 3 | 9/2 - 9/6 | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | 9/9 - 9/13 | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | 9/16 - 9/20 | [Regression](#week-5-supervised-learning-and-regression) |
-| - | 9/23 - 9/27 | Solo Week |
-| 6 | 9/30 - 10/4 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| 7 | 10/7 - 10/11 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | 10/14 - 10/18 | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | 10/21 - 10/25 | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | 10/28 - 11/1 | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | 11/4 - 11/8 | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | 11/11 - 11/15 | [Career Week](#week-12-career-week) |
+| 1 | 12/2 - 12/6 | [Programming](#week-1-programming-for-data-science) |
+| 2 | 12/9 - 12/13|  [Big Data](#week-2-big-data) |
+| 3 | 12/16 - 12/20 | [Statistical Inference](#week-3-statistical-inference) |
+| - | 12/23 - 1/3 | Solo Weeks |
+| 4 | 1/6 - 1/10 | [Capstone 1](#week-4-unit-1-capstone) |
+| 5 | 1/13 - 1/17 | [Regression](#week-5-supervised-learning-and-regression) |
+| 6 | 1/20 - 1/24 | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
+| 7 | 1/27 - 1/31 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
+| 8 | 2/3 - 2/7 | [Capstone 2](#week-8-unit-2-capstone) |
+| 9 | 2/10 - 2/14 | [Advanced Topics 1](#week-9-advanced-topics-1) |
+| 10 | 2/17 - 2/21 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 11 | 2/24 - 2/28 | [Capstone 3](#week-11-unit-3-capstone) |
+| 12 | 3/2 - 3/6 | [Career Week](#week-12-career-week) |
 
 ## Weekly Structure
 During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
@@ -43,7 +43,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 1: Programming for Data Science
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Readiness Assessment<br><br>[Unix Fundamental][c1.1.1] |  Joe  | [slides][lec-unix] |
+| Monday | Readiness Assessment<br>Prerec Review<br>[Unix Fundamental][c1.1.1] |  Joe  | [slides][lec-unix] |
 | Tuesday |  [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Dan  | [AM][lec-pandas] <br/> [PM][lec-matplotlib] |
 | Wednesday | [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Joe  | [slides][lec-lin-alg] |
 | Thursday | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] |  Joe  | [slides][lec-oop]  | 
@@ -56,7 +56,7 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 |:--:|:--|:--:|:--:|
 | Monday | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] |  Joe  | [AM][lec-algo-complex]<br/>[PM][lec-search-trees] |
 | Tuesday | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] |  Dan  | [AM][lec-mongo] <br/> [PM][lec-web-scrape]|
-| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan <br/> Christina 9:30 - 10:00 | [AM][lec-sql] <br/> [PM][lec-python-sql]|
+| Wednesday | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] |  Dan  | [AM][lec-sql] <br/> [PM][lec-python-sql]|
 | Thursday |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] |  Joe  | [slides][spark] |
 | Friday |  [Spark EDA Case Study][c2.5.1] |  Joe   | - |
 
@@ -65,13 +65,24 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 ### Week 3: Statistical Inference
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | HOLIDAY NO CLASS | - | - |
-| Tuesday |  Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Joe  | [AM][lec-prob] <br/> [PM][lec-binom-test]|
-| Wednesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Joe  | [AM][lec-samp-distros] <br/> [PM][lec-loln] |
-| Thursday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | [AM][lec-clt] <br/> [PM][lec-mle] |
-| Friday | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe <br/> Christina 1:00 - 2:00  | [slides][lec-hypo-test] |
+| Monday |  Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] |  Joe  | [AM][lec-prob] <br/> [PM][lec-binom-test]|
+| Tuesday |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] |  Dan  | [AM][lec-samp-distros] <br/> [PM][lec-loln] |
+| Wednesday |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] |  Joe  | [AM][lec-clt] <br/> [PM][lec-mle] |
+| Thursday | [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] |  Joe   | [slides][lec-hypo-test] |
+| Friday | [Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | Joe | [AM][lec-bayes-intro] <br/> [PM][lec-bayes-testing]|
 
 --
+
+### Solo Week
+Your priorities this week:
+<ul>
+<li>Study any material from the previous weeks.</li>
+<li>Collect data for upcoming capstones</li>
+<li>Recharge for the 2nd half of the course</li>
+</ul>
+
+--
+
 
 ### Week 4: Unit 1 Capstone 
 | Day  | Topic | Lead Instructor | Slides |
@@ -79,8 +90,8 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Monday |   Assessment<br/>[Basic Web Programming][c4.1.1] |  Joe   | [slides][lec-flask] |
 | Tuesday |  Discuss and kickoff capstone 1 |  -  | - |
 | Wednesday |  Work! | - | - |
-| Thursday |  MORE WORK!!!! | Christina 1:00 - 2:00 | - |
-| Friday | Capstone Presentations PM | PN/EP Due | - |
+| Thursday |  MORE WORK!!!! | - | - |
+| Friday | Capstone Presentations PM | - | - |
 
 --
 
@@ -94,35 +105,26 @@ Capstone projects are designed to be showcases of the diverse skill set that you
 | Friday | [Regression Case Study][c5.5.1] |  Dan  | |
 
 --
-### Solo Week
-Your priorities this week:
-<ul>
-<li>Study any material from the previous weeks.</li>
-<li>Collect data for upcoming capstones</li>
-<li>Recharge for the 2nd half of the course</li>
-</ul>
-
---
 
 ### Week 6: Nonlinear Supervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
+| Monday | No class, holiday | - | - |
 | Monday | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | Dan | [AM][lec-splines] <br/> [PM][lec-dec-trees] |
 | Tuesday | [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  Dan   | [slides][lec-random-forest] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Skylar  | [AM][lec-grad-boost-class] <br/> [PM][lec-grad-boost-reg] |
-| Thursday | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Dan  | [AM][lec-grad-decent] <br/> [AM][lec-nn] |
-| Friday | [Supervised Learning Case Study][c6.5.1]  | Christina 9:30am <br/> Capstone 2 Proposals Due  | - |
+| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | [AM][lec-grad-boost-class] <br/> [PM][lec-grad-boost-reg] |
+| Friday | [Supervised Learning Case Study][c6.5.1]  |  Capstone 2 Proposals Due  | - |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Dan | [AM][lec-nlp] <br/> [PM][lec-text-class] |
-| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Skylar   | [AM][lec-pca] <br/> [PM][lec-svd] |
+| Monday | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Joe | [AM][lec-nlp] <br/> [PM][lec-text-class] |
+| Tuesday |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Joe   | [AM][lec-pca] <br/> [PM][lec-svd] |
 | Wednesday |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Dan  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
-| Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Dan  | [AM][lec-graph-search] <br/> [PM][lec-graph-com]  |
-| Friday | [NLP Case Study][c7.5.1] |  -  | - |
+| Thursday | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Joe  | [AM][lec-graph-search] <br/> [PM][lec-graph-com]  |
+| Friday | [NLP Case Study][c7.5.1] |  Joe  | - |
 
 --
 
@@ -130,7 +132,7 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Discuss and kickoff capstone 2 | - | - |
-| Tuesday |  Work. |  Crew 2pm - 3pm  | - |
+| Tuesday |  Work. |  -  | - |
 | Wednesday |  Work! | - | - |
 | Thursday |  MORE WORK!!!! | - | - |
 | Friday | Capstone Presentations PM | - | - |
@@ -140,22 +142,23 @@ Your priorities this week:
 ### Week 9: Advanced Topics 1
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | Skylar | [AM][lec-bayes-intro] <br/> [PM][lec-bayes-testing]|
-| Tuesday |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  Dan  | [AM][lec-multi-bandit] <br/> [PM][lec-mcmc] |
-| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan <br/> Christina 11:00 - 12:00 | [AM][lec-cb-recommender] <br/> [PM][lec-sb-recommender] |
-| Thursday | [Implicit Recommenders][c9.4.1] |  Dan <br/> Christina 11:00 - 12:00   | [AM][lec-mf-recommender] |
-| Friday | [Recommender Case Study][c9.5.1]  |  -  | - |
+| Monday | Assessment<br/>[Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Joe  | [AM][lec-grad-decent] <br/> [AM][lec-nn] |
+| Tuesday | [CNNs][c10.1.2]<br/>[Transfer Learning][c10.3.2] | Dan | [AM][lec-cnn] <br/> [PM][lec-transfer-learn] |
+| Wednesday |  [Sequence Analysis][c10.2.1] |  Dan   | [slides][lec-seq-analysis] |
+| Thursday |  [Autoencoding][c10.3.1]<br/> [RNNs][c10.2.2] |  Joe   | [AM][lec-autoencode]<br/> [PM][lec-rnn]  |
+| Friday | [Fraud Case Study (day 1)][c10.4.1] |  Joe   | - |
+
 
 --
 
 ### Week 10: Advanced Topics 2
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | [CNNs][c10.1.2]<br/>[Transfer Learning][c10.3.2] | Dan | [AM][lec-cnn] <br/> [PM][lec-transfer-learn] |
-| Tuesday |  [Sequence Analysis][c10.2.1] |  Dan   | [slides][lec-seq-analysis] |
-| Wednesday |  [Autoencoding][c10.3.1]<br/> [RNNs][c10.2.2] |  Joe <br/> Resumes and LikedIn Due  | [AM][lec-autoencode]<br/> [PM][lec-rnn]  |
-| Thursday | [Fraud Case Study (day 1)][c10.4.1] |  Dan <br/> Christina 10:00 - 11:00  | - |
-| Friday | [Fraud Case Study (day 2)][c10.4.1] |  -  | - |
+| Monday | Holiday, no class | - | - |
+| Tuesday | [Fraud Case Study (day 2)][c10.4.1] |  -  | - |
+| Wednesday |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Dan  | [AM][lec-cb-recommender] <br/> [PM][lec-sb-recommender] |
+| Thursday | [Implicit Recommenders][c9.4.1] |  Dan    | [AM][lec-mf-recommender] |
+| Friday | [Recommender Case Study][c9.5.1]  |  -  | - |
 
 --
 
@@ -165,13 +168,13 @@ Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No
 --
 
 ### Week 12: Career Week
-| Day | Activity | 
-|:--:|:--:|
-| Monday | Record Capstone Videos |
-| Tuesday |   AM Final Recordings (as needed) <br/>  Christina 1:00 - 2:00    |
-| Wednesday |   Christina 10:00 - 11:00 <br/> Alumni Lunch 12:00- 1:00<br/> Christina 1:00 - 2:00   |
-| Thursday | Christina 10:00 - 11:00  <br/>Employer Demo Lunch | 
-| Friday |   PM - Graduation |
+| Day | Topic | Instructor |
+|:--:|:--:|:--:|
+| Monday | AM - Record Capstone Videos <br/> AM - Review Talks <br/> PM - Recordings Second Takes | Joe |
+| Tuesday | AM - White Boarding <br/> AM - Rerecording 3rd Takes <br/> PM - Practice One on Ones <br/> Recordings done by EOD| Dan |
+| Wednesday |   AM - Review Sessions <br/>PM - Capstone Showcase  |
+| Thursday | AM - Review Sessions <br/> PM - White Boarding | 
+| Friday |   Lunchtime - Graduation |
 
 --
 
