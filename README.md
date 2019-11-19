@@ -72,11 +72,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 3: Statistical Inference
 | Day | Readings | Repos | Lead  | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday    | Holiday (Labor Day) | - | - |
-| Tuesday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
-| Wednesday | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
-| Thursday | [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
-| Friday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
+| Monday  | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
+| Tuesday | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
+| Wednesday | [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
+| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][c3.4.2]         |  Hamid  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
+| Friday | -  | [Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Mark | [AM][lec-bys]<br/>[PM][lec-bysabtest]  | 
 
 --
 
@@ -87,17 +87,17 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday   | Group Check-in <br/> Continue to Capstone |  -  | - |
 | Wednesday | Group Check-in <br/> Back to Work! | - | - |
 | Thursday  | Group Check-in <br/> MORE WORK!!!! | - | - |
-| Friday    | Group Check-in <br/> Presentation at 3PM | - | - |
+| Friday    | Presentation at 3PM | - | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
 | Day |  Readings | Repos | Lead | Slides |
 |:--:|:--|:--|:--:|:--:|
-| Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [Assessment 3][learn0]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Herbert/Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
-| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Linear Regression EDA ][lin-reg-eda] <br/>  [Predictive Linear Regression][pred-lin-reg] |  Hamid  | [AM][lec-lin-reg] |
-| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Flora  | [AM][lec-regularization]<br/>[PM][lec-inf] |
-| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Hamid  | [AM][lec-log-reg] |
+| Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [Assessment 3][learn0]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
+| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] | [Predictive Linear Regression][pred-lin-reg]<br/>[Gradient Descent][c6.4.1] |  Flora  | [AM][lec-lin-reg]<br/>[PM][lec-grad-des] |
+| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Mark  | [AM][lec-regularization]<br/>[PM][lec-inf] |
+| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Mark  | [AM][lec-log-reg] |
 | Friday | | [Regression Case Study][c5.5.1] |  -  | - |
 
 --
