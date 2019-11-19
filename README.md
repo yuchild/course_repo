@@ -432,8 +432,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Assessments -->
 <!-- Week 1 -->
-[a0]: https://github.com/gschool/dsi-assessment-day1
-[learn0]: https://learn-2.galvanize.com/cohorts/992
+[learn0]: https://learn-2.galvanize.com/cohorts/1505
 
 <!-- Readings -->
 <!-- Week 1 -->
