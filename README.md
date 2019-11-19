@@ -83,7 +83,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 4: Unit 1 Capstone 
 | Day  | Repos | Lead | Slides |
 |:--:|:--|:--:|:--:|
-| Monday    | Discuss and kickoff capstone 1 | - | - |
+| Monday    | [Assessment 3][learn0]<br/> Discuss and kickoff capstone 1 | - | - |
 | Tuesday   | Group Check-in <br/> Continue to Capstone |  -  | - |
 | Wednesday | Group Check-in <br/> Back to Work! | - | - |
 | Thursday  | Group Check-in <br/> MORE WORK!!!! | - | - |
@@ -94,7 +94,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 5: Supervised Learning and Regression
 | Day |  Readings | Repos | Lead | Slides |
 |:--:|:--|:--|:--:|:--:|
-| Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [Assessment 3][learn0]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
+| Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg]<br/>[Machine Learning in Action][r-mlia](5, pg 83--90)  | [Predictive Linear Regression][pred-lin-reg]<br/>[Gradient Descent][c6.4.1] |  Flora  | [AM][lec-lin-reg]<br/>[PM][lec-grad-des] |
 | Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Mark  | [AM][lec-regularization]<br/>[PM][lec-inf] |
 | Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Mark  | [AM][lec-log-reg] |
@@ -122,7 +122,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Mark | [AM][lec-nlp] |
 | Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Flora   | [AM][lec-pca] <br/> [PM][lec-svd]|
 | Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Mark  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
-| Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [AM][lec-graph] |
+| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana] |  Flora   | [AM][lec-time-series] |
 | Friday | - | [NLP Case Study][nlp-case-study] | - | - |
 
 
@@ -156,10 +156,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:--:|:-------|:--|:--:|:--:|
 | Monday | Holiday (president) | - | - | - | 
 | Tuesday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] <br/> [transfer learning][transfer] | Flora | [AM][lec-convnets] |
-| Tuesday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns] |  Hamid   | [AM][lec-time-series]<br/>[PM][lec-rnn] |
-| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding] <br/> [Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> [data product (flask)][flask] |  Hamid / Keenan | [AM][lec-autoencoder] <br/> - |
-| Thursday | - | [Fraud Case Study (day 1)][fraud-case-study] |  -  | - | 
-| Friday | - | [Fraud Case Study (day 2)][fraud-case-study]<br/> Kick off Capstone III|  -  | - | 
+| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding] | [RNNs][rnns]<br/>[Autoencoding/Word Embeddings/Text Classification][autoencode] |  Mark   | [AM][lec-rnn]<br/>[PM][lec-autoencoder] |
+| Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [AM][lec-graph] |
+| Friday | - | [Fraud Case Study][fraud-case-study]<br/> Kick off Capstone III|  -  | - | 
 
 
 --
@@ -180,7 +179,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
 | Tuesday | [Tackling the takehome][r-takehome] |  Presentations <br/>  Career's Week  |  -   | - |
-| Wednesday | [Business Analytics][r-business] |  Rehearsal / Career's Week  |  -  | - |
+| Wednesday | [Business Analytics][r-business] |   Career's Week  |  -  | - |
 | Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Career's Week |  -  | - |
 | Friday | - | Career's Week <br/> Graduation |  -  | - |
 
