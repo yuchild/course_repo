@@ -47,7 +47,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 * __Slides__ The day's lecture notes and slides
 
 ### Week 1: Programming for Data Science
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Flora  | [AM][lec-git]<br/>[PM][lec-fun] |
 | Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora | [AM][lec-numpy]<br/>[PM][lec-lin]   |
@@ -59,7 +59,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 2: Big Data
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading] <br> [**Docker Getting Started**][r-docker](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS] | [Assessment 1][learn0]<br/> [Docker][docker]<br/>[AWS][aws] |  Mark  |  [AM][lec-docker]<br>[PM][lec-aws]|
 | Tuesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql] |  Mark  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
@@ -70,7 +70,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 3: Statistical Inference
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead  | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday    | Holiday (Labor Day) | - | - |
 | Tuesday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
@@ -81,7 +81,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 4: Unit 1 Capstone 
-| Day  | Repos | Lead Instructor | Slides |
+| Day  | Repos | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | Discuss and kickoff capstone 1 | - | - |
 | Tuesday   | Group Check-in <br/> Continue to Capstone |  -  | - |
@@ -92,7 +92,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day |  Readings | Repos | Lead Instructor | Slides |
+| Day |  Readings | Repos | Lead | Slides |
 |:--:|:--|:--|:--:|:--:|
 | Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [Assessment 3][learn0]<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Herbert/Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Linear Regression EDA ][lin-reg-eda] <br/>  [Predictive Linear Regression][pred-lin-reg] |  Hamid  | [AM][lec-lin-reg] |
@@ -105,7 +105,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 
 ### Week 6: Nonlinear Supervised Learning
-| Day | Readings |  Repos | Lead Instructor | Slides |
+| Day | Readings |  Repos | Lead | Slides |
 |:--:|:----|:--|:--:|:--:|
 | Monday |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37)<br/>[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Algorithmic Complexity][big-o]<br/>[Decision Trees][c6.1.2] | Hamid | [AM][lec-bigo] <br/>[PM][lec-dt] |
 | Tuesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  Hamid   | [AM][lec-bg]<br/>[PM][lec-rf] |
@@ -117,7 +117,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 7: NLP and Unsupervised Learning
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead | Slides |
 |:--:|:-------:|:--|:--:|:--:|
 | Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [AM][lec-nlp] |
 | Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Hamid   | [AM][lec-pca] <br/> [PM][lec-svd]|
@@ -129,7 +129,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 9: Unit 2 Capstone 
-| Day |  Repos | Lead Instructor | Slides |
+| Day |  Repos | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | Capstone 2 Kick-Off <br/> Work | - | - |
 | Tuesday | Group Check-in <br/> Back to work |  -  | - |
@@ -140,7 +140,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 10: Advanced Topics 1
-| Day | Readings |Repos | Lead Instructor | Slides |
+| Day | Readings |Repos | Lead | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | - | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid | [AM][lec-mab] <br/> [PM][lec-mcmc] |
@@ -152,7 +152,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 11: Advanced Topics 2
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] <br/> [transfer learning][transfer] | Flora | [AM][lec-convnets] |
 | Tuesday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns] |  Hamid   | [AM][lec-time-series]<br/>[PM][lec-rnn] |
@@ -164,7 +164,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 12: Unit 3 Capstone 
-| Day | Repos | Lead Instructor | Slides |
+| Day | Repos | Lead | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | group check-in <br/> Work | - | - |
 | Tuesday | group check-in <br/> Work   |  -   | - |
@@ -175,7 +175,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 13: Career Week 
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Repos | Lead  | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
 | Tuesday | [Tackling the takehome][r-takehome] |  Presentations <br/>  Career's Week  |  -   | - |
@@ -267,6 +267,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/
 [lec-docker]:https://github.com/GalvanizeDataScience/lectures/tree/SF/docker/
 [lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/SF/aws
+[cs-eda]:https://github.com/GalvanizeDataScience/Pandas-EDA-Case-Study
 
 <!-- Week 2 -->
 [lec-bigo]:https://github.com/GalvanizeDataScience/lectures/tree/SF/big-o
@@ -431,7 +432,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Assessments -->
 <!-- Week 1 -->
 [a0]: https://github.com/gschool/dsi-assessment-day1
-[learn0]: https://learn-2.galvanize.com/cohorts/992
+[learn0]: https://learn-2.galvanize.com/cohorts/1505
 
 <!-- Readings -->
 <!-- Week 1 -->
