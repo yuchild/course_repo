@@ -110,9 +110,9 @@ Your priorities this week:
 | Day | Topic | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | No class, holiday | - | - |
-| Monday | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | Dan | [AM][lec-splines] <br/> [PM][lec-dec-trees] |
-| Tuesday | [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  Dan   | [slides][lec-random-forest] |
-| Wednesday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | [AM][lec-grad-boost-class] <br/> [PM][lec-grad-boost-reg] |
+| Tuesday | Assessment<br/> [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] | Dan | [AM][lec-splines] <br/> [PM][lec-dec-trees] |
+| Wednesday | [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  Dan   | [slides][lec-random-forest] |
+| Thursday |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Joe  | [AM][lec-grad-boost-class] <br/> [PM][lec-grad-boost-reg] |
 | Friday | [Supervised Learning Case Study][c6.5.1]  |  Capstone 2 Proposals Due  | - |
 
 --
