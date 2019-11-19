@@ -19,33 +19,33 @@ Galvanize Way.
 
 ## Overview
 
-1. [Toolchain](#toolchain): know the tools, use the tools, love the tools
-  * iTerm2
-  * Atom
-  * iPython
-1. [Keyboard Shortcuts](#keyboard-shortcuts)
-  * Don't use the mouse!
-1. [Interactive Development Workflow](#interactive-development-workflow)
-  * Keep the feedback loop tight when writing code
-1. [Version Control with git](#version-control-with-git)
-  * Always be committing
-1. [Recap](#recap)
+* [Toolchain](#toolchain): know the tools, use the tools, love the tools
+  - iTerm2
+  - VSCode
+  - iPython
+* [Keyboard Shortcuts](#keyboard-shortcuts)
+  - Don't use the mouse!
+* [Interactive Development Workflow](#interactive-development-workflow)
+  - Keep the feedback loop tight when writing code
+* [Version Control with git](#version-control-with-git)
+  - Always be committing
+* [Recap](#recap)
 
 ## Toolchain
 
 Everyday here you'll be writing programs in Python. You have 2 options when
 you're developing:
 
-  1. Develop in a text editor (Atom) and run the code with the Python
+  1. Develop in a text editor (VSCode) and run the code with the Python
      interpreter (iPython in iTerm2)
   2. Develop in an interactive repl (read-eval-print loop, iPython in iTerm2)
 
 For the most part, you'll use option 1. Option 2 (developing in a repl) is best
 when you're trying out small bits of code.
 
-You can significantly increase your productivity by mastering your tools and continuing to invest in the craft of building software.  Learning and using a programming editor is a foundational skill.  If you know `vi` or `emacs`, continue to use them.  If you haven't mastered them, then `Atom` is a good option.  Editors are a personal choice and the source of bitter religious disputes.  Choose a professional editor which works for you.
+You can significantly increase your productivity by mastering your tools and continuing to invest in the craft of building software.  Learning and using a programming editor is a foundational skill.  If you know `vi` or `emacs`, continue to use them.  If you haven't mastered them, then `VSCode` is a good option.  Editors are a personal choice and the source of bitter religious disputes.  Choose a professional editor which works for you.
 
-**Atom, iTerm2, and iPython will be your workhorses. Get to know them
+**VSCode, iTerm2, and iPython will be your workhorses. Get to know them
 well.**
 
 ### Hello World in 2 Acts
@@ -59,7 +59,7 @@ well.**
 # hello.py
 
 def hello_world():
-  print "hello, world!"
+  print("hello, world!")
 
 hello_world()
 
@@ -88,7 +88,7 @@ help      -> Python's own help system.
 object?   -> Details about 'object', use 'object??' for extra details.
 
 In [1]: def hello_world():
-   ...:     print "hello, world!"
+   ...:     print("hello, world!")
    ...:
 
 In [2]: hello_world()
@@ -158,9 +158,9 @@ you are developing.
 * To close a window of an application: __META__ + __W__
 
 
-### Atom Shortcuts
+### VSCode Shortcuts
 
-* To open Atom from the command line: `$ atom file-or-directory`
+* To open VSCode from the command line: `$ code file-or-directory`
 * To open a new file: __META__ + __n__
 * To close a tab: __META__ + __w__
 * To save a file: __META__ + __s__
@@ -217,7 +217,7 @@ iPython (in iTerm2).
 # hello.py
 
 def hello_world():
-  print "hello, world!"
+  print("hello, world!")
 
 def add_em_up(a, b, c):
   return a + b + c
@@ -233,14 +233,14 @@ file in the terminal.
 # hello.py
 
 def hello_world():
-  print "hello, world!"
+  print("hello, world!")
 
 def add_em_up(a, b, c):
   return a + b + c
 
 if __name__ == "__main__":
   hello_world()
-  print add_em_up(3, 4, 5)
+  print(add_em_up(3, 4, 5))
 ```
 
 *iTerm2:*
@@ -252,7 +252,7 @@ hello, world!
 ```
 
 As you continue to add to and modify your code, you'd rerun the file in the
-terminal each time to see the output of your print statments. That's fine,
+terminal each time to see the output of your print statements. That's fine,
 but there are better, more interactive ways.
 
 *Note on `if __name__ == "__main__":`: Code inside this block will only be executed
@@ -276,14 +276,14 @@ a look.
 # hello.py
 
 def hello_world():
-  print "hello, world!"
+  print("hello, world!")
 
 def add_em_up(a, b, c):
   return a + b + c
 
 if __name__ == "__main__":
   hello_world()
-  print add_em_up(3, 4, 5)
+  print(add_em_up(3, 4, 5))
 ```
 
 *iTerm2:*
@@ -294,9 +294,9 @@ hello.py
 
 $ ipython
 
-In [1]: import hello as lib  
+In [1]: import hello as lib
 
-# Notice how none of the print statments happened thanks to the
+# Notice how none of the print statements happened thanks to the
 # if __name__ == "__main__" guard.
 
 In [2]: lib.hello_world()
@@ -323,7 +323,7 @@ Now let's see how `autoreload` makes our life easier.
 # hello.py
 
 def hello_world():
-  print "hello, cruel world!"
+  print("hello, cruel world!")
 
 def add_em_up(a, b, c):
   return a + b + c
@@ -333,7 +333,7 @@ def power_up(b, e):
 
 if __name__ == "__main__":
   hello_world()
-  print add_em_up(3, 4, 5)
+  print(add_em_up(3, 4, 5))
 ```
 
 Here we made two changes: we modified `hello_world` and we added a method
@@ -353,7 +353,7 @@ Out[5]: 25
 
 The file has been automatically reloaded for us! We can interact with all the
 functions and classes interactively without any fuss. And no need to hop back
-and forth adding additional print statments and whatnot; we can just go ahead
+and forth adding additional print statements and whatnot; we can just go ahead
 and play with all of our code interactively.
 
 *Note on global imports: You'll sometimes see a global import `from somelib
@@ -385,7 +385,7 @@ inspect the local scope and the value of variables. Here's how it's used:
 import ipdb # The interactive Python debugger
 
 def hello_world():
-  print "hello, cruel world!"
+  print("hello, cruel world!")
 
 def add_em_up(a, b, c):
   return a + b + c
@@ -398,7 +398,7 @@ if __name__ == "__main__":
   a = 22
   ipdb.set_trace()
   b = 33
-  print add_em_up(3, 4, 5)
+  print(add_em_up(3, 4, 5))
 ```
 
 *iTerm2:*
@@ -409,11 +409,11 @@ hello, cruel world!
 > ~/hello.py(14)<module>()
      13     ipdb.set_trace()
 ---> 14     b = 33
-     15     print add_em_up(3, 4, 5)
+     15     print(add_em_up(3, 4, 5))
 
-ipdb> print a
+ipdb> print(a)
 22
-ipdb> print b
+ipdb> print(b)
 *** NameError: name 'b' is not defined
 ipdb>
 ```
@@ -428,15 +428,15 @@ called; the code is paused right at that line. `a` is defined and has the value
 ```
 # continued from above
 
-ipdb> print b
+ipdb> print(b)
 *** NameError: name 'b' is not defined
 ipdb> n
 > /Users/Ryan/Dropbox/DataScience/Zipfian/dsr/assessment-day1/code/hello.py(15)<module>()
      14     b = 33
----> 15     print add_em_up(3, 4, 5)
+---> 15     print(add_em_up(3, 4, 5))
      16
 
-ipdb> print b
+ipdb> print(b)
 33
 ipdb>
 ```
@@ -448,7 +448,7 @@ ipdb>
 * `c`: continue to end (or next breakpoint)
 * `s`: step into function call
 * `b 25`: set a breakpoint at line 25
-* `print a`: print the value of `a`
+* `print(a)`: print the value of `a`
 * `list`: see where you are
 
 ### Workflow
@@ -526,14 +526,13 @@ __DO NOT commit large files to a Github repo (anything larger than ~20mb).  In c
 
 ## Recap
 
-1. Know the tools. Use the tools.
-  * iTerm2
-  * Text editor (Atom)
-  * iPython
-1. Use the keyboard. Don't use the mouse. Know your shortcuts.
-1. Keep a tight feedback loop when writing code.
-  * Write code in your editor
-  * Import file into iPython
-  * Write, run, repeat
-1. Use git. Always be committing (ABC).
-
+* Know the tools. Use the tools.
+  - iTerm2
+  - Text editor (VSCode)
+  - iPython
+* Use the keyboard. Don't use the mouse. Know your shortcuts.
+* Keep a tight feedback loop when writing code.
+  - Write code in your editor
+  - Import file into iPython
+  - Write, run, repeat
+* Use git. Always be committing (ABC).
