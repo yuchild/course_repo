@@ -49,7 +49,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Flora  | [AM][lec-git]<br/>[PM][lec-fun] |
+| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Flora  | [AM][lec-fun]<br/>[PM][lec-git] |
 | Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Wednesday | [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
 | Thursday | [Think Python][r-py15] <br/> [**Python code style**][r-python]  | [OOP][oop]<br/>[Transformers][transformer]       | Mark | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
@@ -65,7 +65,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Tuesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql] |  Mark  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
 | Wednesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping] |  Mark  | [AM][lec-web] |
 | Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs] |  Flora  | [AM][lec-spark-intro]<br/>[PM][lec-spark-df] |
-| Friday    | - | [Spark EDA Case Study][c2.5.1]     |  -   |  |
+| Friday    | - | [Spark EDA Case Study][cs-spark]     |  -   |  |
 
 --
 
@@ -75,7 +75,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Monday  | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
 | Tuesday | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
 | Wednesday | [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Flora  | [AM][lec-clm]<br/>[PM][lec-mm] |
-| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][c3.4.2]         |  Flora  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
+| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][power]         |  Flora  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
 | Friday | -  | [Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Mark | [AM][lec-bys]<br/>[PM][lec-bysabtest]  | 
 
 --
@@ -96,9 +96,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 |:--:|:--|:--|:--:|:--:|
 | Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg]<br/>[Machine Learning in Action][r-mlia](5, pg 83--90)  | [Predictive Linear Regression][pred-lin-reg]<br/>[Gradient Descent][c6.4.1] |  Flora  | [AM][lec-lin-reg]<br/>[PM][lec-grad-des] |
-| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Mark  | [AM][lec-regularization]<br/>[PM][lec-inf] |
-| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Mark  | [AM][lec-log-reg] |
-| Friday | | [Regression Case Study][c5.5.1] |  -  | - |
+| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][reg-reg]<br/>[Inferential Regression][inf-reg] |  Mark  | [AM][lec-regularization]<br/>[PM][lec-inf] |
+| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][log-reg]<br/>[Classification Measures of Effectiveness][decision-rules] |  Mark  | [AM][lec-log-reg] |
+| Friday | | [Regression Case Study][cs-reg] |  -  | - |
 
 --
   
@@ -349,7 +349,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [webscraping]: https://github.com/GalvanizeDataScience/web-scraping
 [rdds]: https://github.com/GalvanizeDataScience/spark-rdds
 [dfs]: https://github.com/GalvanizeDataScience/spark-dfs
-[c2.5.1]:https://github.com/GalvanizeDataScience/spark-case-study/tree/master
+[cs-spark]:https://github.com/GalvanizeDataScience/spark-case-study/tree/master
 
 <!-- Week 3 -->
 [prob]:https://github.com/GalvanizeDataScience/probability-distributions
@@ -359,7 +359,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [clt]:https://github.com/GalvanizeDataScience/central-limit-theorem-dev/blob/master/assignment.md
 [mle]:https://github.com/GalvanizeDataScience/maximum-likelihood
 [hyp]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev/blob/master/assignment.md
-[c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
+[power]: https://github.com/GalvanizeDataScience/statistical-power
 [132.0]:  https://github.com/Esaslow/FlaskWebsite
 
 
@@ -372,11 +372,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c5.1.2]: https://github.com/GalvanizeDataScience/cross-validation/tree/knn
 [lin-reg-eda]:https://github.com/GalvanizeDataScience/linear-regression-eda
 [pred-lin-reg]:https://github.com/GalvanizeDataScience/predictive-linear-regression
-[c5.3.1]: https://github.com/GalvanizeDataScience/regularized-regression
-[c5.3.2]: https://github.com/GalvanizeDataScience/inferential-regression
-[c5.4.1]: https://github.com/GalvanizeDataScience/logistic-regression
-[c5.4.2]: https://github.com/GalvanizeDataScience/decision-rules
-[c5.5.1]: https://github.com/GalvanizeDataScience/regression-case-study
+[reg-reg]: https://github.com/GalvanizeDataScience/regularized-regression
+[inf-reg]: https://github.com/GalvanizeDataScience/inferential-regression
+[log-reg]: https://github.com/GalvanizeDataScience/logistic-regression
+[decision-rules]: https://github.com/GalvanizeDataScience/decision-rules
+[cs-reg]: https://github.com/GalvanizeDataScience/regression-case-study
 
 <!-- Week 6-->
 [c6.1.1]: https://github.com/GalvanizeDataScience/search-trees
@@ -431,7 +431,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Assessments -->
 <!-- Week 1 -->
-[a0]: https://github.com/gschool/dsi-assessment-day1
 [learn0]: https://learn-2.galvanize.com/cohorts/1505
 
 <!-- Readings -->
