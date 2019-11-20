@@ -131,7 +131,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 8: Unit 2 Capstone 
 | Day |  Repos | Lead | Slides |
 |:--:|:--|:--:|:--:|
-| Monday | Capstone 2 Kick-Off <br/> Work | - | - |
+| Monday | [Assessment 6][learn0] <br/> Capstone 2 Kick-Off <br/> Work | - | - |
 | Tuesday | Group Check-in <br/> Back to work |  -  | - |
 | Wednesday | Group Check-in  <br/> Back to work | - | - |
 | Thursday | Group Check-in  <br/> Back to work| - | - |
@@ -142,7 +142,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 9: Advanced Topics 1
 | Day | Readings |Repos | Lead | Slides |
 |:--:|:-------|:--|:--:|:--:|
-| Monday | [Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn] | [Assessment 6][learn0] <br/> [Basic Neural Networks][c6.4.2] | Flora | [AM][lec-nn]| 
+| Monday | [Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn] | [Basic Neural Networks][c6.4.2] | Flora | [AM][lec-nn]| 
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Mark | [AM][lec-mab] <br/> [PM][lec-mcmc] |
 | Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Content Based Recommenders][cont-recom]<br/>[Similarity Based Recommenders][sim-recom] |  Mark  | [AM][lec-recom] |
 | Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Mark  | [AM][lec-recom] |
