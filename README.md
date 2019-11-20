@@ -49,7 +49,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Flora  | [AM][lec-fun]<br/>[PM][lec-git] |
+| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix]<br/>[Git][git] | Flora  | [AM][lec-fun]<br/>[PM][lec-git] |
 | Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Wednesday | [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
 | Thursday | [Think Python][r-py15] <br/> [**Python code style**][r-python]  | [OOP][oop]<br/>[Transformers][transformer]       | Mark | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
@@ -331,6 +331,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Assignments -->
 <!-- Week 1 -->
 [unix]: https://github.com/GalvanizeDataScience/unix
+[git]:https://github.com/GalvanizeDataScience/git-intro
 [pandas]: https://github.com/GalvanizeDataScience/pandas
 [matplotlib]: https://github.com/GalvanizeDataScience/matplotlib
 [oop]: https://github.com/GalvanizeDataScience/oop
