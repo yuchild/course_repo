@@ -177,9 +177,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 12: Career Week 
 | Day | Readings | Repos | Lead  | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Code freeze (EOD) | - | - |
-| Tuesday | [Tackling the takehome][r-takehome] |  Presentations <br/>  Career's Week  |  -   | - |
-| Wednesday | [Business Analytics][r-business] |   Career's Week  |  -  | - |
+| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| group check-in <br/> work | - | - |
+| Tuesday | [Tackling the takehome][r-takehome] |  Career's Week <br/> Code freeze (EOD) |  -   | - |
+| Wednesday | [Business Analytics][r-business] | Presentations <br/>    Career's Week  |  -  | - |
 | Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Career's Week |  -  | - |
 | Friday | - | Career's Week <br/> Graduation |  -  | - |
 
