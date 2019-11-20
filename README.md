@@ -119,7 +119,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 7: NLP and Unsupervised Learning
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-------:|:--|:--:|:--:|
-| Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Mark | [AM][lec-nlp] |
+| Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in NLP][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Mark | [AM][lec-nlp] |
 | Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Flora   | [AM][lec-pca] <br/> [PM][lec-svd]|
 | Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Mark  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
 | Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana] |  Flora   | [AM][lec-time-series] |
