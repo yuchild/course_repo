@@ -1,194 +1,215 @@
-# Welcome
+# Welcome 
 
-Welcome to the Galvanize Data Science Immersive Program.  On this page, you'll find all the information you need to know about the day to day activities in the program.
+Welcome to the Galvanize Data Science Immersive Program! On this page you'll find information you about the program as a whole as well as links to daily readings and assignments.  You'll be working with this page everyday; please bookmark it in your web browser. 
 
+### Pairs for Each Day:
 
-# Course Outline
-This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
+[Pairs](notes/g92ds_pairs.md) -- these are your daily pair assignments
 
-The [nightly readings](notes/readings.md) are maintained in a separate file.  Many students find it useful to read ahead a bit on the weekends.
+#  Weekly overview
+The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
 
-* __Day:__ Day of the Week
-* __Repo:__ The repo contains the day's exercise(s). You should be able to complete this in the time allotted (you will not have access until the day of).
-* __Lead Instructor:__ The instructor who is the point person for the day.
-* __Slides:__ The day's lecture notes and slides
+The capstone weeks are reserved for your capstone projects (see below).  You will scrum with your peers during this time, participate in mock job interiews, and at the end of the week present your project to your peers and instructors (capstones 1 & 2), or to the data science community on a demo day (capstone 3).
 
-# Schedule
-| Week | Date | Topic |
-| --- | --- | --- |
-| 1 | --- | [Programming](#week-1-programming-for-data-science) |
-| 2 | --- |  [Big Data](#week-2-big-data) |
-| 3 | --- | [Statistical Inference](#week-3-statistical-inference) |
-| 4 | --- | [Capstone 1](#week-4-unit-1-capstone) |
-| 5 | --- | [Regression](#week-5-supervised-learning-and-regression) |
-| 6 | --- | [Supervised Learning](#week-6-nonlinear-supervised-learning) |
-| - | --- | Solo Week |
-| 7 | --- | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
-| 8 | --- | [Capstone 2](#week-8-unit-2-capstone) |
-| 9 | --- | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | --- | [Advanced Topics 2](#week-10-advanced-topics-2) |
-| 11 | --- | [Capstone 3](#week-11-unit-3-capstone) |
-| 12 | --- | [Career Week](#week-12-career-week) |
+The final week is reserved for demo day, completing Career Services deliverables, mock interviews, and graduating.
 
-## Weekly Structure
-During all instructional weeks, every Monday will begin with an assessment.  Assessments are the primary mechanism instructors have to ensure that the material is being absorbed.  The assessments primarily focus on the material from the previous week.
+To jump to a week of interest, click on the link. 
 
-During instructional weeks, every Friday will be a capstone where the material that had been covered during the week will be put to use in a more open ended application of the knowledge.
+| Week | Date  | Topic |
+| ---- |:-----:| ----- |
+|  0 | 04/29/19 | Week 0 Prep |
+|  1 | 05/06/19 | [Programming](#week-1-programming-for-data-science) |
+|  2 | 05/13/19 | [Big Data](#week-2-big-data) |
+|  3 | 05/20/19 | [Statistical Inference](#week-3-statistical-inference) |
+|  4 | 05/27/19 | [Capstone 1](#week-4-unit-1-capstone) |
+|  5 | 06/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
+|  6 | 06/10/19 | Solo Week |
+|  7 | 06/17/19 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
+|  8 | 06/24/19 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
+|  9 | 07/01/19 | [Capstone 2](#week-9-unit-2-capstone) |
+| 10 | 07/08/19 | [Advanced Topics 1](#week-10-advanced-topics-1) |
+| 11 | 07/15/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
+| 12 | 07/22/19 | [Capstone 3](#week-12-unit-3-capstone) |
+| 13 | 07/29/19 | [Career Week](#week-13-career-week) |
 
-## Capstones
-Capstone projects are designed to be showcases of the diverse skill set that you aquire over this challenging course of study.  In addition to building machine learnign models, capstones should feature fundamental skills like data collection and cleaning (which employers find very attractive).
+## Other important links
+* [Solutions](https://github.com/GalvanizeDataScience/solutions-g92) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
+* [Morning warmup exercises](https://github.com/gschool/dsi-warmups). 
+* [Weekly feedback](https://docs.google.com/forms/d/e/1FAIpQLSdg4SE99Cri-9VTGvmaJ2aDsFQGU_ocK7cmJ_-9yGQl_BhOjw/viewform?usp=sf_link) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your constructive criticism to adapt as the course proceeds.
+* [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  We marked the most exemplary and helpful with astericks.
+* [Pairing](notes/pairing.md): Notes on how to pair program
+* [Workflow](notes/workflow.md): Notes on programming workflow
+* [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
+* [Google drive for Project Submissions](https://drive.google.com/drive/folders/11kF4hanRIU50rpWLFTh_R7EHb_dr4jtY)
+* [Mock Interview Scheduler](https://docs.google.com/spreadsheets/u/1/d/1M77pR_f93XvePJVQwnccygJPDYVTvuedhAvjVokpOL8/edit#gid=695734520)
+* [Previous Capstone One-Pager Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
 
---
+## Capstone Project
+Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
+
+**[Capstone Project Materials](https://github.com/GalvanizeDataScience/course-outline/tree/19-02-DS-SF-g92/projects)**
+
+## Demo Day 7/29 17:00 @Cafe/Library
+  - **[Your One-Pagers google drive](https://drive.google.com/drive/folders/1qoIzpvoPHt12sV-82YTS9J_oFFsouoyD)**
+
+## Daily Outline
+In the weekly tables below, each row represents a day.  Each row information and links on:
+* __Day__ Day of the Week
+* __Readings__ Readings for the day (to be completed the night before).
+* __Repos__ The day's exercise(s). 
+* __Lead Instructor__ The instructor who is the point person for the day.
+* __Slides__ The day's lecture notes and slides
 
 ### Week 1: Programming for Data Science
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 8/19 | Readiness Assessment<br><br>[Unix Fundamentals][c1.1.1]<br/>[Python](https://github.com/gSchool/dsi-python-intro) |  -  | [slides][-] |
-| Tuesday 8/20 |  [Linear Algebra][c1.4.1]<br/>[Numpy][c1.4.2] |  Jack  | [slides][ ] |
-| Wednesday 8/21 | [Pandas][c1.2.1] <br/> [Matplotlib][c1.2.2] |  Jack  | [slides][-] |
-| Thursday 8/22 | [OOP][c1.3.1]<br/>[Transformers][c1.3.2] | Jack  | [slides][-]  |
-| Friday 8/23 | [Docker][c2.2.1]<br/>[AWS][c2.2.2]  | Andrew | [slides][-]  |
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-----------------------------------------|:--|:--:|:--:|
+| Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Phil  | [AM][lec-git] <br/> [PM][lec-fun] |
+| Tuesday   | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Andrew        | [AM][lec-numpy]<br/>[PM][lec-lin]   |
+| Wednesday | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Andrew | [AM][lec-pan]<br/>[PM][lec-mat]  |
+| Thursday  | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Jack | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
+| Friday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading]| [Docker][docker]<br/>[AWS][aws]|  Andrew | [AM][lec-docker] <br/>[PM][lec-aws] |
 
 --
 
-### Week 2: Big Data
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 8/26 | Assessment<br/>[Algorithmic Complexity][c2.1.1]<br/>[Search Trees][c2.1.2] | Jack  | [Slides][-] |
-| Tuesday 8/27 | [Mongo DB][c1.5.1]<br/>[Web Scraping][c1.5.2] | Jack  | [slides][-] |
-| Wednesday 8/28 | [SQL][c2.3.1]<br>[Python SQL][c2.3.2] | Jack  | [slides][-]] |
-| Thursday 8/29 |  [Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2] | Andrew  | [slides][-] |
-| Friday 8/30 |  [Spark EDA Case Study][c2.5.1] | Andrew   | [slides][150.2] |
+### Week 2: Statistical Inference
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-----------------------------------------|:--|:--:|:--:|
+| Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Andrew  | [AM][lec-prob]<br/>[PM][lec-binom] |
+| Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Phil  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
+| Wednesday| [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Jack  | [AM][lec-clm]<br/>[PM][lec-mm] |
+| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][c3.4.2]         |  Jack  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
+| Friday   | | Bayes | Andrew   | |
+
 
 --
 
-### Week 3: Statistical Inference
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 9/2 | Holiday |  -   | - |
-| Tuesday 9/3 | Assessment<br/>[Probability][c3.1.1]<br/>[Binomial Tests][c3.1.2] | Jack  | [slides][-] |
-| Wednesday 9/4 |  [Sampling Distributions][c3.2.1]<br/>[Law of Large Numbers][c3.2.2] | Andrew  | [slides][-] |
-| Thursday 9/5 |  [Central Limit Theorem][c3.3.1]<br/>[Maximum Likelihood Estimation][c3.3.2] | Jack  | [slides][-] |
-| Friday 9/6 |  [Hypothesis Testing][c3.4.1]<br/>[Power Calculation][c3.4.2] | Jack  | [slides][-] |
+### Week 3: Big Data
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-----------------------------------------|:--|:--:|:--:|
+| Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] |  Phil  | [AM][lec-bigo] |
+| Tuesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Jack | [AM][lec-web] |
+| Wednesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql]                                                           |  Phil  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
+| Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs]                                         |  Andrew  | [AM][lec-spark-intro] <br/> [PM][lec-spark-df] |
+| Friday    || [Spark EDA Case Study][c2.5.1]     |  Andrew  |  |
 
 --
 
-### Week 4: Unit 1 Capstone
-| Day  | Topic | Lead Instructor | Slides |
+### Week 4: Unit 1 Capstone 
+| Day  | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 9/9 |   Kickoff capstone 1 |  -   | [slides][-] |
-| Tuesday 9/10 |  Capstone 1 |  -  | - |
-| Wednesday 9/11 |  Capstone | - | - |
-| Thursday 9/12 |  Capstone | - | - |
-| Friday 9/13 | Capstone Presentations PM | - | - |
+| Monday    | Holiday (Memorial Day)                      |  -  | - |
+| Tuesday   | [Assessment 3][learn0]<br/> Group Check-in <br/> Continue to Capstone |  -  | - |
+| Wednesday | Group Check-in <br/> Back to Work! | - | - |
+| Thursday  | Group Check-in <br/> MORE WORK!!!! | - | - |
+| Friday    | Group Check-in <br/> Deliveriables by 5PM | - | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 9/16 | Assessment<br/>[KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] |Andrew | [slides][-] |
-| Tuesday 9/17 | [Linear Regression EDA][c5.2.1] <br/> [Predictive Linear Regression][c5.2.2]  | Jack   | [slides][-] |
-| Wednesday 9/18 |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] | Jack  | [slides][-] |
-| Thursday 9/19 | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] | Jack  | [slides][-] |
-| Friday 9/20 | [Regression Case Study][c5.5.1] | Andrew  | [slides][-] |
+| Day |  Readings | Repos | Lead Instructor | Slides |
+|:--:|:--|:--|:--:|:--:|
+| Monday | [kNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Andrew | [AM][lec-knn] <br/> [PM][lec-cv] |
+| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Phil  | [AM][lec-lin-reg] |
+| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][c5.3.1]<br/>[Inferential Regression][c5.3.2] |  Jack  | [AM][lec-regularization]<br/>[PM][lec-inf] |
+| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][c5.4.1]<br/>[Classification Measures of Effectiveness][c5.4.2] |  Andrew  | [AM][lec-log-reg] |
+| Friday | | [Regression Case Study][c5.5.1] |  Andrew  | - |
 
 --
 
 ### Week 6: Nonlinear Supervised Learning
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 9/23 | Assessment <br/> [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] | Jack  | [slides][-] |
-| Tuesday 9/24 | [Linear Splines][c6.1.1] <br/>[Decision Trees][c6.1.2] |Jack | [slides][-] |
-| Wednesday 9/25 |  [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] | Andrew   | [slides][-] |
-| Thursday 9/26 |  [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] | Jack  | [slides][-] |
-| Friday 9/27 | [Supervised Learning Case Study][c6.5.1]  | Andrew  | [slides][-] |
+| Day | Readings |  Repos | Lead Instructor | Slides |
+|:--:|:----|:--|:--:|:--:|
+| Monday |[Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Jack  | [AM][lec-grad-des] <br/> [PM][lec-nn] |
+| Tuesday | [Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Phil| [AM][lec-bst]<br/>[PM][lec-dt] |
+| Wednesday |[StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests][c6.2.1] |  Andrew   | [AM][lec-bg]<br/>[PM][lec-rf] |
+| Thursday | [StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Jack | [AM][lec-boosting] |
+| Friday |  | [Supervised Learning Case Study][c6.5.1] | Phil | - |
 
 --
 
-### Solo Week
+### Week 7: NLP and Unsupervised Learning
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Phil | [AM][lec-nlp] |
+| Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Jack   | [AM][lec-pca] <br/> [PM][lec-svd]|
+| Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Jack  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
+| Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Andrew  | [AM][lec-graph] |
+| Friday | | Regression Case Study | Phil | - |
+
+--
+
+### Week 8: Unit 2 Capstone 
+| Day |  Repos | Lead Instructor | Slides |
+|:--:|:--|:--:|:--:|
+| Monday |    Group Check-in | - | [slides][-] |
+| Tuesday |   Group Check-in <br/> Back to work |  -  | - |
+| Wednesday  |  Capstone Presentations PM | - | - |
+| Thursday |  Holiday (Independence Day) | - | - |
+| Friday | Holiday (Independence Day) | - | - |
+
+--
+
+### Week 9: Advanced Topics 1
+| Day | Readings |Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Andrew | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
+| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Andrew | [AM][lec-mab] <br/> [PM][lec-mcmc] |
+| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Content Based Recommenders][cont-recom]<br/>[Similarity Based Recommenders][sim-recom] |  Andrew  | [AM][lec-recom] |
+| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Andrew  | [AM][lec-matrix-recom] |
+| Friday |  | [Recommender Case Study][recom-case-study]  | Andrew | - |
+
+
+--
+
+### Week 10: Advanced Topics 2
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:-------|:--|:--:|:--:|
+| Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Phil | [AM][lec-convnets] |
+| Tuesday | [Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Jack   | [PM][lec-rnn] |
+| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding]| [Autoencoding/Word Embeddings/Text Classification][autoencode]<br/> |  Phil  | [PM][lec-autoencoder] |
+| Thursday |[Setup Flask][r-flask](5 min) <br/>[Flask Tutorials][r-flask-tutorials] (Do as many as you see fit, dont worry about setting up the virtual environment) <br/> [Get vs Post][r-get-post] | [Fraud Case Study (day 1)][fraud-case-study] |  Phil  | - | 
+| Friday |   | [Fraud Case Study (day 2)][fraud-case-study] |  Phil  | - | 
+
+--
+
+
+### Week 11: Unit 3 Capstone
 Your priorities this week:
 <ul>
-<li>Study any material from the previous weeks.</li>
+<li>Study any material from the previous weeks</li>
 <li>Collect data for upcoming capstones</li>
 <li>Recharge for the 2nd half of the course</li>
 </ul>
 
 --
 
-
-### Week 7: NLP and Unsupervised Learning
-| Day | Topic | Lead Instructor | Slides |
+### Week 12: Unit 3 Capstone Week 2
+| Day | Repos | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
-| Monday 10/7 | Assessment<br/>[NLP Intro][c7.1.1]<br/>[Text Classification][c7.1.2] | Jack | [slides][-] |
-| Tuesday 10/8 |  [PCA][c7.2.1]<br/>[SVD][c7.2.2] |  Jack   | [slides][-] |
-| Wednesday 10/9 |  [Clustering][c7.3.1]<br/>[NMF][c7.3.2] |  Jack  | [slides][-] |
-| Thursday 10/10 | [Graphs Introduction and Searching][c7.4.1]<br/>[Graphs Centrality and Communities][c7.4.2] |  Andrew  | [slides][-] |
-| Friday 10/11 | [NLP Case Study][c7.5.1] |  Andrew  | [slides][-] |
+| Monday | group check-in <br/> Work | - | - |
+| Tuesday | group check-in <br/> Work   |  -   | - |
+| Wednesday | Work <br/> Code freeze (EOD)  |  -  | - |
+| Thursday | Practice |  -  | - |
+| Friday | Practice |  -  | - |
 
 --
 
-### Week 8: Unit 2 Capstone
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 10/14 | Discuss and kickoff capstone 2 |  -  | [slides][-] |
-| Tuesday 10/15 |  Work. |  -  | - |
-| Wednesday 10/16 |  Work! | - | - |
-| Thursday 10/17 |  MORE WORK!!!! | - | - |
-| Friday 10/18 | Capstone Presentations PM | - | - |
+### Week 13: Career Week
+| Day | Readings | Repos | Lead Instructor | Slides |
+|:--:|:--:|:--|:--:|:--:|
+| Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Demo Day | - | - |
+| Tuesday | [Tackling the takehome][r-takehome] |  Caereer's Week  |  -   | - |
+| Wednesday | [Business Analytics][r-business] |  Caereer's Week  |  -  | - |
+| Thursday | [Model Comparison Guide][r-model-comp] | Caereer's Week |  -  | - |
+| Friday | - | Caereer's Week <br/> Graduation |  -  | - |
 
---
-
-### Week 9: Advanced Topics 1
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 10/21 | Assessment<br/>[Bayesian Inference][c9.1.1]<br/>[Bayesian Testing][c9.1.2] | Jack | [slides][-] |
-| Tuesday 10/22 |  [Multi-Armed Bandit][c9.2.1]<br/>[Markov-Chain Monte Carlo][c9.2.2] |  Jack   | [slides][-] |
-| Wednesday 10/23 |  [Content Based Recommenders][c9.3.1] <br/> [Similarity Based Recommenders][c9.3.2]|  Jack  | [slides][-] |
-| Thursday 10/24 | [Implicit Recommenders][c9.4.1] |  Andrew  | [slides][-] |
-| Friday 10/25 | [Recommender Case Study][c9.5.1]  |  Andrew  | [slides][-] |
-
---
-
-### Week 10: Advanced Topics 2
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 10/28 | [Image Analysis][c10.1.1]<br/>[CNNs][c10.1.2] | Jack | [slides][-] |
-| Tuesday 10/29 |  [Sequence Analysis][c10.2.1]<br/>[RNNs][c10.2.2] |  Jack   | [slides][-] |
-| Wednesday 10/30 |  [Autoencoding][c10.3.1]<br/>[Transfer Learning][c10.3.2] |  Jack  | [slides][-] |
-| Thursday 10/31 | [Fraud Case Study (day 1)][c10.4.1] |  Andrew  | [slides][-] |
-| Friday 11/1 | [Fraud Case Study (day 2)][c10.4.1] |  Andrew  | [slides][-] |
-
---
-
-### Week 11: Unit 3 Capstone
-Kickoff your unit 3 capstone projects.  You will have daily sprint checkins.  No presentations this week, as you'll have a demo evening next week.
-
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 11/4 |  | - | [slides][-] |
-| Tuesday 11/5 |   |  -   | [slides][-] |
-| Wednesday 11/6|   |  -  | [slides][-] |
-| Thursday 11/7|  |  -  | [slides][-] |
-| Friday 11/8|  |  -  | [slides][-] |
-
---
-
-### Week 12: Unit 3 Capstone
-| Day | Topic | Lead Instructor | Slides |
-|:--:|:--|:--:|:--:|
-| Monday 11/11 |  | - | [slides][-] |
-| Tuesday 11/12 |   |  -   | [slides][-] |
-| Wednesday 11/13 |   |  -  | [slides][-] |
-| Thursday 11/14 | PM - [Demo evening](notes/demo_day.md) |  -  | [slides][-] |
-| Friday 11/15 | PM - [Graduation](notes/graduation_day.md) |  -  | [slides][-] |
 
 --
 
 ## Textbooks
 We will focus on a few canonical texts for the class and readings will be assigned from them. If they are not in a physical form in our library, they are located in digital form on the Time Capsule or the Internet.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf): The book we use for the majority of machine learning readings.
-* [Machine Learning In Action](https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing):
+* [Machine Learning In Action](https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing): 
 
 ### Supplementary
 * [Doing Data Science](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659): One of the best treatments of the field with plenty of case studies.
@@ -256,48 +277,117 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Lecture Repos -->
 <!-- Week 1 -->
-
-<!-- Content Repos (sprints and assessments) -->
-<!-- Week 1 -->
-[c1.1.1]: https://github.com/GalvanizeDataScience/unix
-[c1.2.1]: https://github.com/GalvanizeDataScience/pandas
-[c1.2.2]: https://github.com/GalvanizeDataScience/matplotlib
-[c1.3.1]: https://github.com/GalvanizeDataScience/oop
-[c1.3.2]: https://github.com/GalvanizeDataScience/transformers
-[c1.4.1]: https://github.com/GalvanizeDataScience/linear-algebra
-[c1.4.2]: https://github.com/GalvanizeDataScience/numpy
-[c1.5.1]: https://github.com/GalvanizeDataScience/mongo-db
-[c1.5.2]: https://github.com/GalvanizeDataScience/web-scraping
+[lec-git]:https://github.com/gSchool/dsi-week-zero/blob/master/day-1-git-functions-testing/am_git-unix/intro_git_lec.md
+[lec-fun]:https://github.com/gSchool/DSI_Lectures/tree/master/fundamentals
+[lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
+[lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
+[lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
+[lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_algebra
+[lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/blob/SF/oop/oop_am.pdf
+[lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/oop_pm
+[lec-docker]:https://github.com/GalvanizeDataScience/lectures/blob/SF/docker/docker.pptx
+[lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/SF/aws
 
 <!-- Week 2 -->
-[c2.1.1]: https://github.com/GalvanizeDataScience/algorithmic-complexity
-[c2.1.2]: https://github.com/GalvanizeDataScience/search-trees
-[c2.2.1]: https://github.com/GalvanizeDataScience/docker
-[c2.2.2]: https://github.com/GalvanizeDataScience/aws
-[c2.3.1]: https://github.com/GalvanizeDataScience/sql
-[c2.3.2]: https://github.com/GalvanizeDataScience/sql-python
-[c2.4.1]: https://github.com/GalvanizeDataScience/spark-rdds
-[c2.4.2]: https://github.com/GalvanizeDataScience/spark-dfs
-[c2.5.1]: https://github.com/GalvanizeDataScience/spark-case-study
+[lec-bigo]:https://github.com/GalvanizeDataScience/lectures/tree/SF/big_o
+[lec-web]:https://github.com/GalvanizeDataScience/lectures/tree/SF/web_scraping
+[lec-sql]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sql
+[lec-sql-python]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sql_python
+[lec-spark-intro]:https://github.com/GalvanizeDataScience/lectures/tree/SF/spark/spark_intro_lecture.ipynb
+[lec-spark-df]:https://github.com/GalvanizeDataScience/lectures/tree/SF/spark/spark_df_lecture.ipynb
 
 <!-- Week 3 -->
-[c3.1.1]: https://github.com/GalvanizeDataScience/probability-distributions
-[c3.1.2]: https://github.com/GalvanizeDataScience/binomial-tests
-[c3.2.1]: https://github.com/GalvanizeDataScience/sampling-distributions
-[c3.2.2]: https://github.com/GalvanizeDataScience/law-of-large-numbers
-[c3.3.1]: https://github.com/GalvanizeDataScience/central-limit-theorem
-[c3.3.2]: https://github.com/GalvanizeDataScience/maximum-likelihood
-[c3.4.1]: https://github.com/GalvanizeDataScience/hypothesis-testing
+[lec-prob]:https://github.com/GalvanizeDataScience/lectures/tree/SF/probability
+[lec-binom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/binomial_test
+[lec-sampling]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sampling_distribution
+[lec-tlln]:https://github.com/GalvanizeDataScience/lectures/tree/SF/the_law_of_large_numbers
+[lec-clm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/central_limit_theorem
+[lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/maximum_likelihood
+[lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/SF/hypothesis_testing
+[lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/SF/statistical_power
+
+<!-- Week 5 -->
+[lec-knn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/knn
+[lec-cv]:https://github.com/GalvanizeDataScience/lectures/tree/SF/cross_validation
+[lec-lin-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear_regression
+[lec-regularization]:https://github.com/GalvanizeDataScience/lectures/tree/SF/regularized_regression
+[lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/inferential_linear_regression
+[lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/logistic_regression/
+
+<!-- Week 7 -->
+[lec-bst]:https://github.com/GalvanizeDataScience/lectures/tree/SF/search_trees
+[lec-dt]:https://github.com/GalvanizeDataScience/lectures/tree/SF/decision_tress
+[lec-bg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random_forests
+[lec-rf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random_forests
+[lec-boosting]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient_boosting
+[lec-grad-des]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient_descent
+[lec-nn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/neural_networks
+
+<!-- Week 8 -->
+[lec-nlp]:https://github.com/GalvanizeDataScience/lectures/tree/SF/nlp/
+[lec-pca]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pca
+[lec-svd]:https://github.com/GalvanizeDataScience/lectures/tree/SF/svd
+[lec-clustering]:https://github.com/GalvanizeDataScience/lectures/tree/SF/clustering
+[lec-nmf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/nmf
+[lec-graph]:https://github.com/GalvanizeDataScience/lectures/tree/SF/graph
+
+<!-- Week 10 -->
+[lec-bys]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian_inference
+[lec-bysabtest]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian_testing
+[lec-mab]:https://github.com/GalvanizeDataScience/lectures/tree/SF/multi_armed_bandit
+[lec-mcmc]:https://github.com/GalvanizeDataScience/lectures/tree/SF/mcmc/
+[lec-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/recommenders.ipynb
+[lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/matrix_factorization_for_recommendation.ipynb
+
+
+<!-- Week 11 -->
+[lec-convnets]:https://github.com/GalvanizeDataScience/lectures/tree/SF/convnets
+[lec-rnn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/rnn
+[lec-autoencoder]:https://github.com/GalvanizeDataScience/lectures/tree/SF/autoencoders
+
+<!-- Assignments -->
+<!-- Week 1 -->
+[unix]: https://github.com/GalvanizeDataScience/unix
+[pandas]: https://github.com/GalvanizeDataScience/pandas
+[matplotlib]: https://github.com/GalvanizeDataScience/matplotlib
+[oop]: https://github.com/GalvanizeDataScience/oop
+[transformer]:https://github.com/GalvanizeDataScience/transformers
+[linalg]: https://github.com/GalvanizeDataScience/linear-algebra
+[numpy]: https://github.com/GalvanizeDataScience/numpy
+[docker]: https://github.com/GalvanizeDataScience/docker
+[aws]: https://github.com/GalvanizeDataScience/aws
+
+<!-- Week 2 -->
+[big-o]: https://github.com/GalvanizeDataScience/algorithmic-complexity
+[c2.1.2]: https://github.com/GalvanizeDataScience/data-structures
+[sql]: https://github.com/GalvanizeDataScience/sql
+[py-sql]: https://github.com/GalvanizeDataScience/sql-python
+[mongodb]: https://github.com/GalvanizeDataScience/mongo-db
+[webscraping]: https://github.com/GalvanizeDataScience/web-scraping
+[rdds]: https://github.com/GalvanizeDataScience/spark-rdds
+[dfs]: https://github.com/GalvanizeDataScience/spark-dfs
+[c2.5.1]:https://github.com/GalvanizeDataScience/Spark-Case-Study/tree/g92
+
+<!-- Week 3 -->
+[prob]:https://github.com/GalvanizeDataScience/probability-distributions
+[binom]:https://github.com/GalvanizeDataScience/binomial-tests
+[sampling]: https://github.com/GalvanizeDataScience/sampling-distributions-dev/blob/master/assignment.md
+[lln]: https://github.com/GalvanizeDataScience/law-of-large-numbers
+[clt]:https://github.com/GalvanizeDataScience/central-limit-theorem-dev/blob/master/assignment.md
+[mle]:https://github.com/GalvanizeDataScience/maximum-likelihood
+[hyp]: https://github.com/GalvanizeDataScience/hypothesis-testing-dev/blob/master/assignment.md
 [c3.4.2]: https://github.com/GalvanizeDataScience/statistical-power
+[132.0]:  https://github.com/Esaslow/FlaskWebsite
+
+
 
 <!-- Week 4 -->
 
 
 <!-- Week 5 -->
 [c5.1.1]: https://github.com/GalvanizeDataScience/knn
-[c5.1.2]: https://github.com/GalvanizeDataScience/cross-validation
-[c5.2.1]: https://github.com/GalvanizeDataScience/linear-regression-eda
-[c5.2.2]: https://github.com/GalvanizeDataScience/predictive-linear-regression
+[c5.1.2]: https://github.com/GalvanizeDataScience/cross-validation/tree/knn
+[c5.2.1]: https://github.com/GalvanizeDataScience/predictive-linear-regression
 [c5.3.1]: https://github.com/GalvanizeDataScience/regularized-regression
 [c5.3.2]: https://github.com/GalvanizeDataScience/inferential-regression
 [c5.4.1]: https://github.com/GalvanizeDataScience/logistic-regression
@@ -305,49 +395,152 @@ We will focus on a few canonical texts for the class and readings will be assign
 [c5.5.1]: https://github.com/GalvanizeDataScience/regression-case-study
 
 <!-- Week 6-->
-[c6.1.1]: https://github.com/GalvanizeDataScience/linear-splines
+[c6.1.1]: https://github.com/GalvanizeDataScience/search-trees
 [c6.1.2]: https://github.com/GalvanizeDataScience/decision-trees
-[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests-implementation
-[c6.2.2]: https://github.com/GalvanizeDataScience/random-forests-application
+[c6.2.1]: https://github.com/GalvanizeDataScience/random-forests
 [c6.3.1]: https://github.com/GalvanizeDataScience/gradient-boosted-regression
 [c6.3.2]: https://github.com/GalvanizeDataScience/gradient-boosted-classification
 [c6.4.1]: https://github.com/GalvanizeDataScience/gradient-descent
-[c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons
+[c6.4.2]: https://github.com/GalvanizeDataScience/perceptrons/tree/g91-sea
 [c6.5.1]: https://github.com/GalvanizeDataScience/supervised-learning-case-study/
 
-<!-- Week 7-->
-[c7.1.1]: https://github.com/GalvanizeDataScience/nlp
-[c7.1.2]: https://github.com/GalvanizeDataScience/text-classification
-[c7.2.1]: https://github.com/GalvanizeDataScience/pca
-[c7.2.2]: https://github.com/GalvanizeDataScience/svd
-[c7.3.1]: https://github.com/GalvanizeDataScience/clustering
-[c7.3.2]: https://github.com/GalvanizeDataScience/topicmodeling
-[c7.4.1]: https://github.com/GalvanizeDataScience/graphs-searching
-[c7.4.2]: https://github.com/GalvanizeDataScience/graphs-communities
-[c7.5.1]: https://github.com/GalvanizeDataScience/nlp_case_study
+<!-- Week 8 -->
+[nlp]:https://github.com/GalvanizeDataScience/nlp
+[txt-clf]:https://github.com/GalvanizeDataScience/text-classification
+[pca]:https://github.com/GalvanizeDataScience/pca
+[svd]:https://github.com/GalvanizeDataScience/svd
+[clustering]:https://github.com/GalvanizeDataScience/clustering
+[nmf]:https://github.com/GalvanizeDataScience/topicmodeling
+[graphs-searching]: https://github.com/GalvanizeDataScience/graphs-searching
+[graphs-communities]: https://github.com/GalvanizeDataScience/graphs-communities
+[graph]:https://github.com/GalvanizeDataScience/graphs
+[nlp-case-study]:https://github.com/GalvanizeDataScience/nlp_case_study
+[autoencode]: https://github.com/GalvanizeDataScience/auto-encoders
 
-<!-- Week 9-->
-[c9.1.1]: https://github.com/GalvanizeDataScience/bayes-intro
-[c9.1.2]: https://github.com/GalvanizeDataScience/bayes-testing
-[c9.2.1]: https://github.com/GalvanizeDataScience/multi-armed-bandit
-[c9.2.2]: https://github.com/GalvanizeDataScience/mcmc
-[c9.3.1]: https://github.com/GalvanizeDataScience/content_based_recommender
-[c9.3.2]: https://github.com/GalvanizeDataScience/similarity_based_recommenders
-[c9.4.1]: https://github.com/GalvanizeDataScience/factorization_recommender
-[c9.5.1]: https://github.com/GalvanizeDataScience/recommender-case-study
 
-<!-- Week 10-->
-[c10.1.1]: https://github.com/GalvanizeDataScience/image-processing
-[c10.1.2]: https://github.com/GalvanizeDataScience/convolutional-neural-nets
-[c10.2.1]: https://github.com/GalvanizeDataScience/time-series
-[c10.2.2]: https://github.com/GalvanizeDataScience/recurrent-neural-nets
-[c10.3.1]: https://github.com/GalvanizeDataScience/auto-encoders
-[c10.3.2]: https://github.com/GalvanizeDataScience/transfer-learning
-[c10.4.1]: https://github.com/GalvanizeDataScience/fraud-detection-case-study
+<!-- Week 9 -->
+[bayes-inf]:https://github.com/GalvanizeDataScience/bayes-intro
+[bayes-testing]:https://github.com/GalvanizeDataScience/bayes-testing
+[mab]:https://github.com/GalvanizeDataScience/multi-armed-bandit
+[mcmc]:https://github.com/GalvanizeDataScience/mcmc
+[recom-case-study]:https://github.com/GalvanizeDataScience/recommender-case-study
+
+<!-- Week 10 -->
+[convnets]:https://github.com/GalvanizeDataScience/convolutional-neural-nets
+[image]:https://github.com/GalvanizeDataScience/image-processing/blob/seattle-g91/individual.md
+[seq-ana]:https://github.com/GalvanizeDataScience/time-series
+[rnns]:https://github.com/GalvanizeDataScience/recurrent-neural-nets
+[fraud-case-study]:https://github.com/GalvanizeDataScience/fraud-detection-case-study
+[transfer-learning]: https://github.com/GalvanizeDataScience/transfer-learning
+[sim-recom]:https://github.com/GalvanizeDataScience/similarity_based_recommenders
+[cont-recom]:https://github.com/GalvanizeDataScience/content_based_recommender
+[fac-recom]:https://github.com/GalvanizeDataScience/factorization_recommender
+
+
+<!-- Week 11 -->
+
+
+<!-- Assessments -->
+<!-- Week 1 -->
+[a0]: https://github.com/gschool/dsi-assessment-day1
+[learn0]: https://learn-2.galvanize.com/cohorts/858
 
 <!-- Readings -->
 <!-- Week 1 -->
-[r1.1.1]: notes/workflow.md
-[r1.1.2]: notes/pairing.md
+[workflow]: notes/workflow.md
+[pairing]: notes/pairing.md
+[r-unix]:http://www.ee.surrey.ac.uk/Teaching/Unix/
+[r-unixfords]:http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/
+[r-py15]:http://www.greenteapress.com/thinkpython/html/thinkpython016.html
+[r-intro-nb]:https://nbviewer.jupyter.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
+[r-10-pandas]:http://pandas.pydata.org/pandas-docs/stable/10min.html
+[r-pandas-top]:http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+[r-eda-pandas]:http://nbviewer.ipython.org/github/cs109/content/blob/master/labs/lab3/lab3full.ipynb
+[r-data-wrangling-pandas]:http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb
+[r-matplot1]:http://matplotlib.org/users/pyplot_tutorial.html
+[r-matplot2]:https://matplotlib.org/users/artists.html
+[r-linalg-numpy]:https://github.com/gSchool/precourse/blob/master/Chapter_2_Linear_Algebra/notes.md
+[r-linalg-review]:http://cs229.stanford.edu/section/cs229-linalg.pdf
+[r-multiproc]:https://www.youtube.com/watch?v=X2mO1O5Nuwg
+[r-intro-parallel]:http://sebastianraschka.com/Articles/2014_multiprocessing.html
+[r-intro-threading]:http://pymotw.com/2/threading/
+
+<!-- Week 2 -->
+[r-intro-alg]:http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf
+[r-mongo]:http://openmymind.net/mongodb.pdf
+[r-web-scraping]:https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+[r-sqlzoo]:http://sqlzoo.net/wiki/Main_Page
+[r-sql-join]:http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
+[r-spark]:https://drive.google.com/file/d/0B1cm3fV8cnJwc2ZnMFJmT2RLOXM/view?usp=sharing
+
+<!-- Week 3 -->
+[r-prob]:http://cs229.stanford.edu/section/cs229-prob.pdf
+[r-clt]:https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/sampling-distribution-mean/v/central-limit-theorem
+[r-mle]:https://www.youtube.com/watch?v=I_dhPETvll8
+[r-ztest]:https://www.youtube.com/watch?v=5ABpqVSx33I
+[r-hypo]:https://www.youtube.com/watch?v=-FtlH4svqx4
+[r-power]:https://www.youtube.com/watch?v=lHI5oEgNkrk
+[r-bootstrap]:https://www.youtube.com/watch?v=_nhgHjdLE-I
+
+
+<!-- Week 4 -->
+[r-knn]:https://learn.galvanize.com/cohorts/1341/units/8278
+[r-mlia]:https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
+[r-bias]:https://learn.galvanize.com/cohorts/1341/units/8274
+[r-cv]:https://learn.galvanize.com/cohorts/1341/units/8275
+[r-regu]:https://learn.galvanize.com/cohorts/1341/units/8276
+[r-islr]:http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
+[r-prac-reg]:https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf
+
+
+<!-- Week 7 --> 
+[r-dec-tree]:https://learn.galvanize.com/cohorts/1341/units/8277
+[r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
+[r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
+[r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+[r-esl]:https://web.stanford.edu/~hastie/ElemStatLearn/download.html
+[r-nn]:https://www.youtube.com/watch?v=bxe2T-V8XRs
+[r-ng-note]:http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+
+<!-- Week 8 -->
+[r-tfe-1]:http://blog.christianperone.com/?p=1589
+[r-tfe-2]:http://blog.christianperone.com/?p=1747
+[r-tfe-3]:http://blog.christianperone.com/?p=2497
+[r-sem-ana]:https://radimrehurek.com/phd_rehurek.pdf
+[r-nlp]:http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf
+[r-mmd]:http://infolab.stanford.edu/~ullman/mmds/book.pdf
+[r-nmf-py]:http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
+[r-sna]:http://www.asecib.ase.ro/mps/Social%20Network%20Analysis%20for%20Startups%20[2011].pdf
+
+
+<!-- Week 9-->
+[r-mab]:http://stevehanov.ca/blog/index.php?id=132
+
+<!-- Week 10-->
+[r-forecasting]:https://www.otexts.org/fpp
+[r-time-series]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/notes/TimeSeries.pdf
+[r-arima]:http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf
+[r-matrix-recom]:https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
+[r-graphlab]:https://turi.com/learn/userguide/recommender/choosing-a-model.html
+
+<!-- Week 11-->
+[r-autoencoder]:http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+[r-word-embedding]:https://arxiv.org/pdf/1301.3781.pdf
+[r-convnets]:https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+[r-transfer]:https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+[r-flask]:http://flask.pocoo.org/
+[r-flask-tutorials]:http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+[r-get-post]:http://www.w3schools.com/tags/ref_httpmethods.asp
+
+<!-- Week 13-->
+[r-120-Qs]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/120_Interview_Questions.pdf
+[r-takehome]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/takehome/take-home-guide.md
+[r-model-comp]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/review/Model_Comparison_Guide.md
+[r-business]:https://github.com/GalvanizeDataScience/course-outline/blob/19-02-DS-SF-g92/interview-prep/business/business_analytics_reading.md
+[polya]:https://math.berkeley.edu/~gmelvin/polya.pdf
+
+
+
 
 
