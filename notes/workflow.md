@@ -78,14 +78,9 @@ hello, world!
 
 ```
 $ ipython
-Python 2.7.6 (default, Apr  9 2014, 11:48:52)
+Python 3.7.3 (default, Mar 27 2019, 22:11:17)
 Type "copyright", "credits" or "license" for more information.
-
-IPython 2.0.0 -- An enhanced Interactive Python.
-?         -> Introduction and overview of IPython's features.
-%quickref -> Quick reference.
-help      -> Python's own help system.
-object?   -> Details about 'object', use 'object??' for extra details.
+IPython 7.6.1 -- An enhanced Interactive Python. Type '?' for help.
 
 In [1]: def hello_world():
    ...:     print("hello, world!")
@@ -139,8 +134,7 @@ document.**
 * Homebrew
 
   Homebrew is a Mac package utility. To install a package: `brew install
-  package-name`. To see which packages are installed: `brew list`. **DO NOT
-  INSTALL MACPORTS ON THE WORKSTATIONS.**
+  package-name`. To see which packages are installed: `brew list`. 
 
 ## Keyboard Shortcuts
 
@@ -255,7 +249,7 @@ As you continue to add to and modify your code, you'd rerun the file in the
 terminal each time to see the output of your print statements. That's fine,
 but there are better, more interactive ways.
 
-*Note on `if __name__ == "__main__":`: Code inside this block will only be executed
+*Note on `if __name__ == "__main__":`  Code inside this block will only be executed
 if the file is being directly run from the command line, as opposed to being
 imported as a module. If it's being imported, we just want the function and
 class definitions to be available; we don't want to run anything. This guard
@@ -266,9 +260,9 @@ guard.*
 ### Modules and Autoreload
 
 You can instead import the file as a module in iPython, and as you make
-modifications to the file, iPython will automagically reload the module (This
-is a setting that has been enabled on all the Galvanize workstations). Let's take
-a look.
+modifications to the file, iPython will automagically reload the module. 
+[Here's the documentation.](https://ipython.readthedocs.io/en/stable/config/extensions/autoreload.html) 
+Let's take a look.
 
 *editor:*
 
@@ -360,12 +354,6 @@ and play with all of our code interactively.
 import *`. This is very bad practice. It pollutes the global namespace (i.e. all
 the variable names declared on the top level) and it also won't work with
 `autoreload` in iPython, so don't do it.*
-
-To add `autoreload` functionality, feel free to inspect this
-[document](https://gist.github.com/rsepassi/2cdde6c6d4b36916cb37) and copy it to your own machine in the filepath `~/.ipython/profile_default/startup/autoreload_startup.ipy`
-
-
-
 
 
 

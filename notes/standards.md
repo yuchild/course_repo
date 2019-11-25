@@ -1,4 +1,4 @@
-Data Science Immersive Standards
+Data Science Immersive Standards (BETA)
 ====
 
 
