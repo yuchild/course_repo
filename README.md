@@ -49,10 +49,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix]<br/>[Git][git] | Flora  | [AM][lec-fun]<br/>[PM][lec-git] |
-| Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Flora | [AM][lec-numpy]<br/>[PM][lec-lin]   |
-| Wednesday | [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Flora | [AM][lec-pan]<br/>[PM][lec-mat]  |
-| Thursday | [Think Python][r-py15] <br/> [**Python code style**][r-python]  | [OOP][oop]<br/>[Transformers][transformer]       | Mark | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
+| Monday | [**Register for AWS credit**][r-aws]<br/>[Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] <br/> [**Git Remote**][gitremote] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix]<br/>[Git][git] | Hamid  | [AM][lec-fun]<br/>[PM][lec-git] |
+| Tuesday  | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Hamid | [AM][lec-numpy]<br/>[PM][lec-lin]   |
+| Wednesday | [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Tomas | [AM][lec-pan]<br/>[PM][lec-mat]  |
+| Thursday | [Think Python][r-py15] <br/> [**Python code style**][r-python]  | [OOP][oop]<br/>[Transformers][transformer]       | Hamid | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
 | Friday | - | [EDA Case Study][cs-eda] | - | - | 
 
 
@@ -61,10 +61,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 2: Big Data
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading] <br> [**Docker Getting Started**][r-docker](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS] | [Assessment 1][learn0]<br/> [Docker][docker]<br/>[AWS][aws] |  Mark  |  [AM][lec-docker]<br>[PM][lec-aws]|
-| Tuesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql] |  Mark  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
-| Wednesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping] |  Mark  | [AM][lec-web] |
-| Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs] |  Flora  | [AM][lec-spark-intro]<br/>[PM][lec-spark-df] |
+| Monday    | [Multiprocessing in Python][r-multiproc] <br/> [Intro to Parallel Processes][r-intro-parallel]<br/> [Intro to Threading][r-intro-threading] <br> [**Docker Getting Started**][r-docker](Do not re-install Docker!)<br>[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS] | [Assessment 1][learn0]<br/> [Docker][docker]<br/>[AWS][aws] |  Hamid  |  [AM][lec-docker]<br>[PM][lec-aws]|
+| Tuesday |[SQLZOO (tutorial: 1-9)][r-sqlzoo] <br/> [Visual Explanation of Joins][r-sql-join] | [SQL][sql]<br>[Python SQL][py-sql] |  Tomas  | [AM][lec-sql]<br/>[PM][lec-sql-python] |
+| Wednesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping] |  Tomas  | [AM][lec-web] |
+| Thursday  |[Learning Spark ][r-spark](ch 1--2, pg 1--22) <br/> Optional: [Learning Spark][r-spark] (ch 11: MLlib, pg 183--212)| [Spark RDDs][rdds]<br/>[Spark SQL][dfs] |  Hamid  | [AM][lec-spark-intro]<br/>[PM][lec-spark-df] |
 | Friday    | - | [Spark EDA Case Study][cs-spark]     |  -   |  |
 
 --
@@ -72,11 +72,11 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 3: Statistical Inference
 | Day | Readings | Repos | Lead  | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday  | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Flora  | [AM][lec-prob]<br/>[PM][lec-binom] |
-| Tuesday | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Flora  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
-| Wednesday | [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Flora  | [AM][lec-clm]<br/>[PM][lec-mm] |
-| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][power]         |  Flora  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
-| Friday | -  | [Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Mark | [AM][lec-bys]<br/>[PM][lec-bysabtest]  | 
+| Monday  | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Tomas  | [AM][lec-prob]<br/>[PM][lec-binom] |
+| Tuesday | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Tomas  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
+| Wednesday | [Central Limit Theorem][r-clt] <br/> [MLE][r-mle] | [Central Limit Theorem][clt]<br/>[Maximum Likelihood Estimation][mle] |  Hamid  | [AM][lec-clm]<br/>[PM][lec-mm] |
+| Thursday | [z-test VS t-test][r-ztest] <br/> [Hypothesis Testing][r-hypo] <br/> [Power Analysis][r-power]| [Hypothesis Testing][hyp]<br/>[Power Calculation][power]         |  Hamid/Tomas  | [AM][lec-hypothesis]<br/>[PM][lec-power] |
+| Friday | -  | [Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Hamid | [AM][lec-bys]<br/>[PM][lec-bysabtest]  | 
 
 --
 
@@ -94,10 +94,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 5: Supervised Learning and Regression
 | Day |  Readings | Repos | Lead | Slides |
 |:--:|:--|:--|:--:|:--:|
-| Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Flora | [AM][lec-knn] <br/> [PM][lec-cv] |
-| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg]<br/>[Machine Learning in Action][r-mlia](5, pg 83--90)  | [Predictive Linear Regression][pred-lin-reg]<br/>[Gradient Descent][c6.4.1] |  Flora  | [AM][lec-lin-reg]<br/>[PM][lec-grad-des] |
-| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][reg-reg]<br/>[Inferential Regression][inf-reg] |  Mark  | [AM][lec-regularization]<br/>[PM][lec-inf] |
-| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][log-reg]<br/>[Classification Measures of Effectiveness][decision-rules] |  Mark  | [AM][lec-log-reg] |
+| Monday | [KNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Herbert/Tomas | [AM][lec-knn] <br/> [PM][lec-cv] |
+| Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg]<br/>[Machine Learning in Action][r-mlia](5, pg 83--90)  | [Predictive Linear Regression][pred-lin-reg]<br/>[Gradient Descent][c6.4.1] |  Tomas/Hamid  | [AM][lec-lin-reg]<br/>[PM][lec-grad-des] |
+| Wednesday | [Regularized Regression][r-regu] <br/> [StatLearning: Shrinkage Methods][r-islr] (6.2, pg 214-228) (optional: pg 203-214)  |  [Regularized Regression][reg-reg]<br/>[Inferential Regression][inf-reg] |  Tomas  | [AM][lec-regularization]<br/>[PM][lec-inf] |
+| Thursday | [StatLearning][r-islr]: Classification (4-4.4, pg 127-137) <br/> [Machine Learning in Action][r-mlia] (section 7.7, pg 142-148) | [Logistic Regression][log-reg]<br/>[Classification Measures of Effectiveness][decision-rules] |  Hamid  | [AM][lec-log-reg] |
 | Friday | | [Regression Case Study][cs-reg] |  -  | - |
 
 --
@@ -108,9 +108,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day | Readings |  Repos | Lead | Slides |
 |:--:|:----|:--|:--:|:--:|
 | Monday | Holiday (MLK) | - | - | - | 
-| Tuesday |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37)<br/>[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Algorithmic Complexity][big-o]<br/>[Decision Trees][c6.1.2] | Flora | [AM][lec-bigo] <br/>[PM][lec-dt] |
-| Wednesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  Flora   | [AM][lec-bg]<br/>[PM][lec-rf] |
-| Thursday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Mark | [AM][lec-boosting] |
+| Tuesday |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37)<br/>[Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Algorithmic Complexity][big-o]<br/>[Decision Trees][c6.1.2] | Hamid | [AM][lec-bigo] <br/>[PM][lec-dt] |
+| Wednesday | [StatLearning: ensembles][r-islr] (8.2, pg 316--321) | [Random Forests Implementation][c6.2.1]<br/>[Random Forests Application][c6.2.2] |  Tomas   | [AM][lec-bg]<br/>[PM][lec-rf] |
+| Thursday |[StatLearning][r-islr] (8.2.3, pg 321--324) <br/> Optional (more depth)[Elements of Stats Learning][r-esl](10--10.6, pg 337--350)  | [Gradient Boosted Regressors][c6.3.1]<br/>[Gradient Boosted Classifiers][c6.3.2] |  Hamid | [AM][lec-boosting] |
 | Friday | - | [Supervised Learning Case Study][c6.5.1]  |  - | - |
 
 
@@ -119,10 +119,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 7: NLP and Unsupervised Learning
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-------:|:--|:--:|:--:|
-| Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in NLP][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Mark | [AM][lec-nlp] |
-| Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Flora   | [AM][lec-pca] <br/> [PM][lec-svd]|
-| Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Mark  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
-| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana] |  Flora   | [AM][lec-time-series] |
+| Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in NLP][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Hamid | [AM][lec-nlp] |
+| Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Tomas   | [AM][lec-pca] <br/> [PM][lec-svd]|
+| Wednesday | [StatsLearning][r-islr](pg 385--400) <br/> [NMF in Python][r-nmf-py] | [Clustering][clustering]<br/>[NMF][nmf] |  Tomas  | [AM][lec-clustering] <br/> [PM][lec-nmf] |
+| Thursday |[Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana] |  Hamid   | [AM][lec-time-series] |
 | Friday | - | [NLP Case Study][nlp-case-study] | - | - |
 
 
@@ -142,10 +142,10 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 9: Advanced Topics 1
 | Day | Readings |Repos | Lead | Slides |
 |:--:|:-------|:--|:--:|:--:|
-| Monday | [Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn] | [Basic Neural Networks][c6.4.2] | Flora | [AM][lec-nn]| 
-| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Mark | [AM][lec-mab] <br/> [PM][lec-mcmc] |
-| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Content Based Recommenders][cont-recom]<br/>[Similarity Based Recommenders][sim-recom] |  Mark  | [AM][lec-recom] |
-| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Mark  | [AM][lec-recom] |
+| Monday | [Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn] | [Basic Neural Networks][c6.4.2] | Hamid | [AM][lec-nn]| 
+| Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Hamid | [AM][lec-mab] <br/> [PM][lec-mcmc] |
+| Wednesday | [Machine Learning in Action][r-mlia](14.4--14.5, pg 286--295) <br/> [Mining Massive Datasets][r-mmd](9.1--9.2, pg 307--320)|  [Content Based Recommenders][cont-recom]<br/>[Similarity Based Recommenders][sim-recom] |  Tomas  | [AM][lec-recom] |
+| Thursday | [Mining Massive Datasets][r-mmd](9.4--9.5) <br/> [Matrix Factorization Techniques for Recommender Systems][r-matrix-recom] <br/> [Graphlab: Choosing a recommender][r-graphlab]| [Matrix Factorization Recommenders][fac-recom] <br/> [Recommender Case Study][recom-case-study] |  Tomas/Hamid  | [AM][lec-recom] |
 | Friday | -  | [Recommender Case Study][recom-case-study]  |  -  | - |
 
 
@@ -155,9 +155,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 | Day | Readings | Repos | Lead | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | Holiday (president) | - | - | - | 
-| Tuesday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] <br/> [transfer learning][transfer] | Flora | [AM][lec-convnets] |
-| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding] | [RNNs][rnns]<br/>[Autoencoding/Word Embeddings/Text Classification][autoencode] |  Mark   | [AM][lec-rnn]<br/>[PM][lec-autoencoder] |
-| Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Flora  | [AM][lec-graph] |
+| Tuesday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [ConvNets][convnets] <br/> [transfer learning][transfer] | Hamid | [AM][lec-convnets] |
+| Wednesday | [Auto-Encoders][r-autoencoder] <br/> [Word Embeddings][r-word-embedding] | [RNNs][rnns]<br/>[Autoencoding/Word Embeddings/Text Classification][autoencode] |  Hamid   | [AM][lec-rnn]<br/>[PM][lec-autoencoder] |
+| Thursday | [Social Network Analysis][r-sna](ch 2 pg 19--38) <br/> [Mining Massive Datasets][r-mmd] (ch 10.1--10.2 pg 343--356)|[Graphs Introduction and Searching][graphs-searching]<br/>[Graphs Centrality and Communities][graphs-communities] |  Tomas  | [AM][lec-graph] |
 | Friday | - | [Fraud Case Study][fraud-case-study]<br/> Kick off Capstone III|  -  | - | 
 
 
