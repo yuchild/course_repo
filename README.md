@@ -432,7 +432,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Assessments -->
 <!-- Week 1 -->
-[learn0]: https://learn-2.galvanize.com/cohorts/1505
+[learn0]: https://learn-2.galvanize.com/cohorts/1457
 
 <!-- Readings -->
 <!-- Week 1 -->
