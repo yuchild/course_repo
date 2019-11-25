@@ -257,76 +257,76 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Lecture Repos -->
 <!-- Week 1 -->
-[lec-git]:https://github.com/GalvanizeDataScience/lectures/tree/SF/git
-[lec-fun]:https://github.com/GalvanizeDataScience/lectures/tree/SF/unix
-[lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
-[lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
-[lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
-[lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear-algebra
-[lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/
-[lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/oop/
-[lec-docker]:https://github.com/GalvanizeDataScience/lectures/tree/SF/docker/
-[lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/SF/aws
+[lec-git]:https://github.com/GalvanizeDataScience/lectures/tree/LA/git
+[lec-fun]:https://github.com/GalvanizeDataScience/lectures/tree/LA/unix
+[lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/LA/pandas
+[lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/LA/matplotlib
+[lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/LA/numpy
+[lec-lin]:https://github.com/GalvanizeDataScience/lectures/tree/LA/linear-algebra
+[lec-oop-am]:https://github.com/GalvanizeDataScience/lectures/tree/LA/oop/
+[lec-oop-pm]:https://github.com/GalvanizeDataScience/lectures/tree/LA/oop/
+[lec-docker]:https://github.com/GalvanizeDataScience/lectures/tree/LA/docker/
+[lec-aws]:https://github.com/GalvanizeDataScience/lectures/tree/LA/aws
 [cs-eda]:https://github.com/GalvanizeDataScience/Pandas-EDA-Case-Study
 
 <!-- Week 2 -->
-[lec-bigo]:https://github.com/GalvanizeDataScience/lectures/tree/SF/big-o
-[lec-bst]:https://github.com/GalvanizeDataScience/lectures/tree/SF/search-trees
-[lec-web]:https://github.com/GalvanizeDataScience/lectures/tree/SF/web-scraping
-[lec-sql]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sql
-[lec-sql-python]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sql-python
-[lec-spark-intro]:https://github.com/GalvanizeDataScience/lectures/blob/SF/spark/spark-rdds.ipynb
+[lec-bigo]:https://github.com/GalvanizeDataScience/lectures/tree/LA/big-o
+[lec-bst]:https://github.com/GalvanizeDataScience/lectures/tree/LA/search-trees
+[lec-web]:https://github.com/GalvanizeDataScience/lectures/tree/LA/web-scraping
+[lec-sql]:https://github.com/GalvanizeDataScience/lectures/tree/LA/sql
+[lec-sql-python]:https://github.com/GalvanizeDataScience/lectures/tree/LA/sql-python
+[lec-spark-intro]:https://github.com/GalvanizeDataScience/lectures/blob/LA/spark/spark-rdds.ipynb
 [lec-spark-df]:https://github.com/GalvanizeDataScience/lectures/blob/SF/spark/spark-sql.ipynb
 
 <!-- Week 3 -->
-[lec-prob]:https://github.com/GalvanizeDataScience/lectures/tree/SF/probability
-[lec-binom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/binomial-test
-[lec-sampling]:https://github.com/GalvanizeDataScience/lectures/tree/SF/sampling-distribution
-[lec-tlln]:https://github.com/GalvanizeDataScience/lectures/tree/SF/the-law-of-large-numbers
-[lec-clm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/central-limit-theorem
-[lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/maximum-likelihood
-[lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/SF/hypothesis-testing
-[lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/SF/statistical-power
+[lec-prob]:https://github.com/GalvanizeDataScience/lectures/tree/LA/probability
+[lec-binom]:https://github.com/GalvanizeDataScience/lectures/tree/LA/binomial-test
+[lec-sampling]:https://github.com/GalvanizeDataScience/lectures/tree/LA/sampling-distribution
+[lec-tlln]:https://github.com/GalvanizeDataScience/lectures/tree/LA/the-law-of-large-numbers
+[lec-clm]:https://github.com/GalvanizeDataScience/lectures/tree/LA/central-limit-theorem
+[lec-mm]:https://github.com/GalvanizeDataScience/lectures/tree/LA/maximum-likelihood
+[lec-hypothesis]:https://github.com/GalvanizeDataScience/lectures/tree/LA/hypothesis-testing
+[lec-power]:https://github.com/GalvanizeDataScience/lectures/tree/LA/statistical-power
 
 <!-- Week 5 -->
-[lec-knn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/knn
-[lec-cv]:https://github.com/GalvanizeDataScience/lectures/tree/SF/cross-validation
-[lec-lin-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/linear-regression
-[lec-regularization]:https://github.com/GalvanizeDataScience/lectures/tree/SF/regularized-regression
-[lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/inferential-linear-regression
-[lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/logistic-regression/
+[lec-knn]:https://github.com/GalvanizeDataScience/lectures/tree/LA/knn
+[lec-cv]:https://github.com/GalvanizeDataScience/lectures/tree/LA/cross-validation
+[lec-lin-reg]:https://github.com/GalvanizeDataScience/lectures/tree/LA/linear-regression
+[lec-regularization]:https://github.com/GalvanizeDataScience/lectures/tree/LA/regularized-regression
+[lec-inf]:https://github.com/GalvanizeDataScience/lectures/tree/LA/inferential-linear-regression
+[lec-log-reg]:https://github.com/GalvanizeDataScience/lectures/tree/LA/logistic-regression/
 
 <!-- Week 7 -->
-[lec-dt]:https://github.com/GalvanizeDataScience/lectures/tree/SF/decision-tress
-[lec-svm]:https://github.com/GalvanizeDataScience/lectures/tree/SF/svm
-[lec-bg]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random-forests
-[lec-rf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/random-forests
-[lec-boosting]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient-boosting
-[lec-grad-des]:https://github.com/GalvanizeDataScience/lectures/tree/SF/gradient-descent
-[lec-nn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/neural-networks
+[lec-dt]:https://github.com/GalvanizeDataScience/lectures/tree/LA/decision-tress
+[lec-svm]:https://github.com/GalvanizeDataScience/lectures/tree/LA/svm
+[lec-bg]:https://github.com/GalvanizeDataScience/lectures/tree/LA/random-forests
+[lec-rf]:https://github.com/GalvanizeDataScience/lectures/tree/LA/random-forests
+[lec-boosting]:https://github.com/GalvanizeDataScience/lectures/tree/LA/gradient-boosting
+[lec-grad-des]:https://github.com/GalvanizeDataScience/lectures/tree/LA/gradient-descent
+[lec-nn]:https://github.com/GalvanizeDataScience/lectures/tree/LA/neural-networks
 
 <!-- Week 8 -->
-[lec-nlp]:https://github.com/GalvanizeDataScience/lectures/tree/SF/nlp/
-[lec-pca]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pca
-[lec-svd]:https://github.com/GalvanizeDataScience/lectures/tree/SF/svd
-[lec-clustering]:https://github.com/GalvanizeDataScience/lectures/tree/SF/clustering
-[lec-nmf]:https://github.com/GalvanizeDataScience/lectures/tree/SF/nmf
-[lec-graph]:https://github.com/GalvanizeDataScience/lectures/tree/SF/graph
+[lec-nlp]:https://github.com/GalvanizeDataScience/lectures/tree/LA/nlp/
+[lec-pca]:https://github.com/GalvanizeDataScience/lectures/tree/LA/pca
+[lec-svd]:https://github.com/GalvanizeDataScience/lectures/tree/LA/svd
+[lec-clustering]:https://github.com/GalvanizeDataScience/lectures/tree/LA/clustering
+[lec-nmf]:https://github.com/GalvanizeDataScience/lectures/tree/LA/nmf
+[lec-graph]:https://github.com/GalvanizeDataScience/lectures/tree/LA/graph
 
 <!-- Week 10 -->
-[lec-bys]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian-inference
-[lec-bysabtest]:https://github.com/GalvanizeDataScience/lectures/tree/SF/bayesian-testing
-[lec-mab]:https://github.com/GalvanizeDataScience/lectures/tree/SF/multi-armed-bandit
-[lec-mcmc]:https://github.com/GalvanizeDataScience/lectures/tree/SF/mcmc/
-[lec-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations
-[lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/tree/SF/recommendations/matrix-factorization-for-recommendation.ipynb
+[lec-bys]:https://github.com/GalvanizeDataScience/lectures/tree/LA/bayesian-inference
+[lec-bysabtest]:https://github.com/GalvanizeDataScience/lectures/tree/LA/bayesian-testing
+[lec-mab]:https://github.com/GalvanizeDataScience/lectures/tree/LA/multi-armed-bandit
+[lec-mcmc]:https://github.com/GalvanizeDataScience/lectures/tree/LA/mcmc/
+[lec-recom]:https://github.com/GalvanizeDataScience/lectures/tree/LA/recommendations
+[lec-matrix-recom]:https://github.com/GalvanizeDataScience/lectures/tree/LA/recommendations/matrix-factorization-for-recommendation.ipynb
 
 
 <!-- Week 11 -->
-[lec-convnets]:https://github.com/GalvanizeDataScience/lectures/tree/SF/convnets
-[lec-rnn]:https://github.com/GalvanizeDataScience/lectures/tree/SF/rnn
-[lec-autoencoder]:https://github.com/GalvanizeDataScience/lectures/tree/SF/autoencoders
-[lec-time-series]:https://github.com/GalvanizeDataScience/lectures/tree/SF/time-series
+[lec-convnets]:https://github.com/GalvanizeDataScience/lectures/tree/LA/convnets
+[lec-rnn]:https://github.com/GalvanizeDataScience/lectures/tree/LA/rnn
+[lec-autoencoder]:https://github.com/GalvanizeDataScience/lectures/tree/LA/autoencoders
+[lec-time-series]:https://github.com/GalvanizeDataScience/lectures/tree/LA/time-series
 
 <!-- Assignments -->
 <!-- Week 1 -->
@@ -479,17 +479,17 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 
 <!-- Week 4 -->
-[r-knn]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/knn/README.md
+[r-knn]:https://learn-2.galvanize.com/cohorts/1505/blocks/244/content_files/knn/README.md
 [r-mlia]:https://drive.google.com/file/d/0B1cm3fV8cnJwcUNWWnFaRWgwTDA/view?usp=sharing
-[r-bias]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/bias-variance/readme.md
-[r-cv]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/cross-validation/readme.md
-[r-regu]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/regularized-regression/readme.md
+[r-bias]:https://learn-2.galvanize.com/cohorts/1505/blocks/244/content_files/bias-variance/readme.md
+[r-cv]:https://learn-2.galvanize.com/cohorts/1505/blocks/244/content_files/cross-validation/readme.md
+[r-regu]:https://learn-2.galvanize.com/cohorts/1505/blocks/244/content_files/regularized-regression/readme.md
 [r-islr]:http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 [r-prac-reg]:https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf
 
 
 <!-- Week 7 --> 
-[r-dec-tree]:https://learn-2.galvanize.com/cohorts/992/blocks/244/content_files/dec_tree/README.md
+[r-dec-tree]:https://learn-2.galvanize.com/cohorts/1505/blocks/244/content_files/dec_tree/README.md
 [r-recursion]:http://interactivepython.org/runestone/static/pythonds/index.html#recursion
 [r-recu-prac]:https://github.com/gSchool/dsi-welcome/blob/19-01-DS-SF-g88/readings/recursion
 [r-dec-tree-visual]:http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
