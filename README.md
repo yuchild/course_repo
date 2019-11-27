@@ -81,7 +81,7 @@ The readings are expected to take 1-1.5 hours each night. They will help you und
 --
 
 ### Break Weeks 1 and 2
-Your priorities for the holiday breakthis week:
+Your priorities for the holiday break:
 <ul>
 <li>Study material from the previous weeks.</li>
 <li>Research capstone 1 ideas</li>
