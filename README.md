@@ -117,7 +117,7 @@ Your priorities for the holiday break:
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
 | Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | ---- |----                  |
 | Tuesday   |[Random Forests][r-rfa]<br>[Gradient Boosted Regressors][c6.3.1]                | ---- |----  |
-| Wednesday |[Boosted Classifiers][r-abst]<br> [Neural nets - MLP (Denver)][c6.4.2]          | ---- |----  |
+| Wednesday |[Time Series][r-ts]<br> [Neural nets - MLP (Denver)][c6.4.2]                    | ---- |----  |
 | Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                           | ---- |----  |
 | Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | ---- |--                          |
 
@@ -149,7 +149,7 @@ Your priorities for the holiday break:
 |    Day    | Repos                                                                          | Lead  |        Readings            
 |:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
 | Monday    | Assessment 6<br/>[Data products: Flask][r-flsk]                                | ---- | ----          |
-| Tuesday   | [Time Series][r-ts]<br>[Neural Nets- RNN][r-rnn]                               | ---- | ----  |
+| Tuesday   | [Neural Nets- RNN][r-rnn]                                                      | ---- | ----  |
 | Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | ---- | ----            |
 | Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | ---- | ----            |
 | Friday    | [Recommender Case Study (Denver)][r-csrec1]                                    | ---- | --                         |
