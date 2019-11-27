@@ -14,8 +14,8 @@ To jump to a week of interest, click on the link.
 | Week | Date | Topic |
 | --- | --- | --- |
 | 1 | 12/02/19 | [Programming](#week-1-programming-for-data-science) |
-| 2 | 12/09/19 |  [Big Data](#week-2-big-data) |
-| 3 | 12/16/19 | [Statistical Inference](#week-3-statistical-inference) |
+| 2 | 12/09/19 | [Statistical Inference](#week-2-statistical-inference) | 
+| 3 | 12/16/19 | [Big Data](#week-3-big-data) |
 | - | 12/23/19 | Break Week |
 | - | 12/30/19 | Break Week |
 | 4 | 01/06/20 | [Capstone 1](#week-4-unit-1-capstone)|
@@ -34,7 +34,7 @@ To jump to a week of interest, click on the link.
 * [Past student projects](https://github.com/GalvanizeDataScience/project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 * [Lectures](https://github.com/GalvanizeDataScience/lectures/tree/Denver) Lectures for each day can be found in the lectures repo of the same name.  Clone (don't Fork) this repo.  Then checkout the Denver branch.
 
-## Capstone Project
+## Capstone Projects
 Capstone projects allow you to put in to practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews.You will submit capstone proposals to the instructors for approval before the capstone weeks begin.  Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
 
 
@@ -42,61 +42,50 @@ Capstone projects allow you to put in to practice some of the knowledge you are 
 In the weekly tables below, each row represents a day.  Each row information and links on:
 
 * __Day:__ Day of the Week
-* __Readings__ Readings for the day (to be completed the night before).
 * __Repos:__ The day's exercises.
-* __Lead:__ The instructor who is the point person for the day.
-* __Slides:__ The day's lecture notes and slides.
+* __Readings__ Readings for the day (complete the night before).
 
+The readings are expected to take 1-1.5 hours each night. They will help you understand the lecture material better the next day. 
 
 ### Week 1: Programming for Data Science
-|    Day    | Repos                                                                          |         Readings (bold is required)             |  
-|:---------:|:-------------------------------------------------------------------------------|:----------------------------:|    
+|    Day    |Repos                                                                           |         Readings (bold is required)             |  
+|:---------:|:-------------------------------------------------------------------------------|:------------------------------------------------|    
 | Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][c1.1.1]                     |  [**Development Workflow**][r1.1.1]<br>[**Pair Programming**][r1.1.2]<br>[**A Taxonomy of Data Science**][r-tds]<br>[**Unix Philosophy**][1.1.3]|
-| Tuesday   |[Python Intro.][python]<br>[OOP][oop]                                           | [**Python code style**][r-python]<br>[**Classes**][r-oop]|
+| Tuesday   |[Python Intro.][python]<br>[OOP][oop] (Denver branch)                           | [**Python code style**][r-python]<br>[**Classes**][r-oop]|
 | Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | [**Linear Algebra Overview**][r-dlb-la](2.1-2.7)<br>[**Linear Algebra and Numpy**][r-la-np] |
-| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | [**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[**Less is More**][1.2.6]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]|
-| Friday    |[Review][wr]<br>[Feature Branch Workflow][fbw]<br>[EDA case study][cs-eda]    | [**Git workflows**][r-gwf]<br>[**Effective Matplotlib**][1.2.5]|
+| Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | [**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[**Less is More**][1.2.6]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Matplotlib][1.2.5]|
+| Friday    |[Review][wr]<br>[Feature Branch Workflow][fbw]<br>[EDA case study][cs-eda]    | [**Git workflows**][r-gwf] (esp. feature branch)<br>[**What is EDA?**][r-eda1]<br><br>Examples of beautiful EDA:<br>[**Denver Auto Accidents**][r-jh]<br>(check out the plotting code in `src/plot.py`)<br>[**Service Provisions by Non-State Actors**][r-jst]<br>(see `FinalCode.py`)|
 
 --
 
 ### Week 2: Statistical Inference
-|    Day    | Repos                                                                          | Lead  |        Readings  (bold is required             |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
-| Monday    | Assessment 2<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]                                                           | Fred | <ul><li> [Seeing Theory][r-see-theory-1-3] </li><li> [Binomial Test][r-binom-test] </li><li> [Review of Probability Theory][3.1.1] </li></ul> |
-| Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]         | Kayla |<ul><li>[Seeing Theory: Frequentest Inference][r-see-theory-4] </li><li>  [Law of Large Numbers][r-law-large-numbers] </li></ul> |
-| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]          | Frank |<ul><li>[Central Limit Theorem][3.3.1] </li><li> [MLE][3.3.2] </li></ul> |
-| Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]| Kayla |<ul><li>[z-test VS t-test][3.4.1] </li><li> [Hypothesis Testing][3.4.2] </li><li> [Power Analysis][3.4.3] </li></ul> |
-| Friday    | [Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab] | Frank |[Intro. to Bayesian Statistics 2][r-ibs2]|
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday    | Assessment 1<br>[Probability][prob-dist]<br>[Binomial Tests][binom-tst]        | [**Seeing Theory: Basic Prob., Compound Prob., and Prob. Distributions**][r-see-theory-1-3]<br>[**Binomial Test**][v-binom-t]<br>[Review of Probability Theory][3.1.1] |
+| Tuesday   | [Sampling Distributions][smp-dist]<br>[Law of Large Numbers][law-ln]           | [**Seeing Theory: Frequentist Inference**][r-see-theory-4]<br>[**Law of Large Numbers**][r-law-large-numbers]|
+| Wednesday | [Central Limit Theorem][clt-bs]<br>[Maximum Likelihood Estimation][mle]        |[**Central Limit Theorem**][v-clt]<br>[**MLE**][v-mle1]<br>[MLE for Normal][v-mle2]   |
+| Thursday  | [Hypothesis Testing][hyp-ts-d]<br>[Power Calculation][power]                   |[**z-test VS t-test**][3.4.1]<br>[**Hypothesis Testing**][3.4.2]<br>[**Power Analysis**][3.4.3]|
+| Friday    | [Review][wr]<br>[Bayesian Inference][r-bi]<br>[Bayesian Testing][r-bab]        |[**Intro. to Bayesian Statistics 1**][r-ibs1]<br>[**Intro. to Bayesian Statistics 2**][r-ibs2]|
 
 --
 
 ### Week 3: Big Data
-|    Day    | Repos                                                                          | Lead  |        Readings (bold is required)              |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|    
-| Monday    | Assessment 1<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           | Frank | <ul><li>[Introduction to Algorithms][algorithms] (ch 2, pg 16-37)</li><li> [Big O notation][r-bigO]|</li></ul>|
-| Tuesday   | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                               | Kayla|<ul><li>[SQLZOO (tutorial: 1-9)][2.3.1] </li><li> [Visual Explanation of Joins][2.3.2] </li><li> [Psycopg][r-psycopg]</li></ul>|
-| Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                           | Frank | <ul><li> [Little book of MongoDB][1.5.1] </li><li> [Web Scraping with Python and Beautiful Soup][r-ws] </li><li> [Basic Web Scaping][1.5.2]</li></ul>  |
-| Thursday  | [CI proposal due 9 am][cI]<br>[Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]                                   | Kayla |<ul><li> [Learning Spark][LearningSpark] (ch 1-2, pg 1-22) </li><li> Optional: [Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)  </li></ul>|
-| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 | Fred |-                          |--
+|    Day    | Repos                                                                          | Readings                                        |  
+|:---------:|:-------------------------------------------------------------------------------|:------------------------------------------------|    
+| Monday    | Assessment 3<br>[Algorithmic Complexity][c2.1.1]<br>[Docker][c2.2.1]           |[**Introduction to Algorithms**][algorithms] (ch 2, pg 16-37)<br>[**Docker Getting Started**][2.2.1](wait to install in class)<br>[Big O notation][r-bigO]|
+| Tuesday   | [SQL][c2.3.1]<br>[Python SQL][c2.3.2]                                          |[**SQLZOO (tutorial: 1-9)**][2.3.1]<br>[**Psycopg**][r-psycopg]<br>[Visual Explanation of Joins][2.3.2]|
+| Wednesday | [AWS][c2.2.2]<br>[Mongo & Web Scraping][c1.5.2]                                |[**About AWS**][r-about-AWS]<br>[**Getting Started on AWS**][r-start-AWS]<br>**Read through three 10 minute tutorials**:<br>- Launch a VM (EC2)<br>- Store and Retrieve a File (S3)<br>- Store Multiple Files to the Cloud Using s3 and the AWS CLI<br>[**MongoDB Basics**][r-mdb]<br>[**Webscraping with Python and Beautiful Soup**][r-ws]|
+| Thursday  | [CI proposal due 9 am][cI]<br>[Spark RDDs][c2.4.1]<br/>[Spark SQL][c2.4.2]     |[**Learning Spark**][LearningSpark] (ch 1-2, pg 1-22)<br>[Learning Spark][LearningSpark] (ch 11: MLlib, pg 183-212)|
+| Friday    | [Review][wr]<br>[Spark EDA Case Study][c2.5.1]                                 |-                          |--
 
 --
 
-### Break Week
-Your priorities this week:
+### Break Weeks 1 and 2
+Your priorities for the holiday breakthis week:
 <ul>
 <li>Study material from the previous weeks.</li>
 <li>Research capstone 1 ideas</li>
-<li>Recharge for the 2nd half of the course</li>
-</ul>
-
---
-
-### Break Week
-Your priorities this week:
-<ul>
-<li>Study material from the previous weeks.</li>
-<li>Research capstone 1 ideas</li>
-<li>Recharge for the 2nd half of the course</li>
+<li>Recharge for the rest of the course</li>
 </ul>
 
 --
@@ -104,7 +93,7 @@ Your priorities this week:
 ### Week 4: Unit 1 Capstone
 | Day  | Topic | Lead | Readings |
 |:--:|:--|:--:|:--:|
-| Monday |  Assessment 3<br>[Capstone I][cI]<br>[Mock Interview][mi] |  -  | - |
+| Monday |  Assessment 2<br>[Capstone I][cI]<br>[Mock Interview][mi] |  -  | - |
 | Tuesday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
 | Wednesday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
 | Thursday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
@@ -345,8 +334,11 @@ We will focus on a few canonical texts for the class and readings will be assign
 [r-dlb-la]: http://www.deeplearningbook.org/contents/linear_algebra.html
 [r-la-np]: https://github.com/GalvanizeDataScience/course-outline/blob/master/notes/reading_material/numpy_reading.md
 [r-gwf]: https://buddy.works/blog/5-types-of-git-workflows
-[python]: https://github.com/gSchool/dsd-python/
-[oop]: https://github.com/gSchool/dsi-oop
+[r-eda1]: https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm
+[r-jh]: https://github.com/johnherr/Traffic-Accidents-in-Denver
+[r-jst]: https://github.com/gagejane/Terrorism-NonViolent
+[python]: https://github.com/GalvanizeDataScience/python-intro/
+[oop]: https://github.com/GalvanizeDataScience/oop/tree/Denver
 [l-py]: https://github.com/gschool/DSI_Lectures/tree/master/python-intro
 [l-oop]: https://github.com/gschool/DSI_Lectures/tree/master/OOP
 [r-pan]: http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
@@ -361,7 +353,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-md]: https://github.com/gSchool/DSI_Lectures/tree/master/mongo/elliot_cohen
 [l-ws]: https://github.com/gschool/DSI_Lectures/tree/master/web-scraping
 [wr]: https://github.com/GalvanizeDataScience/weekly-student-led-review
-[cs-eda]: https://github.com/GalvanizeDataScience/Pandas-EDA-Case-Study
+[cs-eda]: https://github.com/GalvanizeDataScience/pandas-eda-case-study
 [fbw]: https://github.com/GalvanizeDataScience/feature-branch-git-workflow
 
 <!-- Week 2 -->
@@ -379,6 +371,13 @@ We will focus on a few canonical texts for the class and readings will be assign
 [l-powr]: https://github.com/gSchool/DSI_Lectures/tree/master/power-bayesian
 [l-flsk]: https://github.com/gSchool/DSI_Lectures/tree/master/data-products
 [l-ab]: https://github.com/gSchool/DSI_Lectures/tree/master/ab-testing
+[v-mle1]: https://www.youtube.com/watch?v=XepXtl9YKwc
+[v-mle2]: https://www.youtube.com/watch?v=Dn6b9fCIUpM
+[v-clt]: https://www.youtube.com/watch?v=YAlJCEDH2uY
+[v-binom-t]: https://www.youtube.com/watch?v=J8jNoF-K8E8
+[r-ibs1]: https://mathcs.clarku.edu/~djoyce/ma218/bayes1.pdf
+[r-ibs2]: https://mathcs.clarku.edu/~djoyce/ma218/bayes2.pdf
+
 
 <!-- Week 3-->
 [l-bgO]: https://github.com/gSchool/DSI_Lectures/tree/master/big-O
