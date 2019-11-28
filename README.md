@@ -174,7 +174,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 --
 
-### Week 12: Career Week 
+### Week 12: Showcase 
 | Day | Readings | Repos | Lead  | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| group check-in <br/> work | - | - |
