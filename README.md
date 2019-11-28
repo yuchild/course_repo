@@ -15,7 +15,7 @@ To jump to a week of interest, click on the link.
 | Week | Date | Topic |
 | --- | --- | --- |
 | 1 | 12/02/19 | [Programming](#week-1-programming-for-data-science) |
-| 2 | 12/09/19 |  [Big Data](#week-2-big-data) |
+| 2 | 12/09/19 | [Big Data](#week-2-big-data) |
 | 3 | 12/16/19 | [Statistical Inference](#week-3-statistical-inference) |
 | - | 12/23/19 | Break Week |
 | - | 12/30/19 | Break Week |
@@ -31,9 +31,9 @@ To jump to a week of interest, click on the link.
 
 ## Other important links
 * [Morning Warmups](https://github.com/GalvanizeDataScience/morning-warmups).
-* [Solutions](https://github.com/GalvanizeDataScience/solutions-g98) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
-* [Weekly feedback](https://docs.google.com/forms/d/e/1FAIpQLSdg4SE99Cri-9VTGvmaJ2aDsFQGU_ocK7cmJ_-9yGQl_BhOjw/viewform?usp=sf_link) Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
-* [Previous student capstone projects](https://github.com/gSchool/dsi-project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
+* [Solutions](https://github.com/GalvanizeDataScience/solutions-g109) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
+* [Weekly feedback (TBF)]() Every Friday you'll be given some time to reflect on the week and be given a chance to let us know how you're doing.  Then let us know how well you think we taught the material.  We'll use your contstructive criticism to adapt as the course proceeds.
+* [Previous student capstone projects](https://github.com/GalvanizeDataScience/project-proposals/blob/master/past_student_projects.md)  Whether you're looking for capstone ideas or resources to help you with your current capstone, take a look here.  The instructor voted most exemplary/helpful ones are marked with an astericks.
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
@@ -174,13 +174,13 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 --
 
-### Week 12: Career Week 
+### Week 12: Showcase 
 | Day | Readings | Repos | Lead  | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| group check-in <br/> work | - | - |
 | Tuesday | [Tackling the takehome][r-takehome] |  Career's Week <br/> Code freeze (EOD) |  -   | - |
 | Wednesday | [Business Analytics][r-business] | Presentations <br/>    Career's Week  |  -  | - |
-| Thursday | [Model Comparison Guide][r-model-comp] | Demo Day / Career's Week |  -  | - |
+| Thursday | [Model Comparison Guide][r-model-comp] | Career's Week |  -  | - |
 | Friday | - | Career's Week <br/> Graduation |  -  | - |
 
 
