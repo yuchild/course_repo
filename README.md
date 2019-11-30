@@ -9,6 +9,8 @@ Welcome to the Galvanize Data Science Immersive Program! On this page you'll fin
 #  Weekly overview
 The Data Science Immersive (DSI) has 8 instructional weeks, 3 capstone weeks, and the final showcase week.  Most instructional weeks begin with a 1 hour assessment on Monday and end with a group case study on Friday. 
 
+Please add yourself to the [calendar](https://calendar.google.com/calendar?cid=Z2FsdmFuaXplLmNvbV9qbDUwbGJ1cW9mN3NrOHZncWNrZnVsc2prc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) as it is our source of truth.
+
 The capstone weeks are reserved for your capstone projects (see below).  You will scrum with your peers during this time, participate in mock job interiews, and at the end of the week present your project to your peers and instructors (capstones 1 & 2), or to the data science community on a demo day (capstone 3).
 
 The final week is reserved for demo day, completing Career Services deliverables, mock interviews, and graduating.
@@ -41,8 +43,10 @@ To jump to a week of interest, click on the link.
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Using Git](notes/using_git.md): How to use git with the Galvanize curriculum
 * [Google drive for Project Submissions](https://drive.google.com/drive/folders/11kF4hanRIU50rpWLFTh_R7EHb_dr4jtY)
+* [Graduation Requirements and Campus Expectations](https://docs.google.com/presentation/d/1GHMkUYWsVlu1xsAFeSWSF60Xr88BS7FTbASIKGMe-fk/edit#slide=id.g5818f1eb08_0_0)
 * [Mock Interview Scheduler](https://docs.google.com/spreadsheets/u/1/d/1M77pR_f93XvePJVQwnccygJPDYVTvuedhAvjVokpOL8/edit#gid=695734520)
 * [Previous Capstone One-Pager Samples](https://drive.google.com/drive/folders/1FLa_an64eiiayA2ZwIRBikDiM9t9G1eV)**
+
 
 ## Capstone Project
 Capstone projects allow you to put into practice some of the knowledge you are gaining in the program on projects of your choosing.  They help build your Github portfolio, and give you specific skills to talk about during job interviews. You will submit capstone proposals to the instructors for approval before the capstone weeks begin. Very often capstone 3 builds on work done on capstone 2, and sometimes even capstone 1.
@@ -61,9 +65,9 @@ In the weekly tables below, each row represents a day.  Each row information and
 * __Slides__ The day's lecture notes and slides
 
 ### Week 1: Programming for Data Science
-| Day | Readings | Repos | Lead Instructor | Slides |
-|:--:|:-----------------------------------------|:--|:--:|:--:|
-| Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing]  | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Phil  | [AM][lec-git] <br/> [PM][lec-fun] |
+| Day | Readings | Warmups | Exercises | Lead Instructor | Slides |
+|:--:|:--:|:--:|:--|:--:|:--:|
+| Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] | |[Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Phil  | [AM][lec-git] <br/> [PM][lec-fun] |
 | Tuesday   | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Andrew        | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Wednesday | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Andrew | [AM][lec-pan]<br/>[PM][lec-mat]  |
 | Thursday  | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Jack | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
@@ -72,7 +76,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 2: Statistical Inference
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Exercises | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday   | [Review of Probability Theory][r-prob] | [Assessment 2][learn0]<br/>[Probability][prob]<br/>[Binomial Tests][binom]        |  Andrew  | [AM][lec-prob]<br/>[PM][lec-binom] |
 | Tuesday  | [Bootstrapping Intro][r-bootstrap] | [Sampling Distributions][sampling]<br/>[Law of Large Numbers][lln]  |  Phil  | [AM][lec-sampling]<br/>[PM][lec-tlln] |
@@ -84,7 +88,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 3: Big Data
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Exercises | Lead Instructor | Slides |
 |:--:|:-----------------------------------------|:--|:--:|:--:|
 | Monday    |[Introduction to Algorithms][r-intro-alg](ch 2, pg 16-37) | [Assessment 1][learn0]<br/>[Algorithmic Complexity][big-o] |  Phil  | [AM][lec-bigo] |
 | Tuesday   |[Little book of MongoDB][r-mongo] <br/> [Basic Web Scaping][r-web-scraping] | [Mongo DB][mongodb]<br/>[Web Scraping][webscraping]                                       |  Jack | [AM][lec-web] |
@@ -95,7 +99,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 4: Unit 1 Capstone 
-| Day  | Repos | Lead Instructor | Slides |
+| Day  | Exercises | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday    | Holiday (Memorial Day)                      |  -  | - |
 | Tuesday   | [Assessment 3][learn0]<br/> Group Check-in <br/> Continue to Capstone |  -  | - |
@@ -106,7 +110,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 5: Supervised Learning and Regression
-| Day |  Readings | Repos | Lead Instructor | Slides |
+| Day |  Readings | Exercises | Lead Instructor | Slides |
 |:--:|:--|:--|:--:|:--:|
 | Monday | [kNN][r-knn] <br/> Optional: [Machine Learning in Action][r-mlia] (2.1, pg 18-24)] <br/> [Bias-Variance Tradeoff][r-bias], [Cross-Validation][r-cv] <br/> [StatLearning][r-islr]: Cross Validation(5-5.1.4, pg 175-184)| [KNN][c5.1.1]<br/>[Cross Validation][c5.1.2] | Andrew | [AM][lec-knn] <br/> [PM][lec-cv] |
 | Tuesday | [StatLearning][r-islr]: Linear Regression cont'd] (3.3-3.4, pg 82-104) <br/>[Practical Regression][r-prac-reg] |  [Predictive Linear Regression][c5.2.1] |  Phil  | [AM][lec-lin-reg] |
@@ -117,7 +121,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 6: Nonlinear Supervised Learning
-| Day | Readings |  Repos | Lead Instructor | Slides |
+| Day | Readings |  Exercises | Lead Instructor | Slides |
 |:--:|:----|:--|:--:|:--:|
 | Monday |[Machine Learning in Action][r-mlia](5, pg 83--90) <br/> Optional (for more rigor)[Andrew Ng Notes][r-ng-note] (pg 1--7, 16--19) <br/> [Neural Network Basics (Part 1--3)][r-nn]  | [Gradient Decent][c6.4.1]<br/>[Basic Neural Networks][c6.4.2] |  Jack  | [AM][lec-grad-des] <br/> [PM][lec-nn] |
 | Tuesday | [Decision Trees][r-dec-tree] <br/> [Machine Learning in Action][r-mlia] (section 3.1, pg 37--48) <br/> Optional: [Recursion][r-recursion] <br/> Optional: [StatLearning: trees][r-islr](8.1 pg 303--316) <br/> [Decision Tree Visual Explanation][r-dec-tree-visual] <br/> | [Assessment 4][learn0]<br/>[Search Trees][c6.1.1]<br/>[Decision Trees][c6.1.2] | Phil| [AM][lec-bst]<br/>[PM][lec-dt] |
@@ -128,7 +132,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 7: NLP and Unsupervised Learning
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Exercises | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | Text feature extraction (tf-idf) [I][r-tfe-1], [II][r-tfe-2], [III][r-tfe-3]<br/> [Scalability of Semantic Analysis in Natural Language Processing][r-sem-ana] (Sections 1.1--1.7) <br/> [NLP in Python][r-nlp](3.6, pg 107-108) | [Assessment 5][learn0]<br/>[NLP Intro][nlp]<br/>[Text Classification][txt-clf] | Phil | [AM][lec-nlp] |
 | Tuesday | [StatsLearning][r-islr] (ch 10.2 pg 374-385) <br/> [Mining Massive Datasets][r-mmd](ch 11) |  [PCA][pca]<br/>[SVD][svd] |  Jack   | [AM][lec-pca] <br/> [PM][lec-svd]|
@@ -139,7 +143,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 8: Unit 2 Capstone 
-| Day |  Repos | Lead Instructor | Slides |
+| Day |  Exercises | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday |    Group Check-in | - | [slides][-] |
 | Tuesday |   Group Check-in <br/> Back to work |  -  | - |
@@ -150,7 +154,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 9: Advanced Topics 1
-| Day | Readings |Repos | Lead Instructor | Slides |
+| Day | Readings |Exercises | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday |  | [Assessment 6][learn0] <br/>[Bayesian Inference][bayes-inf]<br/>[Bayesian Testing][bayes-testing] | Andrew | [AM][lec-bys]<br/>[PM][lec-bysabtest] |
 | Tuesday | [Bayesian AB and Multi-Arm Bandit][r-mab] | [Multi-Armed Bandit][mab] <br/>[Markov-Chain Monte Carlo][mcmc] |  Andrew | [AM][lec-mab] <br/> [PM][lec-mcmc] |
@@ -162,7 +166,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 --
 
 ### Week 10: Advanced Topics 2
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Exercises | Lead Instructor | Slides |
 |:--:|:-------|:--|:--:|:--:|
 | Monday | [ConvNets][r-convnets] <br/> [Transfer Learning][r-transfer]| [Image Analysis][-]<br/>[ConvNets][convnets] | Phil | [AM][lec-convnets] |
 | Tuesday | [Forecasting: principles and practice][r-forecasting](ch 1, 2, & 6-8) <br/> [Time Series Analysis and Its Applications][r-time-series] (ch 1-3) <br/> [ARIMA models in Python][r-arima]| [Sequence Analysis][seq-ana]<br/>[RNNs][rnns]<br/> Capstone III |  Jack   | [PM][lec-rnn] |
@@ -184,7 +188,7 @@ Your priorities this week:
 --
 
 ### Week 12: Unit 3 Capstone Week 2
-| Day | Repos | Lead Instructor | Slides |
+| Day | Exercises | Lead Instructor | Slides |
 |:--:|:--|:--:|:--:|
 | Monday | group check-in <br/> Work | - | - |
 | Tuesday | group check-in <br/> Work   |  -   | - |
@@ -195,7 +199,7 @@ Your priorities this week:
 --
 
 ### Week 13: Career Week
-| Day | Readings | Repos | Lead Instructor | Slides |
+| Day | Readings | Exercises | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Monday |[120 Questions][r-120-Qs](work on these all week) <br/> [Polya’s Problem Solving Techniques][polya]| Demo Day | - | - |
 | Tuesday | [Tackling the takehome][r-takehome] |  Caereer's Week  |  -   | - |
