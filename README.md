@@ -91,100 +91,100 @@ Your priorities for the holiday break:
 --
 
 ### Week 4: Unit 1 Capstone
-| Day  | Topic | Lead | Readings |
-|:--:|:--|:--:|:--:|
-| Monday |  Assessment 2<br>[Capstone I][cI]<br>[Mock Interview][mi] |  -  | - |
-| Tuesday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
-| Wednesday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
-| Thursday | [Capstone I][cI]<br>[Mock Interview][mi] | - | - |
-| Friday | Code Review / Capstone Presentations  | - | - |
+| Day  | Topic | Readings |
+|:--:|:--|:---|
+| Monday |  Assessment 2<br>[Capstone I][cI]<br>[Mock Interview][mi] |  -  |
+| Tuesday | [Capstone I][cI]<br>[Mock Interview][mi] | - |
+| Wednesday | [Capstone I][cI]<br>[Mock Interview][mi] | - |
+| Thursday | [Capstone I][cI]<br>[Mock Interview][mi] | - |
+| Friday | Code Review / Capstone Presentations  | - |
 
 --
 
 ### Week 5: Supervised Learning and Regression
-|    Day    | Repos                                                                          | Lead  |        Readings              |
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | ---- |---- |
-| Tuesday   |[Linear Regression Intro][r-lreda]<br>[Predictive Linear Regression][r-prlr]    | ---- |----            |
-| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | ---- |----|
-| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules (Denver)][r-decr]                 | ---- |----|
-| Friday    |[Review][wr]<br>[Regression Case Study (Denver)][c5.5.1]                       | ---- |--                          |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday    |[KNN][c5.1.1]<br>[Cross Validation][c5.1.2]                                     | ---- |
+| Tuesday   |[Linear Regression Intro][r-lreda]<br>[Predictive Linear Regression][r-prlr]    | ---- |
+| Wednesday |[Regularized Regression][c5.3.1]<br>[Logistic Regression][c5.4.1]               | ---- |
+| Thursday  |[Gradient Descent][r-grds]<br>[Decision Rules (Denver)][r-decr]                 | ---- |
+| Friday    |[Review][wr]<br>[Regression Case Study (Denver)][c5.5.1]                       | ---- |
 
 --
 
 ### Week 6: Nonlinear Supervised Learning
-|    Day    | Repos                                                                          | Lead  |        Readings              |  
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | ---- |----                  |
-| Tuesday   |[Random Forests][r-rfa]<br>[Gradient Boosted Regressors][c6.3.1]                | ---- |----  |
-| Wednesday |[Time Series][r-ts]<br> [Neural nets - MLP (Denver)][c6.4.2]                    | ---- |----  |
-| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                           | ---- |----  |
-| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | ---- |--                          |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday    | Assessment 4<br>[Decision Trees][c6.1.2]<br>[Bagging][c6.2.1]                  | ---- |
+| Tuesday   |[Random Forests][r-rfa]<br>[Gradient Boosted Regressors][c6.3.1]                | ---- |
+| Wednesday |[Time Series][r-ts]<br> [Neural nets - MLP (Denver)][c6.4.2]                    | ---- |
+| Thursday  |[Image Analysis][r-imp]<br>[Neural nets - CNN][r-cnn]                           | ---- |
+| Friday    |[Review][wr]<br>[Supervised Learning Case Study][r-csml]                        | ---- |
 
 --
 
 ### Week 7: NLP and Unsupervised Learning
-|    Day    | Repos                                                                          | Lead  |       Readings            
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 5<br>[NLP Intro (Denver)][r-nlp]<br>[Text Classification][r-nvb]    | ---- | ----              |
-| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | ---- |----              |
-| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                                            | ---- |----  |
-| Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | ---- |----           |
-| Friday    | CII proposals due 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp2]| ---- |--             |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday    | Assessment 5<br>[NLP Intro (Denver)][r-nlp]<br>[Text Classification][r-nvb]    | ---- | 
+| Tuesday   | [PCA][r-pca]<br>[SVD][r-svd]                                                   | ---- |
+| Wednesday | [Clustering][r-clst]<br>[NMF][r-tm]                                            | ---- |
+| Thursday  | [Latent Dirchlet Allocation][r-lda]<br>[Graphs][r-gr1]                         | ---- |
+| Friday    | CII proposals due 9 am<br>[Review][wr]<br>[NLP & Unsupervised Learning Case Study][r-csnlp2]| ---- |
 
 --
 
 ### Week 8: Unit 2 Capstone
-| Day | Topic | Lead | Readings |
-|:--:|:--|:--:|:--:|
-| Monday | [Capstone 2][cII]<br>[Mock Interviews][mi] | - | - |
-| Tuesday | [Capstone 2][cII]<br>[Mock Interviews][mi]|  -  | - |
-| Wednesday |[Capstone 2][cII]<br>[Mock Interviews][mi]|  -  | - |
-| Thursday  |[Capstone 2][cII]<br>[Mock Interviews][mi] | - | - |
-| Friday | Code Review / Capstone Presentations   | - | - |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday | [Capstone 2][cII]<br>[Mock Interviews][mi] | - |
+| Tuesday | [Capstone 2][cII]<br>[Mock Interviews][mi]|  -  |
+| Wednesday |[Capstone 2][cII]<br>[Mock Interviews][mi]|  -  |
+| Thursday  |[Capstone 2][cII]<br>[Mock Interviews][mi] | - |
+| Friday | Code Review / Capstone Presentations   | - |
 
 --
 
 ### Week 9: Advanced Topics 1
-|    Day    | Repos                                                                          | Lead  |        Readings            
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    | Assessment 6<br/>[Data products: Flask][r-flsk]                                | ---- | ----          |
-| Tuesday   | [Neural Nets- RNN][r-rnn]                                                      | ---- | ----  |
-| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | ---- | ----            |
-| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | ---- | ----            |
-| Friday    | [Recommender Case Study (Denver)][r-csrec1]                                    | ---- | --                         |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday    | Assessment 6<br/>[Data products: Flask][r-flsk]                                | ---- |
+| Tuesday   | [Neural Nets- RNN][r-rnn]                                                      | ---- |
+| Wednesday | [Content-based Recommenders][r-cbr]<br>[Similarity Recommenders][r-smr]        | ---- |
+| Thursday  | [Matrix Factorization Recommenders][r-mfr]                                     | ---- |
+| Friday    | [Recommender Case Study (Denver)][r-csrec1]                                    | ---- |
 
 --
 
 ### Week 10: Advanced Topics 2
-|    Day    | Repos                                                                          | Lead  |        Readings            
-|:---------:|:-------------------------------------------------------------------------------|:-----:|:--------------------------:|
-| Monday    |[Bayesian Testing][r-bab]<br> [Multi-Armed Bandit][r-mab]                       | ---- | ----                |
-| Tuesday   |[Autoencoders (Denver)][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | ---- | --                         |
-| Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Open or [RL with neural networks][r-rlnn] | ---- | --                         |
-| Thursday  |CIII proposals due 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- | --                         |
-| Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             | ----- | --                         |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday    |[Bayesian Testing][r-bab]<br> [Multi-Armed Bandit][r-mab]                       | ---- |
+| Tuesday   |[Autoencoders (Denver)][c10.3.1]<br>[Transfer Learning][r-tlnn]                          | ---- |
+| Wednesday |[Monte Carlo Markov Chain][r-mcmc]<br>Open or [RL with neural networks][r-rlnn] | ---- |
+| Thursday  |CIII proposals due 9 am<br>[Fraud Case Study (day 1)][r-fdcs]                  | ----- |
+| Friday    | [Fraud Case Study (day 2)][r-fdcs]                                             | ----- |
 
 --
 ### Week 11: Unit 3 Capstone
-| Day  | Topic | Lead | Readings |
-|:--:|:--|:--:|:--:|
-| Monday |  Capstone III<br>[Mock Interview][mi] |  -  | - |
-| Tuesday | Capstone III<br>[Mock Interview][mi] | - | - |
-| Wednesday | Capstone III<br>[Mock Interview][mi] | - | - |
-| Thursday | Capstone III<br>[Mock Interview][mi] | - | - |
-| Friday | **Talk/Poster drafts due 12 pm**<br>(must have preliminary results)<br>Capstone III<br>[Mock Interview][mi]| - | - |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday |  Capstone III<br>[Mock Interview][mi] |  -  |
+| Tuesday | Capstone III<br>[Mock Interview][mi] | - |
+| Wednesday | Capstone III<br>[Mock Interview][mi] | - |
+| Thursday | Capstone III<br>[Mock Interview][mi] | - |
+| Friday | **Talk/Poster drafts due 12 pm**<br>(must have preliminary results)<br>Capstone III<br>[Mock Interview][mi]| - |
 
 --
 
 ### Week 12: Showcase
-| Day | Topic | Lead | Readings |
-|:--:|:--|:--:|:--:|
-| Monday |**CODE FREEZE 3 pm**| - | - |
-| Tuesday | |  -   | - |
-| Wednesday |   |  -  | - |
-| Thursday | PM - Showcase |  -  | - |
-| Friday | Lunch - Graduation |  -  | - |
+|    Day    | Repos                                                                          |                     Readings                   |  
+|:---------:|:-------------------------------------------------------------------------------|:-----------------------------------------------|    
+| Monday |**CODE FREEZE 3 pm**| - |
+| Tuesday | |  -   |
+| Wednesday |   |  -  |
+| Thursday | PM - Showcase |  -  |
+| Friday | Lunch - Graduation |  -  |
 
 --
 
