@@ -93,10 +93,9 @@ Sometimes you'll have files in a repo that you don't want git to track (or push 
 *.zip
 .ipynb_checkpoints
 ```
-
 This tells git to ignore all files with `.pyc` and `.zip` extensions, as well as the folder `.ipynb_checkpoints`. See more documentation [here](https://git-scm.com/docs/gitignore)
 
-**Warning! DO NOT push files larger than 100MB **
+**Warning! DO NOT push files larger than 100MB**
 
 # Troubleshooting
 
