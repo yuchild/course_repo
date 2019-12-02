@@ -50,7 +50,7 @@ The readings are expected to take 1-1.5 hours each night. They will help you und
 ### Week 1: Programming for Data Science
 |    Day    |Repos                                                                           |         Readings (bold is required)             |  
 |:---------:|:-------------------------------------------------------------------------------|:------------------------------------------------|    
-| Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][c1.1.1]                     |  [**Development Workflow**][r1.1.1]<br>[**Pair Programming**][r1.1.2]<br>[**A Taxonomy of Data Science**][r-tds]<br>[**Unix Philosophy**][1.1.3]|
+| Monday    |Assessment 0<br>Orientation<br>[git][git]<br>[Unix][c1.1.1] (Denver branch)     |  [**Development Workflow**][r1.1.1]<br>[**Pair Programming**][r1.1.2]<br>[**A Taxonomy of Data Science**][r-tds]<br>[**Unix Philosophy**][1.1.3]|
 | Tuesday   |[Python Intro.][python]<br>[OOP][oop] (Denver branch)                           | [**Python code style**][r-python]<br>[**Classes**][r-oop]|
 | Wednesday |[Numpy][c1.4.1]<br/>[Linear Algebra][c1.4.2]                                    | [**Linear Algebra Overview**][r-dlb-la](2.1-2.7)<br>[**Linear Algebra and Numpy**][r-la-np] |
 | Thursday  |[Pandas][c1.2.1]<br>[Matplotlib][c1.2.2]                                        | [**10 minutes to Pandas**][1.2.1]<br>[**Matplolib tutorial and reference**][r-mpl]<br>[**Less is More**][1.2.6]<br>[Pandas Top 10][1.2.2]<br>[EDA with pandas][1.2.3]<br>[Data Wrangling with pandas][1.2.4]<br>[Effective Matplotlib][1.2.5]|
