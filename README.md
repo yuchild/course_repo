@@ -67,7 +67,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 ### Week 1: Programming for Data Science
 | Day | Readings | Warmups | Exercises | Lead Instructor | Slides |
 |:--:|:--:|:--:|:--|:--:|:--:|
-| Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] | |[Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Phil  | [AM][lec-git] <br/> [PM][lec-fun] |
+| Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] | |[Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Phil  | [AM][lec-git] <br/> [PM][lec-unix] |
 | Tuesday   | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Andrew        | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Wednesday | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Andrew | [AM][lec-pan]<br/>[PM][lec-mat]  |
 | Thursday  | [Think Python][r-py15] | [OOP][oop]<br/>[Transformers][transformer]       | Jack | [AM][lec-oop-am]<br/> [PM][lec-oop-pm]|
@@ -281,8 +281,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Lecture Repos -->
 <!-- Week 1 -->
-[lec-git]:https://github.com/gSchool/dsi-week-zero/blob/master/day-1-git-functions-testing/am_git-unix/intro_git_lec.md
-[lec-fun]:https://github.com/gSchool/DSI_Lectures/tree/master/fundamentals
+[lec-git]:https://github.com/GalvanizeDataScience/lectures/tree/Seattle/git
+[lec-unix]:https://github.com/GalvanizeDataScience/lectures/blob/Seattle/unix/unix_lecture_notes.md
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
