@@ -15,20 +15,19 @@ To jump to a week of interest, click on the link.
 
 | Week | Date  | Topic |
 | ---- |:-----:| ----- |
-|  0 | 04/29/19 | Week 0 Prep |
-|  1 | 05/06/19 | [Programming](#week-1-programming-for-data-science) |
-|  2 | 05/13/19 | [Big Data](#week-2-big-data) |
-|  3 | 05/20/19 | [Statistical Inference](#week-3-statistical-inference) |
-|  4 | 05/27/19 | [Capstone 1](#week-4-unit-1-capstone) |
-|  5 | 06/03/19 | [Regression](#week-5-supervised-learning-and-regression) |
-|  6 | 06/10/19 | Solo Week |
-|  7 | 06/17/19 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
-|  8 | 06/24/19 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
-|  9 | 07/01/19 | [Capstone 2](#week-9-unit-2-capstone) |
-| 10 | 07/08/19 | [Advanced Topics 1](#week-10-advanced-topics-1) |
-| 11 | 07/15/19 | [Advanced Topics 2](#week-11-advanced-topics-2) |
-| 12 | 07/22/19 | [Capstone 3](#week-12-unit-3-capstone) |
-| 13 | 07/29/19 | [Career Week](#week-13-career-week) |
+|  1 | 12/02/19 | [Programming](#week-1-programming-for-data-science) |
+|  2 | 12/09/19 | [Big Data](#week-2-big-data) |
+|  3 | 12/16/19 | [Statistical Inference](#week-3-statistical-inference) |
+|  4 | 01/06/20 | [Capstone 1](#week-4-unit-1-capstone) |
+|  5 | 01/13/20 | [Regression](#week-5-supervised-learning-and-regression) |
+|  6 | 01/20/20 | [Supervised Learning](#week-7-nonlinear-supervised-learning) |
+|  7 | 01/27/20 | [Unsupervised Learning](#week-8-nlp-and-unsupervised-learning)|
+|  8 | 02/03/20 | [Capstone 2](#week-9-unit-2-capstone) |
+|  9 | 02/10/20 | [Advanced Topics 1](#week-10-advanced-topics-1) |
+| 10 | 02/17/20 | [Advanced Topics 2](#week-11-advanced-topics-2) |
+| 11 | 02/24/20 | [Capstone 3](#week-12-unit-3-capstone) |
+| 12 | 03/02/20 | [Career Week](#week-13-career-week) |
+
 
 ## Other important links
 * [Solutions](https://github.com/GalvanizeDataScience/solutions-g92) for warmups, assignments, and assessments will be added to this repository.  If a solution is missing, please bug an instructor!
@@ -49,7 +48,7 @@ Capstone projects allow you to put into practice some of the knowledge you are g
 
 **[Capstone Project Materials](https://github.com/GalvanizeDataScience/course-outline/tree/19-02-DS-SF-g92/projects)**
 
-## Demo Day 7/29 17:00 @Cafe/Library
+## Demo Day 3/5 4:00pm @Gasworks
   - **[Your One-Pagers google drive](https://drive.google.com/drive/folders/1qoIzpvoPHt12sV-82YTS9J_oFFsouoyD)**
 
 ## Daily Outline
