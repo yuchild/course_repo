@@ -66,7 +66,7 @@ In the weekly tables below, each row represents a day.  Each row information and
 
 ### Week 1: Programming for Data Science
 | Day | Readings | Exercises | Lead Instructor | Slides |
-|:--:|:--:|:--:|:--|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|
 | Monday    | [Development Workflow][workflow]<br/>  [Unix Tutorial][r-unix] <br/> [Unix for data science][r-unixfords] <br/> [Pair Programming][pairing] | [Readiness Assessment][learn0]<br/> [Unix Fundamental][unix] | Phil  | [AM][lec-git] <br/> [PM][lec-unix] |
 | Tuesday   | [Linear Algebra and Numpy (precourse)][r-linalg-numpy] <br/> [Linear Algebra Review and Reference][r-linalg-review]| [Numpy][numpy]<br/>[Linear Algebra][linalg] |  Andrew        | [AM][lec-numpy]<br/>[PM][lec-lin]   |
 | Wednesday | [Intro to IPython Notebook][r-intro-nb] <br/> [10 minutes to Pandas][r-10-pandas]<br/> [Pandas Top 10][r-pandas-top] <br/> [EDA with pandas (Extra)][r-eda-pandas]<br/> [Data Wrangling with pandas (Extra)][r-data-wrangling-pandas]<br/> [matplotlib tutorial 1][r-matplot1]<br/> [matplotlib tutorial 2][r-matplot2]| [Pandas][pandas] <br/> [Matplotlib][matplotlib]  | Andrew | [AM][lec-pan]<br/>[PM][lec-mat]  |
