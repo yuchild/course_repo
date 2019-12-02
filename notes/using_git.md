@@ -74,26 +74,17 @@ If you are `B`:
 # Merging at the end of the day
 At the end of the day, each person should have all of the day's work in their own `master` branch.
 
-First merge the `pair` branch into the `individual` branch
-- `git checkout individual`
+First merge the `pair` branch into the `master` branch
+- `git checkout master`
 - If you are `A`: `git merge -m "merge message" pair`
 - If you are `B`: `git merge -m "merge message" <partner-name>/pair`
+- `git push origin master` (pushes the merges you made to GitHub)
 
 If merge conflicts come up, you have two options:
 - Fix them! `git status` will tell you which files you need to edit. You'll see both versions of the file, and you'll have to delete the lines you don't want. Once you resolve the conflicts, you must `git add` and `git commit` the changes.
 - Forget the whole thing! `git merge --abort` resets you to the state you were in before you tried to merge.
 
-The merge the `individual` branch (which now contains all your work) into `master`
-- `git checkout master`
-- `git merge -m "merge message" individual`
-- `git push origin master` (pushes the merges you made to GitHub)
-
 Whew!
-
-# Making a pull request
-At the end of the day, you should make a pull request from your forked version of the repo. Do this by clicking the "New pull request" button on your GitHub `https://github.com/yournamehere/reponame` then "Create new pull request"
-
-This will allow us to know that you have worked on the assignments. Sprints won't be graded, but feel free to ask an instructor for a code review.
 
 # The .gitignore file
 Sometimes you'll have files in a repo that you don't want git to track (or push to GitHub). You can tell git to ignore these files by making a file called `.gitignore` in your repo's root directory. An example `.gitignore` file might look like this:
