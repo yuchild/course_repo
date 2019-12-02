@@ -282,7 +282,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Lecture Repos -->
 <!-- Week 1 -->
 [lec-git]:https://github.com/GalvanizeDataScience/lectures/tree/Seattle/git
-[lec-unix]:https://github.com/GalvanizeDataScience/lectures/blob/Seattle/unix/unix_lecture_notes.md
+[lec-unix]:https://github.com/GalvanizeDataScience/lectures/tree/Seattle/unix
 [lec-pan]:https://github.com/GalvanizeDataScience/lectures/tree/SF/pandas
 [lec-mat]:https://github.com/GalvanizeDataScience/lectures/tree/SF/matplotlib
 [lec-numpy]:https://github.com/GalvanizeDataScience/lectures/tree/SF/numpy
