@@ -96,6 +96,8 @@ Sometimes you'll have files in a repo that you don't want git to track (or push 
 
 This tells git to ignore all files with `.pyc` and `.zip` extensions, as well as the folder `.ipynb_checkpoints`. See more documentation [here](https://git-scm.com/docs/gitignore)
 
+**Warning! DO NOT push files larger than 100MB **
+
 # Troubleshooting
 
 - If you accidentally clone from the gschool version rather than your fork, you will get the error `Repository not found`. This is a poor error message. What they really mean is that you don't have access to edit the repo. Here's what you can do:
