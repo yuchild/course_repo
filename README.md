@@ -20,11 +20,11 @@ To jump to a week of interest, click on the link.
 | - | 12/30/19 | Break Week |
 | 4 | 01/06/20 | [Capstone 1](#week-4-unit-1-capstone)|
 | 5 | 01/13/20 | [Regression](#week-5-supervised-learning-and-regression)|
-| 6 | 01/20/20| [Supervised Learning](#week-6-nonlinear-supervised-learning)|
+| 6 | 01/20/20| [Supervised Learning](#week-6-nonlinear-supervised-learning) (1/20 MLK holiday)|
 | 7 | 01/27/20 | [Unsupervised Learning](#week-7-nlp-and-unsupervised-learning)|
 | 8 | 02/03/20 | [Capstone 2](#week-8-unit-2-capstone)|
 | 9 | 02/10/20 | [Advanced Topics 1](#week-9-advanced-topics-1) |
-| 10 | 02/17/20 | [Advanced Topics 2](#week-10-advanced-topics-2) |
+| 10 | 02/17/20 | [Advanced Topics 2](#week-10-advanced-topics-2) (2/17 President's Day holiday)|
 | 11| 02/24/20 | [Capstone 3](#week-11-unit-3-capstone) |
 | 12 | 03/02/20 | [Showcase](#week-12-showcase) |
 
